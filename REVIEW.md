@@ -15,3 +15,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 86: Taira no Koretsugu's dates (1266–1343) not confirmed by a source.
 - 84: Faxian's "fifteen years" vs other counts.
 - 86: the temple-priests/mountain-priests fact is put into the translation so the pun works.
+
+## 63–74
+- 66: name corrected from Taketsugu to Takekatsu (the edition reads たけかつ). Readings with variants: 膳部 かしはで (roudokus ぜんぶ), 67 宮司 ぐうじ (roudokus みやづかさ).
+- 63: Kūkai holding the rite at the palace in 835: standard date, not confirmed from a source.
+- 70: date of the event hedged (Go-Daigo's enthronement festival, late 1318 in some sources).
+- 71: a short note mentions what is now called déjà vu. Keep or remove? (Notes normally stay with what Kenkō could know.)
