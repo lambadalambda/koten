@@ -14,5 +14,6 @@ The main translation should read as if it could be a blog post from last week or
 - **Setup in the text, not in the notes.** If a joke needs a fact, put the fact into the sentence in plain words ("the temple and the shrine at the bottom of the hill"). Names that need explaining go to the notes.
 - **Dialogue sounds like people talking.** Contractions are fine. Not "Gentlemen, do you not notice…", but "Come on, don't any of you see how special this is?"
 - **Never add jokes.** Humour only where the original has it. Solemn passages stay solemn; they only get plainer.
+- **Notes don't read Kenkō's mind.** No guesses about what he felt, lacked or struggled with, unless the text says it. "He says the same thing twice, so he found it hard" is invented. Facts, grammar, allusions and what the text itself does are fine.
 - **The literal layer stays literal.** "Dig deeper" keeps the exact wording, so the main text can be free. Free is fine, wrong is not.
 - British spelling (practise, recognise).
