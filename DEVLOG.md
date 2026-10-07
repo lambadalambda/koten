@@ -8,3 +8,11 @@
 - Furigana use historical kana to match the text. Grammar terms in notes use modern readings.
 - Static HTML with `<details>` for the layers, so no JavaScript is needed.
 - Content is the risky part, not code: every content change gets a fact-check against the source text.
+
+## 2026-10-08: Kenkō pilot
+
+- Base text: Wikisource transcription of 校註日本文學大系 vol. 3 (1925), public domain, stored in `sources/`. `kenko_source.py` removes the editor's 〔〕 glosses, keeps its readings as furigana, expands iteration marks, and modernizes old kanji. Historical kana stays.
+- The 2-character rule for 〳〵 is wrong in 4 places (e.g. かへす〴〵); these are listed in `OVERRIDES`. ゝ after a voiced kana repeats the unvoiced kana (づゝ → づつ), except 数珠 ずゝ.
+- `test_content.py` checks that each section's original, without furigana, is exactly the edition text. So furigana work can never change the text.
+- Format: clean translation first; "dig deeper" holds sentence pairs (original + literal) and notes anchored to quotes. Humour only where the original has it.
+- Fact-checks found mostly grammar-term slips in notes (e.g. 召させむ is 召さ + せ, not さす; めり is "it seems", not hearsay). Readings that come from the 1925 edition itself (e.g. 三足 さんぞく) are kept even when other editions differ.
