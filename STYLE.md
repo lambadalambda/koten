@@ -31,3 +31,14 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 - **Notes don't read Kenkō's mind.** No guesses about what he felt, lacked or struggled with, unless the text says it. "He says the same thing twice, so he found it hard" is invented. Facts, grammar, allusions and what the text itself does are fine.
 - **The literal layer stays literal.** "Dig deeper" keeps the exact wording, so the main text can be free. Free is fine, wrong is not.
 - British spelling (practise, recognise).
+
+## Reference lines
+
+Approved examples. When in doubt, compare with these.
+
+- "Take someone good-looking and decent, but with no education: they slip down a level, end up among plain, ordinary people, and get beaten by them hands down. What a waste." (1)
+- "The regent, obviously. But even an ordinary noble looks impressive once the court gives him his own guards… They think they're doing great. It's actually rather sad." (1)
+- "Nobody envies a priest. Sei Shōnagon said people treat them like a lump of wood, and she wasn't wrong. And the ones who throw their weight around and make a big fuss? Not impressive." (1)
+- "You hear it all the time from people who want to learn something: '…' They never get good at anything." (150)
+- "Even the best people in any field were terrible when they started, and everyone knew it." (150)
+- "'Oh, that,' the man said. 'Some naughty children did that. Outrageous.' He walked over, turned them back the right way, and left. So Shōkai's tears were for nothing." (236)
