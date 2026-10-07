@@ -42,3 +42,10 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 133: "yang energy" became "the life-giving force of the sunrise"; a note explains yang.
 - 128: the retired emperor is "one suggestion: Kameyama" (several were living then).
 - 129: the Wei Dan story: versions differ on the building's name.
+
+## 99–110
+- 107: the harsh passage about women is kept harsh ("women are all crooked by nature"); check tone.
+- 103: one setup sentence added to the translation: "Tadamori's family had come from China generations back" (needed for the joke; Heike reference checked).
+- 102: Mitsutada "later became a monk"; 洞院右大臣 = Kinkata or Saneyasu (note gives both).
+- Identifications resting on roudokus only: Yasutsuna (101), Mitsutada (102).
+- 104: "whenever he passes that way" is an interpretation; 105: かぶし taken to describe the woman.
