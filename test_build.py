@@ -1,6 +1,6 @@
 import unittest
 
-from build import inline, render_essay, render_index, render_post, render_page
+from build import align_old, inline, render_essay, render_index, render_post, render_page
 
 ACCOUNTS = {
     'sei': {'name': 'Sei Shōnagon', 'handle': '@sei_shonagon', 'jp': '清少納言'},
@@ -28,6 +28,15 @@ class InlineTests(unittest.TestCase):
     def test_newlines_become_breaks(self):
         self.assertEqual(inline('a\nb'), 'a<br>b')
         self.assertEqual(inline('a\r\nb'), 'a<br>b')
+
+    def test_old_forms_get_a_tooltip(self):
+        old = '<span class="old" title="1925 edition: %s">%s</span>'
+        self.assertEqual(inline('{医師|くすし}の酔', old='醫師の醉'),
+                         '<ruby>%s師<rt>くすし</rt></ruby>の%s' % (old % ('醫', '医'), old % ('醉', '酔')))
+
+    def test_old_forms_must_align(self):
+        with self.assertRaises(ValueError):
+            inline('酔ひ', old='醉')
 
     def test_malformed_markup_is_an_error(self):
         for bad in ['{蚊か}', '{蚊|か', '蚊|か}', '{|か}', '{蚊|}']:
@@ -129,6 +138,23 @@ class EssayTests(unittest.TestCase):
     def test_original_and_literal_must_align(self):
         with self.assertRaises(ValueError):
             render_essay(dict(SECTION, literal=['only one']), prev=None, next=None)
+
+    def test_essay_marks_old_forms_in_original(self):
+        sec = dict(SECTION, original=['{能|のう}をつかむとする{人|ひと}、「よく」', '弐。'])
+        html = render_essay(sec, prev=None, next=None, olds=['能をつかむとする人、「よく」', '貳。'])
+        self.assertIn('title="1925 edition: 貳"', html)
+        self.assertIn('class="legend"', html)
+        self.assertNotIn('class="legend"', render_essay(sec, prev=None, next=None))
+        same = render_essay(sec, prev=None, next=None, olds=['能をつかむとする人、「よく」', '弐。'])
+        self.assertNotIn('class="legend"', same)
+
+    def test_align_old_cuts_edition_text_into_chunks(self):
+        self.assertEqual(align_old(['{医|くすし}師', 'の酔'], '醫師の醉'), ['醫師', 'の醉'])
+        with self.assertRaises(ValueError):
+            align_old(['酔'], '醉ひ')
+        self.assertEqual(align_old(['弐'], '貳'), ['貳'])
+        with self.assertRaises(ValueError):  # same length, but not an old form of the content
+            align_old(['二'], '貳')
 
     def test_preface_is_named_preface(self):
         self.assertIn('Preface', render_essay(dict(SECTION, number=0), prev=None, next=None))

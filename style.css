@@ -61,3 +61,5 @@ dl dd { margin: .2rem 0 0 1rem; }
 .contents { list-style: none; padding: 0; }
 .contents li { padding: .5rem 0; border-bottom: 1px solid var(--line); }
 .contents .num { color: var(--muted); font-size: .85rem; display: inline-block; min-width: 6.5rem; }
+.old { text-decoration: underline dotted var(--muted); text-underline-offset: .25em; cursor: help; }
+.legend { font-size: .85rem; color: var(--muted); }

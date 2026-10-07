@@ -1,30 +1,49 @@
 #!/usr/bin/env python3
 """Render content/*.json feeds into static HTML pages in site/."""
+from itertools import accumulate
 import html
 import json
 from pathlib import Path
 import re
 import shutil
 
+from kenko_source import SHINJITAI, sections
+
 ROOT = Path(__file__).parent
 RUBY = re.compile(r'\{([^{}|]+)\|([^{}|]+)\}')
 
 
-def inline(text):
-    """Escape text; turn {base|reading} into <ruby> and newlines into <br>."""
+def inline(text, old=None):
+    """Escape text; turn {base|reading} into <ruby> and newlines into <br>.
+
+    old: the same text without markup, but with the edition's old kanji forms.
+    Characters that differ get a tooltip with the old form.
+    """
+    if old is not None and len(old) != len(plain(text)):
+        raise ValueError('Old-form text does not align with: %r' % text[:30])
+    chars = _chars(iter(old or ''))
     parts, pos = [], 0
     for m in RUBY.finditer(text):
-        parts.append(_plain(text[pos:m.start()]))
-        parts.append('<ruby>%s<rt>%s</rt></ruby>' % (html.escape(m[1]), html.escape(m[2])))
+        parts.append(chars(_checked(text[pos:m.start()])))
+        parts.append('<ruby>%s<rt>%s</rt></ruby>' % (chars(m[1]), html.escape(m[2])))
         pos = m.end()
-    parts.append(_plain(text[pos:]))
+    parts.append(chars(_checked(text[pos:])))
     return '<br>'.join(''.join(parts).splitlines())
 
 
-def _plain(text):
+def _checked(text):
     if any(c in text for c in '{}|'):
         raise ValueError('Malformed ruby markup near: %r' % text)
-    return html.escape(text, quote=False)
+    return text
+
+
+def _chars(olds):
+    """Return a function that escapes text segments in order, marking characters whose old form differs."""
+    def chars(segment):
+        return ''.join(html.escape(c, quote=False) if (o := next(olds, c)) == c else
+                       '<span class="old" title="1925 edition: %s">%s</span>' % (html.escape(o), html.escape(c))
+                       for c in segment)
+    return chars
 
 
 def render_post(post, accounts, by_id):
@@ -85,6 +104,20 @@ def plain(text):
     return RUBY.sub(r'\1', text)
 
 
+def align_old(original, old_text):
+    """Cut the edition's old-form text into the same chunks as the original."""
+    text = ''.join(plain(o) for o in original)
+    if old_text.translate(SHINJITAI) != text:
+        raise ValueError('Original does not match the edition (%d vs %d characters)' % (len(text), len(old_text)))
+    bounds = list(accumulate([0] + [len(plain(o)) for o in original]))
+    return [old_text[a:b] for a, b in zip(bounds, bounds[1:])]
+
+
+def edition_text(edition, number):
+    """One section of the edition as plain text."""
+    return plain(''.join(edition[number]))
+
+
 def section_name(number):
     return 'Preface' if number == 0 else 'Section %d' % number
 
@@ -96,14 +129,18 @@ def incipit(original):
     return first[:end]
 
 
-def render_essay(sec, prev, next):
+def render_essay(sec, prev, next, olds=None):
     if len(sec['original']) != len(sec['literal']):
         raise ValueError('Section %s: original and literal need the same number of paragraphs' % sec['number'])
     nav = '<nav>%s<a href="index.html">Contents</a>%s</nav>' % (
         '' if prev is None else '<a href="%d.html">← %s</a> · ' % (prev, section_name(prev)),
         '' if next is None else ' · <a href="%d.html">%s →</a>' % (next, section_name(next)))
-    pairs = ''.join('<div class="pair"><p lang="ja">%s</p><p class="literal">%s</p></div>' % (inline(o), inline(l))
-                    for o, l in zip(sec['original'], sec['literal']))
+    legend = ('<p class="legend">Kanji with a dotted underline are printed in an older form in the 1925 edition. '
+              'On a computer, hover over them to see it.</p>'
+              if olds and any(plain(o) != od for o, od in zip(sec['original'], olds)) else '')
+    olds = olds or [None] * len(sec['original'])
+    pairs = ''.join('<div class="pair"><p lang="ja">%s</p><p class="literal">%s</p></div>' % (inline(o, od), inline(l))
+                    for o, od, l in zip(sec['original'], olds, sec['literal']))
     notes = ''.join('<dt lang="ja">%s</dt><dd>%s</dd>' % (html.escape(n['quote']), inline(n['text']))
                     for n in sec['notes'])
     comments = ''.join(
@@ -114,12 +151,12 @@ def render_essay(sec, prev, next):
         '%(nav)s<article class="essay"><h1>%(name)s · %(title)s</h1>'
         '<p class="incipit" lang="ja">%(incipit)s</p>%(translation)s'
         '<details class="deeper"><summary>Dig deeper: original, literal translation, notes</summary>'
-        '%(pairs)s<h2>Notes</h2><dl>%(notes)s</dl>%(comments)s</details></article>%(nav)s'
+        '%(legend)s%(pairs)s<h2>Notes</h2><dl>%(notes)s</dl>%(comments)s</details></article>%(nav)s'
     ) % {
         'nav': nav, 'name': section_name(sec['number']), 'title': html.escape(sec['title']),
         'incipit': inline(incipit(sec['original'])),
         'translation': ''.join('<p>%s</p>' % inline(t) for t in sec['translation']),
-        'pairs': pairs, 'notes': notes,
+        'legend': legend, 'pairs': pairs, 'notes': notes,
         'comments': '<h2>Later readers</h2>' + comments if comments else '',
     }
     return page('%s · %s' % (section_name(sec['number']), sec['title']), body, css='../style.css')
@@ -147,12 +184,14 @@ def main():
         print('wrote', out / (path.stem + '.html'))
     secs = sorted((load_feed(p) for p in (ROOT / 'content' / 'kenko').glob('*.json')), key=lambda s: s['number'])
     if secs:
+        edition = sections((ROOT / 'sources' / 'tsurezuregusa-wikisource.txt').read_text('utf-8'), modern=False)
         (out / 'kenko').mkdir(exist_ok=True)
         nums = [s['number'] for s in secs]
         for i, sec in enumerate(secs):
             prev = nums[i - 1] if i else None
             nxt = nums[i + 1] if i + 1 < len(nums) else None
-            (out / 'kenko' / ('%d.html' % sec['number'])).write_text(render_essay(sec, prev, nxt), 'utf-8')
+            (out / 'kenko' / ('%d.html' % sec['number'])).write_text(render_essay(
+                sec, prev, nxt, align_old(sec['original'], edition_text(edition, sec['number']))), 'utf-8')
         (out / 'kenko' / 'index.html').write_text(render_index(secs), 'utf-8')
         print('wrote', len(secs), 'Kenkō sections to', out / 'kenko')
 

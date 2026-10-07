@@ -16,3 +16,4 @@
 - `test_content.py` checks that each section's original, without furigana, is exactly the edition text. So furigana work can never change the text.
 - Format: clean translation first; "dig deeper" holds sentence pairs (original + literal) and notes anchored to quotes. Humour only where the original has it.
 - Fact-checks found mostly grammar-term slips in notes (e.g. 召させむ is 召さ + せ, not さす; めり is "it seems", not hearsay). Readings that come from the 1925 edition itself (e.g. 三足 さんぞく) are kept even when other editions differ.
+- Old kanji on hover: the cleaner can keep the 1925 forms (`modern=False`). Old and modern texts align character by character, because the conversion is a 1:1 mapping and runs after iteration marks are expanded. `align_old` checks that the old text, converted, equals the content text, so an edit to the content can never be shown as an "old form".
