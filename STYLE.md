@@ -12,6 +12,8 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 
 **Written, but conversational.** The blog voice is still writing: a good writer who sounds like one of the guys. The test is "would a good blogger write this?", not "would someone say this out loud?". So: no formal sentence shapes, but also no transcribed speech, no filler, no fragments everywhere.
 
+**A blog talks to its readers.** When Kenkō gives advice, say it to the reader: short, direct steps ("Let the days go by, and don't wait for anything."), not one long balanced sentence that describes a way of life.
+
 **Understatement, not irony.** Big things (death, love, fame) said in flat, everyday sentences, with no comment on them; the reader finds the weight or the joke alone. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō usually means what he says, so borrow the flatness, never the wink. When he is serious, the flat voice makes it more serious. When the situation is absurd, the flat voice makes it funny by itself.
 
 ## Rules
