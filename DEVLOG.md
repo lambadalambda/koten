@@ -21,3 +21,4 @@
 ## Ideas for later
 
 - Heike Monogatari: Momus's "Bishonen" (1988) as a "later readers" note, especially for the death of Atsumori. Same theme (the beautiful youth who dies young, falling blossoms), and the song is a model for the voice: Japanese ideals in a flat British voice. Link only, no lyric quotes (copyright).
+- Open: Kenkō 6, Shōtoku's tomb. ここをきれ、かしこを断て is now "Cut it here. Cut it off there." Clear enough, but not fully satisfying. Revisit if a better English pair comes up.
