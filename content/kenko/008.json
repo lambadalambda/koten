@@ -2,8 +2,8 @@
   "number": 8,
   "title": "The sage who fell from the sky",
   "translation": [
-    "Nothing leads people astray like lust. What fools we are. A scent is only borrowed: you know perfectly well that someone has just perfumed their clothes with incense, and still, when the scent is lovely, your heart skips a beat.",
-    "The sage of Kume could fly, until he saw the white legs of a woman doing the washing and lost his powers. I can believe it. Fair, smooth, full arms and legs aren't borrowed like a scent. They're the real thing. No wonder he fell."
+    "Nothing throws people off like lust. We really are fools. Take perfume: you know perfectly well someone just put it on their clothes, it's not even theirs, and still, when it smells good, your heart skips a beat.",
+    "The sage of Kume could fly, until he saw the white legs of a woman doing the washing and lost his powers. I believe it. Skin is different. Fair, smooth, soft arms and legs aren't something you put on. They're the real thing. No wonder he fell."
   ],
   "original": [
     "{世|よ}の{人|ひと}の{心|こころ}を{惑|まど}はすこと{色欲|しきよく}には{如|し}かず。",
@@ -22,6 +22,6 @@
     {"quote": "衣裳に薫物す", "text": "Heian and Kamakura nobles burned incense ({薫物|たきもの}) under their clothes so the scent stayed in the fabric. Each person had a personal blend, and people recognised each other by it."},
     {"quote": "心ときめきする", "text": "ときめく: 'to flutter, to beat fast'. Modern ときめき, the word for that feeling, is the same."},
     {"quote": "久米の仙人", "text": "The sage of Kume, a legend from older story collections: a hermit who had learned to fly saw a young woman washing clothes in a river, her legs bare, and fell out of the sky. In the story he then married her. 'Lost his powers' means he fell."},
-    {"quote": "外の色ならねば", "text": "The contrast with the incense: a scent is added from outside ('borrowed'), but skin is the real thing. That is the reason he gives for why the sage had no chance."}
+    {"quote": "外の色ならねば", "text": "The contrast with the incense: a scent is added from outside, it is not the person's own ({仮|かり}のもの), but skin is the real thing. That is the reason he gives for why the sage had no chance."}
   ]
 }
