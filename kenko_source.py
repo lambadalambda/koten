@@ -123,24 +123,28 @@ def _ruby(m):
     raise ValueError('Unknown template: %r' % m[0])
 
 
-def clean(raw):
+def clean(raw, modern=True):
     text = remove_glosses(raw).replace(' ', '').replace('　', '')
     for name, marks in ITERATION.items():
         text = text.replace('{{%s}}' % name, marks)
     text = TEMPLATE.sub(_ruby, text)
     if '{{' in text or '}}' in text:
         raise ValueError('Unprocessed template in: %r' % text[:40])
-    return to_shinjitai(expand_iteration(text))
+    text = expand_iteration(text)
+    return to_shinjitai(text) if modern else text
 
 
-def sections(wikitext):
-    """Map section number → cleaned paragraphs. 0 is the preface, split off section 1."""
+def sections(wikitext, modern=True):
+    """Map section number → cleaned paragraphs. 0 is the preface, split off section 1.
+
+    With modern=False the old kanji forms are kept, character for character in the same places.
+    """
     body = wikitext[wikitext.index('\n}}') + 3:] if wikitext.startswith('{{') else wikitext
     parts = re.split(r'^(\d+)\s*$', body, flags=re.M)
     result = {}
     for num, chunk in zip(parts[1::2], parts[2::2]):
         paras = [p.strip() for p in chunk.strip().split('\n\n') if p.strip() and not p.strip().startswith(('{{PD', '{{DEFAULTSORT', '[[', '徒然草 終'))]
-        result[int(num)] = [clean(p) for p in paras]
+        result[int(num)] = [clean(p, modern) for p in paras]
     result[0], result[1] = result[1][:1], result[1][1:]
     return result
 

@@ -59,6 +59,9 @@ class CleanTests(unittest.TestCase):
     def test_iteration_mark_inside_reading(self):
         self.assertEqual(clean('{{r|愈|いよ{{〱}}}}よく'), '{愈|いよいよ}よく')
 
+    def test_old_forms_can_be_kept(self):
+        self.assertEqual(clean('醉ひて{{r|醫師|くすし}}', modern=False), '醉ひて{醫師|くすし}')
+
     def test_unknown_template_is_an_error(self):
         with self.assertRaises(ValueError):
             clean('a{{foo}}b')
@@ -75,6 +78,11 @@ class RealSourceTests(unittest.TestCase):
 
 class SectionTests(unittest.TestCase):
     RAW = '{{header\n| x = y\n}}\n\n1\n\n序の文。\n\nいでや、一の文。\n\n2\n\n二の文。\n\n二の続き。\n\n\n徒然草 終\n\n{{PD-old-50-1996|deathyear=1943}}\n'
+
+    def test_old_forms_keep_section_shape(self):
+        old, new = sections('1\n\n醉ひ。\n', modern=False), sections('1\n\n醉ひ。\n')
+        self.assertEqual(old[0], ['醉ひ。'])
+        self.assertEqual(new[0], ['酔ひ。'])
 
     def test_preface_is_split_from_section_one(self):
         secs = sections(self.RAW)
