@@ -29,3 +29,10 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 62: 牛の角文字 decoded as い (1925 edition); roudokus has ひ.
 - Readings with variants: 50 御桟敷 おん (roudokus みさじき), 60 能書 のうしよ (roudokus のうじょ), 62 御歌 おほんうた next to おん in the same sentence.
 - 60: "later commentators have suggested meanings" for しろうるり, no source named.
+
+## 87–98
+- 88: the Michikaze/Kintō dates moved from the translation to a note (the critic in the text does not state them).
+- 95: left = roller side, right = cover side is in the translation; confirmed by one web commentary and the standard explanation.
+- 88: 秘蔵 ひさう (roudokus ひそう), not from the 1925 edition.
+- 98: a note says Kenkō's wording differs from the surviving Ichigon Hōdan text: believed correct, not checked.
+- 94: ending keeps the hearsay とぞ ("The proper way, they say, is…").
