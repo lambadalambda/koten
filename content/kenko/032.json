@@ -1,0 +1,36 @@
+{
+  "number": 32,
+  "title": "The door left open",
+  "translation": [
+    "One night in late autumn, someone important invited me along to walk around looking at the moon until dawn. On the way he remembered a place, had himself announced, and went in.",
+    "The garden was overgrown and wet with dew, and there was a soft scent of incense in the air, not put on for visitors. You could feel that a woman lived there quietly, keeping to herself. It was very moving.",
+    "He stayed a decent while and then came out. But I was so taken with the place that I watched a little longer from the shadows. She pushed the door open a bit wider and looked out at the moon. If she'd shut herself in right away, it would have spoiled everything. How could she know someone was still watching? That kind of thing only comes from the care you take every day, morning and evening.",
+    "I heard she died not long after."
+  ],
+  "original": [
+    "{九月|ながつき}{二十日|はつか}の{頃|ころ}、ある{人|ひと}に{誘|さそ}はれ{奉|たてまつ}りて、{明|あ}くるまで{月|つき}{見|み}{歩|あり}く{事|こと}{侍|はべ}りしに、{思|おぼ}し{出|い}づる{所|ところ}ありて、{案内|あない}せさせて{入|い}り{給|たま}ひぬ。",
+    "{荒|あ}れたる{庭|には}の{露|つゆ}しげきに、わざとならぬ{匂|にほ}ひしめやかにうち{薫|かを}りて、{忍|しの}びたるけはひ、いと{物|もの}あはれなり。",
+    "よきほどにて{出|い}で{給|たま}ひぬれど、{猶|なほ}ことざまの{優|いう}に{覚|おぼ}えて、{物|もの}のかくれよりしばし{見|み}{居|ゐ}たるに、{妻戸|つまど}を{今|いま}{少|すこ}しおしあけて、{月|つき}{見|み}るけしきなり。",
+    "やがてかけ{籠|こも}らましかば、{口惜|くちを}しからまし。",
+    "あとまで{見|み}る{人|ひと}ありとは{如何|いか}でか{知|し}らむ。",
+    "かやうの{事|こと}は、ただ{朝夕|あさゆふ}の{心|こころ}づかひによるべし。",
+    "その{人|ひと}{程|ほど}なく{亡|う}せにけりと{聞|き}き{侍|はべ}りし。"
+  ],
+  "literal": [
+    "Around the twentieth of the ninth month, I was invited by a certain person and we went around viewing the moon until dawn, when he remembered a place, had himself announced, and went in.",
+    "In the ruined garden heavy with dew, an unstudied fragrance drifted softly, and the air of someone living in seclusion was very moving.",
+    "He came out after a suitable time, but I still felt the manner of the place to be refined, and while I watched for a while from a hidden spot, she pushed the double door open a little more and seemed to look at the moon.",
+    "If she had locked herself in right away, it would have been a pity.",
+    "How could she know there was someone watching to the end?",
+    "Such things surely depend only on one's care morning and evening.",
+    "I heard that person died not long after."
+  ],
+  "notes": [
+    {"quote": "九月二十日の頃", "text": "The twentieth of the ninth month on the old calendar: late autumn, a few days after the full moon, so the moon rose late and lit the second half of the night."},
+    {"quote": "誘はれ奉りて", "text": "{奉|たてまつ}る: humble, so the man who invited Kenkō was of high rank. The visit to a woman's house at night was his, not Kenkō's."},
+    {"quote": "わざとならぬ匂ひ", "text": "Incense burned for her own sake, not for guests (on incense, see section 8). That is the first sign of her character."},
+    {"quote": "やがてかけ籠らましかば、口惜しからまし", "text": "ましかば … まし: 'if she had…, it would have…', a thought against the facts (see section 11). やがて: 'right away', not modern 'soon'."},
+    {"quote": "朝夕の心づかひ", "text": "The point of the section: grace that only shows when nobody is supposed to be watching can't be put on. It comes from daily habit."},
+    {"quote": "その人程なく亡せにけりと聞き侍りし", "text": "Like section 31, the story ends with the person's death, in one short sentence."}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 35,
+  "title": "Bad handwriting",
+  "translation": [
+    "If your handwriting is bad, go ahead and write your letters anyway. That's fine. Getting someone else to write them because yours looks ugly is just tiresome."
+  ],
+  "original": [
+    "{手|て}の{悪|わろ}き{人|ひと}の、{憚|はばか}らず{文|ふみ}かきちらすはよし。",
+    "{見苦|みぐる}しとて{人|ひと}に{書|か}かするはうるさし。"
+  ],
+  "literal": [
+    "A person whose hand is bad writing letters freely without hesitation is good.",
+    "Having someone else write, saying it is unsightly, is tiresome."
+  ],
+  "notes": [
+    {"quote": "手の悪き人", "text": "{手|て}: handwriting (see section 1). Good handwriting was a real social asset at court, and people did have others write their letters for them."},
+    {"quote": "うるさし", "text": "A false friend: here 'tiresome, irritating, too much'. Modern うるさい is mostly 'noisy'; here it is only 'tiresome'. Kenkō prefers honest bad handwriting to borrowed good handwriting, which fits section 150."}
+  ]
+}

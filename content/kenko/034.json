@@ -1,0 +1,20 @@
+{
+  "number": 34,
+  "title": "A shell called henatari",
+  "translation": [
+    "Kaigō, the stuff used in incense, is the lid of a shell that looks like a conch, only smaller, with a long, narrow opening that sticks out. There were some at a bay called Kanazawa in Musashi, and the locals told me they call it \"henatari\"."
+  ],
+  "original": [
+    "{甲香|かひがう}は、ほら{貝|がひ}の{様|やう}なるが、{小|ちひ}さくて、{口|くち}の{程|ほど}の{細長|ほそなが}にして{出|い}でたる{貝|かひ}の{蓋|ふた}なり。",
+    "{武蔵|むさし}の{国|くに}{金沢|かねさは}といふ{浦|うら}にありしを、{所|ところ}の{者|もの}は「へなたり。」と{申|まう}し{侍|はべ}るとぞいひし。"
+  ],
+  "literal": [
+    "Kaigō is the lid of a shell that is like a conch, but small, with the area of the mouth long and narrow and sticking out.",
+    "It was at a bay called Kanazawa in the province of Musashi, and the local people said, 'We call it henatari.'"
+  ],
+  "notes": [
+    {"quote": "甲香", "text": "{甲香|かひがう}: the hard lid (operculum) of a sea snail, ground and used in incense blends to fix and carry the scent (see section 8). The 1925 edition reads it かひがう; the usual reading is かひかう."},
+    {"quote": "武蔵の国金沢", "text": "Kanazawa in Musashi, today part of Yokohama. Kenkō spent time there, near the Kanazawa Bunko, a famous library of the time. ありし and いひし use き: he saw the shells and heard the name himself."},
+    {"quote": "へなたり", "text": "The local name. The whole section is a small field note: an ingredient of court culture, and what the locals actually call it."}
+  ]
+}

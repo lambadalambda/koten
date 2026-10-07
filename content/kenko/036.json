@@ -1,0 +1,21 @@
+{
+  "number": 36,
+  "title": "One servant, please",
+  "translation": [
+    "You haven't been to see her in ages. You know she must be upset, you feel guilty, and you don't know what to say. And then a note comes from her: \"Got a servant to spare? Just one.\" What a relief, and how kind of her.",
+    "Someone once told me, \"A woman with that kind of spirit is the best.\" I'd say so."
+  ],
+  "original": [
+    "{久|ひさ}しく{訪|おとづ}れぬ{頃|ころ}、いかばかり{恨|うら}むらむと、{我|わ}が{怠|おこた}り{思|おも}ひ{知|し}られて、{言葉|ことば}なき{心地|ここち}するに、{女|をんな}のかたより、「{仕丁|じちやう}やある、{一人|ひとり}。」なんどいひおこせたるこそ、ありがたくうれしけれ。",
+    "「さる{心|こころ}ざましたる{人|ひと}ぞよき。」と、{人|ひと}の{申|まう}し{侍|はべ}りし、さもあるべきことなり。"
+  ],
+  "literal": [
+    "At a time when one has not visited for a long while, thinking how resentful she must be, feeling one's own negligence and at a loss for words, that from the woman's side she sends word like 'Do you have a servant? One': that is rare and gladdening.",
+    "'A person with such a disposition is good,' someone said, and that is surely right."
+  ],
+  "notes": [
+    {"quote": "仕丁やある、一人", "text": "{仕丁|じちやう}: a servant or labourer. She asks to borrow one for some job. It is a practical excuse to get back in touch, with no reproach in it."},
+    {"quote": "ありがたくうれしけれ", "text": "ありがたし: 'rare, hard to find', and so 'precious, kind'. Modern ありがたい 'grateful' comes from the same idea: such kindness is rare. こそ … けれ again."},
+    {"quote": "さもあるべきことなり", "text": "'That is surely right.' Kenkō agrees with someone else's verdict instead of giving his own. Many editions put the whole story inside that person's words, so the neglectful lover is the other man, not Kenkō. The 1925 edition punctuates it as here; the translation's 'you' fits both readings."}
+  ]
+}

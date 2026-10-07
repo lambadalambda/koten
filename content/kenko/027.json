@@ -1,0 +1,31 @@
+{
+  "number": 27,
+  "title": "After the abdication",
+  "translation": [
+    "At the abdication ceremony, when the sword, the jewel and the sacred mirror are handed over to the new emperor, it's unbearably lonely to watch.",
+    "The emperor who had just stepped down is supposed to have written this, the spring after:",
+    "The palace sweepers\nhave their minds elsewhere now.\nIn the garden no one sweeps\nthe blossoms lie\nthick on the ground.",
+    "Everyone's busy with the new reign, and nobody visits the former emperor anymore. It looks so lonely. Times like this show you what people are really like."
+  ],
+  "original": [
+    "{御国|みくに}ゆづりの{節会|せちゑ}{行|おこな}はれて、{剣|けん}、{璽|じ}、{内侍所|ないしどころ}わたし{奉|たてまつ}らるるほどこそ、かぎりなう{心|こころ}ぼそけれ。",
+    "{新院|しんゐん}のおりゐさせ{給|たま}ひての{春|はる}、よませ{給|たま}ひけるとかや。",
+    "{殿守|とのもり}の{伴|とも}のみやつこよそにしてはらはぬ{庭|には}に{花|はな}ぞ{散|ち}りしく",
+    "{今|いま}の{世|よ}のことしげきにまぎれて、{院|ゐん}にはまゐる{人|ひと}もなきぞ{寂|さび}しげなる。",
+    "かかるをりにぞ{人|ひと}の{心|こころ}もあらはれぬべき。"
+  ],
+  "literal": [
+    "When the ceremony of handing over the country is held and the sword, the jewel and the sacred mirror are handed over: that is boundlessly lonely.",
+    "In the spring after the new retired emperor stepped down, he composed (this), they say:",
+    "'The servants who keep the palace treat it as someone else's affair; in the garden they do not sweep, the blossoms lie scattered.'",
+    "Distracted by the many affairs of the present reign, there is no one who goes to the retired emperor, and it looks lonely.",
+    "At such times, surely, people's hearts become visible."
+  ],
+  "notes": [
+    {"quote": "剣、璽、内侍所", "text": "The three imperial regalia: the sword, the curved jewel, and the sacred mirror (here named after the hall where its copy was kept, see section 23). Handing them over is the moment the reign changes."},
+    {"quote": "新院", "text": "{新院|しんゐん}: 'the new retired emperor', the one who had abdicated most recently. Here probably Emperor Hanazono, who stepped down in 1318."},
+    {"quote": "殿守の伴のみやつこ", "text": "The low-ranking palace staff responsible for cleaning and lamps (see the 主殿寮 in section 22). よそにして: 'treating it as somebody else's business'."},
+    {"quote": "はらはぬ庭に花ぞ散りしく", "text": "The poem rewrites an older one by Minamoto no Kintada, which asks the sweepers not to sweep the blossoms this spring, as a sign of mourning. Here they don't sweep because they no longer care."},
+    {"quote": "人の心もあらはれぬべき", "text": "ぬべき: 'surely'. The poem complains about the sweepers; Kenkō's last line is about everyone at court."}
+  ]
+}
