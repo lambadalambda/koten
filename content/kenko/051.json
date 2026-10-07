@@ -1,0 +1,31 @@
+{
+  "number": 51,
+  "title": "The water wheel",
+  "translation": [
+    "The court wanted to bring water from the Ōi River into the pond at the Kameyama palace, so the local people at Ōi were told to build a water wheel. They were paid well, spent several days putting it together, and set it up. It hardly turned at all. They tried fixing it this way and that, but it never did turn, and it just stood there doing nothing.",
+    "So people were brought in from Uji instead. They put one together without any fuss, and it turned exactly as it should and scooped the water in beautifully.",
+    "Whatever the job, people who really know it are worth a great deal."
+  ],
+  "original": [
+    "{亀山殿|かめやまどの}の{御池|みいけ}に、{大井川|おほゐがは}の{水|みづ}をまかせられむとて、{大井|おほゐ}の{土民|どみん}に{仰|おほ}せて、{水車|みづぐるま}を{作|つく}らせられけり。",
+    "{多|おほ}くの{銭|あし}を{賜|たま}ひて、{数日|すじつ}に{営|いとな}み{出|いだ}してかけたりけるに、{大方|おほかた}{廻|めぐ}らざりければ、とかく{直|なほ}しけれども、{終|つひ}に{廻|めぐ}らで、{徒|いたづ}らに{立|た}てりけり。",
+    "さて{宇治|うぢ}の{里人|さとびと}を{召|め}してこしらへさせられければ、やすらかに{結|ゆ}ひて{参|まゐ}らせたりけるが、{思|おも}ふやうにめぐりて、{水|みづ}を{汲|く}み{入|い}るる{事|こと}めでたかりけり。",
+    "{万|よろづ}にその{道|みち}を{知|し}れるものは、やんごとなきものなり。"
+  ],
+  "literal": [
+    "Intending to let the water of the Ōi River flow into the pond of the Kameyama palace, (someone of high rank) ordered the local people of Ōi and had them make a water wheel.",
+    "He gave them a lot of money, and they worked on it for several days and set it up, but it hardly turned at all, so they fixed it in various ways, but in the end it did not turn and stood there uselessly.",
+    "Then he summoned villagers from Uji and had them make one, and they put it together easily and presented it, and it turned as intended and drew the water in splendidly.",
+    "In everything, those who know their way are precious."
+  ],
+  "notes": [
+    {"quote": "亀山殿", "text": "A villa at Saga, west of Kyoto, below Mount Kameyama, on the site of today's Tenryūji. It was built by Retired Emperor Go-Saga in the 1250s; his son, Emperor Kameyama, lived there later and is named after it. (The 1925 edition says Kameyama built it after he abdicated.) The text does not say which retired emperor ordered the wheel."},
+    {"quote": "大井川", "text": "The Ōi River runs past Arashiyama and Saga. It is the same river as the Katsura and the Hozu, under different names along its course."},
+    {"quote": "仰せて", "text": "{仰|おほ}す: 'to order' (respectful), and the respectful させられ in 作らせられけり: the person giving the order is never named, but the verbs show that he is very high up."},
+    {"quote": "銭", "text": "{銭|あし}: an old word for money, literally 'legs'. The usual explanation is that money walks away and goes round from hand to hand."},
+    {"quote": "徒らに立てりけり", "text": "{徒|いたづ}ら: 'useless' (compare section 236). り: 'is in the state of'. The wheel stood there and did nothing."},
+    {"quote": "宇治の里人", "text": "Uji, south of Kyoto, was famous for the water wheels on its river. They appear in poems and on painted screens. So the court sent for people who knew water wheels from home."},
+    {"quote": "やすらかに結ひて", "text": "やすらか: 'easily, without trouble'. {結|ゆ}ふ: to tie or fit together. The 1925 edition explains: they put it together with no effort."},
+    {"quote": "やんごとなきものなり", "text": "やんごとなし usually means 'noble, of high rank'. Here it means 'precious, not to be done without'. Kenkō uses a word for nobles about village craftsmen."}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 62,
+  "title": "A poem in letters",
+  "translation": [
+    "When Princess Enseimon'in was a little girl, she gave someone who was going to see the retired emperor a poem to pass on as her message:",
+    "The letter of two strokes,\nthe one like an ox's horns,\nthe straight one, the bent one:\nthat is how I think of you.",
+    "The four letters spell koishiku, \"missing you\". She was telling him she missed him."
+  ],
+  "original": [
+    "{延政門院|えんせいもんゐん}{幼|いときな}くおはしましける{時|とき}、{院|ゐん}へ{参|まゐ}る{人|ひと}に、{御|おん}ことづてとて{申|まう}させ{給|たま}ひける{御歌|おほんうた}、",
+    "ふたつ{文字|もじ}{牛|うし}の{角文字|つのもじ}{直|すぐ}な{文字|もじ}ゆがみもじとぞ{君|きみ}はおぼゆる",
+    "こひしく{思|おも}ひまゐらせ{給|たま}ふとなり。"
+  ],
+  "literal": [
+    "When Enseimon'in was young, the poem she had sent, as a message, by a person going to the retired emperor's palace:",
+    "'The two(-stroke) letter, the ox's horn letter, the straight letter, the crooked letter: that is how you seem to me.'",
+    "It means that she was thinking of him with longing."
+  ],
+  "notes": [
+    {"quote": "延政門院", "text": "Princess Etsuko (1259–1332), a daughter of Retired Emperor Go-Saga (the 1925 edition gives the same identification). {門院|もんゐん} is an honorary title given to empresses and princesses."},
+    {"quote": "院へ参る人", "text": "{院|ゐん}: the retired emperor, usually taken to be her father Go-Saga, who died in 1272, when she was about thirteen."},
+    {"quote": "ふたつ文字牛の角文字直な文字ゆがみもじ", "text": "A riddle in the shapes of kana, as they were written then. The 1925 edition decodes it: the letter of two strokes is こ, the ox's horns are い, the straight letter is し, the bent letter is く. Together: こいしく, 'longingly, missing (you)'. In historical spelling the word is こひしく, as the last sentence writes it. By this time, ひ in the middle of a word was pronounced like い, so the riddle spells the word by its sound."},
+    {"quote": "とぞ君はおぼゆる", "text": "ぞ … る: ぞ needs the attributive form, so おぼゆ becomes おぼゆる. おぼゆ: 'to seem, to come to mind'. {君|きみ}: 'you', the father."},
+    {"quote": "こひしく思ひまゐらせ給ふとなり", "text": "まゐらす is humble toward her father, and {給|たま}ふ is respectful toward her: Kenkō is polite to both of them in one verb. となり: 'that is what it means'. Kenkō explains the riddle in one flat line."}
+  ]
+}

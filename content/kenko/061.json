@@ -1,0 +1,32 @@
+{
+  "number": 61,
+  "title": "Dropping the rice steamer",
+  "translation": [
+    "When a lady of the imperial family gives birth, someone drops a rice steamer. It isn't a fixed part of the ceremony. It's a charm for when the afterbirth won't come out, and if it comes out normally, they don't do it. The custom started among ordinary people, and there's no proper authority for it. They send to the village of Ōhara for the steamer.",
+    "In an old painting in a treasure house, there's a picture of a poor woman giving birth, and someone dropping a rice steamer."
+  ],
+  "original": [
+    "{御産|ごさん}の{時|とき}、{甑|こしき}{落|おと}す{事|こと}は、{定|さだ}まれることにはあらず。",
+    "{御|おん}{胞衣|えな}{滞|とどこほ}る{時|とき}の{呪|まじなひ}なり。",
+    "{滞|とどこほ}らせ{給|たま}はねばこの{事|こと}なし。",
+    "{下|しも}ざまより{事|こと}おこりて、させる{本説|ほんせつ}なし。",
+    "{大原|おほはら}の{里|さと}の{甑|こしき}をめすなり。",
+    "ふるき{宝蔵|はうざう}の{絵|ゑ}に、{賤|いや}しき{人|ひと}の{子|こ}{産|う}みたる{所|ところ}に、{甑|こしき}おとしたるを{書|か}きたり。"
+  ],
+  "literal": [
+    "At an (imperial) birth, dropping a rice steamer is not a fixed thing.",
+    "It is a charm for when the afterbirth is held back.",
+    "If it is not held back, this is not done.",
+    "The practice started from the lower classes, and there is no particular authority for it.",
+    "They send for a steamer from the village of Ōhara.",
+    "In a painting in an old treasure house, at a place where a lowly person has given birth, (someone) dropping a rice steamer is drawn."
+  ],
+  "notes": [
+    {"quote": "御産", "text": "{御|ご}: honorific. A birth in the imperial family. The honorific せ{給|たま}ふ in the third sentence refers to the mother."},
+    {"quote": "甑", "text": "{甑|こしき}: a pot with holes in the bottom, set over boiling water to steam rice. The custom is usually described as rolling or dropping it off the roof of the house where the birth takes place. The 1925 edition explains the charm as a pun: こしき also sounds like {子敷|こしき}, a word for the afterbirth, 'what the child lies on'."},
+    {"quote": "胞衣", "text": "{胞衣|えな}: the afterbirth. If it did not come out after the birth, the mother was in real danger."},
+    {"quote": "させる本説なし", "text": "させる … なし: 'no particular'. {本説|ほんせつ}: a proper source, an old text or precedent that a rite is based on. Court ceremony needed one, and this custom has none."},
+    {"quote": "大原の里", "text": "Ōhara, a village in the hills north-east of Kyoto. The 1925 edition suggests another pun: おほはら sounds like {大腹|おほはら}, 'big belly', so a steamer from there was thought to help a birth."},
+    {"quote": "ふるき宝蔵の絵", "text": "The text does not say which treasure house. The point is the picture itself: the custom is old, and it comes from ordinary people."}
+  ]
+}

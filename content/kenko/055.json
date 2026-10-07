@@ -1,0 +1,35 @@
+{
+  "number": 55,
+  "title": "Build for the summer",
+  "translation": [
+    "Build your house for the summer. In winter you can live anywhere. But a house that's bad in the hot season is unbearable.",
+    "In the garden, deep water doesn't look cool. A shallow stream looks far cooler. For reading or fine work, a room with sliding doors is brighter than one with lattice shutters. A high ceiling makes the room cold in winter and the lamps dim. And when you build, put in a space that has no particular use. It's nice to look at, and it turns out to be handy for all sorts of things.",
+    "People were talking it over once, and that's what they agreed on."
+  ],
+  "original": [
+    "{家|いへ}のつくりやうは{夏|なつ}をむねとすべし。",
+    "{冬|ふゆ}はいかなる{所|ところ}にも{住|す}まる。",
+    "{暑|あつ}き{頃|ころ}わろき{住居|すまひ}は{堪|た}へがたきことなり。",
+    "{深|ふか}き{水|みづ}は{涼|すず}しげなし、{浅|あさ}くて{流|なが}れたる、{遥|はる}かに{涼|すず}し。",
+    "{細|こま}かなるものを{見|み}るに、{遣戸|やりど}は{蔀|しとみ}の{間|ま}よりもあかし。",
+    "{天井|てんじやう}の{高|たか}きは、{冬|ふゆ}{寒|さむ}く、{灯|ともしび}くらし。",
+    "{造作|ざうさく}は{用|よう}なき{所|ところ}をつくりたる、{見|み}るもおもしろく、よろづの{用|よう}にも{立|た}ちてよし。」とぞ、{人|ひと}のさだめあひ{侍|はべ}りし。"
+  ],
+  "literal": [
+    "The way of building a house should take summer as the main thing.",
+    "In winter one can live in any kind of place.",
+    "A bad dwelling in the hot season is unbearable.",
+    "Deep water does not look cool; shallow, flowing (water) is far cooler.",
+    "When looking at fine things, (a room with) sliding doors is brighter than a room with lattice shutters.",
+    "A high ceiling is cold in winter, and the lamps are dim.",
+    "As for the fittings, making a part that has no use is pleasant to look at and good, as it serves all kinds of purposes': so people decided together."
+  ],
+  "notes": [
+    {"quote": "夏をむねとすべし", "text": "むね: 'the main thing'. べし: 'should'. One of the best-known lines of the book, still quoted today to explain traditional Japanese houses: open, raised off the ground, with walls that slide away to let the air through."},
+    {"quote": "住まる", "text": "る: 'can'. {住|す}まる: 'one can live (there)'."},
+    {"quote": "遣戸は蔀の間よりもあかし", "text": "{遣戸|やりど}: a sliding door (the 1925 edition: 'a door you open sideways'). {蔀|しとみ}: a lattice shutter hinged at the top and propped up to open."},
+    {"quote": "灯くらし", "text": "The light of a single oil lamp does not reach a high ceiling, so the room looks dark."},
+    {"quote": "造作は用なき所をつくりたる", "text": "{造作|ざうさく}: the fittings of a house, doors, shelves, built-in parts (the 1925 edition: 'fixtures'). A space with no fixed purpose ends up used for everything."},
+    {"quote": "」とぞ、人のさだめあひ侍りし", "text": "The section closes a quotation that it never opened: only here do you learn that everything before was what people said in a discussion. The 1925 edition prints it this way, and the translation follows. ぞ … し: き becomes し, and き shows that Kenkō was there."}
+  ]
+}

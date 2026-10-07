@@ -1,0 +1,25 @@
+{
+  "number": 57,
+  "title": "Stories about poems",
+  "translation": [
+    "Someone tells you the story behind a poem, and the poem turns out to be bad. What a letdown. Anyone who knew even a little about poetry wouldn't tell it as if it were something special.",
+    "In general, when people go on about things they know nothing about, it's embarrassing just to listen."
+  ],
+  "original": [
+    "{人|ひと}のかたり{出|い}でたる{歌物語|うたものがたり}の、{歌|うた}のわろきこそ{本意|ほい}なけれ。",
+    "すこしその{道|みち}{知|し}らむ{人|ひと}は、いみじと{思|おも}ひては{語|かた}らじ。",
+    "すべていとも{知|し}らぬ{道|みち}の{物|もの}がたりしたる、かたはらいたく{聞|き}きにくし。"
+  ],
+  "literal": [
+    "When, in a poem story that someone tells, the poem is bad: that is disappointing.",
+    "A person who knows that way even a little would not tell it thinking it splendid.",
+    "In general, (people) telling stories about a way they know nothing at all about is embarrassing and unpleasant to hear."
+  ],
+  "notes": [
+    {"quote": "歌物語", "text": "{歌物語|うたものがたり}: here, a story about how a poem came to be written: who wrote it, for whom, and what happened. (The same word is also the name of a genre, tales built around poems, such as the Tales of Ise.) The story only works if the poem at its centre is good."},
+    {"quote": "歌のわろきこそ本意なけれ", "text": "こそ … けれ. {本意|ほい}なし: 'disappointing, not what one hoped for'. The same word closes a sentence in section 1 (本意なきわざなれ, 'what a waste')."},
+    {"quote": "その道知らむ人", "text": "{道|みち}: here, the art of poetry. む in an attributive position: 'a person who might know', 'anyone who knows'."},
+    {"quote": "語らじ", "text": "じ: the negative of む, 'would not'. Someone who knows poetry would see the poem is bad and keep quiet."},
+    {"quote": "かたはらいたく", "text": "かたはらいたし: 'embarrassing to watch', literally 'painful to be beside'. The 1925 edition: you feel sorry for them even watching from the side. Modern {片腹痛|かたはらいた}い (with the kanji for 'one side of the belly') means 'laughable, ridiculous'."}
+  ]
+}

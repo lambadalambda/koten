@@ -1,0 +1,39 @@
+{
+  "number": 56,
+  "title": "How people tell a story",
+  "translation": [
+    "Someone you haven't seen in ages comes back and tells you everything that happened to them, every last thing, on and on. That's tiresome. Even with someone you're close to, after some time apart you should be a little reserved, shouldn't you?",
+    "Coarser people step out for five minutes and come back with a story, so excited they can't catch their breath. When someone with real class tells a story, there may be a lot of people around, but he talks to one of them, and the others end up listening anyway. The other kind launches into it in the middle of a crowd, talking to nobody in particular, and acts it all out as if you were there. Everyone roars with laughter together. It's very loud.",
+    "You can tell what kind of person someone is by how they laugh. One barely reacts when something is genuinely funny. Another laughs hard at things that aren't.",
+    "And when people are discussing someone, whether they're good-looking or not, or how learned they are, and somebody keeps bringing it back to themselves, it's painful to watch."
+  ],
+  "original": [
+    "{久|ひさ}しく{隔|へだ}たりて{逢|あ}ひたる{人|ひと}の、わが{方|かた}にありつる{事|こと}、{数々|かずかず}に{残|のこ}りなく{語|かた}り{続|つづ}くるこそあいなけれ。",
+    "へだてなく{馴|な}れぬる{人|ひと}も、ほどへて{見|み}るは{恥|はづか}しからぬかは。",
+    "{次|つぎ}ざまの{人|ひと}は、あからさまに{立|た}ち{出|い}でても、{興|きよう}ありつることとて、{息|いき}もつぎあへず{語|かた}り{興|きよう}ずるぞかし。",
+    "よき{人|ひと}の{物|もの}がたりするは、{人|ひと}あまたあれど、{一人|ひとり}に{向|む}きていふを、{自|おのづか}ら{人|ひと}も{聴|き}くにこそあれ。",
+    "よからぬ{人|ひと}は、{誰|たれ}ともなく{数多|あまた}の{中|なか}にうち{出|い}でて、{見|み}る{事|こと}のやうに{語|かた}りなせば、{皆|みな}{同|おな}じく{笑|わら}ひののしる、いとらうがはし。",
+    "をかしき{事|こと}をいひてもいたく{興|きよう}ぜぬと、{興|きよう}なき{事|こと}をいひてもよく{笑|わら}ふにぞ、{品|しな}のほどはかられぬべき。",
+    "{人|ひと}の{見|み}ざまのよしあし、{才|ざえ}ある{人|ひと}はその{事|こと}など{定|さだ}めあへるに、おのが{身|み}にひきかけていひ{出|い}でたる、いとわびし。"
+  ],
+  "literal": [
+    "That a person one meets after a long separation tells on and on, in great number and leaving nothing out, the things that happened on his side: that is unpleasant.",
+    "Even with a person one has become familiar with, without reserve, when one meets after some time, is there no shyness?",
+    "People of the lower sort, even if they go out just for a moment, (come back and) talk with relish about it as something entertaining that happened, without even catching their breath.",
+    "When a person of quality tells a story, though there are many people, he speaks facing one person, and the others naturally listen too.",
+    "A person who is not of quality comes out in the middle of many people, addressing no one in particular, and tells it as if it were something one could see, and so all alike laugh noisily: very disorderly.",
+    "By whether one is not very amused even when something funny is said, or laughs a lot even when something unfunny is said, one's quality can surely be measured.",
+    "When people are discussing the good or bad of someone's appearance, or, for a person of learning, that matter and so on, to bring it up by relating it to oneself is very distressing."
+  ],
+  "notes": [
+    {"quote": "語り続くるこそあいなけれ", "text": "こそ … けれ: the realis form of あいなし ('unpleasant, tiresome') closes the こそ."},
+    {"quote": "恥しからぬかは", "text": "{恥|はづか}し: 'shy, reserved' in front of someone. かは: a rhetorical question, 'is there no shyness? (There should be.)'."},
+    {"quote": "次ざまの人", "text": "'People of the next level down': the 1925 edition glosses it as people of low standing. In this section the words for rank and for manners overlap: よき{人|ひと} and よからぬ{人|ひと} mean both 'well-born' and 'well-behaved'."},
+    {"quote": "あからさまに", "text": "A false friend: 'briefly, just for a moment'. Modern あからさま means 'openly, blatantly'."},
+    {"quote": "見る事のやうに語りなせば", "text": "'Tells it as if it were something you could see': with gestures and voices, acting it out."},
+    {"quote": "いとらうがはし", "text": "らうがはし: 'noisy, disorderly' (the 1925 edition: {乱|みだ}りがはし). The same word describes the crush of carriages in section 137."},
+    {"quote": "品のほどはかられぬべき", "text": "ぞ … べき: ぞ needs the attributive form, so べし becomes べき. ぬべし: 'surely can'. {品|しな}: a person's quality or rank."},
+    {"quote": "才ある人はその事など", "text": "{才|ざえ}: learning, especially Chinese learning (see section 1). The sentence lists two topics of gossip: looks, and how learned someone is."},
+    {"quote": "いとわびし", "text": "わびし: 'miserable, hard to bear'. Here it is the feeling of the people who have to listen."}
+  ]
+}
