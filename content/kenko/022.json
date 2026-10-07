@@ -3,7 +3,7 @@
   "title": "The old way of saying it",
   "translation": [
     "With everything, honestly, it's the old days I miss. Things nowadays just keep getting cheaper and coarser. Even the lovely things a carpenter makes look best in the old style. The wording in old letters is wonderful. And everyday speech keeps getting worse.",
-    "People used to say \"Lift the carriage!\" and \"Raise the lamp!\". Now they say \"Lift it up!\" and \"Pull it up!\". The palace staff should be told \"Torchbearers, stand!\", and instead people say \"Make the torches bright!\". The place where the emperor listens to the great sutra lectures should be called \"the hall for His Majesty's lectures\", and people just say \"lecture hall\". An old courtier used to say what a shame it all was."
+    "Even the little orders around the palace aren't what they used to be: the way you tell someone to lift a carriage, turn up a lamp, or call the torchbearers to their places. And the hall where the emperor listens to the great sutra lectures should be called \"the hall for His Majesty's lectures\", but people just say \"lecture hall\". An old courtier used to say what a shame it all was."
   ],
   "original": [
     "{何事|なにごと}も{古|ふる}き{世|よ}のみぞ{慕|した}はしき。",
@@ -27,7 +27,7 @@
     {"quote": "古き世のみぞ慕はしき", "text": "ぞ … き again: {慕|した}はし becomes {慕|した}はしき. Complaints that language is going downhill are old: this one is from around 1330."},
     {"quote": "今様", "text": "{今様|いまやう}: 'the present style', what is fashionable now. The same word names the popular songs of section 14."},
     {"quote": "昔の反古ども", "text": "{反古|ほうご}: used paper, old letters and drafts. Here: old letters and drafts."},
-    {"quote": "車もたげよ", "text": "The text does not say what is wrong with the new forms, only that the old ones were right; commentators are not sure either. English cannot copy the exact differences, so the translation only shows that the wording changed."},
+    {"quote": "車もたげよ", "text": "The examples side by side. Lifting the carriage: old {車|くるま}もたげよ, new もてあげよ. Turning up the lamp: old {火|ひ}{掲|かか}げよ, new かきあげよ. Calling the torchbearers: old {人数|にんず}だて, new {立明|たちあか}し{白|しろ}くせよ. The lecture hall: old {御講|みかう}の{廬|ろ}, new {講廬|かうろ}. The text does not say what is wrong with the new forms, only that the old ones were right; commentators are not sure either. The translation keeps only the lecture-hall example, the one whose change (shorter, and without the respect) still makes sense in English."},
     {"quote": "主殿寮", "text": "{主殿寮|とのもれう}: the palace office in charge of palanquins, lamps, torches, curtains and cleaning."},
     {"quote": "最勝講", "text": "{最勝講|さいしようかう}: a yearly series of lectures at the palace on the Golden Light Sutra. The complaint is that 'the hut of the august lectures' was shortened to 'lecture hut': shorter, and without the respect."}
   ]
