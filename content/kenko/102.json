@@ -1,0 +1,33 @@
+{
+  "number": 102,
+  "title": "Ask the old guard",
+  "translation": [
+    "Major Counsellor Mitsutada, who later became a monk, was to lead the New Year's Eve ceremony for driving out demons. He asked the Tōin Minister of the Right to take him through it step by step. The answer: \"You can't do better than taking Matagorō as your teacher.\"",
+    "Matagorō was an old palace guard who knew every court ceremony inside out. Once, when Lord Konoe took his seat for a ceremony, he forgot the kneeling mat and called straight for the secretary. Matagorō was there tending the fire, and he muttered, very quietly: \"Perhaps you might call for the kneeling mat first, sir?\"",
+    "Lovely."
+  ],
+  "original": [
+    "{尹|いんの}{大納言|だいなごん}{光忠|みつただ}{入道|にふだう}、{追儺|ついな}の{上卿|しやうけい}を{務|つと}められけるに、{洞院|とうゐん}{右大臣殿|うだいじんどの}に{次第|しだい}を{申|まう}し{請|う}けられければ、",
+    "「{又五郎|またごらう}をのこを{師|し}とするより{外|ほか}の{才覚|さいかく}{候|さうら}はじ。」とぞ{宣|のたま}ひける。",
+    "かの{又五郎|またごらう}は{老|お}いたる{衛士|ゑじ}の、よく{公事|くじ}に{馴|な}れたる{者|もの}にてぞありける。",
+    "{近衛殿|このゑどの}{著陣|ちやくぢん}したまひける{時|とき}、{膝突|ひざつき}をわすれて、{外記|げき}をめされければ、",
+    "{火|ひ}たきて{候|さうら}ひけるが、「まづ{膝突|ひざつき}をめさるべくや{候|さうらふ}らむ。」と、{忍|しの}びやかにつぶやきける、いとをかしかりけり。"
+  ],
+  "literal": [
+    "When the lay monk Mitsutada, the Censor Major Counsellor, was to serve as the noble in charge of the demon-expelling rite, and asked the Tōin Minister of the Right for the order of proceedings,",
+    "he said, 'There can be no better plan than to take the fellow Matagorō as your teacher.'",
+    "That Matagorō was an old guard, a man well used to court ceremonies.",
+    "When Lord Konoe took his seat in the guards' hall, he forgot the kneeling mat and called for the secretary;",
+    "(Matagorō), who was in attendance tending the fire, muttered quietly, 'Should you not perhaps first call for the kneeling mat?': that was very delightful."
+  ],
+  "notes": [
+    {"quote": "尹大納言光忠入道", "text": "{尹|いん}: head of the Board of Censors ({弾正台|だんじやうだい}), a post that by this time was mostly an honour. He had also been a major counsellor and then became a lay monk ({入道|にふだう}). Commentators identify him as Minamoto no Mitsutada, who held these posts around 1330. Kenkō calls him by the title he had when writing. The 1925 edition gives the reading いんの."},
+    {"quote": "追儺", "text": "{追儺|ついな}: the rite on the last night of the year in which a masked man and his helpers chased the demons of disease out of the palace. Today's {節分|せつぶん}, when people throw beans to drive out demons, comes from it."},
+    {"quote": "上卿", "text": "{上卿|しやうけい}: the senior noble in charge of a court ceremony. The 1925 edition gives the reading しやうけい."},
+    {"quote": "洞院右大臣殿", "text": "Commentators differ: either Tōin Kinkata, or his father Tōin Saneyasu (if 右 'right' is a slip for 左 'left'). A minister, and he sends the counsellor to an old guard."},
+    {"quote": "衛士", "text": "{衛士|ゑじ}: guards sent up from the provinces to the capital for a term of service. They kept watch at the palace gates and tended the fires at night, which is why Matagorō is there, tending the fire, when the mistake happens."},
+    {"quote": "近衛殿著陣したまひける時", "text": "{近衛殿|このゑどの}: a head of the Konoe family, one of the families that supplied the regents. Commentators disagree on which one. {著陣|ちやくぢん}: to take one's seat in the guards' hall ({陣|ぢん}), where nobles met to do government business."},
+    {"quote": "膝突", "text": "{膝突|ひざつき}: a small mat put down for an official to kneel on when he came forward to hand over or receive documents. It had to be laid before the secretary was called."},
+    {"quote": "まづ膝突をめさるべくや候らむ", "text": "Very polite and very indirect: べく 'should', や … らむ 'might it be that…?', and {候|さうらふ} for respect. The low-ranking guard corrects one of the highest nobles at court without seeming to."}
+  ]
+}

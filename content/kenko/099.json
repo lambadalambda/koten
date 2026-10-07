@@ -1,0 +1,34 @@
+{
+  "number": 99,
+  "title": "The old chest",
+  "translation": [
+    "The Horikawa Chancellor was handsome and rich, and he loved luxury in everything. He got his son Mototoshi made head of the police commission, Once Mototoshi was running the office, the old Chinese-style chest there was declared too shabby, and an order went out to have a fine new one made.",
+    "The officials who knew the old customs objected. \"This chest has come down from ancient times. Nobody knows where it came from, and it's several hundred years old. With public property handed down for generations, the wear is what makes it precious. You can't just replace it.\"",
+    "So that was the end of that."
+  ],
+  "original": [
+    "{堀河|ほりかは}の{相国|しやうこく}は、{美男|びなん}のたのしき{人|ひと}にて、その{事|こと}となく{過差|くわさ}を{好|この}み{給|たま}ひけり。",
+    "{御子|みこ}{基俊卿|もととしきやう}を{大理|だいり}になして、{庁務|ちやうむ}を{行|おこな}はれけるに、{庁屋|ちやうや}の{唐櫃|からびつ}{見苦|みぐる}しとて、めでたく{作|つく}り{改|あらた}めらるべきよし{仰|おほ}せられけるに、",
+    "この{唐櫃|からびつ}は、{上古|じやうこ}より{伝|つた}はりて、そのはじめを{知|し}らず、{数百年|すうひやくねん}を{経|へ}たり。",
+    "{累代|るいだい}の{公物|くもつ}、{古弊|こへい}をもちて{規模|きぼ}とす。",
+    "たやすく{改|あらた}められ{難|がた}きよし、{故実|こじつ}の{諸官|しよくわん}{等|ら}{申|まう}しければ、その{事|こと}やみにけり。"
+  ],
+  "literal": [
+    "The Horikawa Chancellor was a handsome and wealthy man, and liked extravagance in all things.",
+    "When he had made his son Lord Mototoshi chief of the police commission and (Mototoshi) was conducting the affairs of the office, saying that the Chinese chest of the office building was unsightly, (someone) ordered that it be splendidly remade,",
+    "(but) 'This chest has come down from ancient times, its beginning is unknown, and it has passed several hundred years.",
+    "Public property handed down for generations takes its old wear as its distinction.'",
+    "When the officials versed in precedent said that it could not easily be changed, the matter was dropped."
+  ],
+  "notes": [
+    {"quote": "堀河の相国", "text": "{相国|しやうこく}: a Chinese-style name for the chancellor ({太政大臣|だいじやうだいじん}), the highest post at court. He is usually identified as Koga (Minamoto no) Mototomo (1232–1297), whose family lived at Horikawa."},
+    {"quote": "美男のたのしき人", "text": "A false friend: たのし here means 'rich, well-off', not modern 楽しい 'fun'. Wealth was what let people live 'happily'."},
+    {"quote": "過差", "text": "{過差|くわさ}: luxury beyond what your rank allows. The court issued rules against it again and again, which suggests they did not work."},
+    {"quote": "大理", "text": "{大理|だいり}: a Chinese-style name for the head of the {検非違使|けびゐし}, the police commission that kept order in the capital and also judged cases. The 1925 edition gives the reading だいり."},
+    {"quote": "唐櫃", "text": "{唐櫃|からびつ}: a large wooden chest on legs, in the Chinese style, for documents or clothes. This one stood in the commission's office."},
+    {"quote": "仰せられけるに", "text": "The text does not say who gives the order: the Chancellor or his son. Both are honoured with the same respectful verb. Commentators differ, and the translation leaves it open."},
+    {"quote": "古弊をもちて規模とす", "text": "{古弊|こへい}: 'old wear', the damage of age. {規模|きぼ}: a false friend. Here it means 'model, honour, something to be proud of', not modern 'scale, size'. The officials turn the Chancellor's complaint around: the shabbiness is the point."},
+    {"quote": "故実の諸官", "text": "{故実|こじつ}: precedent, the old rules of how things are done at court. The officials who knew it were the people everyone else had to ask (compare section 33)."},
+    {"quote": "その事やみにけり", "text": "'The matter stopped there.' The section ends on the plain fact. Kenkō adds no verdict."}
+  ]
+}

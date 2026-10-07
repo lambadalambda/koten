@@ -1,0 +1,30 @@
+{
+  "number": 101,
+  "title": "The forgotten edict",
+  "translation": [
+    "Someone was directing the ceremony at the banquet for a new minister, and he went up into the hall without taking the emperor's edict from the secretary who was holding it. A terrible blunder. But he couldn't very well walk back down to get it, and he had no idea what to do.",
+    "Then Yasutsuna, a junior secretary, quietly asked one of the court ladies who were watching, robes over their heads, to help. He gave her the edict, and she slipped it to him without anyone noticing.",
+    "Nicely done."
+  ],
+  "original": [
+    "ある{人|ひと}、{任大臣|にんだいじん}の{節会|せちゑ}の{内弁|ないべん}を{勤|つと}められけるに、{内記|ないき}のもちたる{宣命|せんみやう}を{取|と}らずして{堂上|だうしやう}せられにけり。",
+    "きはまりなき{失礼|しちらい}なれども、たちかへり{取|と}るべきにもあらず、{思|おも}ひ{煩|わづら}はれけるに、",
+    "{六位|ろくゐ}の{外記|げき}{康綱|やすつな}、{衣被|きぬかづき}の{女房|にようばう}をかたらひて、かの{宣命|せんみやう}をもたせて、しのびやかに{奉|たてまつ}らせけり。",
+    "いみじかりけり。"
+  ],
+  "literal": [
+    "A certain person, serving as master of ceremonies at the banquet for the appointment of a minister, went up into the hall without taking the edict that the inner secretary was holding.",
+    "It was an extreme breach of etiquette, but it was not possible to go back and take it, and while he was at a loss,",
+    "Yasutsuna, an outer secretary of the sixth rank, persuaded a court lady wearing a robe over her head, had her hold that edict, and had her offer it to him quietly.",
+    "That was splendid."
+  ],
+  "notes": [
+    {"quote": "任大臣の節会", "text": "The banquet held at the palace when a new minister was appointed. The high point was the reading of the emperor's edict of appointment."},
+    {"quote": "内弁", "text": "{内弁|ないべん}: the noble who directs a court ceremony from inside the hall. Every step he takes is fixed by precedent, so a mistake is seen by everyone."},
+    {"quote": "宣命", "text": "{宣命|せんみやう}: an imperial edict written in Japanese, to be read aloud. The {内記|ないき}, a palace secretary, drafted it and handed it over at the right moment."},
+    {"quote": "失礼", "text": "The 1925 edition gives the reading しちらい, an older reading of {失礼|しつれい} 'rudeness, a breach of etiquette'. This page keeps it."},
+    {"quote": "六位の外記康綱", "text": "{外記|げき}: a secretary of the council of state, who kept the records of precedent. The sixth rank was low, far below the man he rescued. Yasutsuna is usually identified as Nakahara no Yasutsuna, a secretary of Kenkō's own time."},
+    {"quote": "衣被の女房", "text": "{衣被|きぬかづき}: a woman with a robe pulled over her head, as court ladies wore it to hide their faces in public. Commentators take her to be one of the ladies watching the ceremony."},
+    {"quote": "いみじかりけり", "text": "'That was splendid', the same short verdict as in section 33. Again the praise goes to someone who knew how things are done and kept calm."}
+  ]
+}

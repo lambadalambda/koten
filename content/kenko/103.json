@@ -1,0 +1,26 @@
+{
+  "number": 103,
+  "title": "A riddle about the doctor",
+  "translation": [
+    "At the Daikakuji palace, the retired emperor's attendants were making up riddles and solving them. Tadamori, the court doctor, walked in, and Kin'aki, a major counsellor, turned him into a riddle on the spot: \"What's a Tadamori that doesn't look Japanese?\"",
+    "Tadamori's family had come from China generations back. Everyone also knew the famous Tadamori of the old war stories, who was a Taira, and the word heishi means both \"a Taira\" and \"a sake jar\". So someone answered, \"A Chinese sake jar!\" They all laughed. Tadamori got angry and walked out."
+  ],
+  "original": [
+    "{大覚寺|だいかくじ}{殿|どの}にて、{近習|きんじふ}の{人|ひと}ども、{謎々|なぞなぞ}をつくりて{解|と}かれけるところへ、{医師|くすし}{忠守|ただもり}{参|まゐ}りたりけるに、",
+    "{侍従|じじゆう}{大納言|だいなごん}{公明|きんあき}{卿|きやう}、「{我|わ}が{朝|てう}のものとも{見|み}えぬ{忠守|ただもり}かな。」となぞなぞにせられたりけるを、",
+    "{唐瓶子|からへいじ}と{解|と}きて{笑|わら}ひあはれければ、{腹立|はらだ}ちてまかでにけり。"
+  ],
+  "literal": [
+    "At the Daikakuji palace, when the close attendants were making riddles and solving them, the physician Tadamori came in,",
+    "and Lord Kin'aki, the Chamberlain Major Counsellor, made it a riddle: 'A Tadamori who does not look like a thing of our country!'",
+    "When they solved it as 'a Chinese sake jar' and laughed together, he got angry and left."
+  ],
+  "notes": [
+    {"quote": "大覚寺殿", "text": "The residence of Retired Emperor Go-Uda (1267–1324) at Daikakuji, a temple in Saga, west of Kyoto. His branch of the imperial family was named after it."},
+    {"quote": "医師忠守", "text": "Tanba no Tadamori, a physician at court. The Tanba family of doctors traced its ancestry back to immigrants from China, which is what the riddle plays on. {医師|くすし}: the reading is the 1925 edition's."},
+    {"quote": "侍従大納言公明卿", "text": "Probably Sanjō Kin'aki (1281–1336), who held the posts of chamberlain ({侍従|じじゆう}) and major counsellor."},
+    {"quote": "唐瓶子", "text": "{瓶子|へいじ}: a tall sake jar, pronounced like {平氏|へいじ}, 'the Taira'. In the Tale of the Heike, courtiers mock Taira no Tadamori (1096–1153) at a palace banquet with a song that turns 'the Taira of Ise' into 'the sake jars of Ise'. So a Tadamori who is not Japanese is a Chinese ({唐|から}) sake jar. The joke works only because everyone knew that story."},
+    {"quote": "我が朝", "text": "{我|わ}が{朝|てう}: 'our court', that is, Japan, as opposed to China ({唐|から}) and India."},
+    {"quote": "まかでにけり", "text": "まかづ: 'to leave' a superior's presence, the humble opposite of {参|まゐ}る 'to come in'. He came in at the start of the sentence and leaves at the end, and Kenkō adds nothing."}
+  ]
+}

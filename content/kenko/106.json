@@ -1,0 +1,40 @@
+{
+  "number": 106,
+  "title": "A holy quarrel",
+  "translation": [
+    "Shōkū, a priest from Mount Kōya, was on his way to the capital. On a narrow path he met a woman on horseback. The man leading her horse was careless and sent the priest's horse into the ditch.",
+    "The priest was furious. \"This is an outrage! Now listen. Of the four kinds of Buddhists, a nun is below a monk, a layman is below a nun, and a laywoman is below a layman. And a mere laywoman like you has a monk kicked into a ditch! A sin without precedent!\"",
+    "\"Sorry, sir, what was that?\" said the man with the horse. \"I didn't understand a word.\"",
+    "That made the priest even angrier. \"What did you say? You ignorant, unschooled oaf!\" he shouted. Then, with the look of a man who has just said something truly outrageous, he turned his horse round and hurried off.",
+    "A very holy quarrel, no doubt."
+  ],
+  "original": [
+    "{高野|かうや}の{証空|しようくう}{上人|しやうにん}{京|きやう}へ{上|のぼ}りけるに、{細道|ほそみち}にて{馬|うま}に{乗|の}りたる{女|をんな}の{行|ゆ}きあひたりけるが、{口|くち}{引|ひ}きける{男|をとこ}あしく{引|ひ}きて、{聖|ひじり}の{馬|うま}を{堀|ほり}へ{落|おと}してけり。",
+    "{聖|ひじり}、いと{腹|はら}あしく{咎|とが}めて、「こは{希有|けう}の{狼藉|らうぜき}かな。",
+    "{四部|しぶ}の{弟子|でし}はよな、{比丘|びく}よりは{比丘尼|びくに}は{劣|おと}り、{比丘尼|びくに}より{優婆塞|うばそく}は{劣|おと}り、{優婆塞|うばそく}より{優婆夷|うばい}は{劣|おと}れり。",
+    "かくの{如|ごと}くの{優婆夷|うばい}などの{身|み}にて、{比丘|びく}を{堀|ほり}に{蹴入|けい}れさする、{未曾有|みぞう}の{悪行|あくぎやう}なり。」といはれければ、",
+    "{口|くち}{引|ひ}きの{男|をとこ}、「いかに{仰|おほ}せらるるやらむ、えこそ{聞|き}き{知|し}らね。」といふに、",
+    "{上人|しやうにん}なほいきまきて、「{何|なに}といふぞ。{非修|ひしゆ}{非学|ひがく}の{男|をのこ}。」とあららかに{言|い}ひて、",
+    "きはまりなき{放言|はうげん}しつと{思|おも}ひける{気色|けしき}にて、{馬|うま}{引|ひ}きかへして{遁|に}げられにけり。",
+    "たふとかりける{諍論|いさかひ}なるべし。"
+  ],
+  "literal": [
+    "When Holy Man Shōkū of Kōya was going up to the capital, on a narrow path a woman riding a horse met him, and the man leading (her horse) by the bit led it badly and made the holy man's horse fall into the ditch.",
+    "The holy man, very angrily, reproached them: 'This is an unheard-of outrage!",
+    "As for the four classes of disciples, listen: nuns are inferior to monks, laymen are inferior to nuns, and laywomen are inferior to laymen.",
+    "That one in the position of such a laywoman should have a monk kicked into a ditch is an evil deed never seen before', he said;",
+    "the man leading the horse said, 'What might you be saying? I cannot understand it at all',",
+    "(and) the holy man, still more enraged, said roughly, 'What do you say? You man of no practice and no learning!',",
+    "and with the look of one who thought he had said something extremely abusive, he turned his horse round and fled.",
+    "It must have been a venerable quarrel."
+  ],
+  "notes": [
+    {"quote": "高野の証空上人", "text": "{高野|かうや}: Mount Kōya, the great monastery of the Shingon school, south of Nara. Nothing certain is known about this Shōkū; he is probably not the well-known Pure Land teacher of the same name."},
+    {"quote": "口引きける男", "text": "The man who walks in front of a horse and leads it by the bit. The woman is riding, and he is leading her horse."},
+    {"quote": "四部の弟子", "text": "The four classes of Buddhists: monks ({比丘|びく}), nuns ({比丘尼|びくに}), laymen ({優婆塞|うばそく}) and laywomen ({優婆夷|うばい}). The words are Sanskrit, written in Chinese characters for their sound (bhikṣu, bhikṣuṇī, upāsaka, upāsikā). The holy man shouts this at a man leading a horse."},
+    {"quote": "えこそ聞き知らね", "text": "え … ず: 'cannot'. こそ needs the realis form, so ず becomes ね. 'I can't understand it at all.' The polite question is the only thing he says."},
+    {"quote": "非修非学の男", "text": "'A man with no practice and no learning': a phrase for an ignorant monk. The priest throws it at a layman who never claimed to be either."},
+    {"quote": "きはまりなき放言しつと思ひける気色にて", "text": "{放言|はうげん}: abusive words, not modern 'careless remark'. {気色|けしき}: a look, an expression (not modern 'scenery'). The text does not say whether he was pleased with himself or ashamed; it only describes his face, and then he runs."},
+    {"quote": "たふとかりける諍論なるべし", "text": "たふとし: 'holy, venerable'. べし: 'surely, must be'. Kenkō's only comment. {諍論|いさかひ}: the reading is the 1925 edition's."}
+  ]
+}

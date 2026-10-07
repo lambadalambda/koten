@@ -1,0 +1,27 @@
+{
+  "number": 110,
+  "title": "Play not to lose",
+  "translation": [
+    "I once asked a man who was supposed to be a master board-game player how he did it. \"Don't play to win,\" he said. \"Play not to lose. Work out which move would make you lose fastest, don't make that one, and go for the move that puts off losing, even by a single point.\"",
+    "That's advice from someone who knows his craft. It works for running your own life, too, and for running a country."
+  ],
+  "original": [
+    "{双六|すぐろく}の{上手|じやうず}といひし{人|ひと}に、その{術|てだて}を{問|と}ひ{侍|はべ}りしかば、",
+    "「{勝|か}たむとうつべからず、{負|ま}けじとうつべきなり。",
+    "いづれの{手|て}か{疾|と}く{負|ま}けぬべきと{案|あん}じて、その{手|て}をつかはずして、{一目|ひとめ}なりとも{遅|おそ}く{負|ま}くべき{手|て}につくべし。」といふ。",
+    "{道|みち}を{知|し}れるをしへ、{身|み}を{修|をさ}め{国|くに}を{保|たも}たむ{道|みち}もまたしかなり。"
+  ],
+  "literal": [
+    "When I asked a person who was called a master of sugoroku about his method,",
+    "he said, 'One should not play trying to win; one should play trying not to lose.",
+    "Consider which move will surely lose quickly, do not use that move, and go with the move by which one will lose later, even by one space.'",
+    "It is the teaching of one who knows the way; the way to govern oneself and keep a country is also like this."
+  ],
+  "notes": [
+    {"quote": "双六", "text": "{双六|すぐろく}: in Kenkō's time, a board game for two played with dice, a relative of backgammon (not the later picture-board game with the same name). It was mostly played for money and was banned again and again (compare section 137, where people play it while waiting for the procession). The 1925 edition gives the reading すぐろく."},
+    {"quote": "その術", "text": "{術|てだて}: 'method, technique'. The reading is the 1925 edition's."},
+    {"quote": "勝たむとうつべからず、負けじとうつべきなり", "text": "うつ: 'to play' a board game; Japanese still 'strikes' go ({碁|ご}を{打|う}つ). む 'I will' against じ 'I will not': two short sentences that mirror each other."},
+    {"quote": "一目", "text": "{一目|ひとめ}: one point or space on the board. Not modern 'one look'."},
+    {"quote": "身を修め国を保たむ道", "text": "An echo of the Confucian Great Learning: cultivate yourself, put your family in order, govern the country, and bring peace to the world. Compare section 109, another lesson taken from an expert at something ordinary."}
+  ]
+}

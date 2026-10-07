@@ -1,0 +1,23 @@
+{
+  "number": 100,
+  "title": "The proper bowl",
+  "translation": [
+    "The Koga Chancellor once asked for water in the courtiers' hall at the palace. The woman on duty brought it in a plain clay cup. \"Bring the proper bowl,\" he said, and he drank from that."
+  ],
+  "original": [
+    "{久我|こが}の{相国|しやうこく}は、{殿上|てんじやう}にて{水|みづ}を{召|め}しけるに、{主殿司|とのもりづかさ}{土器|どき}をたてまつりければ、",
+    "「まがりを{参|まゐ}らせよ。」とて、まがりしてぞめしける。"
+  ],
+  "literal": [
+    "When the Koga Chancellor asked for water in the courtiers' hall, the (woman of the) housekeeping office offered an earthenware cup,",
+    "(and) saying 'Bring a magari', he drank with a magari."
+  ],
+  "notes": [
+    {"quote": "久我の相国", "text": "{相国|しやうこく}: the chancellor (see section 99). He is usually identified as Koga Michimitsu (1187–1248), but commentators do not all agree."},
+    {"quote": "殿上", "text": "{殿上|てんじやう}: the courtiers' hall in the emperor's residence, where nobles of high enough rank waited and met. Being allowed in was a privilege in itself."},
+    {"quote": "主殿司", "text": "{主殿司|とのもりづかさ}: one of the offices of women who served in the palace, in charge of lamps, fuel and cleaning. Readings vary (とのもづかさ is also found)."},
+    {"quote": "土器", "text": "An unglazed clay cup, the cheap kind that was used once and thrown away, mostly for sake. It is usually read かはらけ; the 1925 edition gives どき, which this page keeps."},
+    {"quote": "まがり", "text": "What exactly a まがり was is not certain. Most commentators take it as a bowl, probably of metal or bent wood, that was the correct vessel for water in the courtiers' hall. The translation says 'the proper bowl' for that reason."},
+    {"quote": "まがりしてぞめしける", "text": "ぞ … ける: ぞ needs the attributive form, so けり becomes ける. {召|め}す: here 'to drink' (respectful). Kenkō tells the story and stops. Like section 99, it is a story about court precedent."}
+  ]
+}

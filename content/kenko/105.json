@@ -1,0 +1,29 @@
+{
+  "number": 105,
+  "title": "Frost on the carriage",
+  "translation": [
+    "Snow was still lying in the shade on the north side of the house, frozen hard. A carriage had been drawn up close, and the frost on its shafts glittered. The moon was still out at dawn, bright but not quite clear. In the corridor of a lonely chapel, a man who was clearly someone of rank sat on the edge of the floor with a woman, talking. What about? It looked as if they would never run out of things to say.",
+    "The line of her head and her face looked lovely, and all at once a wonderful scent drifted over. Now and then a few words carried across, and you wanted to hear the rest."
+  ],
+  "original": [
+    "{北|きた}の{家|や}かげに{消|き}え{残|のこ}りたる{雪|ゆき}の、いたう{凍|こほ}りたるに、さし{寄|よ}せたる{車|くるま}の{轅|ながえ}も、{霜|しも}いたくきらめきて、{有明|ありあけ}の{月|つき}さやかなれども、{隈|くま}なくはあらぬに、",
+    "{人|ひと}ばなれなる{御堂|みだう}の{廊|らう}に、なみなみにはあらずと{見|み}ゆる{男|をとこ}、{女|をんな}と{長押|なげし}に{尻|しり}かけて、{物語|ものがたり}するさまこそ、{何事|なにごと}にかあらむ、{尽|つ}きすまじけれ。",
+    "かぶし、かたちなどいとよしと{見|み}えて、えもいはぬ{匂|にほ}ひの、さとかをりたるこそをかしけれ。",
+    "けはひなど、はつれはつれ{聞|きこ}えたるもゆかし。"
+  ],
+  "literal": [
+    "The snow remaining in the shade of the house on the north side was frozen hard, the frost on the shafts of the carriage drawn up close glittered greatly, and the dawn moon was clear but not without shadow;",
+    "in the corridor of a chapel far from people, a man who looked not at all ordinary sat with a woman on the beam, talking: what about, I wonder? It seems it would never end.",
+    "The shape of her head and her looks seemed very fine, and an indescribable scent suddenly drifting over was delightful.",
+    "Their voices and manner, heard in snatches, are also intriguing."
+  ],
+  "notes": [
+    {"quote": "北の家かげ", "text": "{家|や}かげ: the shade of the building. On the north side the sun never reaches, so the snow stays. The 1925 edition gives the reading や."},
+    {"quote": "車の轅", "text": "{轅|ながえ}: the long shafts of an ox carriage. When the ox was unhitched, the shafts rested on a stand. The carriage has been waiting all night in the cold."},
+    {"quote": "有明の月", "text": "{有明|ありあけ}の{月|つき}: the moon that is still in the sky at dawn, late in the month. In poetry it is the moon of lovers who have to part."},
+    {"quote": "長押に尻かけて", "text": "{長押|なげし}: a horizontal beam along the edge of the raised floor. Sitting on it with your feet hanging down is informal."},
+    {"quote": "何事にかあらむ", "text": "An aside in the middle of the sentence: 'what can it be about?' The narrator is too far away to hear. こそ … まじけれ then closes the sentence: まじ 'surely not' in its realis form."},
+    {"quote": "かぶし", "text": "かぶし: probably the shape of the head, or the way someone holds it. The word is rare and commentators differ. It is usually taken to describe the woman."},
+    {"quote": "はつれはつれ", "text": "'In snatches, bits at a time'. ゆかし: 'I want to know more', the same word as in section 52."}
+  ]
+}
