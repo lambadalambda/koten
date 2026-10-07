@@ -1,5 +1,7 @@
 # Translation style
 
+**Why:** a translation that sounds faithful pushes the modern reader away and hides how the author actually thought. The goal is to show his mindset as a reader today would feel it. Exact wording is one click away, in the literal layer, the notes and many other sources, so this is not simplifying.
+
 Keep the original meaning and seriousness. Don't sound stuffy. Don't make up cool extras, and don't use slang that does not fit.
 
 The main translation should read like a natural blog post from last week. **The modern reader comes first:** if a sentence sounds like a translation, rewrite it, even if a more exact version exists. Precision lives in the literal layer and the notes.
