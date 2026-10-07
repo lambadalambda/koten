@@ -42,6 +42,7 @@ In one line: keep the meaning and the seriousness, don't sound stuffy, don't mak
 
 - Dialogue sounds like people talking; contractions are fine.
 - Where Kenkō names a category, a concrete example from his own world is fine if the category covers it ("every art" → "music, games, anything").
+- Never "and so on" or "etc." for など. Either name the things or end the list.
 - British spelling (practise, recognise).
 
 ## Experiments
