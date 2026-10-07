@@ -1,0 +1,21 @@
+{
+  "number": 46,
+  "title": "The Robber Bishop",
+  "translation": [
+    "Near Yanagihara there lived a priest everyone called the Robber Bishop. Apparently he'd been robbed so many times that people started calling him that."
+  ],
+  "original": [
+    "{柳原|やなぎはら}の{辺|ほとり}に、{強盗|がうだう}{法印|ほふいん}と{号|がう}する{僧|そう}ありけり。",
+    "{度々|たびたび}{強盗|がうだう}にあひたる{故|ゆゑ}に、この{名|な}をつけにけるとぞ。"
+  ],
+  "literal": [
+    "Around Yanagihara there was a priest called the Robber Hōin.",
+    "It is said that, because he had met with robbers many times, he was given this name."
+  ],
+  "notes": [
+    {"quote": "柳原", "text": "Yanagihara: an area of Kyoto, probably in the north-east of the city. The exact place is not certain."},
+    {"quote": "強盗法印", "text": "{強盗|がうだう}: 'robber, armed robbery'. Modern ごうとう. {法印|ほふいん}: the highest honorary rank for priests, so the translation says 'bishop' (compare section 45). The name sounds like he is the robber."},
+    {"quote": "号する", "text": "{号|がう}す: 'to be called, to go by the name'."},
+    {"quote": "この名をつけにけるとぞ", "text": "とぞ: 'so they say'. The verb (いふ, 'they say') is left out, a common way to end a story heard from others. The whole section is two sentences long: the name, and the explanation."}
+  ]
+}

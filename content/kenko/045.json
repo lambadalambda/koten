@@ -1,0 +1,31 @@
+{
+  "number": 45,
+  "title": "The Nettle Tree Bishop",
+  "translation": [
+    "Ryōgaku, the bishop, was the older brother of Kinyo, a nobleman of the second rank, and he had a terrible temper. There was a big nettle tree next to his lodgings, so people called him \"the Nettle Tree Bishop\". He decided that wouldn't do and had the tree cut down.",
+    "The stump was still there, so people called him \"the Stump Bishop\". Now he was really angry. He had the stump dug up and thrown away, and that left a big ditch. So people called him \"the Ditch Bishop\"."
+  ],
+  "original": [
+    "{公世|きんよ}の{二位|にゐ}の{兄|せうと}に、{良覚僧正|りやうがくそうじやう}と{聞|きこ}えしは{極|きは}めて{腹|はら}{悪|あ}しき{人|ひと}なりけり。",
+    "{坊|ばう}の{傍|かたはら}に{大|おほ}きなる{榎|えのき}ありければ、{人|ひと}、「{榎|えのき}の{僧正|そうじやう}」とぞいひける。",
+    "この{名|な}{然|しか}るべからずとて、かの{木|き}を{切|き}られにけり。",
+    "その{根|ね}のありければ、「{切杭|きりくひ}の{僧正|そうじやう}」といひけり。",
+    "{愈|いよいよ}{腹立|はらだ}ちて、{切杭|きりくひ}を{掘|ほ}りすてたりければ、その{跡|あと}{大|おほ}きなる{堀|ほり}にてありければ、「{堀池|ほりいけ}の{僧正|そうじやう}」とぞいひける。"
+  ],
+  "literal": [
+    "The man known as Bishop Ryōgaku, older brother of Kinyo of the Second Rank, was an extremely bad-tempered person.",
+    "Since there was a big nettle tree beside his lodging, people called him 'the Nettle Tree Bishop'.",
+    "Saying this name was not proper, he had that tree cut down.",
+    "Since its root remained, they called him 'the Stump Bishop'.",
+    "He got angrier still and had the stump dug up and thrown away, and since the spot became a big ditch, they called him 'the Ditch-Pond Bishop'."
+  ],
+  "notes": [
+    {"quote": "公世の二位", "text": "Fujiwara no Kinyo (died 1301), a courtier of the second rank and a poet."},
+    {"quote": "兄", "text": "{兄|せうと}: 'brother'. Here, the older brother. Not modern あに, though the kanji is the same."},
+    {"quote": "良覚僧正", "text": "{僧正|そうじやう}: the highest rank in the priesthood. The translation says 'bishop'."},
+    {"quote": "腹悪しき人", "text": "{腹|はら}{悪|あ}し: 'bad-tempered'. The belly ({腹|はら}) is where anger lives; modern {腹|はら}が{立|た}つ 'to get angry' uses the same image, and so does {腹立|はらだ}ちて later in this section."},
+    {"quote": "榎", "text": "{榎|えのき}: the Chinese nettle tree (Celtis), a large shade tree, often planted along roads."},
+    {"quote": "切られにけり", "text": "れ: the respectful る, for the bishop. He did not cut it himself; he had it cut."},
+    {"quote": "堀池の僧正", "text": "{堀|ほり}: a ditch or moat, often filled with water, so 'ditch-pond'. Each attempt to get rid of the name gives people a new one. ぞ … ける closes the story, and Kenkō adds nothing."}
+  ]
+}

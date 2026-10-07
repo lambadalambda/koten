@@ -1,0 +1,28 @@
+{
+  "number": 48,
+  "title": "The tray under the blind",
+  "translation": [
+    "Lord Mitsuchika was in charge of the retired emperor's yearly sutra lectures. The retired emperor called him into his presence and had a meal served to him. When Mitsuchika had finished, he pushed the tray, with the leftovers all over it, in under the blind, and left.",
+    "The ladies-in-waiting were horrified. \"Ugh, how disgusting. Who does he expect to clear that away?\" But the retired emperor kept saying how impressed he was. \"That's a man who knows court custom. Exactly right.\""
+  ],
+  "original": [
+    "{光親卿|みつちかきやう}、{院|ゐん}の{最勝講|さいしようかう}{奉行|ぶぎやう}してさぶらひけるを、{御前|おまへ}へ{召|め}されて、{供御|ぐご}をいだされて{食|く}はせられけり。",
+    "もの{食|く}ひ{散|ち}らしたる{衝重|ついがさね}を、{御簾|みす}の{中|うち}へさし{入|い}れてまかり{出|い}でにけり。",
+    "{女房|にようばう}、「あな{汚|きた}な。{誰|たれ}に{取|と}れとてか。」など{申|まう}しあはれければ、「{有職|いうそく}のふるまひ、やんごとなき{事|こと}なり。」とかへすがへす{感|かん}ぜさせ{給|たま}ひけるとぞ。"
+  ],
+  "literal": [
+    "Lord Mitsuchika was serving as the official in charge of the retired emperor's Saishō lectures, and he was called into (the retired emperor's) presence, and the imperial food was brought out and he was made to eat.",
+    "He pushed the tray-stand, on which he had eaten and scattered things, inside the blind and withdrew.",
+    "When the ladies-in-waiting said to one another things like 'Oh, how dirty! Whom does he expect to take it?', (the retired emperor) said, 'Behaviour that knows precedent: a very fine thing', and admired it over and over, so it is said."
+  ],
+  "notes": [
+    {"quote": "光親卿", "text": "Fujiwara no Mitsuchika (1176–1221), a senior official of Retired Emperor Go-Toba. After Go-Toba's failed rising against the shogunate in 1221, Mitsuchika was executed as one of its leaders. The retired emperor in this story is usually taken to be Go-Toba."},
+    {"quote": "院の最勝講", "text": "{最勝講|さいしようかう}: lectures on the Golden Light Sutra (see section 22). The retired emperor held his own series at his palace. {奉行|ぶぎやう}: the official in charge of organising it."},
+    {"quote": "供御", "text": "{供御|ぐご}: food for the emperor or retired emperor. Being served from his table was an honour."},
+    {"quote": "衝重", "text": "{衝重|ついがさね}: a small wooden tray on a stand, used to serve food to one person."},
+    {"quote": "御簾の中へさし入れて", "text": "The retired emperor sat behind a blind ({御簾|みす}), with his ladies. Pushing the dirty tray back in looks rude, but the retired emperor praises it as the correct form: food from his table was presumably to be returned to his side, not left outside. The text gives only the verdict, not the rule."},
+    {"quote": "あな汚な。誰に取れとてか", "text": "あな: 'oh!'. {汚|きた}な: the stem of {汚|きたな}し, used as an exclamation. 'Who does he think will pick it up?'."},
+    {"quote": "有職のふるまひ", "text": "{有職|いうそく}: knowledge of court precedent and custom (see sections 1 and 33)."},
+    {"quote": "感ぜさせ給ひけるとぞ", "text": "させ{給|たま}ふ: a double honorific, used only for the highest people, here the retired emperor. とぞ: 'so they say', with the verb left out (compare section 46)."}
+  ]
+}

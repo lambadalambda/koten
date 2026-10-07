@@ -1,0 +1,24 @@
+{
+  "number": 37,
+  "title": "Manners with old friends",
+  "translation": [
+    "Take someone you see every day, someone you're completely used to. Now and then they turn careful around you and mind their manners. Some people would say, \"Why bother, after all this time?\" I think it shows a really decent person.",
+    "It works the other way round too. When someone you barely know says something relaxed and open, you can't help liking them."
+  ],
+  "original": [
+    "{朝夕|あさゆふ}へだてなく{馴|な}れたる{人|ひと}の、ともある{時|とき}に、{我|われ}に{心|こころ}をおき、ひきつくろへる{様|さま}に{見|み}ゆるこそ、{今更|いまさら}かくやはなどいふ{人|ひと}もありぬべけれど、{猶|なほ}げにげにしくよき{人|ひと}かなとぞ{覚|おぼ}ゆる。",
+    "{疎|うと}き{人|ひと}のうちとけたる{事|こと}などいひたる、またよしと{思|おも}ひつきぬべし。"
+  ],
+  "literal": [
+    "That a person one is used to morning and evening without distance should, on some occasion, be reserved towards me and seem to be on their best behaviour: there may well be people who say things like 'Why like this, now?', but still I feel 'what a truly sincere, good person'.",
+    "That a distant person says something open and relaxed: one will surely also take to them, thinking it good."
+  ],
+  "notes": [
+    {"quote": "ともある時に", "text": "'On some occasion, now and then'. Not always: the point is that the old friend is careful only sometimes."},
+    {"quote": "我に心をおき", "text": "{心|こころ}をおく: 'to hold back, to be reserved with someone'. Close to modern {気|き}を{遣|つか}う. ひきつくろふ: 'to tidy oneself up, to mind one's manners'."},
+    {"quote": "今更かくやは", "text": "やは: a rhetorical question, 'why like this, now? (No need.)'. Kenkō gives the objection first, then disagrees."},
+    {"quote": "ありぬべけれど", "text": "こそ … べけれど: the こそ clause runs on with ど 'but', so it means 'although'. The same pattern as in section 1."},
+    {"quote": "げにげにしく", "text": "げにげにし: 'serious, sincere, solid'. The person really is what they seem."},
+    {"quote": "思ひつきぬべし", "text": "{思|おも}ひつく: 'to take a liking to someone'. A false friend: modern {思|おも}いつく means 'to think of (an idea)'."}
+  ]
+}

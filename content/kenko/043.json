@@ -1,0 +1,28 @@
+{
+  "number": 43,
+  "title": "A young man reading",
+  "translation": [
+    "Late in spring, on a calm, soft, lovely day, I passed a house that clearly belonged to people of some standing. It stood far back among old trees, and fallen petals lay limp in the garden. I couldn't just walk past, so I went in to have a look.",
+    "The lattice shutters on the south side were all closed, and the place felt lonely. But on the east side a door stood open just the right amount, and through a tear in the blind I saw a good-looking young man of about twenty. He was dressed casually, but there was something quiet and graceful about him. He sat at a desk with a book spread open in front of him, reading.",
+    "Who was he? I'd love to know."
+  ],
+  "original": [
+    "{春|はる}の{暮|くれ}つかた、のどやかに{艶|えん}なる{空|そら}に、{賤|いや}しからぬ{家|いへ}の、{奥深|おくふか}く{木立|こだち}ものふりて、{庭|には}に{散|ち}りしをれたる{花|はな}{見過|みすぐ}しがたきを、さし{入|い}りて{見|み}れば、{南面|みなみおもて}の{格子|かうし}を{皆|みな}{下|おろ}して、さびしげなるに、",
+    "{東|ひむがし}にむきて{妻戸|つまど}のよきほどに{開|あ}きたる、{御簾|みす}のやぶれより{見|み}れば、かたち{清|きよ}げなる{男|をのこ}の、{年|とし}{二十|はたち}ばかりにて、うちとけたれど、{心|こころ}にくくのどやかなる{様|さま}して、{机|つくゑ}の{上|うへ}に{書|ふみ}をくりひろげて{見|み}{居|ゐ}たり。",
+    "いかなる{人|ひと}なりけむ、たづね{聞|き}かまほし。"
+  ],
+  "literal": [
+    "Towards the end of spring, under a calm and lovely sky, at a house that was not humble, deep inside, the trees aged, the blossoms scattered and wilted in the garden were hard to pass by, so I went in and looked: all the lattice shutters on the south side were lowered and it looked lonely, but",
+    "facing east, a double door was open just the right amount, and when I looked through a tear in the blind, a young man, clean-looking in appearance, about twenty years old, relaxed but with an admirable and calm manner, had a book unrolled on the desk and was sitting looking at it.",
+    "What kind of person might he have been? I would like to ask and find out."
+  ],
+  "notes": [
+    {"quote": "艶なる空", "text": "{艶|えん}: 'lovely, elegant, refined'. A false friend: modern {艶|つや} is 'gloss', and {艶|えん} in modern words often means 'alluring, sexy'."},
+    {"quote": "散りしをれたる花", "text": "The same image as in section 137: the garden of fallen, wilted petals is worth seeing, not just the full bloom."},
+    {"quote": "南面の格子を皆下して", "text": "{格子|かうし}: lattice shutters on the outside of a noble house, raised in the daytime and lowered at night. All lowered in the daytime: the main rooms are closed, and the house looks half empty."},
+    {"quote": "妻戸", "text": "{妻戸|つまど}: a hinged wooden double door at the corner of a mansion, unlike the sliding and lifting shutters elsewhere. Behind it hangs a blind ({御簾|みす}), torn, which is how Kenkō sees in."},
+    {"quote": "心にくく", "text": "{心|こころ}にくし: 'admirable, refined', the kind of quality that makes you curious (see section 150)."},
+    {"quote": "書をくりひろげて", "text": "くりひろぐ: 'to unroll and open', as you would a scroll or a book. {書|ふみ}: 'a book'; the word often means Chinese learning, so he was probably reading something serious."},
+    {"quote": "いかなる人なりけむ、たづね聞かまほし", "text": "けむ: a guess about the past, 'who might he have been?'. まほし: 'I would like to'. The section is a single scene with no story, and it ends on a question."}
+  ]
+}

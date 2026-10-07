@@ -1,0 +1,33 @@
+{
+  "number": 42,
+  "title": "A demon's face",
+  "translation": [
+    "Gyōga, a son of the Karahashi captain, was a senior priest who taught Buddhist doctrine to other priests. He suffered from rushes of blood to the head. As he got older, his nose blocked up until he could hardly breathe. He tried all kinds of treatment, but it only got worse. His eyes, eyebrows and forehead swelled up and covered his face, so he couldn't see anything.",
+    "At first he looked like the swollen mask in an old comic court dance. Then he turned into something terrifying, a demon's face, with his eyes up near the top of his head and his nose where his forehead used to be. In the end he shut himself away and wouldn't let even the people in his own temple see him. He lived like that for years, got worse, and died.",
+    "So there are illnesses like that."
+  ],
+  "original": [
+    "{唐橋|からはし}の{中将|ちゆうじやう}といふ{人|ひと}の{子|こ}に、{行雅僧都|ぎやうがそうづ}とて、{教相|けうさう}の{人|ひと}の{師|し}する{僧|そう}ありけり。",
+    "{気|け}のあがる{病|やまひ}ありて、{年|とし}のやうやうたくるほどに、{鼻|はな}の{中|なか}ふたがりて、{息|いき}も{出|い}でがたかりければ、さまざまにつくろひけれど、{煩|わづら}はしくなりて、{目|め}{眉|まゆ}{額|ひたひ}なども{腫|は}れまどひて、うち{覆|おほ}ひければ、{物|もの}も{見|み}えず、",
+    "{二|に}の{舞|まひ}の{面|おもて}の{様|やう}に{見|み}えけるが、ただ{恐|おそ}ろしく{鬼|おに}の{顔|かほ}になりて、{目|め}は{頂|いただき}の{方|かた}につき、{額|ひたひ}の{程|ほど}{鼻|はな}になりなどして、",
+    "{後|のち}は、{坊|ばう}の{内|うち}の{人|ひと}にも{見|み}えず{籠|こも}り{居|ゐ}て、{年|とし}{久|ひさ}しくありて、{猶|なほ}{煩|わづら}はしくなりて{死|し}ににけり。",
+    "かかる{病|やまひ}もある{事|こと}にこそありけれ。"
+  ],
+  "literal": [
+    "Among the children of a person called the Karahashi Middle Captain, there was a priest called Gyōga, a bishop, who was a teacher of people in doctrinal studies.",
+    "He had an illness where the humours rise, and as the years gradually advanced, the inside of his nose became blocked and even his breath could hardly come out, so he treated it in various ways, but it became troublesome, and his eyes, eyebrows, forehead and so on swelled up wildly and covered (his face), so he could not see anything,",
+    "and he looked like the mask of the Ni-no-mai, but then he simply became frighteningly a demon's face, his eyes set towards the top of his head, the area of his forehead became his nose, and so on,",
+    "and afterwards he shut himself in, not being seen even by the people inside his lodging, and after it had been so for many years, it became still more troublesome, and he died.",
+    "So there are such illnesses too."
+  ],
+  "notes": [
+    {"quote": "唐橋の中将", "text": "A Middle Captain of the guards from the Karahashi family, a branch of the Minamoto. Commentators usually identify him as Minamoto no Masakiyo (1182–1230). Nothing else is known about Gyōga."},
+    {"quote": "行雅僧都", "text": "{僧都|そうづ}: one of the high ranks of the priesthood, just below the top rank ({僧正|そうじやう}, see section 45)."},
+    {"quote": "教相の人の師する僧", "text": "{教相|けうさう}: the study of doctrine in esoteric Buddhism, as opposed to {事相|じさう}, the practice of the rituals. Gyōga was a teacher of teachers, a learned man."},
+    {"quote": "気のあがる病", "text": "{気|け}: here something like 'the humours, the blood'. An illness where it rises to the head, with flushing and swelling. What he really had is anyone's guess; the text describes only what people saw."},
+    {"quote": "二の舞の面", "text": "{二|に}の{舞|まひ}: a comic court dance in which an old man and an old woman clumsily copy the dance before it. Their masks have exaggerated faces; the old woman's mask is usually described as swollen. The modern idiom {二|に}の{舞|まひ}を{演|えん}じる, 'to repeat someone else's mistake', comes from this dance."},
+    {"quote": "坊の内の人にも見えず", "text": "{坊|ばう}: a priest's lodging inside a temple. {見|み}えず: 'not letting himself be seen'."},
+    {"quote": "死ににけり", "text": "ぬ + けり: 'he died, so it is said'. Told flat, with no word of pity."},
+    {"quote": "かかる病もある事にこそありけれ", "text": "こそ … けれ, with けり of realisation: 'so such illnesses really exist'. That is the whole of Kenkō's comment."}
+  ]
+}

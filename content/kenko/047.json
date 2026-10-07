@@ -1,0 +1,28 @@
+{
+  "number": 47,
+  "title": "Bless you",
+  "translation": [
+    "Someone was on his way to Kiyomizu Temple, and an old nun was walking with him. The whole way, she kept saying \"Bless you, bless you.\" \"What's that you're saying, mother?\" he asked. She didn't answer and kept on saying it. He asked again and again, until she got cross.",
+    "\"Oh, for goodness' sake! They say if you sneeze and nobody says this, you die. The boy I nursed is a page up at the temple on Mount Hiei now, and he might be sneezing this very minute. That's why I'm saying it.\"",
+    "You don't see devotion like that every day."
+  ],
+  "original": [
+    "ある{人|ひと}{清水|きよみづ}へまゐりけるに、{老|お}いたる{尼|あま}の{行|ゆ}きつれたりけるが、{道|みち}すがら、「{嚔|くさめ}{嚔|くさめ}」といひもて{行|ゆ}きたれば、「{尼|あま}{御前|ごぜ}{何事|なにごと}をかくは{宣|のたま}ふぞ。」と{問|と}ひけれども、{答|こた}へもせず、{猶|なほ}いひ{止|や}まざりけるを、",
+    "{度々|たびたび}とはれて、うち{腹|はら}だちて、「やや、{嚔|はな}ひたる{時|とき}、かく{呪|まじな}はねば{死|し}ぬるなりと{申|まう}せば、{養|やしな}ひ{君|ぎみ}の、{比叡|ひえ}の{山|やま}に{児|ちご}にておはしますが、ただ{今|いま}もや{嚔|はな}ひ{給|たま}はむと{思|おも}へば、かく{申|まう}すぞかし。」といひけり。",
+    "あり{難|がた}き{志|こころざし}なりけむかし。"
+  ],
+  "literal": [
+    "When a certain person went to Kiyomizu, an old nun was walking along with him, and on the way she went on saying 'Kusame, kusame', so he asked, 'Honoured nun, what is it you are saying like this?', but she did not answer and still did not stop saying it;",
+    "being asked many times, she got angry: 'Oh dear! Since they say that when one sneezes, one dies unless one says a charm like this, and since the young lord I raised is a page on Mount Hiei, and I think he may be sneezing right now, I am saying it like this', she said.",
+    "It must have been a rare devotion."
+  ],
+  "notes": [
+    {"quote": "清水", "text": "Kiyomizu-dera, the temple on the eastern hills of Kyoto. It was a popular place for pilgrimages then, and it still is."},
+    {"quote": "嚔嚔", "text": "くさめ: a charm word said when someone sneezed, to ward off bad luck. People believed a sneeze could let something bad in, or be a sign of it. The translation uses 'Bless you', which comes from a similar custom. Modern くしゃみ, 'sneeze', comes from this word."},
+    {"quote": "尼御前", "text": "{尼|あま}{御前|ごぜ}: a polite way to address a nun, 'honoured nun'. The translation says 'mother', a natural way to address an elderly nun in English."},
+    {"quote": "嚔ひたる時", "text": "{嚔|はな}ふ (はなひる): 'to sneeze'. The charm word and the verb share the kanji 嚔, with different readings."},
+    {"quote": "養ひ君", "text": "{養|やしな}ひ{君|ぎみ}: the young lord she nursed or raised. She was probably his wet nurse. Nurses often stayed attached to their foster children all their lives."},
+    {"quote": "比叡の山に児にて", "text": "{比叡|ひえ}の{山|やま}: Mount Hiei, north-east of Kyoto, with the great temple Enryakuji. {児|ちご}: a boy from a good family living at a temple as a page and pupil. The mountain is far from Kiyomizu; she says the charm for him anyway."},
+    {"quote": "あり難き志なりけむかし", "text": "ありがたし: 'rare' (see section 36). {志|こころざし}: 'devotion, care for someone'. けむ: a guess about the past, かし: emphasis. 'It must have been a rare devotion indeed.'"}
+  ]
+}

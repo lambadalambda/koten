@@ -1,0 +1,23 @@
+{
+  "number": 40,
+  "title": "The girl who ate chestnuts",
+  "translation": [
+    "There was a lay monk in Inaba, So-and-so, and his daughter was said to be beautiful. Plenty of men came asking for her. But she ate nothing but chestnuts and never touched rice or any other grain. \"A girl that strange shouldn't marry anyone,\" her father said, and he turned them all down."
+  ],
+  "original": [
+    "{因幡|いなば}の{国|くに}に、{何|なに}の{入道|にふだう}とかやいふものの{女|むすめ}、かたちよしと{聞|き}きて、{人|ひと}{数多|あまた}いひわたりけれども、",
+    "この{女|むすめ}ただ{栗|くり}をのみ{食|く}ひて、{更|さら}に{米|よね}のたぐひを{食|く}はざりければ、「かかる{異様|ことやう}のもの、{人|ひと}に{見|まみ}ゆべきにあらず。」とて{親|おや}ゆるさざりけり。"
+  ],
+  "literal": [
+    "In the province of Inaba, hearing that the daughter of someone called 'such-and-such lay monk' was good-looking, many people kept proposing to her, but",
+    "this daughter ate only chestnuts and did not eat grain of any kind at all, so saying, 'Such a strange creature should not be seen by a man', her parent did not allow it."
+  ],
+  "notes": [
+    {"quote": "因幡の国", "text": "Inaba: a province on the Sea of Japan coast, the eastern part of today's Tottori Prefecture."},
+    {"quote": "何の入道とかや", "text": "{入道|にふだう}: a man who had taken Buddhist vows but went on living at home, often an older official or landowner. {何|なに}の … とかや: 'some so-and-so, I think it was'. Kenkō does not remember the name, or does not give it."},
+    {"quote": "いひわたりけれども", "text": "いひわたる: 'to keep on courting, to propose again and again'. Many men did."},
+    {"quote": "更に米のたぐひを食はざりければ", "text": "{更|さら}に … ず: 'not at all'. {米|よね}: rice, an old word. Avoiding grains was a known practice of hermits and ascetics; some commentators connect the girl with it. The text gives no reason at all."},
+    {"quote": "人に見ゆべきにあらず", "text": "{見|まみ}ゆ: 'to be seen by', here 'to be married to'. For a woman of her class, being seen by a man meant marriage."},
+    {"quote": "親ゆるさざりけり", "text": "{親|おや}: 'parent'. The text does not say which one; most readers assume the father, the 'lay monk'. The section ends here, with no comment from Kenkō."}
+  ]
+}
