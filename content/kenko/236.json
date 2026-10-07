@@ -2,10 +2,10 @@
   "number": 236,
   "title": "The lions that faced the wrong way",
   "translation": [
-    "In Tanba there is a place called Izumo. Someone brought over the spirit of the great Izumo Shrine and built a fine shrine for it. The land belonged to a man called Shida-something, and one autumn he invited the holy man Shōkai and many other people. \"Come along, let's go and worship at Izumo. I'll treat you all to rice cakes.\" So they went, and everyone worshipped and felt very devout.",
-    "The guardian lions in front of the shrine were standing back to front. The holy man was deeply moved. \"Oh, how wonderful! What an unusual way to place the lions. There must be a deep meaning behind it.\" His eyes filled with tears. \"Gentlemen, don't you notice this extraordinary thing? Shame on you!\"",
-    "Now everyone was amazed. \"It really is different from anywhere else. We must tell them about this back in the capital.\" But the holy man wanted to know more, and he called over a shrine official who looked mature and knowledgeable. \"The way the lions of this shrine are placed must surely follow some tradition. I would be grateful to hear about it.\"",
-    "\"Ah, that,\" said the official. \"Some naughty kids did that. Outrageous.\" He walked over, put them back the right way round, and left. And so the holy man's tears of emotion were wasted."
+    "In Tanba there's a place called Izumo, with a fine shrine they built by bringing over the god of the great Izumo Shrine. The land belonged to a man called Shida-something, and one autumn he invited the priest Shōkai and a whole group of others: \"Come on, let's go to Izumo and pray. I'll treat you to rice cakes.\" So they all went, said their prayers, and felt very devout.",
+    "The guardian lions in front of the shrine were standing back to front. Shōkai was deeply moved. \"Oh, how wonderful! I've never seen the lions placed like this. There must be some deep meaning to it.\" His eyes filled with tears. \"Come on, don't any of you see how special this is? Honestly!\"",
+    "Now everyone was amazed. \"It really is like nowhere else. We have to tell them about this back home.\" But Shōkai wanted to know more. He called over one of the shrine staff, an older man who looked like he'd know. \"The way the lions here are placed must surely follow some tradition. I'd love to hear about it.\"",
+    "\"Oh, that,\" the man said. \"Some naughty children did that. Outrageous.\" He walked over, turned them back the right way, and left. So Shōkai's tears were for nothing."
   ],
   "original": [
     "{丹波|たんば}に{出雲|いづも}といふ{所|ところ}あり。",
@@ -32,9 +32,9 @@
     {"quote": "かいもちひ召させむ", "text": "The host gets his guests to come with food. かいもちひ is some kind of rice cake or dumpling; scholars do not agree on the exact dish. {召|め}させむ: {召|め}さ, from {召|め}す 'to eat' (respectful), + せ, from す 'have someone do', + む 'I will'."},
     {"quote": "獅子狛犬", "text": "A pair of guardian figures in front of a shrine: a lion ({獅子|しし}) and a 'Korean dog' ({狛犬|こまいぬ}). In Kenkō's time they were probably small wooden figures directly in front of the sanctuary, not the big stone pairs at the gate that you see today. That is why the official can simply walk over and turn them round. They normally face outward, toward the people who come, to guard the shrine. These two had turned their backs on the visitors."},
     {"quote": "深き故あらむ", "text": "む: a guess, 'there must be'. This is Kenkō's target: the man who finds deep meaning everywhere before he asks a simple question."},
-    {"quote": "無下なり", "text": "{無下|むげ}: 'terrible, beneath contempt'. The holy man scolds the others for not being moved. A minute later they are all moved."},
+    {"quote": "無下なり", "text": "{無下|むげ}: 'terrible, beneath contempt'. Shōkai scolds the others for not being moved. A minute later they are all moved."},
     {"quote": "おとなしく物知りぬべき顔したる", "text": "おとなし is a false friend: 'mature, sensible', not modern 'quiet'. ぬべき: 'surely'. The official looks like an expert, and he is one, about one simple fact."},
-    {"quote": "さがなき童どもの仕りける", "text": "さがなし: 'mischievous, naughty'. After the holy man's long, polite and moved speech, the answer comes in two flat sentences. The official speaks in polite {候|さうらふ} style, which makes it even drier."},
+    {"quote": "さがなき童どもの仕りける", "text": "さがなし: 'mischievous, naughty'. After Shōkai's long, polite and moved speech, the answer comes in two flat sentences. The official speaks in polite {候|さうらふ} style, which makes it even drier."},
     {"quote": "感涙いたづらになりにけり", "text": "いたづら: 'useless, in vain'. In modern Japanese, いたずら means 'a prank', and the tears were caused by a prank. That double meaning is an accident of later language history, but it fits too well to leave out. (The old meaning also survives: modern いたずらに means 'in vain'.)"}
   ]
 }

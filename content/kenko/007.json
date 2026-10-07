@@ -2,10 +2,10 @@
   "number": 7,
   "title": "If we lived forever",
   "translation": [
-    "If the dew on Adashino never faded, if the smoke over Toribeyama never drifted away, if we simply went on living forever, how could anything ever move us? It is exactly because nothing lasts that the world is wonderful.",
-    "Look at living things: none of them lives as long as we do. The mayfly is gone by evening, and the summer cicada never knows spring or autumn. Live even a single year with your full attention, and it is a long, unhurried time. But if you never feel you have had enough, a thousand years would pass like one night's dream.",
-    "We can't stay in this world anyway, so why hang on until we turn ugly? A long life brings a lot of shame. Better to die before forty, at the latest. That is the decent thing.",
-    "Past that age, people are no longer embarrassed by how they look. They want to go out and mix with others. In the evening of their lives they dote on their grandchildren and hope to live long enough to see them do well. They cling to the world more and more greedily, and lose all feeling for the beauty of things. It is pathetic."
+    "If the dew on the graves at Adashino never dried, if the smoke from the pyres at Toribeyama never cleared, if we just went on living forever, nothing would ever move us. The world is wonderful because nothing in it lasts.",
+    "Look at anything alive: nothing lives as long as we do. Mayflies are gone by evening. Summer cicadas never see spring or autumn. Even one year, if you really live it, is a long, easy stretch of time. But if you never feel you've had enough, a thousand years would go by like one night's dream.",
+    "We can't stay here forever anyway, so why hang on until we're ugly? The longer you live, the more you embarrass yourself. Before forty, at the latest: that's a decent time to go.",
+    "After that, people stop being embarrassed about how they look. They want to be out and about with everyone. In the evening of their lives they fuss over their grandchildren and want to live long enough to see them do well. All that's left is a greedy grip on the world, and they stop feeling anything for the beauty of things. It's pathetic."
   ],
   "original": [
     "あだし{野|の}の{露|つゆ}{消|き}ゆる{時|とき}なく、{鳥部山|とりべやま}の{煙|けぶり}{立|た}ちさらでのみ{住|す}み{果|は}つる{習|なら}ひならば、いかに{物|もの}の{哀|あは}れもなからむ。",
@@ -37,7 +37,7 @@
     {"quote": "いかに物の哀れもなからむ", "text": "{物|もの}の{哀|あは}れ, mono no aware: the feeling that things move you, often with sadness because they pass. Kenkō's point is that this feeling needs impermanence."},
     {"quote": "世は定めなきこそいみじけれ", "text": "The key sentence. こそ … けれ again, as in the preface: いみじ becomes いみじけれ. いみじ is a strong word in both directions, 'terrible' or 'wonderful'. Here it is the good direction, and that is the surprise."},
     {"quote": "かげろふの夕を待ち", "text": "The mayfly that lives only until evening is an old image from Chinese texts. The 1925 edition notes the Huainanzi: the mayfly 'is born in the morning and dies in the evening'."},
-    {"quote": "命長ければ恥おほし", "text": "Also borrowed, and the 1925 edition gives the source: Zhuangzi, 壽則多辱, 'long life, much disgrace'. Educated readers would recognize the line."},
+    {"quote": "命長ければ恥おほし", "text": "Also borrowed, and the 1925 edition gives the source: Zhuangzi, 壽則多辱, 'long life, much disgrace'. Educated readers would recognise the line."},
     {"quote": "四十に足らぬほどにて死なむこそ", "text": "Kenkō was born around 1283, and he probably wrote most of the book around 1330, in his late forties. So he was already past his own deadline when he wrote this. He went on to live to about seventy. {四十|よそぢ}: ぢ counts decades of life, as in みそぢ 'thirty'."},
     {"quote": "目安かるべけれ", "text": "めやすし 'easy on the eyes, decent'. こそ … べけれ: the realis form of べし closes the こそ."},
     {"quote": "夕の日に子孫を愛し", "text": "'In the evening sun', meaning old age. This echoes a line by the Chinese poet Bai Juyi about old officials who will not retire: 'in the evening sun they worry about their descendants' (夕陽憂子孫)."},
