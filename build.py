@@ -67,13 +67,71 @@ def render_page(feed):
     posts = '\n'.join(render_post(p, feed['accounts'], by_id) for p in feed['posts'])
     sources = ''.join('<li><a href="%s">%s</a></li>' % (html.escape(s['url']), inline(s['label']))
                       for s in feed['sources'])
+    body = '<h1>%s</h1><p class="intro">%s</p>\n%s\n<footer><h2>Sources</h2><ul>%s</ul></footer>' % (
+        html.escape(feed['title']), inline(feed['intro']), posts, sources)
+    return page(feed['title'], body)
+
+
+def page(title, body, css='style.css'):
     return (
         '<!doctype html>\n<html lang="en"><head><meta charset="UTF-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
-        '<title>%s</title><link rel="stylesheet" href="style.css"></head><body><main>'
-        '<h1>%s</h1><p class="intro">%s</p>\n%s\n'
-        '<footer><h2>Sources</h2><ul>%s</ul></footer></main></body></html>\n'
-    ) % (html.escape(feed['title']), html.escape(feed['title']), inline(feed['intro']), posts, sources)
+        '<title>%s</title><link rel="stylesheet" href="%s"></head><body><main>%s</main></body></html>\n'
+    ) % (html.escape(title), html.escape(css), body)
+
+
+def plain(text):
+    """Text without furigana markup."""
+    return RUBY.sub(r'\1', text)
+
+
+def section_name(number):
+    return 'Preface' if number == 0 else 'Section %d' % number
+
+
+def incipit(original):
+    """The opening words of a section, up to the first 、 or 。."""
+    first = original[0]
+    end = min((i for i in (first.find('、'), first.find('。')) if i >= 0), default=len(first))
+    return first[:end]
+
+
+def render_essay(sec, prev, next):
+    if len(sec['original']) != len(sec['literal']):
+        raise ValueError('Section %s: original and literal need the same number of paragraphs' % sec['number'])
+    nav = '<nav>%s<a href="index.html">Contents</a>%s</nav>' % (
+        '' if prev is None else '<a href="%d.html">← %s</a> · ' % (prev, section_name(prev)),
+        '' if next is None else ' · <a href="%d.html">%s →</a>' % (next, section_name(next)))
+    pairs = ''.join('<div class="pair"><p lang="ja">%s</p><p class="literal">%s</p></div>' % (inline(o), inline(l))
+                    for o, l in zip(sec['original'], sec['literal']))
+    notes = ''.join('<dt lang="ja">%s</dt><dd>%s</dd>' % (html.escape(n['quote']), inline(n['text']))
+                    for n in sec['notes'])
+    comments = ''.join(
+        '<div class="comment"><p class="who">%s <span lang="ja">%s</span></p><p lang="ja">%s</p><p>%s</p></div>'
+        % (html.escape(c['who']), inline(c['where']), inline(c['original']), inline(c['text']))
+        for c in sec.get('comments', []))
+    body = (
+        '%(nav)s<article class="essay"><h1>%(name)s · %(title)s</h1>'
+        '<p class="incipit" lang="ja">%(incipit)s</p>%(translation)s'
+        '<details class="deeper"><summary>Dig deeper: original, literal translation, notes</summary>'
+        '%(pairs)s<h2>Notes</h2><dl>%(notes)s</dl>%(comments)s</details></article>%(nav)s'
+    ) % {
+        'nav': nav, 'name': section_name(sec['number']), 'title': html.escape(sec['title']),
+        'incipit': inline(incipit(sec['original'])),
+        'translation': ''.join('<p>%s</p>' % inline(t) for t in sec['translation']),
+        'pairs': pairs, 'notes': notes,
+        'comments': '<h2>Later readers</h2>' + comments if comments else '',
+    }
+    return page('%s · %s' % (section_name(sec['number']), sec['title']), body, css='../style.css')
+
+
+def render_index(secs):
+    items = ''.join('<li><a href="%d.html"><span class="num">%s</span> <span lang="ja">%s</span> %s</a></li>' % (
+        s['number'], section_name(s['number']), inline(incipit(s['original'])), html.escape(s['title']))
+        for s in secs)
+    body = ('<h1>Tsurezuregusa · Essays in Idleness</h1><p class="intro">Yoshida Kenkō, c. 1330.</p>'
+            '<ul class="contents">%s</ul>' % items)
+    return page('Tsurezuregusa · Essays in Idleness', body, css='../style.css')
 
 
 def load_feed(path):
@@ -87,6 +145,16 @@ def main():
     for path in sorted((ROOT / 'content').glob('*.json')):
         (out / (path.stem + '.html')).write_text(render_page(load_feed(path)), 'utf-8')
         print('wrote', out / (path.stem + '.html'))
+    secs = sorted((load_feed(p) for p in (ROOT / 'content' / 'kenko').glob('*.json')), key=lambda s: s['number'])
+    if secs:
+        (out / 'kenko').mkdir(exist_ok=True)
+        nums = [s['number'] for s in secs]
+        for i, sec in enumerate(secs):
+            prev = nums[i - 1] if i else None
+            nxt = nums[i + 1] if i + 1 < len(nums) else None
+            (out / 'kenko' / ('%d.html' % sec['number'])).write_text(render_essay(sec, prev, nxt), 'utf-8')
+        (out / 'kenko' / 'index.html').write_text(render_index(secs), 'utf-8')
+        print('wrote', len(secs), 'Kenkō sections to', out / 'kenko')
 
 
 if __name__ == '__main__':

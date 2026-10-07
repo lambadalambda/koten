@@ -1,6 +1,6 @@
 import unittest
 
-from build import inline, render_post, render_page
+from build import inline, render_essay, render_index, render_post, render_page
 
 ACCOUNTS = {
     'sei': {'name': 'Sei Shōnagon', 'handle': '@sei_shonagon', 'jp': '清少納言'},
@@ -93,3 +93,53 @@ class RenderTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+SECTION = {
+    'number': 150,
+    'title': 'Learning a skill',
+    'translation': ['People who want to learn a skill say: not yet.', 'Second.'],
+    'original': ['{能|のう}をつかむとする{人|ひと}、「よく」', '二。'],
+    'literal': ['A person who tries to acquire a skill, "well"', 'Two.'],
+    'notes': [{'quote': '能をつかむ', 'text': '{能|のう}: skill.'}],
+}
+
+
+class EssayTests(unittest.TestCase):
+    def test_essay_page_has_reading_and_deeper_layer(self):
+        html = render_essay(SECTION, prev=None, next=7)
+        main, deeper = html.split('<details', 1)
+        self.assertIn('People who want to learn a skill say: not yet.', main)
+        self.assertNotIn('A person who tries', main)
+        self.assertIn('<ruby>能<rt>のう</rt></ruby>をつかむとする', deeper)
+        self.assertIn('A person who tries to acquire a skill', deeper)
+        self.assertIn('<dt lang="ja">能をつかむ</dt>', deeper)
+        self.assertIn('href="../style.css"', html)
+
+    def test_incipit_is_first_clause_of_original(self):
+        html = render_essay(SECTION, prev=None, next=None)
+        self.assertIn('<p class="incipit" lang="ja"><ruby>能<rt>のう</rt></ruby>をつかむとする<ruby>人<rt>ひと</rt></ruby></p>', html)
+
+    def test_navigation(self):
+        html = render_essay(SECTION, prev=137, next=236)
+        self.assertIn('href="137.html"', html)
+        self.assertIn('href="236.html"', html)
+        self.assertIn('href="index.html"', html)
+
+    def test_original_and_literal_must_align(self):
+        with self.assertRaises(ValueError):
+            render_essay(dict(SECTION, literal=['only one']), prev=None, next=None)
+
+    def test_preface_is_named_preface(self):
+        self.assertIn('Preface', render_essay(dict(SECTION, number=0), prev=None, next=None))
+
+    def test_comments_are_optional_and_rendered(self):
+        comment = {'who': 'Motoori Norinaga', 'where': '玉勝間', 'original': '{花|はな}', 'text': 'He disagrees.'}
+        html = render_essay(dict(SECTION, comments=[comment]), prev=None, next=None)
+        self.assertIn('Motoori Norinaga', html)
+        self.assertIn('He disagrees.', html)
+
+    def test_index_lists_sections_in_order(self):
+        html = render_index([dict(SECTION, number=7), SECTION])
+        self.assertLess(html.index('href="7.html"'), html.index('href="150.html"'))
+        self.assertIn('Learning a skill', html)
