@@ -1,0 +1,18 @@
+{
+  "number": 20,
+  "title": "Only the sky",
+  "translation": [
+    "A hermit called something or other once said: \"Nothing ties me down anymore. The only thing I'll be sorry to leave is the sky.\" I can really see that."
+  ],
+  "original": [
+    "{某|なにがし}とかやいひし{世|よ}すて{人|びと}の、この{世|よ}のほだしもたらぬ{身|み}に、ただ{空|そら}のなごりのみぞ{惜|を}しき。」といひしこそ、まことにさも{覚|おぼ}えぬべけれ。"
+  ],
+  "literal": [
+    "That a world-renouncer called something or other said, 'For me, who has none of the fetters of this world, only the lingering (beauty) of the sky is hard to part with': truly, one can surely feel so."
+  ],
+  "notes": [
+    {"quote": "某とかやいひし", "text": "'Someone called something or other': Kenkō does not remember the name, or does not care. Compare Shida-something in section 236."},
+    {"quote": "この世のほだし", "text": "ほだし: 'fetters', the ties that keep a person in the world: family, possessions, duties. A hermit who has cut them all is free to go, and this one finds he still has one tie: the sky."},
+    {"quote": "空のなごりのみぞ惜しき", "text": "なごり: what lingers after something is gone, and the sadness of parting. ぞ … き: ぞ needs the attributive form, so {惜|を}し becomes {惜|を}しき. The 1925 edition has a closing quotation mark here but no opening one."}
+  ]
+}

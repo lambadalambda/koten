@@ -1,0 +1,36 @@
+{
+  "number": 21,
+  "title": "Moon, dew, water",
+  "translation": [
+    "Whatever's wrong, looking at the moon helps. Someone once said, \"Nothing beats the moon,\" and someone else argued, \"No, dew is more moving.\" I loved that. At the right moment, what isn't moving?",
+    "The moon and the blossoms, obviously. But it's the wind more than anything that gets to people. And water breaking on rocks and running clear is lovely any time of year.",
+    "I once read a Chinese poem: \"The Yuan and the Xiang flow east day and night, and won't stop even for a moment for a man in grief.\" That moved me. Ji Kang wrote: \"Wandering among hills and marshes, watching the fish and the birds, makes the heart glad.\" Nothing calms you down like wandering somewhere far from people, with clear water and fresh grass."
+  ],
+  "original": [
+    "{万|よろづ}の{事|こと}は、{月|つき}{見|み}るにこそ{慰|なぐさ}むものなれ。",
+    "ある{人|ひと}の、「{月|つき}ばかり{面白|おもしろ}きものは{有|あ}らじ。」といひしに、またひとり、「{露|つゆ}こそあはれなれ。」と{争|あらそ}ひしこそをかしけれ。",
+    "{折|をり}にふれば{何|なに}かはあはれならざらむ。",
+    "{月|つき}{花|はな}はさらなり、{風|かぜ}のみこそ{人|ひと}に{心|こころ}はつくめれ。",
+    "{岩|いは}に{砕|くだ}けて{清|きよ}く{流|なが}るる{水|みづ}のけしきこそ、{時|とき}をもわかずめでたけれ。",
+    "「{沅湘|げんしやう}{日夜|にちや}{東|ひンがし}に{流|なが}れ{去|さ}る、{愁人|しうじん}の{為|ため}にとどまること{少時|しばらく}もせず。」といへる{詩|し}を{見|み}{侍|はべ}りしこそあはれなりしか。",
+    "{嵆康|けいかう}も、「{山沢|さんたく}にあそびて{魚鳥|ぎよてう}を{見|み}れば{心|こころ}{楽|たの}しぶ。」といへり。",
+    "{人|ひと}{遠|とほ}く{水草|みぐさ}きよき{所|ところ}にさまよひ{歩|あり}きたるばかり、{心|こころ}{慰|なぐさ}むことはあらじ。"
+  ],
+  "literal": [
+    "All things are consoled by looking at the moon.",
+    "When one person said, 'Surely nothing is as delightful as the moon', another argued, 'Dew is more moving': that was amusing.",
+    "If it fits the occasion, what would not be moving?",
+    "The moon and the blossoms go without saying; it seems to be the wind above all that touches people's hearts.",
+    "The look of water breaking on rocks and flowing clear is splendid regardless of the season.",
+    "When I saw the poem that says, 'The Yuan and the Xiang flow away east day and night; for the man in grief they do not stay even for a moment', that was moving.",
+    "Ji Kang too said: 'Wandering in mountains and marshes and looking at fish and birds, the heart is glad.'",
+    "There is surely nothing that consoles the heart like wandering about in a place far from people, where the water and grass are clean."
+  ],
+  "notes": [
+    {"quote": "露こそあはれなれ", "text": "A friendly argument between two people of taste: moon or dew. Kenkō's answer is that both are right, at the right moment."},
+    {"quote": "折にふれば何かはあはれならざらむ", "text": "何かは … ざらむ: a rhetorical question, 'what would not be…? (Everything is.)'."},
+    {"quote": "月花はさらなり", "text": "さらなり: 'it goes without saying'. The translation's 'obviously' is the same shape as in section 1."},
+    {"quote": "沅湘日夜東に流れ去る", "text": "Two lines from a Tang poem, usually attributed to Dai Shulun. The Yuan and the Xiang are rivers in southern China, linked with exile and grief. The 1925 edition writes the reading of 東 as ひンがし, an old way to show the nasal sound."},
+    {"quote": "嵆康", "text": "Ji Kang (223–262), a poet and musician, one of the 'Seven Sages of the Bamboo Grove', who left office to live freely in the country."}
+  ]
+}

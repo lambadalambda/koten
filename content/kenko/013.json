@@ -1,0 +1,24 @@
+{
+  "number": 13,
+  "title": "Friends you never met",
+  "translation": [
+    "Nothing beats sitting alone by the lamp with a book open, making friends with people who lived centuries before you. As for books: the moving parts of the Wen Xuan, Bai Juyi's poems, Laozi, Zhuangzi. And our own scholars, the old ones at least, wrote plenty that's moving too."
+  ],
+  "original": [
+    "ひとり{灯火|ともしび}のもとに{文|ふみ}をひろげて、{見|み}ぬ{世|よ}の{人|ひと}を{友|とも}とするこそ、こよなう{慰|なぐさ}むわざなれ。",
+    "{文|ふみ}は{文選|もんぜん}のあはれなる{巻々|まきまき}、{白氏文集|はくしもんじふ}、{老子|らうじ}のことば、{南華|なんくわ}の{篇|へん}。",
+    "この{国|くに}の{博士|はかせ}どもの{書|か}けるものも、いにしへのは、あはれなる{事|こと}{多|おほ}かり。"
+  ],
+  "literal": [
+    "Alone under the lamp, spreading out a book and making friends with people of a world one never saw: that is an incomparably comforting thing.",
+    "As for books: the moving volumes of the Wen Xuan, the collected works of Bai Juyi, the words of Laozi, the chapters of Nanhua (Zhuangzi).",
+    "What the scholars of this country wrote, too, the old ones, has many moving things."
+  ],
+  "notes": [
+    {"quote": "見ぬ世の人を友とする", "text": "'To make friends with people of a world you never saw': one of the most quoted lines in the book. こそ … なれ closes it."},
+    {"quote": "文選", "text": "The Wen Xuan, a sixth-century Chinese anthology of poetry and prose. Every educated Japanese reader knew it."},
+    {"quote": "白氏文集", "text": "The collected works of Bai Juyi (772–846), the Chinese poet who was most loved in Japan. The Tale of Genji quotes him constantly, and the Pillow Book often."},
+    {"quote": "老子のことば、南華の篇", "text": "Laozi and Zhuangzi ('Nanhua' is a title of the Zhuangzi), the classics of Daoism. The 1925 edition reads 老子 as らうじ; the usual reading is らうし."},
+    {"quote": "この国の博士ども", "text": "Japanese scholars who wrote in Chinese. Even here he prefers the old ones."}
+  ]
+}

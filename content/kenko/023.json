@@ -1,0 +1,38 @@
+{
+  "number": 23,
+  "title": "The palace at night",
+  "translation": [
+    "They say we live in a declining age, but the palace still has an old, sacred air like nowhere else, and it's wonderful. Even the names sound grand: the Dew Terrace, the Morning Meal Room, such-and-such Hall, such-and-such Gate. Small things you'd find in any shabby house, a little shutter, a little wooden floor, a high sliding door, sound grand there too. \"Get the guard post ready for the night!\" sounds wonderful. And at the emperor's bedchamber, \"Light the lamps, quickly!\" That's lovely too.",
+    "The ministers doing business at the guard post, obviously. But even the low-ranking staff of the various offices, so at home there and so pleased with themselves, are fun to watch. On those freezing nights they doze off here and there all night long. I love that.",
+    "\"The sound of the bells in the Shrine Room is beautiful and refined,\" the Tokudaiji Chancellor used to say."
+  ],
+  "original": [
+    "{衰|おとろ}へたる{末|すゑ}の{世|よ}とはいへど、{猶|なほ}{九重|ここのへ}の{神|かみ}さびたる{有様|ありさま}こそ、{世|よ}づかずめでたきものなれ。",
+    "{露台|ろだい}、{朝餉|あさがれひ}、{何|なに}{殿|でん}、{何|なに}{門|もん}などは、いみじとも{聞|きこ}ゆべし。",
+    "{怪|あや}しの{所|ところ}にもありぬべき{小蔀|こじとみ}、{小板敷|こいたじき}、{高遣戸|たかやりど}なども、めでたくこそ{聞|きこ}ゆれ。",
+    "「{陣|ぢん}に{夜|よる}の{設|まう}けせよ。」といふこそいみじけれ。",
+    "{夜|よン}の{御殿|おとど}のをば、「{掻灯|かいともし}{疾|と}うよ。」などいふ、まためでたし。",
+    "{上卿|しやうけい}の、{陣|ぢん}にて{事|こと}{行|おこな}へる{様|さま}は{更|さら}なり、{諸司|しよし}の{下人|しもうど}どもの、したり{顔|がほ}になれたるもをかし。",
+    "さばかり{寒|さむ}き{終夜|よもすがら}、{此処彼処|ここかしこ}に{睡|ねぶ}り{居|ゐ}たるこそをかしけれ。",
+    "「{内侍所|ないしどころ}の{御|み}{鈴|すず}の{音|おと}は、めでたく{優|いう}なるものなり。」とぞ、{徳大寺|とくだいじ}の{太政大臣|だいじやうだいじん}は{仰|おほ}せられける。"
+  ],
+  "literal": [
+    "Though they say it is the declining latter age, still the god-like, ancient state of the ninefold (palace) is unworldly and splendid.",
+    "The Dew Terrace, the Morning Meal (Room), such-and-such Hall, such-and-such Gate and the like surely sound splendid.",
+    "Even a small lattice shutter, a small board floor, a high sliding door and the like, which there might be even in a humble place, sound splendid.",
+    "That they say 'Make the night preparations at the guard post' is splendid.",
+    "At the night bedchamber, saying 'The lamps, quickly!' and the like is also splendid.",
+    "The way the senior nobles carry out business at the guard post goes without saying; the low servants of the various offices, being used to it with pleased faces, are also amusing.",
+    "That on such cold nights they sit dozing here and there all night long is amusing.",
+    "'The sound of the bells of the Naishidokoro is splendid and refined': so said the Tokudaiji Chancellor."
+  ],
+  "notes": [
+    {"quote": "衰へたる末の世", "text": "'The declining latter age': many believed that Buddhism had entered its final, degenerate age ({末法|まつぽふ}) in 1052. Kenkō does not argue with that; he just says the palace is still wonderful."},
+    {"quote": "九重", "text": "{九重|ここのへ}: 'ninefold', a poetic name for the imperial palace, from the nine gates of the Chinese palace."},
+    {"quote": "朝餉", "text": "{朝餉|あさがれひ}: the room where the emperor took his informal meals. The point of the list is that the names themselves sound grand."},
+    {"quote": "陣に夜の設けせよ", "text": "{陣|ぢん}: the guard post at the palace gate, and also the place where senior nobles met to decide matters of state. These everyday orders sound grand in the palace."},
+    {"quote": "上卿の、陣にて事行へる様は更なり", "text": "さらなり again ('goes without saying'), and again the translation says 'obviously'."},
+    {"quote": "内侍所の御鈴", "text": "{内侍所|ないしどころ}: the hall in the palace where a copy of the sacred mirror was kept (the original is at Ise), looked after by court ladies, who rang bells during the rites."},
+    {"quote": "徳大寺の太政大臣", "text": "A Chancellor from the Tokudaiji family, probably Tokudaiji Kintaka (1253–1305). The Tokudaiji also appear in section 10."}
+  ]
+}

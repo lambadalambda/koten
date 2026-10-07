@@ -1,0 +1,32 @@
+{
+  "number": 15,
+  "title": "Getting away",
+  "translation": [
+    "Getting away somewhere, anywhere, even for a little while, wakes you up. You wander around the area, and in the countryside or a mountain village almost everything is new to you. You find someone going back to the city and send a letter home: \"Don't forget about this and that when you get the chance.\" I love that.",
+    "In a place like that you notice everything. Even the things you brought along look better: the good ones look really good. People with talent and people with good looks seem more charming than usual too. And it's lovely to slip away quietly and stay at a temple or a shrine for a few days."
+  ],
+  "original": [
+    "いづくにもあれ、{暫|しば}し{旅立|たびだ}ちたるこそ、{目|め}さむる{心地|ここち}すれ。",
+    "そのわたり、ここかしこ{見|み}ありき、{田舎|ゐなか}びたる{所|ところ}、{山里|やまざと}などは、いと{目馴|めな}れぬことのみぞ{多|おほ}かる。",
+    "{都|みやこ}へたよりもとめて{文|ふみ}やる。",
+    "「その{事|こと}かの{事|こと}、{便宜|びんぎ}にわするな。」などいひやるこそをかしけれ。",
+    "さやうの{所|ところ}にてこそ、{万|よろづ}に{心|こころ}づかひせらるれ。",
+    "{持|も}てる{調度|てうど}まで、よきはよく、{能|のう}ある{人|ひと}も、かたちよき{人|ひと}も、{常|つね}よりはをかしとこそ{見|み}ゆれ。",
+    "{寺社|てらやしろ}などに{忍|しの}びてこもりたるもをかし。"
+  ],
+  "literal": [
+    "Wherever it may be, having set out on a journey for a while: that gives a feeling of the eyes waking up.",
+    "Walking around here and there in that area, in rustic places, mountain villages and so on, there are many things one is not used to seeing.",
+    "One looks for a messenger to the capital and sends a letter.",
+    "Writing things like 'This matter and that matter, don't forget them when there's an occasion': that is delightful.",
+    "It is in such places that one is attentive to everything.",
+    "Even the furnishings one has with one, the good ones look good, and people with talent and good-looking people look more charming than usual.",
+    "Quietly shutting oneself up at a temple or shrine is also delightful."
+  ],
+  "notes": [
+    {"quote": "目さむる心地すれ", "text": "'A feeling of the eyes waking up'. Modern Japanese still says {目|め}が{覚|さ}める for an eye-opening experience. こそ … すれ: the realis form of す."},
+    {"quote": "都へたよりもとめて", "text": "There was no post: you sent a letter with anyone who happened to be going to the capital. {便宜|びんぎ}: 'a good chance', someone going that way."},
+    {"quote": "心づかひせらるれ", "text": "らる here means it happens by itself: 'one can't help being attentive'. Away from home, you notice things."},
+    {"quote": "寺社などに忍びてこもりたる", "text": "Staying at a temple or shrine for a few days of prayer ({参籠|さんろう}) was a common short trip for people of the capital, part religion and part getting away."}
+  ]
+}

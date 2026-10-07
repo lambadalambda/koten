@@ -1,0 +1,20 @@
+{
+  "number": 16,
+  "title": "Music",
+  "translation": [
+    "Nothing has the grace and charm of the sacred music and dance for the gods. Of the instruments in general, I like the flute and the reed pipe. The ones I could listen to every day are the lute and the zither."
+  ],
+  "original": [
+    "{神楽|かぐら}こそなまめかしく{面白|おもしろ}けれ。",
+    "{大|おほ}かた{物|もの}の{音|ね}には{笛|ふえ}{篳篥|ひちりき}、{常|つね}に{聞|き}きたきは{琵琶|びは}{和琴|わごん}。"
+  ],
+  "literal": [
+    "Kagura is graceful and delightful.",
+    "Among the sounds of instruments in general, the flute and the hichiriki; what one would always like to hear is the biwa and the wagon."
+  ],
+  "notes": [
+    {"quote": "神楽", "text": "{神楽|かぐら}: the music and dance performed for the gods at shrines and at court. こそ … けれ again."},
+    {"quote": "篳篥", "text": "{篳篥|ひちりき}: a short double-reed pipe with a loud, piercing sound, the lead instrument of court music."},
+    {"quote": "琵琶和琴", "text": "{琵琶|びは}: a lute with four strings. {和琴|わごん}: a six-string zither, the native Japanese instrument used in kagura. A short list of personal taste, almost like a profile."}
+  ]
+}
