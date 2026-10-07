@@ -1,0 +1,31 @@
+{
+  "number": 6,
+  "title": "Better without children",
+  "translation": [
+    "Whether you're of high birth or a nobody, it's better not to have children.",
+    "Prince Kaneakira, Nobunaga and Arihito all hoped their family line would die out. The old storyteller in The Great Mirror says it was a good thing that Yoshifusa had no descendants, because descendants who turn out badly are a bad thing. And when Prince Shōtoku had his tomb built in advance, he is supposed to have said: \"Cut it off here, sever it there. I don't want any descendants.\""
+  ],
+  "original": [
+    "{我|わ}が{身|み}のやんごとなからむにも、まして{数|かず}ならざらむにも、{子|こ}といふもの{無|な}くてありなむ。",
+    "{前中書王|さきのちゆうしよわう}、{九条太政大臣|くでうのだいじやうだいじん}、{花園左大臣|はなぞののさだいじん}、{皆|みな}{族|ぞう}{絶|た}えむ{事|こと}を{願|ねが}ひ{給|たま}へり。",
+    "{染殿大臣|そめどののおとど}も{子孫|しそん}おはせぬぞよく{侍|はべ}る。",
+    "{末|すゑ}の{後|おく}れ{給|たま}へるは、わろき{事|こと}なりとぞ、{世継|よつぎ}の{翁|おきな}の{物語|ものがたり}にはいへる。",
+    "{聖徳太子|しやうとくたいし}の{御|み}{墓|はか}を、かねて{築|つ}かせ{給|たま}ひける{時|とき}も、「ここをきれ、かしこを{断|た}て。{子孫|しそん}あらせじと{思|おも}ふなり。」と{侍|はべ}りけるとかや。"
+  ],
+  "literal": [
+    "Whether one is of high rank, or, even more, of no account, it is surely better to be without children.",
+    "The former Prince of the Ministry of Central Affairs, the Kujō Chancellor and the Hanazono Minister of the Left all wished that their line would die out.",
+    "That the Somedono Minister had no descendants was also good.",
+    "That descendants fall behind (their ancestors) is a bad thing: so it says in the tale of old man Yotsugi.",
+    "Also when Prince Shōtoku had his tomb built in advance, he said, 'Cut here, sever there. It is because I do not want there to be descendants', or so they say."
+  ],
+  "notes": [
+    {"quote": "子といふもの無くてありなむ", "text": "なむ here is ぬ (strong) + む: 'it would surely be better'. Kenkō was a priest, and there is no record that he had children; the section is a short argument for his own choice, backed up with famous names."},
+    {"quote": "前中書王、九条太政大臣、花園左大臣", "text": "Three high nobles named by their titles, as people did at the time: Prince Kaneakira (914–987), Fujiwara no Nobunaga (1022–1094) and Minamoto no Arihito (1103–1147). The translation uses their names, because the titles mean nothing to a reader today."},
+    {"quote": "世継の翁の物語", "text": "The Ōkagami, 'The Great Mirror', a history of the Fujiwara told by an old man called Yotsugi. The Ōkagami itself says the opposite about Yoshifusa: it is a pity that he had no children. Kenkō probably remembered it wrong."},
+    {"quote": "染殿大臣", "text": "Fujiwara no Yoshifusa (804–872), the first regent who was not of imperial blood. He had a daughter but no son, and adopted his nephew."},
+    {"quote": "末の後れ給へるは、わろき事なり", "text": "{後|おく}る: 'to fall behind'. The fear is not dying out, but having descendants who do not live up to their ancestors."},
+    {"quote": "聖徳太子の御墓", "text": "Prince Shōtoku (574–622), an early patron of Buddhism in Japan. The story comes from a legendary biography of him. The cutting is probably about the shape of the land around the tomb: in geomancy, a 'cut' in the ridge would cut off the family line. Twenty years after his death, his family was in fact destroyed in a political struggle (643)."},
+    {"quote": "とかや", "text": "'…or so they say'. Kenkō marks the story as hearsay."}
+  ]
+}

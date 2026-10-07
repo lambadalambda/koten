@@ -1,0 +1,27 @@
+{
+  "number": 12,
+  "title": "A friend who disagrees",
+  "translation": [
+    "It would be lovely to sit quietly with someone who thinks the way you do, talk about everything, the funny things and the fleeting things, and say it all openly. But there's no such person. And sitting across from someone while being careful never to disagree would feel like being alone.",
+    "What I'd want is someone whose words are worth listening to and nodding at, but who sees a few things differently. Then I could argue, \"No, I don't think so at all,\" and they could explain, \"Well, it's because of this.\" That would help the time pass, I think.",
+    "But really, someone who doesn't share even my small complaints is fine for chatting about this and that, and still very far from a true friend. And that's lonely."
+  ],
+  "original": [
+    "{同|おな}じ{心|こころ}ならむ{人|ひと}と、しめやかに{物語|ものがたり}して、をかしき{事|こと}も{世|よ}のはかなき{事|こと}も、うらなくいひ{慰|なぐさ}まむこそ{嬉|うれ}しかるべきに、さる{人|ひと}あるまじければ、つゆ{違|たが}はざらむと{向|むか}ひ{居|ゐ}たらむは、ひとりある{心地|ここち}やせむ。",
+    "{互|たがひ}にいはむほどのことをば、げにと{聞|き}くかひあるものから、いささか{違|たが}ふ{所|ところ}もあらむ{人|ひと}こそ、「{我|われ}は{然|さ}やは{思|おも}ふ。」など{争|あらそ}ひにくみ、「さるからさぞ。」ともうち{語|かた}らはば、つれづれ{慰|なぐさ}まめと{思|おも}へど、",
+    "げには{少|すこ}しかこつかたも、{我|われ}とひとしからざらむ{人|ひと}は、{大|おほ}かたのよしなしごといはむ{程|ほど}こそあらめ、まめやかの{心|こころ}の{友|とも}には{遥|はる}かにへだたる{所|ところ}のありぬべきぞわびしきや。"
+  ],
+  "literal": [
+    "To talk quietly with a person of the same mind, and to speak openly and console each other about interesting things and the transience of the world, would be a joy; but since there can be no such person, sitting facing someone trying not to differ even slightly would surely feel like being alone.",
+    "A person with whom what each of us says is worth hearing and agreeing with, and yet who differs a little: if, arguing and disliking, 'I do not think so', and talking, 'it is so because of that', then the tedium would be relieved, I think; but",
+    "in reality, a person who is not like me even in what they complain of a little would be fine for talking ordinary trivial things, but there would surely be something far apart from a true friend of the heart: that is lonely."
+  ],
+  "notes": [
+    {"quote": "うらなく", "text": "'Without holding anything back'. うら is the inside, the heart (as in modern {裏|うら}): with nothing kept inside."},
+    {"quote": "つゆ違はざらむと", "text": "つゆ: 'even a little' (see section 11). Agreeing with everything, carefully, is the worst kind of company."},
+    {"quote": "ひとりある心地やせむ", "text": "や … む: a question that expects 'yes': 'wouldn't it feel like being alone?'"},
+    {"quote": "我は然やは思ふ", "text": "やは: a rhetorical question, 'do I think so? (No.)'. Kenkō imagines the argument he would enjoy."},
+    {"quote": "大かたのよしなしごと", "text": "よしなしごと: the same word he used for his own book in the preface, 'pointless things'. You can share those with almost anyone. The rare thing is a real friend."},
+    {"quote": "わびしきや", "text": "わびし: 'lonely, dreary, miserable'. ぞ … き: ぞ needs the attributive form, so わびし becomes わびしき, and や adds a sigh."}
+  ]
+}

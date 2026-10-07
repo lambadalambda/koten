@@ -1,0 +1,27 @@
+{
+  "number": 8,
+  "title": "The sage who fell from the sky",
+  "translation": [
+    "Nothing leads people astray like lust. What fools we are. A scent is only borrowed: you know perfectly well that someone has just perfumed their clothes with incense, and still, when the scent is lovely, your heart skips a beat.",
+    "The sage of Kume saw the white legs of a woman doing the washing and lost his magic powers. I can believe it. Arms, legs and skin that are fair, smooth and full aren't borrowed like a scent. They're the real thing, so of course that would happen."
+  ],
+  "original": [
+    "{世|よ}の{人|ひと}の{心|こころ}を{惑|まど}はすこと{色欲|しきよく}には{如|し}かず。",
+    "{人|ひと}の{心|こころ}は{愚|おろ}かなるものかな。",
+    "{匂|にほ}ひなどは{仮|かり}のものなるに、しばらく{衣裳|いしやう}に{薫物|たきもの}すと{知|し}りながら、えならぬ{匂|にほ}ひには、{必|かなら}ず{心|こころ}ときめきするものなり。",
+    "{久米|くめ}の{仙人|やまびと}の、{物|もの}{洗|あら}ふ{女|をんな}の{脛|はぎ}の{白|しろ}きを{見|み}て、{通|つう}を{失|うしな}ひけむは、まことに{手足|てあし}{膚|はだへ}などのきよらに、{肥|こ}え{膏|あぶら}づきたらむは、{外|ほか}の{色|いろ}ならねばさもあらむかし。"
+  ],
+  "literal": [
+    "Nothing equals lust in leading astray the hearts of people in the world.",
+    "The human heart is a foolish thing.",
+    "Scent and the like is a temporary thing, and though one knows that (someone) has for a while perfumed their clothes with incense, at an exquisite scent one's heart always flutters.",
+    "That the sage of Kume, seeing the whiteness of the shins of a woman washing things, lost his powers: truly, when hands, feet and skin are fair, plump and glossy, since that is not a colour from outside, it may well be so."
+  ],
+  "notes": [
+    {"quote": "色欲には如かず", "text": "{如|し}かず: 'nothing equals'. {色欲|しきよく}: sexual desire, a Buddhist term. Kenkō writes this as a priest, and he means it as a warning."},
+    {"quote": "衣裳に薫物す", "text": "Heian and Kamakura nobles burned incense ({薫物|たきもの}) under their clothes so the scent stayed in the fabric. Each person had a personal blend, and people recognised each other by it."},
+    {"quote": "心ときめきする", "text": "ときめく: 'to flutter, to beat fast'. Modern ときめき, the word for that feeling, is the same."},
+    {"quote": "久米の仙人", "text": "The sage of Kume, a legend from older story collections: a hermit who had learned to fly saw a young woman washing clothes in a river, her legs bare, and fell out of the sky. In the story he then married her. 'Lost his powers' means he fell."},
+    {"quote": "外の色ならねば", "text": "The contrast with the incense: a scent is added from outside ('borrowed'), but skin is the real thing. That is the reason he gives for why the sage had no chance."}
+  ]
+}
