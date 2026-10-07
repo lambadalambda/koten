@@ -1,0 +1,141 @@
+{
+  "title": "にくきもの · Annoying things",
+  "intro": "Sei Shōnagon wrote the Pillow Book ({枕草子|まくらのそうし}) at the Heian court around the year 1000. Much of it is lists, and the lists read like threads. This is one of them: にくきもの, 'annoying things'. The page shows a selection of its items, and …… marks a cut inside a passage. The English posts are free modern versions. Open 原文 for the original text with readings, or the notes for a literal translation and some grammar. The readings use the old spelling of the text, so you will see ゑ and ふ where modern Japanese has え and う. All English translations are new and were made for this page.",
+  "accounts": {
+    "sei": {"name": "Sei Shōnagon", "handle": "@sei_shonagon", "jp": "清少納言"},
+    "murasaki": {"name": "Murasaki Shikibu", "handle": "@murasaki_shikibu", "jp": "紫式部"}
+  },
+  "posts": [
+    {
+      "id": "nikuki-1",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "annoying things, a thread 🧵\n\n1. you're in a hurry and a guest shows up and just. keeps. talking. if it's a nobody, you say 'later!' and send them off. but if it's someone important? you sit there and suffer",
+      "original": "にくきもの。いそぐことあるをりに{来|き}て{長言|ながこと}するまらうと。あなづりやすき{人|ひと}ならば、『のちに』とてもやりつべけれど、{心|こころ}はづかしき{人|ひと}いとにくくむつかし。",
+      "literal": "Hateful things. A guest who comes when you have something urgent and talks at length. If it is a person you can easily look down on, you could send them away with 'Later', but a person who makes you feel self-conscious: very hateful and tiresome.",
+      "notes": [
+        "にくし: modern {憎|にく}い means 'hateful, I hate it'. Heian にくし is often milder: 'annoying, irritating'. This whole section is a list of にくきもの, 'annoying things'.",
+        "をり: 'occasion, moment' (modern {折|おり}). In the old spelling を is read o, so をり is ori.",
+        "まらうと: 'guest', read marōto. It comes from まれびと 'rare person', and the later form is まらうど. The modern word is {客|きゃく}.",
+        "{心|こころ}はづかし is a false friend. Modern {恥|は}ずかしい means 'embarrassed', but here it means 'so impressive that you feel self-conscious'. That is why you cannot send this guest away.",
+        "やりつべけれど: やる 'send off' + つ 'definitely' + べし 'can', then ど 'but'. 'You could easily send them off, but…'"
+      ]
+    },
+    {
+      "id": "nikuki-2",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "2. a hair gets into the inkstone and you grind it right into the ink. also: grit in the ink stick that goes kishi-kishi while you grind. ugh",
+      "original": "{硯|すずり}に{髪|かみ}のいりてすられたる。また{墨|すみ}の{中|なか}に、{石|いし}のきしきしときしみ{鳴|な}りたる。",
+      "literal": "A hair having got into the inkstone and being ground. Also, in the ink stick, a stone squeaking kishi-kishi.",
+      "notes": [
+        "To write, you rubbed an ink stick ({墨|すみ}) with water on an inkstone ({硯|すずり}). One hair or a bit of grit spoils it. The modern version is a crumb under a key of your keyboard.",
+        "Both items end in たる (attributive form of たり, 'has done'), with no noun after it. The attributive form can work as a noun: '(the thing where) a hair got ground in'. That is why the list reads like a series of headlines.",
+        "きしきし is the sound of a squeak. It is still alive: modern Japanese has きしむ 'to creak' and ギシギシ."
+      ]
+    },
+    {
+      "id": "nikuki-3",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "3. someone suddenly falls ill, so you send for the exorcist. he's not at his usual place. people run around looking for him FOREVER. finally he arrives, you're so relieved, you have him start the prayers, and the moment he sits down, his chanting turns into a sleepy mumble. i guess he's been doing too many spirit jobs lately??",
+      "original": "にはかにわづらふ{人|ひと}のあるに、{験者|げんざ}もとむるに、{例|れい}ある{所|ところ}になくて、ほかに{尋|たづ}ねありくほど、いと{待|ま}ち{遠|どほ}にひさしきに、からうじて{待|ま}ちつけて、よろこびながら{加持|かぢ}せさするに、このごろ{物怪|もののけ}にあづかりて{困|こう}じにけるにや、ゐるままにすなはちねぶり{声|ごゑ}なる、いとにくし。",
+      "literal": "When someone suddenly falls ill and you look for an exorcist, he is not at his usual place, and while people search elsewhere the wait is long and impatient. When you finally receive him and gladly have him perform the prayers, then, perhaps because he has worn himself out with spirits lately, as soon as he sits his voice is sleepy. Very hateful.",
+      "notes": [
+        "{験者|げんざ} genza: a Buddhist ascetic who cures illness with prayers ({加持|かぢ} kaji) and drives out possessing spirits, {物怪|もののけ} mononoke. Yes, the same word as in Princess Mononoke.",
+        "ゐる: 'to sit down', not modern いる 'to be'. ゐるままに: 'the moment he sits'.",
+        "{困|こう}じにけるにや: こうず 'be worn out' + ぬ (completion) + けり (past) + なり 'is' + や (question). The end of the question, あらむ 'might it be', is left out: 'was it maybe that he was worn out?' Post 6 has the full form.",
+        "せさする: す 'do' + さす 'make someone do'. You have him perform the prayers."
+      ]
+    },
+    {
+      "id": "nikuki-4",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "4. you're sleepy, you lie down, and a mosquito comes whining around your face in its thin little voice, as if it's formally announcing itself. it even makes a tiny breeze with its wings, perfectly mosquito-sized. THAT is the worst",
+      "original": "ねぶたしと{思|おも}ひて{伏|ふ}したるに、{蚊|か}の{細声|ほそごゑ}にわびしげに{名|な}のりて、{顔|かほ}のほどに{飛|と}びありく。{羽風|はかぜ}さへその{身|み}のほどにあるこそいとにくけれ。",
+      "literal": "When you lie down because you feel sleepy, a mosquito, in a thin voice, forlornly announces its name and flies around near your face. That even the wind from its wings matches the size of its body: that is very hateful.",
+      "notes": [
+        "{名|な}のる: 'to announce one's name', as a visitor or a warrior does. She treats the whine as a formal self-introduction.",
+        "こそ … けれ: こそ gives strong emphasis, and then the sentence must end in the realis form ({已然形|いぜんけい}): にくし becomes にくけれ. 'THAT is what is hateful.' This pattern is called {係|かか}り{結|むす}び.",
+        "さへ: 'even' (modern さえ). Even its wind fits its tiny body, and that makes it worse.",
+        "ありく: 'to go around' (modern {歩|ある}く). {飛|と}びありく: 'to fly around'."
+      ]
+    },
+    {
+      "id": "nikuki-5",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "5. a baby that starts crying exactly when you're trying to listen to something. crows flocking and cawing all over each other. the dog that spots your secret visitor and barks at him. and the man you hid in a cramped corner, who falls asleep and starts snoring",
+      "original": "{物|もの}{聞|き}かむと{思|おも}ふほどに{泣|な}くちご。{烏|からす}の{集|あつ}まりて{飛|と}びちがひ、ざめきなきたる。{忍|しの}びてくる{人|ひと}{見知|みし}りてほゆる{犬|いぬ}。あながちなる{所|ところ}に{隠|かく}し{伏|ふ}せたる{人|ひと}の、いびきしたる。……",
+      "literal": "A baby who cries just when you want to hear something. Crows gathering, flying past one another and cawing noisily. A dog that notices a person who comes in secret, and barks. A person you hid and laid down in an unreasonable place, snoring. …",
+      "notes": [
+        "{忍|しの}びてくる{人|ひと}: a lover who comes in secret. In Heian courtship, men visited women at night and left before dawn.",
+        "{見知|みし}りて: 'notices, recognizes'. ほゆる is the attributive form of ほゆ 'to bark' (modern {吠|ほ}える).",
+        "ちご: a baby or small child. {物|もの}{聞|き}かむ: 'I want to listen to something'. Here む shows intention.",
+        "あながちなる: 'forced, unreasonable'. The hiding place is too cramped, and the hidden man falls asleep anyway."
+      ]
+    },
+    {
+      "id": "nikuki-6",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "6. people who ride around in a squeaky carriage. are they deaf?? and if i'm the one riding in it, i hate whoever it belongs to",
+      "original": "きしめく{車|くるま}に{乗|の}りてありくもの。{耳|みみ}もきかぬにやあらむと、いとにくし。わが{乗|の}りたるは、その{車|くるま}の{主|ぬし}さへにくし。……",
+      "literal": "One who goes around riding in a creaking carriage. 'Might it be that his ears don't hear?': very hateful. When I am the one riding in it, even the owner of the carriage is hateful. …",
+      "notes": [
+        "{車|くるま}: an ox-drawn carriage ({牛車|ぎっしゃ}). A squeaky one makes the whole street look.",
+        "{耳|みみ}もきかぬにやあらむ: に 'is' + や (question) + あら 'be' + む (guess): 'might it be that his ears don't hear?' This is the full form that post 3 cut short.",
+        "さへ again: {主|ぬし}さへ, 'even the owner'."
+      ]
+    },
+    {
+      "id": "nikuki-7",
+      "author": "sei",
+      "date": "c. 1000",
+      "text": "7. people who open a door, walk through, and don't close it. hate it. /end",
+      "original": "あけていで{入|い}る{所|ところ}たてぬ、いとにくし。",
+      "literal": "Not closing the doorway that one opened to go out or in: very hateful.",
+      "notes": [
+        "いで{入|い}る: いづ 'go out' + いる 'go in'. Modern {出入|でい}り.",
+        "たてぬ: たつ 'to close (a door)' + ぬ. Careful: ぬ can mean 'not' (from ず) or 'has done' (completion). These two attach to different forms of the verb, but for たつ both forms are たて. But the phrase works as a noun here, and that needs the attributive form. For completion ぬ, the attributive form is ぬる. So this ぬ must be the attributive form of ず: 'not closing it'. Compare Murasaki's なりぬる in the last post."
+      ]
+    },
+    {
+      "id": "murasaki-1",
+      "author": "murasaki",
+      "reply_to": "nikuki-1",
+      "date": "c. 1010",
+      "text": "oh, Sei Shōnagon. the one with the insufferably smug face. she acts so clever and sprinkles Chinese characters everywhere, but look closely and there's still a LOT missing.",
+      "original": "{清少納言|せいせうなごん}こそ、したり{顔|がほ}にいみじうはべりける{人|ひと}。さばかりさかしだち、{真名|まな}{書|か}き{散|ち}らしてはべるほども、よく{見|み}れば、まだいと{足|た}らぬこと{多|おほ}かり。",
+      "literal": "Sei Shōnagon, now, was a person terribly full of herself. Though she acted so clever and scattered Chinese characters about, when you look closely, much is still lacking.",
+      "notes": [
+        "Timeline: Sei Shōnagon left the court around 1000 or 1001. Murasaki started to serve there several years later. They were probably never at court together. So this reply goes to an account that was no longer active.",
+        "This is from Murasaki's diary ({紫式部日記|むらさきしきぶにっき}), not from a reply to the Pillow Book. The page only puts the two side by side.",
+        "{真名|まな} mana, 'true letters': Chinese characters. The opposite is {仮名|かな} kana, 'temporary letters'. A court lady who wrote kanji in public was seen as showing off. Murasaki knew Chinese very well too, but in the same diary she says she hid it.",
+        "はべり: a polite 'to be'. The diary is written in a polite voice, so even this insult is polite.",
+        "こそ without its ending: こそ should close with a realis form (post 4), but the sentence stops at the noun {人|ひと}. One common explanation is an omitted ending, as if なれ were left off."
+      ]
+    },
+    {
+      "id": "murasaki-2",
+      "author": "murasaki",
+      "reply_to": "murasaki-1",
+      "date": "c. 1010",
+      "text": "people who try THIS hard to be different always end up disappointing, and nothing good waits for them. […] how could someone that frivolous possibly end well?",
+      "original": "かく、{人|ひと}に{異|こと}ならむと{思|おも}ひ{好|この}める{人|ひと}は、かならず{見劣|みおと}りし、{行末|ゆくすゑ}うたてのみはべれば、……そのあだになりぬる{人|ひと}の{果|は}て、いかでかはよくはべらむ。",
+      "literal": "A person who, like this, loves to think 'I want to be different from others' always turns out worse than expected, and their future is only grim, so … the end of a person who has become so frivolous: how could it be good?",
+      "notes": [
+        "The passage is shortened here (……). The full text explains how such a person becomes frivolous ({徒|あだ} ada).",
+        "なりぬる: なる 'become' + ぬる, the attributive form of completion ぬ, which modifies {人|ひと}: 'who has become'. Compare post 7, where ぬ means 'not'.",
+        "いかでかは … む: 'how could it possibly…?' A rhetorical question that means 'it cannot'.",
+        "In this part of the diary Murasaki also judges other court women, but she gives them some praise too. Sei Shōnagon gets none."
+      ]
+    }
+  ],
+  "sources": [
+    {"label": "にくきもの, original text: manapedia.jp (follows modern editions by Hagitani 1977, Matsuo and Nagai 1989, Watanabe 1991)", "url": "https://manapedia.jp/text/2603"},
+    {"label": "にくきもの, word-by-word grammar (Japanese)", "url": "https://uqtakashi.com/%E3%81%AB%E3%81%8F%E3%81%8D%E3%82%82%E3%81%AE/"},
+    {"label": "{紫式部日記|むらさきしきぶにっき}, original text of the Sei Shōnagon passage", "url": "http://from2ndfloor.com/classical_literature/izumitoseisho.html"}
+  ]
+}
