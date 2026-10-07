@@ -1,0 +1,28 @@
+{
+  "number": 117,
+  "title": "Good friends and bad",
+  "translation": [
+    "Seven kinds of people make bad friends. One, someone very grand and important. Two, someone young. Three, someone who's never ill and has a strong body. Four, someone who likes to drink. Five, someone fierce and brave. Six, someone who lies. Seven, someone greedy.",
+    "Three kinds make good friends. One, a friend who gives you things. Two, a doctor. Three, a friend who's wise."
+  ],
+  "original": [
+    "{友|とも}とするに{悪|わろ}きもの{七|なな}つあり。",
+    "{一|いち}には{高|たか}くやんごとなき{人|ひと}、{二|に}には{若|わか}き{人|ひと}、{三|さん}には{病|やまひ}なく{身|み}つよき{人|ひと}、{四|し}には{酒|さけ}をこのむ{人|ひと}、{五|ご}には{武|たけ}く{勇|いさ}める{人|ひと}、{六|ろく}にはそらごとする{人|ひと}、{七|しち}には{慾|よく}ふかき{人|ひと}。",
+    "{善|よ}き{友|とも}{三|み}つあり。",
+    "{一|いち}にはものくるる{友|とも}、{二|に}には{医師|くすし}、{三|さん}には{智恵|ちゑ}ある{友|とも}。"
+  ],
+  "literal": [
+    "There are seven (kinds of) things that are bad to have as friends.",
+    "First, a person who is high and noble; second, a young person; third, a person without illness and strong in body; fourth, a person who likes sake; fifth, a person who is fierce and brave; sixth, a person who tells lies; seventh, a person deep in greed.",
+    "There are three good friends.",
+    "First, a friend who gives things; second, a doctor; third, a friend with wisdom."
+  ],
+  "notes": [
+    {"quote": "悪き", "text": "わろし: 'not good, inferior'. It is milder than あし 'bad, evil'. These are not wicked people, just poor choices for a friend."},
+    {"quote": "高くやんごとなき人", "text": "やんごとなし: 'noble, of high rank'. The usual explanation: with someone far above you, you can never be equals."},
+    {"quote": "病なく身つよき人", "text": "The text gives no reasons for any item. Commentators usually explain this one: someone who has never been ill does not understand people who are weak or sick."},
+    {"quote": "そらごとする人", "text": "そらごと ({空言|そらごと}): 'empty words', lies."},
+    {"quote": "善き友三つあり", "text": "The form follows the Confucian Analects: 'There are three kinds of friends who help you and three who harm you.' Confucius's good friends are the upright, the sincere and the well-informed. Kenkō's first two are much more practical."},
+    {"quote": "医師", "text": "{医師|くすし}: the old native word for a doctor, related to {薬|くすり} 'medicine'. Compare section 122, where medicine comes right after learning."}
+  ]
+}

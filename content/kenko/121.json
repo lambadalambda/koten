@@ -1,0 +1,44 @@
+{
+  "number": 121,
+  "title": "Birds in cages",
+  "translation": [
+    "The animals worth keeping are horses and oxen. It's a pity to tie them up and make them suffer, but we can't manage without them, so what can you do. A dog guards the house better than a person does, so you should have one. But every house has a dog anyway, so there's no need to go out and get one specially.",
+    "Every other bird or animal is useless. Animals that run are shut in pens and put on chains. Birds that fly get their wings clipped and are put in cages. They long for the clouds and the open hills, and the longing never stops. Imagine that was you. You couldn't bear it. So how could anyone with a heart enjoy it? Making a living thing suffer so your eyes can enjoy it is how the worst tyrants of ancient China thought.",
+    "Wang Ziyou loved birds. He watched them enjoying themselves in the woods and made them his companions on his walks. He didn't catch them and make them suffer. \"Do not keep rare birds or strange animals in the country\": that's in the old books too."
+  ],
+  "original": [
+    "{養|やしな}ひ{飼|か}ふものには{馬|うま}、{牛|うし}。",
+    "{繋|つな}ぎ{苦|くる}しむるこそ{痛|いた}ましけれど、なくて{叶|かな}はぬ{物|もの}なれば、{如何|いか}はせむ。",
+    "{犬|いぬ}は{守|まも}り{防|ふせ}ぐつとめ、{人|ひと}にも{優|まさ}りたれば、{必|かなら}ずあるべし。",
+    "されど{家|いへ}{毎|ごと}にあるものなれば、ことさらに{求|もと}め{飼|か}はずともありなむ。",
+    "その{外|ほか}の{鳥獣|とりけだもの}、すべて{用|よう}なきものなり。",
+    "{走|はし}る{獣|けだもの}は{檻|をり}にこめ、{鎖|くさり}をさされ、{飛|と}ぶ{鳥|とり}は{翼|つばさ}を{切|き}り、{籠|こ}に{入|い}れられて、{雲|くも}を{恋|こ}ひ{野山|のやま}を{思|おも}ふ{愁|うれ}へやむ{時|とき}なし。",
+    "その{思|おも}ひ{我|わ}が{身|み}にあたりて{忍|しの}び{難|がた}くば、{心|こころ}あらむ{人|ひと}これを{楽|たの}しまむや。",
+    "{生|しやう}を{苦|くる}しめて{目|め}を{喜|よろこ}ばしむるは、{桀紂|けつちう}が{心|こころ}なり。",
+    "{王子猷|わうしいう}が{鳥|とり}を{愛|あい}せし、{林|はやし}に{楽|たの}しぶを{見|み}て{逍遥|せうえう}の{友|とも}としき。",
+    "{捕|とら}へ{苦|くる}しめたるにあらず。",
+    "{凡|およ}そ{珍|めづら}しき{鳥|とり}、{怪|あや}しき{獣|けだもの}、{国|くに}に{養|やしな}はずとこそ{文|ふみ}にも{侍|はべ}るなれ。"
+  ],
+  "literal": [
+    "Among things to raise and keep: horses and oxen.",
+    "Tying them up and making them suffer is pitiful, but since they are things one cannot do without, what can be done?",
+    "Dogs, since in the duty of guarding and protecting they surpass even people, one should certainly have.",
+    "But since they are in every house, one can probably do without seeking one out specially to keep.",
+    "Other birds and beasts are all things of no use.",
+    "Running beasts are shut in pens and have chains put on, flying birds have their wings cut and are put in cages, and their grief, longing for the clouds and thinking of the fields and hills, never stops.",
+    "If, when one puts that feeling to oneself, it is hard to bear, would a person with a heart take pleasure in this?",
+    "To torment living things and delight one's eyes is the mind of Jie and Zhou.",
+    "Wang Ziyou's loving birds: he saw them enjoying themselves in the forest and made them companions of his rambles.",
+    "It was not that he caught them and made them suffer.",
+    "'In general, rare birds and strange beasts are not raised in the country': so it is in the books too."
+  ],
+  "notes": [
+    {"quote": "繋ぎ苦しむるこそ痛ましけれど", "text": "こそ … けれど: the realis form, then ど 'but'. A こそ clause that goes on to a contrast, as in section 1."},
+    {"quote": "如何はせむ", "text": "'What can one do?' The same phrase as in section 113: it can't be helped."},
+    {"quote": "ありなむ", "text": "なむ here is ぬ + む: 'it will surely be all right', that is, you can do without."},
+    {"quote": "楽しまむや", "text": "や: a rhetorical question, 'would he…? (No.)'."},
+    {"quote": "桀紂", "text": "Jie and Zhou, the last kings of the Xia and Shang dynasties in ancient China. In Confucian writing, they are the standard examples of cruel tyrants."},
+    {"quote": "王子猷", "text": "Wang Ziyou (Wang Huizhi, fourth century), son of the great calligrapher Wang Xizhi, famous for his unconventional, carefree life. Where this story about birds comes from is not certain. としき: the past auxiliary き."},
+    {"quote": "珍しき鳥、怪しき獣、国に養はず", "text": "Usually traced to the Book of Documents, in the same chapter as the saying about distant treasures in section 120. こそ … なれ: the realis form of なり 'it seems, they say'."}
+  ]
+}

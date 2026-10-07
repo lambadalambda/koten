@@ -1,0 +1,23 @@
+{
+  "number": 111,
+  "title": "Worse than murder",
+  "translation": [
+    "\"If you spend day and night playing go and board games, you're doing something worse than the worst sins there are, worse than killing your own mother or father.\" A monk said that to me once. It stuck with me, and I think it's very true."
+  ],
+  "original": [
+    "「{囲碁|ゐご}{双六|すぐろく}このみてあかし{暮|くら}す{人|ひと}は、{四重|しぢゆう}{五逆|ごぎやく}にもまされる{悪事|あくじ}とぞ{思|おも}ふ。」とある{聖|ひじり}の{申|まう}ししこと、",
+    "{耳|みみ}にとどまりて、いみじくおぼえ{侍|はべ}る。"
+  ],
+  "literal": [
+    "'People who love go and sugoroku and spend nights till dawn and days till dark (on them): I think it is an evil deed worse even than the four grave offences and the five deadly sins', said a certain holy man, and this",
+    "stayed in my ears, and seems to me splendid."
+  ],
+  "notes": [
+    {"quote": "囲碁双六", "text": "{囲碁|ゐご}: go. {双六|すぐろく}: a race game with dice on a board, close to backgammon (not the later children's game of the same name). It was usually played for stakes, and the court banned it more than once. Compare the people playing board games while they wait for the procession in section 137."},
+    {"quote": "あかし暮す", "text": "あかす: 'to stay up until dawn'. くらす: 'to spend the day until dark'. Together: day and night."},
+    {"quote": "四重五逆", "text": "Two Buddhist lists of the worst sins. {四重|しぢゆう}: the four gravest offences for a monk (killing, stealing, sex, and lying about one's spiritual progress). {五逆|ごぎやく}: the five deadly sins (killing one's father, one's mother or a saint, wounding a Buddha, and splitting the community of monks). The translation keeps the parents and leaves the lists here."},
+    {"quote": "悪事とぞ思ふ", "text": "ぞ … {思|おも}ふ: ぞ needs the attributive form, which for {思|おも}ふ looks the same as the final form."},
+    {"quote": "ある聖の申ししこと", "text": "{聖|ひじり}: a monk who lived outside the big temples, often a wanderer or a hermit. The text does not name him. {申|まう}しし: the past auxiliary き (attributive し) marks something Kenkō experienced himself: he heard it with his own ears."},
+    {"quote": "いみじくおぼえ侍る", "text": "{侍|はべ}る: polite 'it seems to me'. That is the whole section: one quotation and one line of agreement."}
+  ]
+}

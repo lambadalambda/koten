@@ -1,0 +1,32 @@
+{
+  "number": 114,
+  "title": "The minister's driver",
+  "translation": [
+    "The Imadegawa minister was on his way to Saga. Near the Arisugawa, where water ran across the road, the driver, Saiōmaru, urged the ox on, and the ox's hooves splashed water all the way up to the front board of the carriage. Tamenori, who was riding at the back, said: \"What a fool of a boy! Who drives an ox like that in a place like this?\"",
+    "The minister's face darkened. \"You'll never know more about driving a carriage than Saiōmaru. You're the fool.\" And he knocked Tamenori's head against the carriage.",
+    "This famous Saiōmaru was a servant of the Uzumasa lord, and he drove the emperor's own ox. The women who served in the Uzumasa household had been given these names: Hizasachi, Kototsuchi, Hōhara and Otoushi."
+  ],
+  "original": [
+    "{今出川|いまでがは}のおほい{殿|との}、{嵯峨|さが}へおはしけるに、{有栖川|ありすがは}のわたりに、{水|みづ}の{流|なが}れたる{所|ところ}にて、{斎王丸|さいわうまる}{御|おん}{牛|うし}を{追|お}ひたりければ、{足掻|あがき}の{水|みづ}{前板|まへいた}までささとかかりけるを、",
+    "{為則|ためのり}{御|み}{車|くるま}の{後|しり}に{候|さぶら}ひけるが、「{希有|けう}の{童|わらは}かな。{斯|かか}る{所|ところ}にて{御|おん}{牛|うし}をば{追|お}ふものか。」といひたりければ、",
+    "おほい{殿|との}、{御|おん}{気色|けしき}あしくなりて、「おのれ{車|くるま}やらむこと、{斎王丸|さいわうまる}に{勝|まさ}りてえ{知|し}らじ。{希有|けう}の{男|をのこ}なり。」とて{御|み}{車|くるま}に{頭|かしら}をうちあてられにけり。",
+    "この{高名|かうみやう}の{斎王丸|さいわうまる}は、{太秦殿|うづまさどの}の{男|をのこ}、{料|れう}の{御|おん}{牛飼|うしかひ}ぞかし。",
+    "この{太秦殿|うづまさどの}に{侍|はべ}りける{女房|にようばう}の{名|な}ども、{一人|ひとり}は{膝幸|ひざさち}、{一人|ひとり}は{㹀槌|ことつち}、{一人|ひとり}は{胞腹|はうはら}、{一人|ひとり}は{乙牛|おとうし}とつけられけり。"
+  ],
+  "literal": [
+    "When the Imadegawa minister was going to Saga, around the Arisugawa, at a place where water was flowing, Saiōmaru drove the ox on, and the water from its hooves splashed with a swish up to the front board;",
+    "Tamenori, who was in attendance at the back of the carriage, said, 'What an outrageous boy. Does one drive the ox in a place like this?', and then",
+    "the minister's mood turned bad: 'You will never know driving a carriage better than Saiōmaru. You are the outrageous man', he said, and had (Tamenori's) head knocked against the carriage.",
+    "This famous Saiōmaru was a man of the Uzumasa lord, the ox-driver for (the emperor's) use.",
+    "The names of the ladies who served at this Uzumasa lord's house: one was named Hizasachi, one Kototsuchi, one Hōhara, one Otoushi."
+  ],
+  "notes": [
+    {"quote": "今出川のおほい殿", "text": "おほい{殿|との}: a minister. The 1925 edition identifies him as Kikutei (Imadegawa) Kanesue (1281–1339), a minister in Kenkō's lifetime. Other commentators say Saionji Kinsuke (1223–1267), a chancellor who had a residence at Imadegawa."},
+    {"quote": "有栖川", "text": "The Arisugawa: a small stream in the Saga area, west of Kyoto."},
+    {"quote": "希有の童かな", "text": "Ox-drivers were called {童|わらは}, 'boys', whatever their age; they kept a boy's hairstyle and boys' names ending in {丸|まる}. {希有|けう}: 'rare, unheard of', here 'outrageous'. The minister throws the same word back: {希有|けう}の{男|をのこ}なり."},
+    {"quote": "勝りてえ知らじ", "text": "え … じ: 'will not be able to'."},
+    {"quote": "頭をうちあてられにけり", "text": "られ is respectful, for the minister. Commentators usually take it that the minister knocked Tamenori's head against the carriage."},
+    {"quote": "料の御牛飼", "text": "{料|れう}: 'for the use of'. The 1925 edition explains the phrase as the man who looked after the ox for the emperor's own use; some translators take it as the Uzumasa lord's own driver instead. The 1925 edition identifies the Uzumasa lord as Fujiwara no Nobukiyo (died 1216); others leave him unidentified."},
+    {"quote": "膝幸", "text": "Kenkō gives the four names without any comment. 乙牛 contains 牛 'ox', and 㹀 has the ox radical. The 1925 edition says all four seem to be words connected with oxen, but the details are unclear, and so is why the list is here."}
+  ]
+}

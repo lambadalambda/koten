@@ -1,0 +1,38 @@
+{
+  "number": 118,
+  "title": "Carp, pheasant and a goose on the shelf",
+  "translation": [
+    "They say that on a day you've eaten carp soup, your hair stays in place. Glue is made from carp too, so it must be sticky stuff.",
+    "Carp is the one fish that can be cut up even in front of the emperor, and that makes it the noblest fish. Among birds, nothing beats the pheasant. Pheasant and matsutake mushrooms can even hang in the palace serving room, no problem. Anything else there is a disgrace.",
+    "Once a wild goose was sitting out on the black shelf in the empress's serving room. Her father, the old lord of Kitayama, who had become a monk, saw it. As soon as he got home, he sent her a letter: \"I have never seen such a thing, a creature like that sitting on your shelf just as it is, whole. It looks bad. It must be because you have nobody competent serving you.\""
+  ],
+  "original": [
+    "{鯉|こひ}のあつもの{食|く}ひたる{日|ひ}は、{鬢|びん}そそけずとなむ。",
+    "{膠|にかは}にもつくるものなれば、{粘|ねば}りたる{物|もの}にこそ。",
+    "{鯉|こひ}ばかりこそ、{御前|おまへ}にても{切|き}らるるものなれば、やんごとなき{魚|うを}なれ。",
+    "{鳥|とり}には{雉|きじ}さうなきものなり。",
+    "{雉|きじ}{松茸|まつたけ}などは、{御湯殿|おゆどの}の{上|うへ}にかかりたるも{苦|くる}しからず。",
+    "その{外|ほか}は{心憂|こころう}きことなり。",
+    "{中宮|ちゆうぐう}の{御方|おほんかた}の{御湯殿|おゆどの}の{上|うへ}のくろみ{棚|だな}に、{鴈|かり}の{見|み}えつるを、{北山|きたやま}{入道殿|にふだうどの}の{御覧|ごらん}じて、{帰|かへ}らせたまひて、やがて{御文|おふみ}にて、「かやうのもの、さながらその{姿|すがた}にて、{御|み}{棚|たな}にゐて{候|さぶら}ひしこと、{見|み}ならはず。さま{悪|あ}しきことなり。はかばかしき{人|ひと}のさぶらはぬ{故|ゆゑ}にこそ。」など{申|まう}されたりけり。"
+  ],
+  "literal": [
+    "On a day when one has eaten carp soup, one's sidelocks do not get frizzy, they say.",
+    "Since it is also made into glue, it must be a sticky thing.",
+    "Only carp, since it is cut even in the (emperor's) presence, is a noble fish.",
+    "Among birds, the pheasant is without equal.",
+    "Pheasant, matsutake and the like are no problem even hanging in the Oyudono room.",
+    "Anything else is distressing.",
+    "A wild goose was seen on the black shelf of the Oyudono room in the empress's quarters; the Kitayama lay-monk lord saw it, went home, and at once in a letter said something like: 'That such a thing, in its form just as it was, was on your shelf, I have never been accustomed to see. It is an unseemly thing. It must be because no capable people serve you.'"
+  ],
+  "notes": [
+    {"quote": "鬢そそけずとなむ", "text": "{鬢|びん}: the hair at the sides of the head. そそく: 'to get frizzy, to come loose'. となむ: short for となむ{言|い}ふ, 'so they say'."},
+    {"quote": "膠にもつくる", "text": "{膠|にかは}: glue made by boiling down skin, bones or fish. Kenkō's reasoning is simple: carp makes glue, so carp is sticky, so it holds your hair."},
+    {"quote": "御前にても切らるる", "text": "Cutting up a fish or a bird in front of the emperor was a formal ceremony with fixed knife strokes, done by specialists. Kenkō says carp is the only fish that gets this honour."},
+    {"quote": "雉さうなきものなり", "text": "さうなし ({双|さう}なし): 'without equal'. The same word appears in section 119 for bonito, with a very different verdict."},
+    {"quote": "御湯殿の上", "text": "{御湯殿|おゆどの}の{上|うへ}: a room in the palace next to the bath, where ladies-in-waiting were on duty and where food was also kept and made ready. The 1925 edition simply calls it the kitchen room. Pheasant and matsutake could hang there; other food could not."},
+    {"quote": "くろみ棚", "text": "The 1925 edition explains it as a shelf blackened by soot. Other commentators read 黒御棚, a black-lacquered shelf. Either way, a shelf in plain view."},
+    {"quote": "北山入道殿", "text": "A Saionji lord who had taken Buddhist vows ({入道|にふだう}) and was the empress's father. Modern commentators usually take him to be Saionji Sanekane (1249–1322), whose villa was at Kitayama, and the empress to be his daughter Kishi, consort of Emperor Go-Daigo from 1319. The 1925 edition says instead Saionji Saneuji and his daughter, the empress of Emperor Go-Fukakusa (Higashi-Nijō-in). He writes to his own daughter politely ({候|さぶら}ふ), because of her rank."},
+    {"quote": "さながらその姿にて", "text": "'Just as it was, in its own shape': the whole goose, not cut up or hidden. The problem is not the bird but that it was on show."},
+    {"quote": "はかばかしき人のさぶらはぬ故にこそ", "text": "にこそ: short for にこそあらめ, 'it must be because…'. The blame goes to the staff, not to the empress."}
+  ]
+}

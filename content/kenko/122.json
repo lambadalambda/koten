@@ -1,0 +1,56 @@
+{
+  "number": 122,
+  "title": "Gold and iron",
+  "translation": [
+    "Of all the things a person can be good at, the first is to know the classics well and understand what the sages taught. Next comes handwriting. Even if you don't make it your main thing, learn it. It helps with your studies. Next, learn medicine. You need it to look after yourself and to help others, and without it you can't even do your duty to your lord and your parents. Next, archery and riding. They're among the six arts of the Confucian tradition, so make sure you know something about them. Learning, arms and medicine: you really can't do without them. Nobody who studies them is wasting his time.",
+    "Next: food. People can't live without it. Someone who really knows how to make food taste good has a great skill.",
+    "Next, crafts. They're useful for all kinds of things.",
+    "Anything beyond that? Being good at too many things is something a gentleman should be ashamed of. Writing fine poetry and playing music beautifully are refined arts, and rulers and ministers value them. But these days, trying to govern with them looks more and more foolish. Gold is the finer metal, but iron is more useful."
+  ],
+  "original": [
+    "{人|ひと}の{才能|さいのう}は、{文|ふみ}{明|あき}らかにして、{聖|ひじり}の{教|をし}へを{知|し}れるを{第一|だいいち}とす。",
+    "{次|つぎ}には{手|て}かく{事|こと}、{旨|むね}とする{事|こと}はなくとも、これを{習|なら}ふべし。",
+    "{学問|がくもん}に{便|たよ}りあらむ{為|ため}なり。",
+    "{次|つぎ}に{医術|いじゆつ}を{習|なら}ふべし。",
+    "{身|み}を{養|やしな}ひ{人|ひと}を{助|たす}け、{忠孝|ちゆうかう}のつとめも、{医|い}にあらずばあるべからず。",
+    "{次|つぎ}に{弓|ゆみ}{射|い}、{馬|うま}に{乗|の}る{事|こと}、{六芸|りくげい}に{出|いだ}せり。",
+    "{必|かなら}ずこれを{窺|うかが}ふべし。",
+    "{文武医|ぶんぶい}の{道|みち}、まことに{欠|か}けてはあるべからず。",
+    "これを{学|まな}ばむをば、いたづらなる{人|ひと}といふべからず。",
+    "{次|つぎ}に、{食|しよく}は{人|ひと}の{天|てん}なり。",
+    "よく{味|あぢは}ひをととのへ{知|し}れる{人|ひと}、{大|おほ}きなる{徳|とく}とすべし。",
+    "{次|つぎ}に{細工|さいく}、よろづの{要|えう}{多|おほ}し。",
+    "この{外|ほか}の{事|こと}ども、{多能|たのう}は{君子|くんし}のはづるところなり。",
+    "{詩歌|しいか}にたくみに、{糸竹|しちく}に{妙|たへ}なるは、{幽玄|いうげん}の{道|みち}、{君臣|くんしん}これを{重|おも}くすとはいへども、{今|いま}の{世|よ}には、これをもちて{世|よ}を{治|をさ}むること、{漸|やうや}く{愚|おろ}かなるに{似|に}たり。",
+    "{金|こがね}はすぐれたれども、{鉄|くろがね}の{益|えき}{多|おほ}きに{如|し}かざるがごとし。"
+  ],
+  "literal": [
+    "Among a person's abilities, being clear in letters and knowing the teachings of the sages is taken as first.",
+    "Next, writing by hand: even if one does not make it one's main pursuit, one should learn it.",
+    "It is so as to be of help to learning.",
+    "Next, one should learn medicine.",
+    "Caring for one's body, helping people, and also the duties of loyalty and filial piety cannot be without medicine.",
+    "Next, shooting the bow and riding horses are listed among the six arts.",
+    "One should certainly look into these.",
+    "The ways of letters, arms and medicine truly must not be lacking.",
+    "One who would learn these one must not call a useless person.",
+    "Next, food is people's heaven.",
+    "A person who knows well how to arrange flavours should be considered to have a great virtue.",
+    "Next, handicraft has many uses of all kinds.",
+    "As for other things, many abilities are what a gentleman is ashamed of.",
+    "Being skilled in poetry and excellent in strings and bamboo: though it is a profound way and lord and ministers value it, in the present age, governing the world by it seems to be gradually becoming foolish.",
+    "It is like this: gold is excellent, but it does not equal the many uses of iron."
+  ],
+  "notes": [
+    {"quote": "聖の教へ", "text": "{聖|ひじり} here means the Confucian sages, Confucius and the wise kings of old, not a Buddhist monk as in section 111. {文|ふみ}: the Chinese classics."},
+    {"quote": "手かく事", "text": "{手|て}: handwriting. Good handwriting was a social skill at court; compare section 1."},
+    {"quote": "忠孝", "text": "{忠|ちゆう}: loyalty to one's lord. {孝|かう}: duty to one's parents. These were the two central Confucian duties."},
+    {"quote": "六芸", "text": "{六芸|りくげい}: the six arts of a Confucian gentleman: rites, music, archery, charioteering, writing and arithmetic. Kenkō picks archery and, for charioteering, riding."},
+    {"quote": "食は人の天なり", "text": "'Food is people's heaven', that is, what they depend on most. An old Chinese saying. The Records of the Grand Historian has 'The ruler takes the people as his heaven, and the people take food as their heaven'; the 1925 edition cites the Book of Documents, and other commentators the Tang emperor Taizong's Model for an Emperor."},
+    {"quote": "多能は君子のはづるところなり", "text": "Usually connected to the Analects, where Confucius says he learned many humble skills only because he was poor when young, and asks whether a gentleman needs many skills: 'No, not many.'"},
+    {"quote": "糸竹", "text": "{糸竹|しちく}: 'silk and bamboo', string and wind instruments, that is, music."},
+    {"quote": "幽玄の道", "text": "{幽玄|いうげん}: 'deep and subtle', one of the highest ideals in the poetry criticism of the time. Here simply the refined arts."},
+    {"quote": "漸く愚かなるに似たり", "text": "In section 1, poetry and music are among the things a man should have. Here they come after cooking and crafts. Kenkō, a poet himself, ranks the useful skills higher."},
+    {"quote": "金はすぐれたれども", "text": "{金|こがね} 'yellow metal', gold. {鉄|くろがね} 'black metal', iron. The section ends on the comparison and leaves it there."}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 116,
+  "title": "Clever names",
+  "translation": [
+    "When people in the old days named a temple, or anything else, they didn't try hard at all. They just called it what it was, simply and easily. These days names sound as if someone thought long and hard to show how clever they are. It's tiresome. Same with people's names: using characters people aren't used to seeing does no good.",
+    "They say it's always the shallow ones who go after the unusual in everything and love an odd theory."
+  ],
+  "original": [
+    "{寺院|じゐん}の{号|がう}、さらぬ{万|よろづ}の{物|もの}にも{名|な}をつくること、{昔|むかし}の{人|ひと}は{少|すこ}しも{求|もと}めず、{唯|ただ}ありの{侭|まま}に{安|やす}くつけけるなり。",
+    "この{頃|ごろ}は、{深|ふか}く{案|あん}じ、{才覚|さいがく}を{顕|あら}はさむとしたる{様|やう}に{聞|きこ}ゆる、いとむつかし。",
+    "{人|ひと}の{名|な}も、{目|め}{馴|な}れぬ{文字|もじ}をつかむとする、{益|やく}なき{事|こと}なり。",
+    "{何事|なにごと}もめづらしき{事|こと}をもとめ、{異説|いせつ}を{好|この}むは、{浅才|せんさい}の{人|ひと}の{必|かなら}ずあることなりとぞ。"
+  ],
+  "literal": [
+    "In giving names to temples and to all other things as well, the people of old did not strive at all, but simply named them easily, as they were.",
+    "These days, that they sound as if (people) thought deeply and tried to show off their cleverness is very tiresome.",
+    "With people's names too, trying to use unfamiliar characters is useless.",
+    "To seek out the unusual in everything and to like odd theories is what shallow people always do, they say."
+  ],
+  "notes": [
+    {"quote": "寺院の号", "text": "{号|がう}: a formal name. Temples had names, and often also 'mountain names' ({山号|さんがう})."},
+    {"quote": "才覚", "text": "{才覚|さいがく}: cleverness, wit. The 1925 edition reads it さいがく; modern Japanese says さいかく."},
+    {"quote": "いとむつかし", "text": "むつかし: 'tiresome, annoying'. A false friend: modern {難|むずか}しい means 'difficult'."},
+    {"quote": "目馴れぬ文字", "text": "Characters the eye is not used to. Names in Japanese are written in Chinese characters, and a name can be made to look learned by choosing rare ones."},
+    {"quote": "益なき事なり", "text": "{益|やく}なし: 'useless, pointless'. The reading やく is the old one; compare {御利益|ごりやく} 'divine favour'."},
+    {"quote": "必ずあることなりとぞ", "text": "とぞ: short for とぞ{言|い}ふ, 'so they say'. The verb is left out, so the ぞ has nothing to close. Kenkō passes the verdict on as something he heard."}
+  ]
+}

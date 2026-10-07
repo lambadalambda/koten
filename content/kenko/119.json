@@ -1,0 +1,26 @@
+{
+  "number": 119,
+  "title": "Bonito",
+  "translation": [
+    "Bonito, the fish from the sea at Kamakura, is the best thing around there, and these days it's very much in fashion. But an old man from Kamakura told me: \"When we were young, this fish never went near the table of anyone who mattered. Not even the servants ate the head. We cut it off and threw it away.\"",
+    "As the world goes downhill, even a fish like that ends up on the best tables."
+  ],
+  "original": [
+    "{鎌倉|かまくら}の{海|うみ}にかつをといふ{魚|うを}は、かの{境|さかひ}には{双|さう}なきものにて、この{頃|ごろ}もてなすものなり。",
+    "それも{鎌倉|かまくら}の{年寄|としより}の{申|まう}し{侍|はべ}りしは、「この{魚|うを}おのれ{等|ら}{若|わか}かりし{世|よ}までは、はかばかしき{人|ひと}の{前|まへ}へ{出|い}づること{侍|はべ}らざりき。{頭|かしら}は{下部|しもべ}も{食|く}はず、{切|き}り{捨|す}て{侍|はべ}りしものなり。」と{申|まう}しき。",
+    "かやうの{物|もの}も、{世|よ}の{末|すゑ}になれば、{上|うへ}ざままでも{入|い}りたつわざにこそ{侍|はべ}れ。"
+  ],
+  "literal": [
+    "The fish called katsuo in the sea at Kamakura is unequalled in that region, and these days it is much made of.",
+    "As for that, too, an old man of Kamakura said: 'Until the time when we were young, this fish never appeared before people of standing. The head not even servants ate; it was a thing we cut off and threw away.'",
+    "Things like this too, when the world comes to its latter days, make their way even into the upper classes."
+  ],
+  "notes": [
+    {"quote": "かつを", "text": "Katsuo, skipjack tuna, usually called bonito in English. Later, in the Edo period, the first katsuo of the season became a famous luxury."},
+    {"quote": "鎌倉", "text": "Kamakura, the seat of the shogunate, the military government, from the late twelfth century until 1333. Kenkō spent time in the region himself (see section 34)."},
+    {"quote": "双なきもの", "text": "{双|さう}なし: 'without equal'. Section 118 uses the same word for the pheasant."},
+    {"quote": "侍らざりき", "text": "き: the old man speaks of what he saw himself. Kenkō, in turn, closes the quotation with {申|まう}しき: he heard it himself."},
+    {"quote": "世の末", "text": "'The end of the world', the latter days. Buddhist teaching said the world was in a period of decline, and Kenkō and his readers often blamed the times for changes they did not like. Compare section 22."},
+    {"quote": "入りたつわざにこそ侍れ", "text": "こそ … {侍|はべ}れ: the realis form closes the こそ. {上|うへ}ざま: 'the upper ranks'."}
+  ]
+}

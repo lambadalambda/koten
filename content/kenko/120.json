@@ -1,0 +1,28 @@
+{
+  "number": 120,
+  "title": "Things from China",
+  "translation": [
+    "Apart from medicine, we could do without anything from China. Their books have spread all over this country by now, so we can copy them ourselves. Chinese ships make that hard crossing loaded up with useless things, packed so full there's no room to move. It's very silly.",
+    "\"Do not treasure what comes from far away.\" \"Do not value treasures that are hard to get.\" That's in the books too, I'm told."
+  ],
+  "original": [
+    "{唐|から}の{物|もの}は、{薬|くすり}の{外|ほか}はなくとも{事|こと}かくまじ。",
+    "{書|ふみ}どもは、この{国|くに}に{多|おほ}くひろまりぬれば、{書|か}きも{写|うつ}してむ。",
+    "もろこし{船|ぶね}の、たやすからぬ{道|みち}に、{無用|むよう}のものどものみ{取|と}り{積|つ}みて、{所狭|ところせ}く{渡|わた}しもて{来|く}る、いと{愚|おろ}かなり。",
+    "{遠|とほ}きものを{宝|たから}とせずとも、また{得|え}がたき{宝|たから}をたふとまずとも、{書|ふみ}にも{侍|はべ}るとかや。"
+  ],
+  "literal": [
+    "Things from China, apart from medicine, even if we did not have them, we would not be in want.",
+    "As for books, since many have spread in this country, we can surely copy them.",
+    "That Chinese ships, on a route that is not easy, load up only useless things and bring them over, filling all the space, is very foolish.",
+    "'Do not make treasures of distant things', and also 'Do not value treasures that are hard to obtain': it is in the books too, I hear."
+  ],
+  "notes": [
+    {"quote": "唐の物", "text": "{唐|から}: China in general, not only the Tang dynasty, which had ended four hundred years earlier. In Kenkō's time, China was ruled by the Mongol Yuan dynasty. Trade was busy anyway: ships brought ceramics, copper coins, books, incense and medicine."},
+    {"quote": "事かくまじ", "text": "{事|こと}かく: 'to be in want, to be short of something' (modern {事欠|ことか}く). まじ: 'surely will not'."},
+    {"quote": "書きも写してむ", "text": "てむ: 'we can surely'. Copying by hand was the normal way to get a book."},
+    {"quote": "たやすからぬ道", "text": "The crossing from China to Japan was dangerous."},
+    {"quote": "所狭く", "text": "{所狭|ところせ}し: 'filling the space, cramped'."},
+    {"quote": "遠きものを宝とせず", "text": "Both sayings go back to the Chinese classics, as commentators point out: 'do not treasure distant things' to the Book of Documents, and 'do not value goods that are hard to get' to the Laozi. とかや: 'I hear', a light hedge."}
+  ]
+}

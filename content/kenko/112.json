@@ -1,0 +1,43 @@
+{
+  "number": 112,
+  "title": "The day is ending",
+  "translation": [
+    "If someone is leaving for a distant province tomorrow, you don't go to them with something that needs time and a calm mind. When people are dealing with a sudden emergency, or are deep in grief, they don't listen to anything else. They don't ask how other people are, whether they're sad or happy. And nobody holds it against them.",
+    "It's the same when you're getting old, or you're ill, and even more so when you've left the world behind.",
+    "Social life is full of ceremonies, and you can't get out of a single one. If you go along with everything people expect and treat it all as something you must do, you'll always want something, you'll be worn out, and you'll never have a moment's peace. Your whole life will get stuck on small chores and go by for nothing.",
+    "The day is ending and the road is long. My life has already slipped by. It's time to let go of everything that ties me. I won't keep my promises. I won't think about manners. If people don't understand, they can call me mad, or think I've lost my mind, or that I don't care. Let them criticise me. I won't mind. Let them praise me. I won't listen."
+  ],
+  "original": [
+    "{明日|あす}は{遠国|ゑんごく}へ{赴|おもむ}くべしと{聞|き}かむ{人|ひと}に、{心|こころ}しづかになすべからむわざをば、{人|ひと}いひかけてむや。",
+    "{俄|にはか}の{大事|だいじ}をも{営|いとな}み、{切|せち}に{歎|なげ}くこともある{人|ひと}は、{他|ほか}の{事|こと}を{聞|き}き{入|い}れず、{人|ひと}のうれへよろこびをも{問|と}はず。",
+    "{問|と}はずとてなどやと{恨|うら}むる{人|ひと}もなし。",
+    "されば{年|とし}もやうやうたけ、{病|やまひ}にもまつはれ、{況|いは}んや{世|よ}をも{遁|のが}れたらむ{人|ひと}、{亦|また}これに{同|おな}じかるべし。",
+    "{人間|にんげん}の{儀式|ぎしき}、いづれの{事|こと}か{去|さ}り{難|がた}からぬ。",
+    "{世俗|せぞく}の{黙|もだ}し{難|がた}きに{従|したが}ひて、これを{必|かなら}ずとせば、{願|ねが}ひも{多|おほ}く、{身|み}も{苦|くる}しく、{心|こころ}の{暇|いとま}もなく、{一生|いつしやう}は{雑事|ざふじ}の{小節|せうせつ}にさへられて、{空|むな}しく{暮|く}れなむ。",
+    "{日|ひ}{暮|く}れ{道|みち}{遠|とほ}し、{吾|わ}が{生|しやう}{既|すで}に{蹉跎|さだ}たり、{諸縁|しよえん}を{放下|ほうげ}すべき{時|とき}なり。",
+    "{信|しん}をも{守|まも}らじ、{礼儀|れいぎ}をも{思|おも}はじ。",
+    "この{心|こころ}を{持|も}たざらむ{人|ひと}は、もの{狂|くる}ひともいへ、{現|うつつ}なし、{情|なさけ}なしとも{思|おも}へ、{譏|そし}るとも{苦|くる}しまじ、{誉|ほ}むとも{聞|き}きいれじ。"
+  ],
+  "literal": [
+    "To a person who one hears is to set out for a distant province tomorrow, would anyone bring up a matter that should be done with a calm mind?",
+    "A person who is handling a sudden important matter, or who is grieving bitterly, does not listen to other things and does not ask about other people's sorrows and joys.",
+    "There is also no one who resents it, saying 'Why did he not ask?'",
+    "So a person whose years are gradually advancing, or who is beset by illness, and all the more one who has withdrawn from the world, should be the same as this.",
+    "Of the ceremonies of human life, which one is not hard to avoid?",
+    "If, following the worldly (obligations) that are hard to ignore, one treats them as necessary, one's wishes are many, the body is in pain, the mind has no leisure, and one's whole life, blocked by the small details of trivial affairs, will surely end in vain.",
+    "The day is ending and the road is long; my life has already stumbled; it is the time to throw off all ties.",
+    "I will not keep faith, I will not think of etiquette.",
+    "People who do not have this mind: call me mad, think me senseless and heartless; if they criticise, I will not suffer; if they praise, I will not listen."
+  ],
+  "notes": [
+    {"quote": "遠国", "text": "{遠国|ゑんごく}: a distant province. A noble appointed to a provincial post often left the capital for years."},
+    {"quote": "人いひかけてむや", "text": "てむや: a rhetorical question, 'would anyone…? (No.)'. The whole first paragraph is a comparison, and the point comes later: an old man, a sick man or a monk is in the same position as the traveller."},
+    {"quote": "況んや", "text": "{況|いは}んや: 'all the more'. A word from reading Chinese texts in Japanese, where it renders 況."},
+    {"quote": "いづれの事か去り難からぬ", "text": "か … ぬ: か needs the attributive form, so the negative ず becomes ぬ. A rhetorical question: 'which of them is not hard to get out of?' Every one of them is."},
+    {"quote": "日暮れ道遠し", "text": "'The day is ending and the road is long.' The words go back to the Chinese Records of the Grand Historian (Shiji), where the avenger Wu Zixu uses them to explain why he no longer follows the rules. The 1925 edition cites the whole pair, with 'my life has already stumbled', from the biography of the poet Bai Juyi in the Tang History. The phrase became a common saying for old age with much left to do."},
+    {"quote": "蹉跎たり", "text": "{蹉跎|さだ}: 'stumbling, losing one's footing', a Chinese word for time that has slipped away without anything achieved."},
+    {"quote": "諸縁を放下すべき", "text": "{諸縁|しよえん}: all the ties that bind a person to the world. {放下|ほうげ}: a Buddhist word, 'to throw down, to let go'. The 1925 edition gives the reading ほうげ, which this page keeps; the usual historical spelling is はうげ."},
+    {"quote": "信をも守らじ、礼儀をも思はじ", "text": "{信|しん} (keeping one's word) and {礼|れい} (proper manners) are two of the five Confucian virtues. じ: negative will, 'I will not'. Kenkō gives up exactly the things a well-behaved man is supposed to keep."},
+    {"quote": "もの狂ひともいへ", "text": "いへ and {思|おも}へ are imperatives used as concessions: 'call me mad if you like'. The section ends on two refusals, with まじ and じ."}
+  ]
+}
