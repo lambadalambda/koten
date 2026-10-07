@@ -1,0 +1,25 @@
+{
+  "number": 132,
+  "title": "A voice that carried",
+  "translation": [
+    "The Toba Road isn't named after the Toba palace. It had that name long before the palace was built.",
+    "Prince Shigeakira wrote in his diary, so I'm told, that when Prince Motoyoshi read the New Year's greeting to the emperor, his voice was so magnificent that it carried from the main hall of the palace all the way to the Toba Road."
+  ],
+  "original": [
+    "{鳥羽|とば}の{作|つく}り{道|みち}は、{鳥羽殿|とばどの}{建|た}てられて{後|のち}の{号|な}にはあらず、{昔|むかし}よりの{名|な}なり。",
+    "{元良親王|もとよししんわう}、{元日|ぐわんじつ}の{奏賀|そうが}の{声|こゑ}はなはだ{殊勝|しゆしよう}にして、{大極殿|だいごくでん}より{鳥羽|とば}の{作|つく}り{道|みち}まできこえけるよし、{李部王|りほうわう}の{記|き}に{侍|はべ}るとかや。"
+  ],
+  "literal": [
+    "The Built Road of Toba is not a name from after the Toba palace was built; it is a name from old times.",
+    "That Prince Motoyoshi's voice in the New Year's Day congratulatory address was exceedingly fine, and was heard from the Hall of State as far as the Built Road of Toba, is in the record of the Ribu Prince, I hear."
+  ],
+  "notes": [
+    {"quote": "鳥羽の作り道", "text": "'The built road of Toba': the straight road that ran south from Rashōmon, the southern gate of the capital, to Toba. Kenkō's point is about the name: the road is older than the palace."},
+    {"quote": "鳥羽殿", "text": "The Toba palace, a large detached palace that Retired Emperor Shirakawa began building around 1086. {号|な}: 'name'; the reading is the 1925 edition's."},
+    {"quote": "元良親王", "text": "Prince Motoyoshi (890–943), a son of Emperor Yōzei, better remembered for his love affairs and poems. A poem of his is in the Hyakunin Isshu."},
+    {"quote": "元日の奏賀", "text": "{奏賀|そうが}: the formal New Year's greeting to the emperor, read aloud by a prince or high noble at the court ceremony on the first day of the year."},
+    {"quote": "大極殿", "text": "{大極殿|だいごくでん}: the great hall of state in the palace, at the northern end of the capital. The Toba road began at the southern end, several kilometres away."},
+    {"quote": "李部王の記", "text": "The diary of Prince Shigeakira (906–954), a son of Emperor Daigo. 李部 is a Chinese-style name for the Ministry of Ceremonial ({式部省|しきぶしやう}), which he headed, so 'the Ribu Prince' is him. The diary survives only in fragments."},
+    {"quote": "侍るとかや", "text": "とかや: 'so I hear': Kenkō cites the diary at second hand. It is his evidence for the first sentence: Motoyoshi died in 943, and the road already had its name then, more than a century before the palace."}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 133,
+  "title": "Which way to sleep",
+  "translation": [
+    "In the emperor's bedroom, the pillow is at the east end. As a rule, you should sleep with your head to the east, to take in the life-giving force of the sunrise, and Confucius did the same. In the main hall of a house, people often sleep with their heads to the south as well.",
+    "Retired Emperor Shirakawa slept with his head to the north. People talked. \"The north is unlucky. And Ise, the shrine of the sun goddess, is to the south. How can he sleep with his feet pointing at the Great Shrine?\"",
+    "But when the emperor bows to the Great Shrine from the palace, he faces south-east. Not south."
+  ],
+  "original": [
+    "{夜|よ}の{御殿|おとど}は{東|ひがし}{御|み}{枕|まくら}なり。",
+    "{大|おほ}かた{東|ひがし}を{枕|まくら}として{陽気|やうき}を{受|う}くべき{故|ゆゑ}に、{孔子|こうし}も{東首|とうしゆ}し{給|たま}へり。",
+    "{寝殿|しんでん}のしつらひ、{或|あるい}は{南枕|みなみまくら}、{常|つね}のことなり。",
+    "{白河院|しらかはのゐん}は{北首|ほくしゆ}に{御寝|ぎよしん}なりけり。",
+    "「{北|きた}は{忌|い}むことなり。",
+    "{又|また}{伊勢|いせ}は{南|みなみ}なり。",
+    "{太神宮|だいじんぐう}の{御方|おほんかた}を{御|おん}{跡|あと}にせさせ{給|たま}ふ{事|こと}いかが。」と{人|ひと}{申|まう}しけり。",
+    "ただし{太神宮|だいじんぐう}の{遥拝|えうはい}は{辰巳|たつみ}に{向|むか}はせたまふ、{南|みなみ}にはあらず。"
+  ],
+  "literal": [
+    "In the Night Chamber, the august pillow is to the east.",
+    "In general, one should make the east one's pillow and receive the yang energy, and so Confucius too lay with his head to the east.",
+    "In the furnishing of a main hall, a pillow to the south is also usual.",
+    "Retired Emperor Shirakawa slept with his head to the north.",
+    "'The north is something to be avoided.",
+    "Also, Ise is to the south.",
+    "How can he put the direction of the Great Shrine at his feet?', people said.",
+    "However, (the emperor's) worship of the Great Shrine from afar faces the south-east; it is not the south."
+  ],
+  "notes": [
+    {"quote": "夜の御殿", "text": "{夜|よ}の{御殿|おとど}: the emperor's bedchamber in the Seiryōden, the hall where he lived. Both readings are the 1925 edition's."},
+    {"quote": "陽気を受くべき故に", "text": "{陽気|やうき}: yang, the active, bright force of Chinese cosmology, linked with the east, sunrise and spring. Modern {陽気|ようき} means 'cheerful' or 'the weather'."},
+    {"quote": "孔子も東首し給へり", "text": "The Analects says that when Confucius was ill and his lord came to visit, he lay with his head to the east. {東首|とうしゆ}: 'head to the east'; the edition gives the reading."},
+    {"quote": "寝殿のしつらひ", "text": "{寝殿|しんでん}: the main hall of a noble's house, where the master lived and slept. しつらひ: 'furnishing, arrangement'."},
+    {"quote": "北は忌むことなり", "text": "The Buddha died lying with his head to the north, so the dead are laid out that way. Sleeping with your head to the north ({北枕|きたまくら}) is still avoided in Japan today."},
+    {"quote": "太神宮", "text": "The Great Shrine of Ise, the shrine of Amaterasu, the sun goddess and ancestor of the imperial family. With his head to the north, Shirakawa's feet ({御|おん}{跡|あと}, here 'feet' rather than 'trace') pointed south, which people took to be towards Ise."},
+    {"quote": "遥拝は辰巳に向はせたまふ", "text": "{遥拝|えうはい}: worshipping a distant shrine from afar, facing its direction. {辰巳|たつみ}: south-east, between the dragon (east-south-east) and the snake (south-south-east) in the Chinese zodiac directions. Ise does lie south-east of Kyoto, so the complaint does not hold, and Kenkō leaves it at that."}
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 123,
+  "title": "Food, clothes, a roof",
+  "translation": [
+    "If you spend your time on things that do no good, you're either a fool or you're doing something wrong. There's plenty you have to do anyway, for your country and for your lord. Work out how much time that leaves you. It isn't much.",
+    "What a person really can't do without is, first, food. Second, clothes. Third, somewhere to live. Those are the big things in life, and there's nothing bigger. Don't go hungry, don't be cold, keep out of the wind and rain, and live quietly. That's what a good life is.",
+    "But everyone gets ill, and when you're ill, it's hard to bear. So don't forget about medicine. That makes four things. If you can't get all four, you're poor. If you have all four, you're rich. Chasing anything beyond them is luxury. Keep the four simple, and who could say they don't have enough?"
+  ],
+  "original": [
+    "{無益|むやく}の{事|こと}をなして{時|とき}を{移|うつ}すを、{愚|おろ}かなる{人|ひと}とも、{僻事|ひがごと}する{人|ひと}ともいふべし。",
+    "{国|くに}の{為|ため}{君|きみ}の{為|ため}に、{止|や}む{事|こと}を{得|え}ずしてなすべき{事|こと}{多|おほ}し。",
+    "その{余|あま}りの{暇|いとま}、いくばくならず{思|おも}ふべし。",
+    "{人|ひと}の{身|み}に{止|や}む{事|こと}を{得|え}ずして{営|いとな}む{所|ところ}、{第一|だいいち}に{食|く}ひ{物|もの}、{第二|だいに}に{著|き}る{物|もの}、{第三|だいさん}に{居|ゐ}る{所|ところ}なり。",
+    "{人間|にんげん}の{大事|だいじ}、この{三|み}つには{過|す}ぎず。",
+    "{飢|う}ゑず、{寒|さむ}からず、{風雨|ふうう}に{冒|をか}されずして、しづかに{過|すぐ}すを{楽|たの}しみとす。",
+    "{但|ただ}し{人|ひと}{皆|みな}{病|やまひ}あり。",
+    "{病|やまひ}に{冒|をか}されぬれば、その{愁|うれ}へ{忍|しの}び{難|がた}し。",
+    "{医療|いれう}を{忘|わす}るべからず。",
+    "{薬|くすり}を{加|くは}へて、{四|よ}つの{事|こと}、{求|もと}め{得|え}ざるを{貧|まづ}しとす。",
+    "この{四|よ}つ{欠|か}けざるを{富|と}めりとす。",
+    "この{四|よ}つの{外|ほか}を{求|もと}め{営|いとな}むを{驕|おごり}とす。",
+    "{四|よ}つの{事|こと}{倹約|けんやく}ならば、{誰|たれ}の{人|ひと}か{足|た}らずとせむ。"
+  ],
+  "literal": [
+    "Doing useless things and letting time pass: one should call such a person foolish, or a person who does wrong.",
+    "For the sake of the country and for the sake of the lord, there are many things one must do, being unable to avoid them.",
+    "One should think that the leisure left over from that is not much.",
+    "What a person's body attends to, being unable to avoid it, is: first, food; second, clothes; third, a place to live.",
+    "The great matters of human life do not go beyond these three.",
+    "Not starving, not being cold, not being attacked by wind and rain, and passing the time quietly: this is counted as pleasure.",
+    "However, all people have illness.",
+    "When attacked by illness, its suffering is hard to bear.",
+    "One must not forget medical treatment.",
+    "Adding medicine, not being able to obtain the four things is counted as poor.",
+    "Not lacking these four is counted as being rich.",
+    "Seeking and attending to things beyond these four is counted as luxury.",
+    "If the four things are kept frugal, what person would think it is not enough?"
+  ],
+  "notes": [
+    {"quote": "僻事する人", "text": "{僻事|ひがごと}: 'a wrong thing, a mistake'. ひが- means 'twisted, off': compare ひがむ, still used for 'to be warped, to sulk'."},
+    {"quote": "国の為君の為に", "text": "Duties to the country and to one's lord come first. Only the time left over is one's own, and Kenkō says it is not much."},
+    {"quote": "人間の大事", "text": "{人間|にんげん} in classical Japanese often means 'the human world, human life', not 'a human being'. {大事|だいじ}: 'the great matters'. Here it is practical: food, clothes and a roof."},
+    {"quote": "しづかに過すを", "text": "The 1925 edition gives the reading すぐす, an older form of すごす 'to pass the time, to live'."},
+    {"quote": "四つの事、求め得ざるを貧しとす", "text": "とす: 'is counted as, is called'. The section ends with three short definitions in the same shape: poor, rich, luxury. The measure is the four things, not money."},
+    {"quote": "驕", "text": "{驕|おごり}: 'luxury, extravagance', also 'pride'. The same word stands at the start of section 18, which is about owning nothing."},
+    {"quote": "誰の人か足らずとせむ", "text": "か … む: a rhetorical question, 'who would say it is not enough? (Nobody.)' {倹約|けんやく}, 'thrift', is still the everyday word today."}
+  ]
+}

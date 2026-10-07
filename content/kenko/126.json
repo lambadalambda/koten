@@ -1,0 +1,24 @@
+{
+  "number": 126,
+  "title": "When not to play",
+  "translation": [
+    "Someone once told me: \"When a gambler has been losing badly and he's about to bet everything he has left, don't play against him. That's the moment his luck turns, and he'll win again and again. A good gambler knows when that moment has come.\""
+  ],
+  "original": [
+    "「{博奕|ばくち}の{負|ま}け{極|きは}まりて、{残|のこ}りなくうち{入|い}れむとせむに、{逢|あ}ひては{打|う}つべからず。",
+    "{立|た}ち{帰|かへ}りつづけて{勝|か}つべき{時|とき}の{至|いた}れると{知|し}るべし。",
+    "その{時|とき}を{知|し}るを、よき{博奕|ばくち}といふなり。」と、あるもの{申|まう}しき。"
+  ],
+  "literal": [
+    "'When someone's losses at gambling have reached the extreme and he is about to stake everything that is left, you must not face him and play.",
+    "You should know that the time has come when (his luck) turns back and he will win in a row.",
+    "Knowing that time is what is called a good gambler', someone said."
+  ],
+  "notes": [
+    {"quote": "博奕", "text": "{博奕|ばくち}: gambling, and also a gambler, as in the last sentence. In Kenkō's time the usual games were played with dice, such as sugoroku, a board game played for stakes."},
+    {"quote": "残りなくうち入れむとせむに", "text": "うち{入|い}る: 'to put in, to stake'. むとす: 'to be about to'. The second む makes it a general case: 'whenever someone is about to…'."},
+    {"quote": "逢ひては打つべからず", "text": "{逢|あ}ふ: here 'to face as an opponent'. {打|う}つ is the verb for playing dice or board games, still used for {博打|ばくち}を{打|う}つ."},
+    {"quote": "立ち帰りつづけて勝つべき", "text": "{立|た}ち{帰|かへ}る: 'to come back, to turn round'. His luck turns, and he wins several times in a row."},
+    {"quote": "あるもの申しき", "text": "き: Kenkō heard it himself. The whole section is one quoted piece of advice, and he adds nothing to it."}
+  ]
+}

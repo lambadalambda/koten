@@ -1,0 +1,29 @@
+{
+  "number": 131,
+  "title": "Know your limits",
+  "translation": [
+    "Poor people feel they have to show their respect with money, and old people with their strength. Know your limits. When you can't manage something, stop straight away. That's wisdom. If people won't accept it, that's their mistake. If you don't know your limits and push yourself anyway, the mistake is yours.",
+    "A poor man who doesn't know his limits ends up stealing. An old man who doesn't know his ends up ill."
+  ],
+  "original": [
+    "{貧|まづ}しきものは{財|たから}をもて{礼|れい}とし、{老|お}いたるものは{力|ちから}をもて{礼|れい}とす。",
+    "おのが{分|ぶん}を{知|し}りて、{及|およ}ばざる{時|とき}は{速|すみや}かにやむを{智|ち}といふべし。",
+    "{許|ゆる}さざらむは{人|ひと}のあやまりなり。",
+    "{分|ぶん}を{知|し}らずして{強|し}ひて{励|はげ}むは、おのれがあやまりなり。",
+    "{貧|まづ}しくして{分|ぶん}を{知|し}らざれば{盗|ぬす}み、{力|ちから}{衰|おとろ}へて{分|ぶん}を{知|し}らざれば{病|やまひ}をうく。"
+  ],
+  "literal": [
+    "The poor take wealth as their courtesy, and the old take strength as their courtesy.",
+    "To know one's own share and, when one cannot reach, to stop quickly, should be called wisdom.",
+    "If (others) do not allow it, that is their error.",
+    "Not knowing one's share and forcing oneself to strive is one's own error.",
+    "If one is poor and does not know one's share, one steals; if one's strength has declined and one does not know one's share, one falls ill."
+  ],
+  "notes": [
+    {"quote": "貧しきものは財をもて礼とし", "text": "The usual reading: the poor think they have to show courtesy with gifts, and the old with physical effort, so both try to give what they don't have. Commentators compare a line in the Chinese Book of Rites that says the opposite, that the poor should not be expected to show courtesy with goods, nor the old with strength. {礼|れい}: courtesy, proper conduct (see section 130)."},
+    {"quote": "おのが分を知りて", "text": "{分|ぶん}: 'one's share, one's portion', so 'what one can manage, one's limits'. The same {分|ぶん} is in modern {自分|じぶん} 'oneself' and {身分|みぶん} 'social position'."},
+    {"quote": "許さざらむは人のあやまりなり", "text": "む: a supposition, 'if (others) should not allow it'. The subject is other people, who expect the gift or the effort."},
+    {"quote": "強ひて励む", "text": "{強|し}ふ: 'to force'. {強|し}ひて, 'by force, against the odds', survives in modern {強|し}いて."},
+    {"quote": "病をうく", "text": "The section ends with two short consequences in the same shape: the poor steal, the old fall ill."}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "number": 127,
+  "title": "Leave it",
+  "translation": [
+    "If changing something does no good, it's better to leave it alone."
+  ],
+  "original": [
+    "{改|あらた}めて{益|やく}なきことは、{改|あらた}めぬをよしとするなり。"
+  ],
+  "literal": [
+    "As for things where changing them brings no benefit, not changing them is considered good."
+  ],
+  "notes": [
+    {"quote": "益なき", "text": "{益|やく}なし: 'useless, pointless'. Here {益|やく} is the older reading; modern Japanese reads the same kanji えき, as in {無益|むえき}."},
+    {"quote": "改めぬをよしとするなり", "text": "ぬ here is the negative ず in its attributive form: 'not changing'. よしとす: 'to count as good'."},
+    {"quote": "改めて", "text": "The whole section is one sentence. The text says nothing about what kind of change it means: customs, rules or anything else."}
+  ]
+}

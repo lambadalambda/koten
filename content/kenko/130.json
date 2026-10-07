@@ -1,0 +1,51 @@
+{
+  "number": 130,
+  "title": "Don't compete",
+  "translation": [
+    "The best thing is not to compete. Give way, go along with other people, put yourself last and them first.",
+    "People who love winning play games for the fun of winning. They enjoy being better at something than you are. So obviously losing is no fun for them. And if you lose on purpose to make the other person happy, there's no point in playing at all. Making someone else feel bad so you can feel good is just wrong.",
+    "Even among friends, some people's idea of a joke is to trick someone and enjoy being the clever one. That's bad manners too. A lot of grudges that last for years started at a party. It all comes from loving to compete.",
+    "If you want to be better than other people, study, and be better at knowing things. Anyone who really studies the Way learns not to boast and not to compete with the people around them. Only learning gives you the strength to turn down a high post or walk away from money."
+  ],
+  "original": [
+    "{物|もの}に{争|あらそ}はず、{己|おのれ}を{枉|ま}げて{人|ひと}に{従|したが}ひ、{我|わ}が{身|み}を{後|のち}にして、{人|ひと}を{先|さき}にするには{如|し}かず。",
+    "{万|よろづ}のあそびにも、{勝負|しようぶ}を{好|この}む{人|ひと}は、{勝|か}ちて{興|きよう}あらむ{為|ため}なり。",
+    "{己|おのれ}が{芸|げい}の{勝|まさ}りたる{事|こと}をよろこぶ。",
+    "されば{負|ま}けて{興|きよう}なく{覚|おぼ}ゆべきこと、また{知|し}られたり。",
+    "{我|われ}{負|ま}けて{人|ひと}を{歓|よろこ}ばしめむと{思|おも}はば、さらに{遊|あそ}びの{興|きよう}なかるべし。",
+    "{人|ひと}に{本意|ほい}なく{思|おも}はせて、わが{心|こころ}を{慰|なぐさ}めむこと、{徳|とく}に{背|そむ}けり。",
+    "むつましき{中|なか}に{戯|たはぶ}るるも、{人|ひと}をはかり{欺|あざむ}きて、おのれが{智|ち}の{勝|まさ}りたることを{興|きよう}とす。",
+    "これまた{礼|れい}にあらず。",
+    "さればはじめ{興宴|きようえん}より{起|おこ}りて、{長|なが}き{恨|うら}みを{結|むす}ぶ{類|たぐひ}おほし。",
+    "これ{皆|みな}あらそひを{好|この}む{失|しつ}なり。",
+    "{人|ひと}に{勝|まさ}らむことを{思|おも}はば、ただ{学問|がくもん}して、その{智|ち}を{人|ひと}に{勝|まさ}らむと{思|おも}ふべし。",
+    "{道|みち}を{学|まな}ぶとならば、{善|ぜん}に{誇|ほこ}らず、ともがらに{争|あらそ}ふべからずといふ{事|こと}を{知|し}るべきゆゑなり。",
+    "{大|おほ}きなる{職|しよく}をも{辞|じ}し、{利|り}をも{捨|す}つるは、ただ{学問|がくもん}の{力|ちから}なり。"
+  ],
+  "literal": [
+    "Nothing is better than not contending with things, bending oneself to follow others, putting oneself last and others first.",
+    "In all games, too, people who like contests do so in order to have the pleasure of winning.",
+    "They rejoice that their own skill is superior.",
+    "So it is also clear that they will feel no pleasure in losing.",
+    "If I think to lose and make others happy, there will be no pleasure in the game at all.",
+    "To make others feel disappointed and to comfort one's own heart goes against virtue.",
+    "Even when joking among close friends, they trick and deceive others and take pleasure in their own cleverness being superior.",
+    "This too is not proper conduct.",
+    "So there are many cases that start at a banquet and end in a long grudge.",
+    "These are all the fault of liking contention.",
+    "If you think of surpassing others, you should simply study and think of surpassing others in knowledge.",
+    "For if you study the Way, you should come to know that one does not boast of one's good qualities and must not contend with one's peers.",
+    "Declining even a great office and giving up profit: that is only the power of learning."
+  ],
+  "notes": [
+    {"quote": "己を枉げて", "text": "{枉|ま}ぐ: 'to bend', here 'to give way, to set aside one's own wishes'. {如|し}かず at the end of the sentence: 'nothing is better than', as in section 8."},
+    {"quote": "勝ちて興あらむ為なり", "text": "{興|きよう}: 'fun, pleasure', a word that runs through the whole section. Kenkō shows that a contest can't work: if you win, the other side loses the fun; if you lose on purpose, the game is no fun."},
+    {"quote": "本意なく思はせて", "text": "{本意|ほい}なし: 'disappointing, not what one wanted' (see section 1)."},
+    {"quote": "これまた礼にあらず", "text": "{礼|れい}: proper conduct towards others, a central idea in Confucian teaching. Kenkō argues here in Confucian terms: {徳|とく} (virtue), {礼|れい}, {学問|がくもん}."},
+    {"quote": "興宴", "text": "{興宴|きようえん}: a party or banquet, with drinking and games."},
+    {"quote": "あらそひを好む失なり", "text": "{失|しつ}: 'a fault, an error'."},
+    {"quote": "善に誇らず", "text": "'Not to boast of one's good qualities': the words of Yan Hui in the Analects, the same passage that begins section 129."},
+    {"quote": "ともがら", "text": "ともがら: 'companions, people of the same kind or position'."},
+    {"quote": "ただ学問の力なり", "text": "{学問|がくもん} here is study of the Way, the moral teaching of the classics, not scholarship in the modern sense. The section ends on what that study lets a person do."}
+  ]
+}

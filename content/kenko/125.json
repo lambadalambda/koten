@@ -1,0 +1,39 @@
+{
+  "number": 125,
+  "title": "The Chinese dog",
+  "translation": [
+    "When someone had died, a priest was invited to preach at the memorial on the forty-ninth day. His sermon was wonderful, and everyone was in tears. After he left, the people who had listened kept telling each other, \"He was more moving today than ever.\" And one man answered, \"Well, naturally. He looks so much like a Chinese dog.\" That was the end of the tears, and it was very funny. Is that any way to praise a preacher?",
+    "Another time, the same man was pressing drinks on people. \"If you drink first and then try to make the others drink,\" he said, \"it's like trying to cut someone down with a double-edged sword. Both sides are sharp, so when you raise it, the first thing it cuts is your own neck, and you never get to the other man. Get drunk and pass out first, and nobody's going to drink a drop.\"",
+    "Had he actually tried that with a sword? It was very funny."
+  ],
+  "original": [
+    "{人|ひと}に{後|おく}れて、{四十九日|なななぬか}の{仏事|ぶつじ}に、ある{聖|ひじり}を{請|しやう}じ{侍|はべ}りしに、{説法|せつぽふ}いみじくして{皆人|みなひと}{涙|なみだ}を{流|なが}しけり。",
+    "{導師|だうし}かへりて{後|のち}、{聴聞|ちやうもん}の{人|ひと}ども、「いつよりも{殊|こと}に{今日|けふ}は{尊|たふと}くおぼえ{侍|はべ}りつる。」と{感|かん}じあへりし{返|かへ}り{事|ごと}に、ある{者|もの}の{曰|いは}く、「{何|なに}とも{候|さうら}へ、あれほど{唐|から}の{狗|いぬ}に{似|に}{候|さうら}ひなむ{上|うへ}は。」といひたりしに、あはれもさめてをかしかりけり。",
+    "さる{導師|だうし}のほめやうやはあるべき。",
+    "また{人|ひと}に{酒|さけ}{勧|すす}むるとて、「おのれまづたべて{人|ひと}に{強|し}ひ{奉|たてまつ}らむとするは、{剣|けん}にて{人|ひと}を{斬|き}らむとするに{似|に}たる{事|こと}なり。",
+    "{二方|ふたかた}は{刃|は}つきたるものなれば、もたぐる{時|とき}、まづ{我|わ}が{頚|くび}を{斬|き}るゆゑに、{人|ひと}をばえ{斬|き}らぬなり。",
+    "おのれまづ{酔|ゑ}ひて{臥|ふ}しなば、{人|ひと}はよも{召|め}さじ。」と{申|まう}しき。",
+    "{剣|けん}にて{斬|き}り{試|こころ}みたりけるにや。",
+    "いとをかしかりき。"
+  ],
+  "literal": [
+    "Having been left behind by someone (who died), at the Buddhist service of the forty-ninth day, (someone) invited a certain holy man, and his sermon was splendid, and everyone shed tears.",
+    "After the officiating priest had gone home, the listeners were all moved and said, 'Today especially, more than ever, he seemed venerable', and in reply to this, a certain person said, 'Say what you will, given that he resembles a Chinese dog to that extent…', and at that the feeling cooled and it was funny.",
+    "Can there be such a way of praising an officiating priest?",
+    "Also, urging sake on people, (he) said: 'To drink first oneself and then try to press it on others is like trying to cut a person with a double-edged sword.",
+    "Since it is a thing with blades on both sides, when you lift it, it first cuts your own neck, and so you cannot cut the other person.",
+    "If you first get drunk yourself and lie down, the others will surely not drink.'",
+    "Had he tried cutting with a double-edged sword?",
+    "It was very funny."
+  ],
+  "notes": [
+    {"quote": "人に後れて", "text": "{後|おく}る: 'to be left behind', here by someone who has died. The text does not say whose family it was. The verbs in き ({侍|はべ}りし, {申|まう}しき) mark what Kenkō saw and heard himself."},
+    {"quote": "四十九日", "text": "{四十九日|なななぬか}: the service on the forty-ninth day after a death, which ends the forty-nine days of mourning (see section 30)."},
+    {"quote": "唐の狗に似候ひなむ上は", "text": "'Since he looks that much like a Chinese dog…', and the sentence stops there: of course his sermon was good. A 'Chinese dog' was a foreign breed, rare in Japan. Commentators do not agree on what the comparison is supposed to praise. The man speaks politely ({候|さうら}ふ), which makes it worse."},
+    {"quote": "さる導師のほめやうやはあるべき", "text": "やは: a rhetorical question, 'can there be…? (No.)'. Kenkō treats the remark as praise, just a very clumsy one."},
+    {"quote": "また人に酒勧むるとて", "text": "The text does not name the speaker of the second story. It is usually taken to be the same man."},
+    {"quote": "剣", "text": "{剣|けん}: a straight, double-edged sword of the old Chinese type, not the single-edged curved sword ({太刀|たち}) that warriors of Kenkō's time carried. The 1925 edition gives the reading けん."},
+    {"quote": "人はよも召さじ", "text": "よも … じ: 'surely not'. {召|め}す: respectful 'to drink'. たべて, earlier, is the humble word for his own drinking. His logic: the host has to stay sober, or the guests won't drink."},
+    {"quote": "剣にて斬り試みたりけるにや", "text": "にや: 'was it that…?', with あらむ left out. A double-edged sword does not cut your own neck when you raise it. Kenkō's question makes that point without saying it."}
+  ]
+}
