@@ -59,3 +59,4 @@ Approved examples. When in doubt, compare with these.
 - "You hear it all the time from people who want to learn something: '…' They never get good at anything." (150)
 - "Even the best people in any field were terrible when they started, and everyone knew it." (150)
 - "'Oh, that,' the man said. 'Some naughty children did that. Outrageous.' He walked over, turned them back the right way, and left. So Shōkai's tears were for nothing." (236)
+- "The sage of Kume could fly, until he saw the white legs of a woman doing the washing and lost his powers. I believe it. Skin is different. Fair, smooth, soft arms and legs aren't something you put on. They're the real thing. No wonder he fell." (8)
