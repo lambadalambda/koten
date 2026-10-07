@@ -1,0 +1,46 @@
+{
+  "number": 95,
+  "title": "Which side for the cord",
+  "translation": [
+    "I once asked an expert on court customs: \"A box has rings on the sides for the cord. Which side should the cord go on?\"",
+    "He said, \"There are two schools. One puts it on the left, at the end where a scroll has its roller, and the other on the right, where a scroll has its cover. So neither is wrong. Letter boxes mostly have it on the right. On a box for your personal things, the left is quite usual too.\""
+  ],
+  "original": [
+    "「{箱|はこ}のくりかたに{緒|を}を{著|つ}くる{事|こと}、いづ{方|かた}につけ{侍|はべ}るべきぞ。」と、ある{有職|いうそく}の{人|ひと}に{尋|たづ}ね{申|まう}し{侍|はべ}りしかば、",
+    "「{軸|ぢく}につけ{表紙|へうし}につくること、{両説|りやうせつ}なれば、{何|いづ}れも{難|なん}なし。",
+    "{文|ふみ}の{箱|はこ}は{多|おほ}くは{右|みぎ}につく。",
+    "{手箱|てばこ}には{軸|ぢく}につくるも{常|つね}のことなり。」と{仰|おほ}せられき。"
+  ],
+  "literal": [
+    "When I asked a certain person versed in court precedent, 'Attaching the cord to the kurikata of a box: on which side should one attach it?',",
+    "'Attaching it on the roller side or attaching it on the cover side: since there are two views, neither is at fault.",
+    "Letter boxes mostly attach it on the right.",
+    "For a hand box, attaching it on the roller side is also usual', he said."
+  ],
+  "notes": [
+    {
+      "quote": "くりかた",
+      "text": "くりかた ({刳形|くりかた}): the fittings on the sides of a box, carved openings or metal rings, through which the cord ({緒|を}) runs to tie the lid down. The exact form varied, and commentators describe it in different ways."
+    },
+    {
+      "quote": "有職の人",
+      "text": "{有職|いうそく}: an expert on court precedent and etiquette (compare sections 1 and 33)."
+    },
+    {
+      "quote": "軸につけ表紙につくること",
+      "text": "The terms come from the handscroll. Unrolled from right to left, a scroll has its cover ({表紙|へうし}) at the right-hand end and its roller ({軸|ぢく}) at the left. Commentators take 'roller side' as the left side of the box and 'cover side' as the right, which fits the next sentence: letter boxes mostly on the right."
+    },
+    {
+      "quote": "両説なれば、何れも難なし",
+      "text": "{両説|りやうせつ}: 'two views', two accepted traditions. {難|なん}なし: 'no fault' (as in section 33, where the experts found {難|なん}なし in the new palace)."
+    },
+    {
+      "quote": "手箱",
+      "text": "{手箱|てばこ}: a box for personal things kept close at hand, such as combs, make-up and small papers."
+    },
+    {
+      "quote": "仰せられき",
+      "text": "き: the past of things the writer experienced himself. Kenkō asked the question in person, and he reports the answer and nothing else."
+    }
+  ]
+}

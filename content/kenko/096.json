@@ -1,0 +1,24 @@
+{
+  "number": 96,
+  "title": "A plant for snakebite",
+  "translation": [
+    "There's a plant called menamomi. If a viper bites you, crush some of it and put it on the bite, and it heals right away, they say. Worth learning to recognise."
+  ],
+  "original": [
+    "めなもみといふ{草|くさ}あり。",
+    "{蝮|くちばみ}にさされたる{人|ひと}、かの{草|くさ}を{揉|も}みてつけぬれば、すなはち{癒|い}ゆとなむ。",
+    "{見知|みし}りておくべし。"
+  ],
+  "literal": [
+    "There is a plant called menamomi.",
+    "If a person who has been bitten by a viper crushes that plant and applies it, he is healed at once, they say.",
+    "One should get to know it by sight."
+  ],
+  "notes": [
+    {"quote": "めなもみ", "text": "Usually identified as the plant still called メナモミ in Japanese (Siegesbeckia pubescens), a weedy relative of the daisy with sticky flower heads. It was used in folk medicine."},
+    {"quote": "蝮", "text": "{蝮|くちばみ}: an old name for the mamushi, Japan's most common venomous snake. Modern Japanese reads the same kanji まむし."},
+    {"quote": "さされたる", "text": "さす: 'to sting, to pierce'. Older Japanese used it for snakebites as well as insect stings."},
+    {"quote": "すなはち癒ゆとなむ", "text": "すなはち: 'at once'. となむ: 'so it is said', with the end of the sentence (いふ) left out. Kenkō passes it on as something he heard."},
+    {"quote": "見知りておくべし", "text": "べし: 'should'. The whole section is three sentences long and ends on this practical tip."}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 90,
+  "title": "He didn't see the head",
+  "translation": [
+    "Otozurumaru, a boy who served the bishop they called Dainagon Hōin, had got to know someone called Yasura and was always going over there. One time when he came back, the bishop asked him, \"Where have you been?\"",
+    "\"At Yasura's, sir.\"",
+    "\"And this Yasura. A layman, or a priest?\"",
+    "The boy folded his hands neatly into his sleeves. \"I couldn't say, sir. I didn't see the head.\"",
+    "How did he manage not to see just the head?"
+  ],
+  "original": [
+    "{大納言|だいなごん}{法印|ほふいん}のめしつかひし{乙鶴丸|おとつるまる}、やすら{殿|どの}といふ{者|もの}を{知|し}りて、{常|つね}にゆき{通|かよ}ひしに、",
+    "ある{時|とき}いでて{帰|かへ}り{来|きた}るを、{法印|ほふいん}、「いづこへ{行|ゆ}きつるぞ。」と{問|と}ひしかば、「やすら{殿|どの}の{許|がり}まかりて{候|さうらふ}。」といふ。",
+    "「そのやすら{殿|どの}は、{男|をのこ}か{法師|ほふし}か。」とまた{問|と}はれて、{袖|そで}かき{合|あは}せて、「いかが{候|さうらふ}らむ。{頭|かしら}をば{見|み}{候|さうら}はず。」と{答|こた}へ{申|まう}しき。",
+    "などか{頭|かしら}ばかりの{見|み}えざりけむ。"
+  ],
+  "literal": [
+    "Otozurumaru, whom the Dainagon Hōin employed, knew someone called Yasura-dono and was always going to visit, and",
+    "one time when he went out and came back, the Hōin asked, 'Where did you go?', and he said, 'I went to Yasura-dono's place.'",
+    "Asked again, 'This Yasura-dono, is he a layman or a priest?', he put his sleeves together and answered, 'How might it be? I did not see the head.'",
+    "Why was it only the head that he did not see?"
+  ],
+  "notes": [
+    {"quote": "大納言法印", "text": "{法印|ほふいん}: the highest rank for Buddhist priests. 'Dainagon' in a priest's name usually comes from the office of his father. Which bishop this is, is not known."},
+    {"quote": "乙鶴丸", "text": "Names ending in -{丸|まる} were given to boys, here a page who served a high priest. Such boys were often the priests' young lovers, and many commentators read the joke with that in mind."},
+    {"quote": "やすら殿", "text": "{殿|どの}: a polite suffix, roughly 'Mr', for men and women alike. Nothing else is known about Yasura."},
+    {"quote": "許", "text": "{許|がり}: 'to someone's place'. まかる: humble 'to go'. The boy speaks politely to his master throughout ({候|さうらふ})."},
+    {"quote": "男か法師か", "text": "{男|をのこ} here means a layman, as opposed to a priest. The difference showed at once on the head: a layman had his hair tied up, a priest's head was shaved. The bishop's question should have been the easiest one to answer."},
+    {"quote": "袖かき合せて", "text": "Putting the hands together inside the sleeves: a polite, proper posture in front of a superior. The boy answers with perfect manners."},
+    {"quote": "などか頭ばかりの見えざりけむ", "text": "などか: 'why?'. けむ: guessing about the past, 'why would it have been that…?'. Kenkō leaves the answer to the reader."}
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 91,
+  "title": "Unlucky days",
+  "translation": [
+    "Take the \"red tongue\" days. The official calendar experts have nothing to say about them, and people in the old days didn't avoid them. Then somebody, who knows who, started the idea, and now people avoid them. Nothing you start on that day comes to anything, they say: what you said that day, what you did, won't work out, what you got you'll lose, and what you planned won't happen. That's just silly. Count up all the things started on lucky days that came to nothing, and you'd get the same.",
+    "Here's why. Nothing in this world stays as it is. What you think is there doesn't last, and what starts doesn't get to finish. You don't get what you set out to get, and you never stop wanting more. People keep changing their minds. Everything is an illusion. Does anything stay put, even for a moment? They just don't understand that.",
+    "There's a saying: do evil on a lucky day and it will go badly, do good on an unlucky day and it will go well. Luck depends on people, not on days."
+  ],
+  "original": [
+    "{赤舌日|しやくぜつにち}といふ{事|こと}、{陰陽道|おんみやうだう}には{沙汰|さた}なき{事|こと}なり。",
+    "{昔|むかし}の{人|ひと}これを{忌|い}まず。",
+    "この{頃|ごろ}{何者|なにもの}のいひ{出|い}でて{忌|い}み{始|はじ}めけるにか、この{日|ひ}ある{事|こと}{末|すゑ}{通|とほ}らずといひて、その{日|ひ}いひたりしこと、{為|し}たりし{事|こと}{叶|かな}はず、{得|え}たりし{物|もの}は{失|うしな}ひ、{企|くはだ}てたりし{事|こと}{成|な}らずといふ、{愚|おろ}かなり。",
+    "{吉日|きちにち}を{選|えら}びてなしたるわざの、{末|すゑ}{通|とほ}らぬを{数|かぞ}へて{見|み}むも、{亦|また}{等|ひと}しかるべし。",
+    "その{故|ゆゑ}は、{無常|むじやう}{変易|へんやく}の{境|さかひ}、ありと{見|み}るものも{存|ぞん}せず、{始|はじ}めあることも{終|をは}りなし。",
+    "{志|こころざし}は{遂|と}げず、{望|のぞ}みは{絶|た}えず。",
+    "{人|ひと}の{心|こころ}{不定|ふぢやう}なり、ものみな{幻化|げんげ}なり。",
+    "{何事|なにごと}かしばらくも{住|ぢゆう}する。",
+    "この{理|り}を{知|し}らざるなり。",
+    "{吉日|きちにち}に{悪|あく}をなすに{必|かなら}ず{凶|きよう}なり、{悪日|あくにち}に{善|ぜん}を{行|おこな}ふにかならず{吉|きつ}なりといへり。",
+    "{吉凶|きつきよう}は{人|ひと}によりて{日|ひ}によらず。"
+  ],
+  "literal": [
+    "The thing called the shakuzetsu day is not dealt with in Onmyōdō.",
+    "People of old did not avoid it.",
+    "Who started saying it and began avoiding it these days, (I do not know): they say that on this day things do not go through to the end, and they say that what was said on that day and what was done will not come true, what was got will be lost, and what was planned will not succeed: it is foolish.",
+    "If one counts the deeds done on a lucky day that did not go through to the end, it would surely be the same.",
+    "The reason is: in this realm of impermanence and change, what one sees as existing does not last, and what has a beginning has no end.",
+    "Intentions are not achieved, desires do not cease.",
+    "The human heart is unsettled; all things are illusions.",
+    "What thing stays even for a moment?",
+    "They do not know this principle.",
+    "It is said that if you do evil on a lucky day it is always unlucky, and if you do good on an unlucky day it is always lucky.",
+    "Luck and misfortune depend on people, not on days."
+  ],
+  "notes": [
+    {"quote": "赤舌日", "text": "{赤舌日|しやくぜつにち}: an unlucky day in the popular calendar, said to be ruled by the 'red tongue' god or his fierce servants. It came round every six days, and people avoided starting anything on it."},
+    {"quote": "陰陽道には沙汰なき事なり", "text": "{陰陽道|おんみやうだう}: Onmyōdō, the official system of divination run by the government's Bureau of Yin and Yang. It decided which days were lucky, which directions to avoid, and when to hold ceremonies. Kenkō's first point is that even the experts don't recognise this day. (The 1925 edition gives the reading おんみやうだう; modern Japanese says おんみょうどう.)"},
+    {"quote": "何者のいひ出でて忌み始めけるにか", "text": "にか: 'I wonder'. The rest of the question (あらむ) is left out. Kenkō does not know who started it, and that is part of the argument."},
+    {"quote": "無常変易の境", "text": "{無常|むじやう}: impermanence, everything changes and passes away. {変易|へんやく}: change. Both are Buddhist words. The argument: in a world where nothing lasts, every plan can fail, on any day."},
+    {"quote": "幻化", "text": "{幻化|げんげ}: an illusion, something that appears and is gone, like a magician's trick. A Buddhist image for the world."},
+    {"quote": "何事かしばらくも住する", "text": "{住|ぢゆう}す: 'to stay, to remain', a Buddhist term, the opposite of impermanence. か … する: a rhetorical question ending in the attributive form: 'what stays even for a moment? (Nothing.)'"},
+    {"quote": "といへり", "text": "'It is said'. Kenkō is quoting a saying here. Its source is not known for certain."},
+    {"quote": "吉凶は人によりて日によらず", "text": "The closing line is often quoted on its own."}
+  ]
+}

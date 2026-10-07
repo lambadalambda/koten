@@ -1,0 +1,42 @@
+{
+  "number": 92,
+  "title": "Two arrows",
+  "translation": [
+    "A man learning archery stepped up to the target holding two arrows. His teacher said, \"Beginners shouldn't hold two arrows. You count on the second one and get careless with the first. Every time, forget about hitting or missing. Just think: this arrow is the one.\"",
+    "Two arrows, with your teacher watching: would you ever mean to waste one? But you can be slack without noticing. The teacher notices.",
+    "That goes for everything. People who are studying the Buddhist path tell themselves in the evening that there's always the morning, and in the morning that there's always the evening, and they plan to practise properly later. They don't notice the slack in a whole day. How would they notice it in a single moment?",
+    "Why is it so hard to do it now, the moment you think of it?"
+  ],
+  "original": [
+    "ある{人|ひと}{弓|ゆみ}{射|い}る{事|こと}を{習|なら}ふに、もろ{矢|や}をたばさみて{的|まと}に{向|むか}ふ。",
+    "{師|し}の{曰|いは}く、「{初心|しよしん}の{人|ひと}{二|ふた}つの{矢|や}を{持|も}つことなかれ。",
+    "{後|のち}の{矢|や}を{頼|たの}みて、{初|はじ}めの{矢|や}になほざりの{心|こころ}あり、{毎度|まいど}ただ{得失|とくしつ}なく、この{一|ひと}{箭|や}に{定|さだ}むべしと{思|おも}へ。」といふ。",
+    "わづかに{二|ふた}つの{矢|や}、{師|し}の{前|まへ}にて{一|ひと}つをおろそかにせむと{思|おも}はむや。",
+    "{懈怠|けだい}の{心|こころ}、みづから{知|し}らずといへども、{師|し}これを{知|し}る。",
+    "このいましめ{万事|ばんじ}にわたるべし。",
+    "{道|みち}を{学|がく}する{人|ひと}、{夕|ゆふべ}には{朝|あした}あらむことを{思|おも}ひ、{朝|あした}には{夕|ゆふべ}あらむことを{思|おも}ひて、{重|かさ}ねて{懇|ねんごろ}に{修|しゆ}せむことを{期|ご}せり。",
+    "{況|いは}んや{一刹那|いちせつな}のうちにおいて、{懈怠|けだい}の{心|こころ}あることを{知|し}らむや。",
+    "{何|なん}ぞただ{今|いま}の{一念|いちねん}において、{直|ただ}ちにすることの{甚|はなは}だ{難|かた}き。"
+  ],
+  "literal": [
+    "A certain person, learning to shoot with the bow, held a pair of arrows and faced the target.",
+    "His teacher said, 'A beginner should not hold two arrows.",
+    "Relying on the later arrow, he has a careless mind toward the first arrow; every time, without (thinking of) gain or loss, think only that you will settle it with this one arrow.'",
+    "With only two arrows, in front of the teacher, would one think of treating one of them carelessly?",
+    "Though one does not know the slack mind oneself, the teacher knows it.",
+    "This warning should extend to all things.",
+    "People who study the Way think in the evening that there will be a morning, and in the morning that there will be an evening, and resolve to practise diligently later.",
+    "How much less would they know that there is a slack mind within a single instant?",
+    "Why is it so very hard to do it at once, in the single thought of right now?"
+  ],
+  "notes": [
+    {"quote": "もろ矢をたばさみて", "text": "もろ{矢|や}: a pair of arrows. In Japanese archery, a round is two arrows, shot one after the other, and the archer holds both. たばさむ: to hold between the fingers or under the arm. So the man is doing what archers normally do. The teacher's point is that a beginner shouldn't."},
+    {"quote": "毎度ただ得失なく、この一箭に定むべしと思へ", "text": "{得失|とくしつ}: 'gain and loss', here hitting and missing. {箭|や}: an arrow, a rarer kanji for {矢|や}. The teacher's advice is often quoted on its own."},
+    {"quote": "思はむや", "text": "や: a rhetorical question, 'would he think…? (Of course not.)'. Nobody wastes an arrow on purpose. The slack is in the mind, where the archer can't see it."},
+    {"quote": "懈怠", "text": "{懈怠|けだい}: laziness, slackness, a Buddhist word for one of the faults that hold you back on the path. Modern Japanese reads the same kanji けたい or かいたい."},
+    {"quote": "道を学する人", "text": "{道|みち}: here the Buddhist path. With the archer as the example, the advice also fits any skill (see section 150)."},
+    {"quote": "期せり", "text": "{期|ご}す: 'to resolve, to plan for (a later time)'. Modern 期す is usually read きす."},
+    {"quote": "一刹那", "text": "{刹那|せつな}: from Sanskrit kṣaṇa, the shortest unit of time in Buddhist thought. Modern {刹那|せつな} still means 'an instant'. {一念|いちねん} in the last sentence: one thought, one moment of the mind."},
+    {"quote": "何ぞただ今の一念において、直ちにすることの甚だ難き", "text": "何ぞ … {難|かた}き: a question ending in the attributive form. Kenkō ends the section on this question and does not answer it."}
+  ]
+}

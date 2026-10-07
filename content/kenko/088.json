@@ -1,0 +1,27 @@
+{
+  "number": 88,
+  "title": "Too old to be real",
+  "translation": [
+    "A man owned a copy of the Wakan Rōeishū, an anthology of Chinese and Japanese verse, and said it was in the hand of Ono no Michikaze, the calligrapher.",
+    "Someone said to him, \"I'm sure your family wouldn't hand down anything without good reason. But the anthology was put together by Kintō. For Michikaze to have copied it out, aren't the dates a little off? I do wonder.\"",
+    "\"Exactly,\" said the owner. \"That's what makes it so rare.\" And he guarded it more carefully than ever."
+  ],
+  "original": [
+    "あるもの{小野道風|をののたうふう}の{書|か}ける{和漢朗詠集|わかんらうえいしふ}とて{持|も}ちたりけるを、",
+    "ある{人|ひと}、「{御|ご}{相伝|さうでん}{浮|う}けることには{侍|はべ}らじなれども、{四条|しでう}{大納言|だいなごん}{撰|えら}ばれたるものを、{道風|たうふう}{書|か}かむこと、{時代|じだい}や{違|たが}ひはべらむ、{覚束|おぼつか}なくこそ。」といひければ、",
+    "「さ{候|さうら}へばこそ、{世|よ}に{有|あ}り{難|がた}きものには{侍|はべ}りけれ。」とていよいよ{秘蔵|ひさう}しけり。"
+  ],
+  "literal": [
+    "Someone had (a book) that he said was the Wakan Rōeishū written by Ono no Michikaze, and",
+    "a certain person said, 'It is surely not that your family tradition is groundless, but for Michikaze to write out something that the Shijō Major Counsellor compiled: might the periods not differ? It seems doubtful', and",
+    "(the owner) said, 'It is because that is so that it is a thing rare in the world', and treasured it all the more."
+  ],
+  "notes": [
+    {"quote": "小野道風", "text": "Ono no Michikaze (894–966), one of the three great calligraphers of the Heian period. Anything in his hand was a treasure."},
+    {"quote": "和漢朗詠集", "text": "The Wakan Rōeishū, 'Collection of Japanese and Chinese Poems for Singing', compiled around 1013 by Fujiwara no Kintō (966–1041), the {四条|しでう}{大納言|だいなごん}. It mixes lines of Chinese poetry with Japanese poems and was copied out by calligraphers again and again."},
+    {"quote": "御相伝浮けることには侍らじなれども", "text": "{相伝|さうでん}: something handed down in a family, here the story of where the book came from. {浮|う}く: 'to be groundless, unfounded'. The critic is very polite: 'surely your family's tradition is not groundless, but…'"},
+    {"quote": "時代や違ひはべらむ", "text": "Michikaze died in the third year of Kōhō (966; by the Western calendar early 967), the year Kintō was born, and the anthology was made about fifty years later. So Michikaze could not have copied it. や … む: a polite question, 'might the dates not be different?'. {覚束|おぼつか}なくこそ: 'it seems doubtful', with the end of the sentence left unsaid."},
+    {"quote": "さ候へばこそ、世に有り難きものには侍りけれ", "text": "こそ … けれ. ありがたし: 'hard to find, rare' (see section 36). The owner turns the proof against the book into proof of its value."},
+    {"quote": "いよいよ秘蔵しけり", "text": "{秘蔵|ひさう}: keeping something as a hidden treasure. Kenkō adds no comment."}
+  ]
+}

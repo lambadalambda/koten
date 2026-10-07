@@ -1,0 +1,44 @@
+{
+  "number": 98,
+  "title": "Lines from a little book",
+  "translation": [
+    "I once read a little book called Ichigon Hōdan, a collection of things said by holy men of the past. These are the ones that stayed with me.",
+    "When you can't decide whether to do something or not, it's usually better not to.",
+    "If you care about the next life, don't own so much as a pickle jar. Not even a good copy of the sutras or a fine statue of the Buddha. Owning good things is pointless.",
+    "If you have left the world, the best way to live is to arrange things so that you don't miss what you don't have.",
+    "The high-born should become low, the wise foolish, the rich poor, and the talented useless.",
+    "Following the Buddha's path comes down to this: have time on your hands and keep the world's business off your mind. That comes first.",
+    "There were others too, but I don't remember them."
+  ],
+  "original": [
+    "たふとき{聖|ひじり}のいひおきけることを{書|か}きつけて、{一言芳談|いちごんはうだん}とかや{名|な}づけたる{草紙|さうし}を{見|み}{侍|はべ}りしに、{心|こころ}に{会|あ}ひて{覚|おぼ}えし{事|こと}ども。",
+    "{一|ひとつ}{為|し}やせまし、{為|せ}ずやあらましと{思|おも}ふことは、おほやう{為|せ}ぬはよきなり。",
+    "{一|ひとつ}{後世|ごせ}を{思|おも}はむものは、{糂汰|じんだ}{瓶|がめ}{一|ひと}つも{持|も}つまじきことなり。",
+    "{持経|ぢきやう}、{本尊|ほぞん}にいたるまで、よき{物|もの}を{持|も}つ、よしなきことなり。",
+    "{一|ひとつ}{遁世者|とんせいしや}は、なきに{事|こと}かけぬやうをはからひて{過|す}ぐる、{最上|さいじやう}のやうにてあるなり。",
+    "{一|ひとつ}{上臈|じやうらふ}は{下臈|げらふ}になり、{智者|ちしや}は{愚者|ぐしや}になり、{徳人|とくにん}は{貧|ひん}になり、{能|のう}ある{人|ひと}は{無能|むのう}になるべきなり。",
+    "{一|ひとつ}{仏道|ぶつだう}を{願|ねが}ふといふは、{別|べつ}のこと{無|な}し、{暇|いとま}ある{身|み}になりて、{世|よ}のこと{心|こころ}にかけぬを、{第一|だいいち}の{道|みち}とす。",
+    "この{外|ほか}も、ありし{事|こと}ども、{覚|おぼ}えず。"
+  ],
+  "literal": [
+    "When I read a booklet that wrote down what venerable holy men had said and left behind, named Ichigon Hōdan or something like that, the things that agreed with my heart and that I remember:",
+    "Item: a thing about which one thinks 'Should I do it, or should I not?' is generally better not done.",
+    "Item: a person who thinks of the next life should not own even one jar of rice-bran paste.",
+    "Even down to the sutra one carries and one's image of the Buddha, to own good things is pointless.",
+    "Item: for one who has left the world, to get by arranging things so that one does not feel the lack of what one does not have is the best way.",
+    "Item: the high-ranking should become low-ranking, the wise should become foolish, the rich should become poor, and people with ability should become without ability.",
+    "Item: wishing for the Buddhist path is nothing else: to become a person with leisure and not to keep the affairs of the world in mind is taken as the first way.",
+    "Besides these there were other things, but I do not remember them."
+  ],
+  "notes": [
+    {"quote": "一言芳談", "text": "The Ichigon Hōdan, 'Fragrant Talks in a Word', a collection of short sayings by holy men of the Pure Land school, among them Hōnen (1133–1212). It was compiled in the Kamakura period; the compiler and the exact date are unknown. Kenkō's wording is not always the same as the surviving text. とかや: 'or something like that', a casual touch, as if he were not sure of the title."},
+    {"quote": "心に会ひて覚えし事ども", "text": "'Things that agreed with my heart and that I remembered'. The sentence has no verb at the end: it works as a heading for the list."},
+    {"quote": "一為やせまし", "text": "{一|ひとつ}: 'item', a list marker at the start of each entry, used in documents like a bullet point. や … まし: hesitation, 'should I…?'. The advice: when in doubt, don't."},
+    {"quote": "後世", "text": "{後世|ごせ}: the next life, after rebirth (see section 4). Modern {後世|こうせい} means 'later generations'."},
+    {"quote": "糂汰瓶", "text": "{糂汰|じんだ}: rice-bran paste for pickling vegetables, today's ぬかみそ. A jar of it was about the plainest thing a household could own."},
+    {"quote": "持経、本尊にいたるまで", "text": "{持経|ぢきやう}: the sutra a priest keeps and recites. {本尊|ほぞん}: the image of the Buddha he worships (modern ほんぞん). Even holy objects become possessions, if they are good ones."},
+    {"quote": "上臈は下臈になり", "text": "{臈|らふ}: a year as a monk. A monk's rank depended on how many years he had been ordained, so {上臈|じやうらふ} were senior, high-ranking people and {下臈|げらふ} junior, low ones. The words were also used outside the temple."},
+    {"quote": "第一の道とす", "text": "{第一|だいいち}: 'first, most important'. The path is not some special practice: it is free time and a mind that is not busy with the world."},
+    {"quote": "この外も、ありし事ども、覚えず", "text": "The section ends flatly: there were more, and he has forgotten them."}
+  ]
+}

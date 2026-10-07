@@ -1,0 +1,39 @@
+{
+  "number": 97,
+  "title": "What eats you",
+  "translation": [
+    "There are any number of things that attach themselves to something and slowly eat it away. The body has its lice. The house has its mice. The country has its bandits. Small-minded people have their money. Good men have their virtues. And priests have their religion."
+  ],
+  "original": [
+    "{其|そ}の{物|もの}につきて、その{物|もの}を{費|つひや}し{損|そこな}ふもの、{数|かず}を{知|し}らずあり。",
+    "{身|み}に{虱|しらみ}あり。",
+    "{家|いへ}に{鼠|ねずみ}あり。",
+    "{国|くに}に{賊|ぞく}あり。",
+    "{小人|せうじん}に{財|ざい}あり。",
+    "{君子|くんし}に{仁義|じんぎ}あり。",
+    "{僧|そう}に{法|ほふ}あり。"
+  ],
+  "literal": [
+    "Things that attach to a thing and use up and harm that thing exist beyond counting.",
+    "The body has lice.",
+    "The house has rats.",
+    "The country has bandits.",
+    "The petty man has wealth.",
+    "The gentleman has humanity and righteousness.",
+    "The priest has the Dharma."
+  ],
+  "notes": [
+    {
+      "quote": "其の物につきて、その物を費し損ふもの",
+      "text": "つく: 'to attach to, to cling to'. {費|つひや}す: 'to use up, to waste'. Something that lives on its host and wears it down."
+    },
+    {
+      "quote": "小人に財あり。君子に仁義あり",
+      "text": "{小人|せうじん} and {君子|くんし}: the petty man and the gentleman, the two types that Confucius contrasts again and again. {仁義|じんぎ}: humanity and righteousness, the central Confucian virtues. The list moves from vermin to virtue in the same sentence shape. Commentators compare the Daoist book Zhuangzi, which attacks these virtues as things that harm human nature. ({財|ざい}: wealth, possessions.)"
+    },
+    {
+      "quote": "僧に法あり",
+      "text": "{法|ほふ}: the Buddhist teaching, the Dharma. The list ends with the priest and his own religion. In Buddhist thought, clinging to the teaching is also a kind of attachment, which a monk has to let go of in the end. Kenkō, himself a priest, ends there without comment."
+    }
+  ]
+}
