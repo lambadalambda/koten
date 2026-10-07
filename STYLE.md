@@ -20,6 +20,8 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
   - A list, then こそ … ("Doing A, doing B, doing C: that's what X is") → turn it around: "If you really know X, you've done A. You've done B and C." Or end with a short sentence: "…and lying awake all night. That's the fun of it."
   - Long subject, then verdict (…人… かくいふ人…) → "You hear it all the time from…" and a plain verdict.
   - 'If X people have no Y, they…' → "Take someone X, but with no Y: they…"
+  - A chain of complete verdicts in the same rhythm → vary it: a short claim, a quick aside ("she wasn't wrong"), a question ("And the ones who…? Not impressive."), an understated close ("There's something to be said for that.").
+  - Stacked hedges ("as X is supposed to have said… probably…") → one hedge, said casually ("supposedly", "probably not what… had in mind").
 - **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
 - **Concrete over abstract.** Where Kenkō names a category, a concrete example from his own world is fine if the category covers it: "every art" (諸道) → "music, games, anything".
 - **No markers of either era.** No dated slang, no technology, no modern references. No archaic words ("thee", "verily") and no exotic terms the reader must look up (inkstone, sugoroku, "holy man", "the tenth month"). Use the plain thing: ink, board games, the priest, late autumn.
