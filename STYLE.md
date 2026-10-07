@@ -14,6 +14,8 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 
 **A blog talks to its readers.** When Kenkō gives advice, say it to the reader: short, direct steps ("Let the days go by, and don't wait for anything."), not one long balanced sentence that describes a way of life.
 
+**Keep his lyricism, drop the translator's mysticism.** When Kenkō is lyrical on purpose and it still works today (the moon at dawn in 137, "the world is wonderful because nothing in it lasts" in 7), keep it. But don't add a solemn or mystical tone that only comes from translation: "born into this world" (この世) suggests other worlds to a modern reader; "pleasures of the senses" and "the evening of their lives" are context and metaphor that belong in the notes. Love in 137 should sound more like Leonard Cohen than Classical Japanese 101.
+
 **Understatement, not irony.** Big things (death, love, fame) said in flat, everyday sentences, with no comment on them; the reader finds the weight or the joke alone. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō usually means what he says, so borrow the flatness, never the wink. When he is serious, the flat voice makes it more serious. When the situation is absurd, the flat voice makes it funny by itself.
 
 ## Rules
