@@ -1,7 +1,7 @@
 from pathlib import Path
 import unittest
 
-from build import align_old, edition_text, load_feed, plain, render_essay, render_page
+from build import align_old, apply_variant, edition_text, load_feed, plain, render_essay, render_page
 from kenko_source import sections
 
 
@@ -34,6 +34,8 @@ class KenkoContentTests(unittest.TestCase):
                     self.assertIn(note['quote'], plain(''.join(sec['original'])))
                 olds = align_old(sec['original'], edition_text(edition_old, sec['number']))
                 render_essay(sec, prev=None, next=None, olds=olds)
+                for name in sec.get('variants', {}):
+                    render_essay(apply_variant(sec, name), prev=None, next=None, olds=olds)
 
 
 if __name__ == '__main__':

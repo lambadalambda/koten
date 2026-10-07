@@ -18,5 +18,6 @@ Open `site/kenko/index.html` in a browser. No JavaScript, no dependencies.
 - Furigana markup: `{漢字|かんじ}`. Plain text must not contain `{`, `}` or `|`.
 - `python3 kenko_source.py sources/tsurezuregusa-wikisource.txt 150` prints the cleaned text of a section. The content test checks that every section's original, without furigana, is exactly this text.
 - Every note needs a `quote` that occurs in the original.
+- Experiments: a section can have `"variants": {"name": [paragraph or null, …]}` to try another translation for single paragraphs. `python3 build.py --variant name` builds with it; the normal build ignores it.
 
 Original texts are public domain. Modern translations are not: all English text here is our own.

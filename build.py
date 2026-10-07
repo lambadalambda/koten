@@ -113,6 +113,19 @@ def align_old(original, old_text):
     return [old_text[a:b] for a, b in zip(bounds, bounds[1:])]
 
 
+def apply_variant(sec, name):
+    """Return the section with the paragraphs of an experimental translation variant swapped in.
+
+    A variant is a list as long as the translation; None keeps the normal paragraph.
+    """
+    variant = sec.get('variants', {}).get(name) if name else None
+    if variant is None:
+        return sec
+    if len(variant) != len(sec['translation']):
+        raise ValueError('Section %s: variant %r needs %d paragraphs' % (sec['number'], name, len(sec['translation'])))
+    return dict(sec, translation=[v if v is not None else t for v, t in zip(variant, sec['translation'])])
+
+
 def edition_text(edition, number):
     """One section of the edition as plain text."""
     return plain(''.join(edition[number]))
@@ -175,14 +188,15 @@ def load_feed(path):
     return json.loads(Path(path).read_text('utf-8'))
 
 
-def main():
+def main(variant=None):
     out = ROOT / 'site'
     out.mkdir(exist_ok=True)
     shutil.copy(ROOT / 'style.css', out / 'style.css')
     for path in sorted((ROOT / 'content').glob('*.json')):
         (out / (path.stem + '.html')).write_text(render_page(load_feed(path)), 'utf-8')
         print('wrote', out / (path.stem + '.html'))
-    secs = sorted((load_feed(p) for p in (ROOT / 'content' / 'kenko').glob('*.json')), key=lambda s: s['number'])
+    secs = sorted((apply_variant(load_feed(p), variant) for p in (ROOT / 'content' / 'kenko').glob('*.json')),
+                  key=lambda s: s['number'])
     if secs:
         edition = sections((ROOT / 'sources' / 'tsurezuregusa-wikisource.txt').read_text('utf-8'), modern=False)
         (out / 'kenko').mkdir(exist_ok=True)
@@ -197,4 +211,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--variant', help='build with an experimental translation variant')
+    main(parser.parse_args().variant)

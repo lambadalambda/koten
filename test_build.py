@@ -1,6 +1,6 @@
 import unittest
 
-from build import align_old, inline, render_essay, render_index, render_post, render_page
+from build import align_old, apply_variant, inline, render_essay, render_index, render_post, render_page
 
 ACCOUNTS = {
     'sei': {'name': 'Sei Shōnagon', 'handle': '@sei_shonagon', 'jp': '清少納言'},
@@ -155,6 +155,16 @@ class EssayTests(unittest.TestCase):
         self.assertEqual(align_old(['弐'], '貳'), ['貳'])
         with self.assertRaises(ValueError):  # same length, but not an old form of the content
             align_old(['二'], '貳')
+
+    def test_variant_replaces_only_named_paragraphs(self):
+        sec = dict(SECTION, variants={'exp': [None, 'Other second.']})
+        self.assertEqual(apply_variant(sec, 'exp')['translation'], [SECTION['translation'][0], 'Other second.'])
+        self.assertEqual(apply_variant(sec, None)['translation'], SECTION['translation'])
+        self.assertEqual(apply_variant(SECTION, 'exp')['translation'], SECTION['translation'])
+
+    def test_variant_must_match_paragraph_count(self):
+        with self.assertRaises(ValueError):
+            apply_variant(dict(SECTION, variants={'exp': ['only one']}), 'exp')
 
     def test_preface_is_named_preface(self):
         self.assertIn('Preface', render_essay(dict(SECTION, number=0), prev=None, next=None))
