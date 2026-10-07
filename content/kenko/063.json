@@ -1,0 +1,26 @@
+{
+  "number": 63,
+  "title": "Soldiers at the New Year rite",
+  "translation": [
+    "In the second week of the new year, a great rite is held at the palace for the emperor and the country, and these days the master who leads it brings armed men along. Some year or other thieves broke in on him, and ever since he has kept them as night guards. It has turned into quite a production.",
+    "But they say the way this rite goes shows you how the whole year will go. Soldiers are not a peaceful way to start the year."
+  ],
+  "original": [
+    "{後七日|ごしちにち}の{阿闍梨|あじやり}、{武者|むしや}を{集|あつ}むる{事|こと}、いつとかや{盗人|ぬすびと}に{逢|あ}ひにけるより、{宿直人|とのゐびと}とてかくことごとしくなりにけり。",
+    "{一|ひと}とせの{相|さう}は、この{修中|しゆちゆう}に{有様|ありさま}にこそ{見|み}ゆなれば、{兵|つはもの}を{用|もち}ひむこと{穏|おだや}かならぬ{事|こと}なり。"
+  ],
+  "literal": [
+    "The ajari of the Latter Seven Days gathering warriors: ever since he met with thieves at some time or other, (they are kept) as night guards, and it has become this elaborate.",
+    "Since the aspect of the whole year, they say, is seen in the state of things during this rite, to use soldiers is not a peaceful thing."
+  ],
+  "notes": [
+    {"quote": "後七日の阿闍梨", "text": "The {後七日|ごしちにち}の{御修法|みしほ}, a Shingon rite for the health of the emperor and the peace of the country, held from the 8th to the 14th of the first month, the 'later seven days' after the New Year court ceremonies. It goes back to Kūkai, who first held it at the palace in 835. The {阿闍梨|あじやり} is the master who leads it, usually a senior priest of Tōji."},
+    {"quote": "いつとかや", "text": "'At some time or other, I hear'. とかや marks hearsay: Kenkō does not know when the theft happened, only that it did."},
+    {"quote": "宿直人", "text": "{宿直|とのゐ}: staying on duty overnight. A {宿直人|とのゐびと} is a night guard."},
+    {"quote": "ことごとしく", "text": "ことごとし: 'excessive, showy, making a big thing of it'. Not related to modern ことごとく 'all'."},
+    {"quote": "一とせの相", "text": "{相|さう}: the 'look' of something, as in reading a face or an omen. The rite at the start of the year was taken as a sign of what the year would bring."},
+    {"quote": "修中に有様に", "text": "The 1925 edition prints 修中に有様に. Other editions have 修中の有様に, 'in the state of things during the rite', and the translation reads it that way."},
+    {"quote": "見ゆなれば", "text": "なり after the plain form of a verb ({見|み}ゆ) is hearsay: 'it is seen, they say'. With こそ before it, なり takes the form なれ, here followed by ば 'since'."},
+    {"quote": "穏かならぬ事なり", "text": "{穏|おだや}か: 'peaceful, calm'. The objection is about the omen: armed men at the rite that sets the tone for the year."}
+  ]
+}

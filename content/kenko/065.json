@@ -1,0 +1,22 @@
+{
+  "number": 65,
+  "title": "Taller caps",
+  "translation": [
+    "Someone once told me: \"Court caps these days are far taller than they used to be.\" If you have an old cap box, you have to add a strip to the rim before you can use it now."
+  ],
+  "original": [
+    "「このごろの{冠|かぶり}は、{昔|むかし}よりは{遥|はる}かに{高|たか}くなりたるなり。」とぞ、ある{人|ひと}おほせられし。",
+    "{古代|こたい}の{冠桶|かぶりをけ}を{持|も}ちたる{人|ひと}は、{端|はた}をつぎて{今|いま}は{用|もち}ふるなり。"
+  ],
+  "literal": [
+    "'The caps of recent times have become far taller than in the old days', someone said.",
+    "People who own an old-style cap box add on to the edge and use it now."
+  ],
+  "notes": [
+    {"quote": "このごろの冠", "text": "{冠|かぶり}: the stiff black lacquered cap that men wore at court with formal dress. The 1925 edition reads it かぶり; かうぶり and かんむり are other readings of the same word."},
+    {"quote": "ある人おほせられし", "text": "The same frame as section 64: someone of high rank told Kenkō in person (おほす respectful, き past experienced)."},
+    {"quote": "冠桶", "text": "A lacquered box for keeping the cap. The old boxes were made for lower caps, so the new caps did not fit."},
+    {"quote": "端をつぎて", "text": "{端|はた}: the edge, the rim. つぐ: 'to join on, to extend'. The fashion is visible in the furniture: the boxes had to grow with the caps."},
+    {"quote": "用ふるなり", "text": "{用|もち}ふ is a later form of {用|もち}ゐる 'to use', common in Kenkō's time. Section 63 has it too: {用|もち}ひむ."}
+  ]
+}

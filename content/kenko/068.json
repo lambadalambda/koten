@@ -1,0 +1,32 @@
+{
+  "number": 68,
+  "title": "The radish warriors",
+  "translation": [
+    "In Kyushu there was a man, a district constable or something of the kind, who believed white radishes were the best medicine there was, good for everything. Every morning he grilled two and ate them, and he kept it up for years.",
+    "One day the enemy waited until the house was empty, then attacked, surrounded it and closed in. Out of the house came two warriors. They fought as if their lives meant nothing and drove every one of the attackers back.",
+    "The man couldn't believe it. \"I've never seen you here before,\" he said, \"and yet you fight for me like this. Who are you?\"",
+    "\"We're the radishes you've trusted all these years and eaten every morning,\" they said, and vanished.",
+    "If your faith runs that deep, it seems, even this kind of blessing can come."
+  ],
+  "original": [
+    "{筑紫|つくし}に、なにがしの{押領使|あふりやうし}などいふやうなる{者|もの}のありけるが、{土大根|つちおほね}を{万|よろづ}にいみじき{薬|くすり}とて、{朝|あさ}ごとに{二|ふた}つづつ{焼|や}きて{食|く}ひける{事|こと}、{年|とし}{久|ひさ}しくなりぬ。",
+    "ある{時|とき}、{館|たち}のうちに{人|ひと}もなかりける{隙|ひま}をはかりて、{敵|かたき}{襲|おそ}ひ{来|きた}りて{囲|かこ}み{攻|せ}めけるに、{館|たち}の{内|うち}につはもの{二人|ふたり}{出|い}できて、{命|いのち}を{惜|を}しまず{戦|たたか}ひて、{皆|みな}{追|お}ひかへしてけり。",
+    "いと{不思議|ふしぎ}におぼえて、「{日頃|ひごろ}ここにものし{給|たま}ふとも、{見|み}ぬ{人々|ひとびと}のかく{戦|たたか}ひしたまふは、いかなる{人|ひと}ぞ。」と{問|と}ひければ、「{年来|としごろ}たのみて、あさなあさなめしつる{土大根|つちおほね}らに{候|さうらふ}。」といひて{失|う}せにけり。",
+    "{深|ふか}く{信|しん}を{致|いた}しぬれば、かかる{徳|とく}もありけるにこそ。"
+  ],
+  "literal": [
+    "In Tsukushi there was a person who was something like a certain constable, and calling radishes an excellent medicine for everything, he grilled two each every morning and ate them, and this went on for many years.",
+    "One time, the enemy, choosing a moment when there was no one in the residence, came attacking, surrounded it and assaulted it; from inside the residence two warriors came out, fought without sparing their lives, and drove them all back.",
+    "Finding it very strange, (he) asked, 'You are people I have not seen staying here in ordinary days, yet you fight like this: what kind of people are you?', and they said, 'We are the radishes that you have trusted for years and eaten morning after morning', and vanished.",
+    "When one has faith deeply, there must be such blessings too."
+  ],
+  "notes": [
+    {"quote": "筑紫", "text": "{筑紫|つくし}: Kyushu, or its northern part. Far from the capital, which is part of the setting: a local strongman in the provinces."},
+    {"quote": "押領使などいふやうなる者", "text": "{押領使|あふりやうし}: a provincial officer in charge of policing and keeping order, by this time usually a local warrior. などいふやうなる: 'something like what they call…'. The text does not give his exact title."},
+    {"quote": "土大根", "text": "{土大根|つちおほね}: the daikon, the long white radish, here with {土|つち} 'earth'. It was eaten as medicine; the 1925 edition reads it つちおほね."},
+    {"quote": "ありけるが", "text": "が here does not mean 'but'. It joins the clauses: 'there was a man, and he…'. Old texts use it like this all the time."},
+    {"quote": "ここにものし給ふとも、見ぬ人々", "text": "ものす: a vague verb, here 'to be (somewhere)', with respectful {給|たま}ふ. He speaks politely to his strange rescuers."},
+    {"quote": "めしつる土大根らに候", "text": "The radishes speak like proper retainers: polite {候|さうら}ふ, and respectful {召|め}す 'to eat' for their master eating them."},
+    {"quote": "かかる徳もありけるにこそ", "text": "{徳|とく}: here 'benefit, reward'. にこそ: the end of the sentence (あらめ) is left out, 'it must be that…'. The story is told straight, and so is the moral."}
+  ]
+}

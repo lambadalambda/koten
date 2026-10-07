@@ -1,0 +1,27 @@
+{
+  "number": 72,
+  "title": "Too many",
+  "translation": [
+    "Things that look vulgar. Too much furniture around where you sit. Too many brushes on the desk. Too many Buddhas in the family shrine. Too many stones and plants in the garden. Too many children and grandchildren in the house. Too many words when you meet someone. Too many good deeds listed in a prayer.",
+    "Things where a lot doesn't look bad: books in a bookcase, and rubbish on a rubbish heap."
+  ],
+  "original": [
+    "{賎|いや}しげなるもの。",
+    "{居|ゐ}たるあたりに{調度|てうど}の{多|おほ}き、{硯|すずり}に{筆|ふで}の{多|おほ}き、{持仏堂|ぢぶつだう}に{仏|ほとけ}の{多|おほ}き、{前栽|せんざい}に{石|いし}{草木|くさき}のおほき、{家|いへ}のうちに{子孫|こうまご}のおほき、{人|ひと}にあひて{詞|ことば}のおほき、{願文|ぐわんもん}に{作善|さぜん}おほく{書|か}き{載|の}せたる。",
+    "おほくて{見苦|みぐる}しからぬは、{文車|ふぐるま}の{文|ふみ}、{塵塚|ちりづか}のちり。"
+  ],
+  "literal": [
+    "Things that look vulgar.",
+    "Many furnishings around where one sits, many brushes at the inkstone, many Buddhas in the private chapel, many stones and plants in the garden, many children and grandchildren in the house, many words when meeting people, many good deeds written down in a prayer.",
+    "Things that are many and not unsightly: the books in a book cart, the dust on a dust heap."
+  ],
+  "notes": [
+    {"quote": "賎しげなるもの", "text": "A list headed '…もの', 'things that…', in the manner of Sei Shōnagon's Pillow Book, which is full of such lists. Kenkō knew her book well (see section 1)."},
+    {"quote": "硯に筆の多き", "text": "{硯|すずり}: the inkstone, the centre of a writing set."},
+    {"quote": "持仏堂", "text": "{持仏堂|ぢぶつだう}: a small hall or room in a house for the family's own Buddha images."},
+    {"quote": "前栽", "text": "{前栽|せんざい}: the planted garden in front of the main rooms of a house."},
+    {"quote": "子孫", "text": "The 1925 edition reads {子孫|こうまご}, 'children and grandchildren', not the Sino-Japanese しそん."},
+    {"quote": "願文に作善おほく書き載せたる", "text": "{願文|ぐわんもん}: a written prayer, read out at a memorial or the dedication of a temple. {作善|さぜん}: good works done to earn merit, such as copying sutras, building halls or making donations. The prayer was read aloud, so a long list of the donor's good works was heard by everyone present."},
+    {"quote": "文車の文、塵塚のちり", "text": "{文車|ふぐるま}: a wheeled cart for keeping and moving books. {塵塚|ちりづか}: a rubbish heap. The list ends with two things whose whole point is quantity."}
+  ]
+}

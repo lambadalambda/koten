@@ -1,0 +1,28 @@
+{
+  "number": 71,
+  "title": "It's happened before",
+  "translation": [
+    "The moment you hear someone's name, you can't help picturing their face. Then you meet them, and nobody ever looks the way you imagined.",
+    "When I hear an old story, I picture it happening in some house I know today, somewhere around such-and-such a street, and I cast the people in it from people I see now. Does everyone do that?",
+    "And sometimes, out of nowhere, what someone is saying right now, what I'm looking at, what's going through my own head, all of it feels like something that happened before. I can't remember when. But I'm sure it did. Am I the only one who gets that?"
+  ],
+  "original": [
+    "{名|な}を{聞|き}くより、やがて{面影|おもかげ}はおしはからるる{心地|ここち}するを、{見|み}る{時|とき}は、{又|また}かねて{思|おも}ひつるままの{顔|かほ}したる{人|ひと}こそなけれ。",
+    "{昔物語|むかしものがたり}を{聞|き}きても、この{頃|ごろ}の{人|ひと}の{家|いへ}のそこ{程|ほど}にてぞありけむと{覚|おぼ}え、{人|ひと}も{今|いま}{見|み}る{人|ひと}の{中|なか}に{思|おも}ひよそへらるるは、{誰|たれ}もかく{覚|おぼ}ゆるにや。",
+    "またいかなる{折|をり}ぞ、ただ{今|いま}{人|ひと}のいふことも、{目|め}に{見|み}ゆるものも、わが{心|こころ}のうちも、かかる{事|こと}のいつぞやありしがと{覚|おぼ}えて、いつとは{思|おも}ひいでねども、まさしくありし{心地|ここち}のするは、{我|われ}ばかりかく{思|おも}ふにや。"
+  ],
+  "literal": [
+    "As soon as one hears a name, one feels that the face is imagined at once, but when one sees (the person), there is no one with exactly the face one had thought of beforehand.",
+    "Even when hearing old tales, one feels that it must have been around such-and-such a place of some present-day person's house, and the people too are likened to people one sees now: does everyone feel like this?",
+    "And at certain moments, what someone is saying just now, things that one sees, what is in one's own heart, one feels 'something like this happened at some time', and though one cannot recall when, there is the feeling that it surely happened: am I the only one who thinks so?"
+  ],
+  "notes": [
+    {"quote": "面影はおしはからるる", "text": "{面影|おもかげ}: here an imagined face. る after おしはか(る) 'to guess' is spontaneous: the picture forms by itself, you don't decide to imagine it."},
+    {"quote": "顔したる人こそなけれ", "text": "こそ … けれ: 'there is nobody at all who…'. The realis form of なし closes the こそ."},
+    {"quote": "昔物語", "text": "Stories of the old days, told or read aloud, hence 'hearing' them."},
+    {"quote": "そこ程にてぞありけむ", "text": "ぞ … けむ: a guess about the past, 'it must have happened around there'. そこ{程|ほど}: 'around such-and-such a place'."},
+    {"quote": "思ひよそへらるる", "text": "よそふ: 'to liken, to compare'. Again the spontaneous る: the people from the story turn into people you know, without you trying."},
+    {"quote": "誰もかく覚ゆるにや", "text": "にや: 'is it that…?', with the rest (あらむ) left out. The second and third parts of the section end with matching questions: 'Does everyone feel this?' and 'Am I the only one?'"},
+    {"quote": "かかる事のいつぞやありしが", "text": "What is now called déjà vu. いつぞや: 'some time or other'. き (ありし): a past the speaker lived through, which is exactly the feeling."}
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 74,
+  "title": "Like ants",
+  "translation": [
+    "People swarm like ants, hurrying east and west, rushing north and south. Some are important, some are nobodies. Some are old, some are young. They have places to go and homes to go back to. They go to bed at night and get up in the morning. What is it all for? They cling to life and chase profit, and they never stop.",
+    "They look after their bodies. And what are they waiting for? The only thing coming is old age and death. It comes fast, and it doesn't stop for a moment. What is there to enjoy while you wait for that?",
+    "People who have lost their way aren't afraid of it at all. They're drowning in fame and money, and they never look at how close the end is. Fools, on the other hand, grieve over it. They want things to stay as they are, and they don't understand that everything changes."
+  ],
+  "original": [
+    "{蟻|あり}の{如|ごと}くに{集|あつま}りて、{東西|とうざい}にいそぎ{南北|なんぼく}に{走|はし}る。",
+    "{貴|たか}きあり、{賎|いや}しきあり、{老|お}いたるあり、{若|わか}きあり、{行|ゆ}く{所|ところ}あり、{帰|かへ}る{家|いへ}あり、{夕|ゆふべ}にいねて{朝|あした}に{起|お}く。",
+    "{営|いとな}む{所|ところ}{何事|なにごと}ぞや。",
+    "{生|しやう}を{貪|むさぼ}り{利|り}を{求|もと}めてやむ{時|とき}なし。",
+    "{身|み}を{養|やしな}ひて{何事|なにごと}をか{待|ま}つ、{期|ご}するところただ{老|おい}と{死|し}とにあり。",
+    "その{来|きた}る{事|こと}{速|すみや}かにして、{念々|ねんねん}の{間|あひだ}に{留|とど}まらず。",
+    "これを{待|ま}つ{間|あひだ}、{何|なに}の{楽|たの}しみかあらむ。",
+    "{惑|まど}へるものはこれを{恐|おそ}れず。",
+    "{名利|みやうり}に{溺|おぼ}れて、{先途|せんど}の{近|ちか}きことを{顧|かへり}みねばなり。",
+    "{愚|おろ}かなる{人|ひと}はまたこれをかなしぶ。",
+    "{常住|じやうぢゆう}ならむことを{思|おも}ひて、{変化|へんげ}の{理|ことわり}を{知|し}らねばなり。"
+  ],
+  "literal": [
+    "Gathering like ants, they hurry east and west and run north and south.",
+    "There are the noble, there are the lowly, there are the old, there are the young; there are places to go, there are homes to return to; in the evening they sleep, in the morning they rise.",
+    "What is it that they are busy with?",
+    "Greedy for life and seeking profit, there is no time when they stop.",
+    "Nourishing the body, what do they wait for? What they can expect lies only in old age and death.",
+    "Its coming is swift, and it does not stop from one moment to the next.",
+    "While waiting for this, what pleasure can there be?",
+    "The deluded do not fear it.",
+    "It is because, drowning in fame and profit, they do not consider that the end is near.",
+    "Foolish people, on the other hand, grieve over it.",
+    "It is because they think things will be permanent and do not know the law of change."
+  ],
+  "notes": [
+    {"quote": "東西にいそぎ南北に走る", "text": "A pair of matching phrases in the Chinese style, east and west, north and south. The next sentence keeps the rhythm going: あり, あり, あり, six times."},
+    {"quote": "営む所何事ぞや", "text": "ぞや: a question with emphasis, 'what is it, then?' The answer comes in the next sentence."},
+    {"quote": "何事をか待つ", "text": "か … {待|ま}つ: a question with か, closed by the attributive form (for {待|ま}つ it looks the same). {期|ご}する: 'to expect, to look forward to'."},
+    {"quote": "念々の間に留まらず", "text": "{念|ねん}: in Buddhist thought, a single instant of the mind. {念々|ねんねん}: 'moment by moment'. Old age and death keep coming without a pause."},
+    {"quote": "何の楽しみかあらむ", "text": "か … む: a rhetorical question, 'what pleasure could there be? (None.)'"},
+    {"quote": "名利", "text": "{名利|みやうり}: fame and profit, a Buddhist pair for the two great distractions. Compare Zōga in section 1, who found chasing fame painful."},
+    {"quote": "常住", "text": "{常住|じやうぢゆう}: 'lasting for ever', the opposite of {無常|むじやう}, impermanence. {変化|へんげ}の{理|ことわり}: 'the law of change'. On impermanence, see sections 7 and 137."},
+    {"quote": "惑へるものはこれを恐れず", "text": "The section ends with two wrong answers: one group ignores death, the other mourns that things change. The text does not spell out the right answer."}
+  ]
+}

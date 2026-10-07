@@ -1,0 +1,31 @@
+{
+  "number": 70,
+  "title": "The loose fret",
+  "translation": [
+    "At the concert in the Seishodō hall in the Gen'ō years, back when the great lute Genjō had gone missing, the Kikutei minister played the other famous lute, Bokuba. He took his seat and, before anything else, felt along the frets. One fell off.",
+    "As it happened, he had some rice glue in the fold of his robe. He stuck the fret back on, and by the time the offerings to the gods were brought in, it had dried well and nothing went wrong.",
+    "Who knows why anyone would do such a thing. But they say one of the women watching, her robe drawn over her head, had gone up to the lute, pulled the fret off, and put it back just as it was."
+  ],
+  "original": [
+    "{玄応|げんおう}の{清暑堂|せいしよだう}の{御遊|ぎよいう}に、{玄上|げんじやう}は{失|う}せにしころ、{菊亭|きくてい}の{大臣|おとど}、{牧馬|ぼくば}を{弾|だん}じ{給|たま}ひけるに、{座|ざ}につきてまづ{柱|ぢゆう}をさぐられたりければ、ひとつ{落|お}ちにけり。",
+    "{御|おほん}ふところに{続飯|そくひ}をもち{給|たま}ひたるにて{付|つ}けられにければ、{神供|じんぐ}の{参|まゐ}るほどに、よく{干|ひ}て{事故|ことゆゑ}なかりけり。",
+    "いかなる{意趣|いしゆ}かありけむ、{物見|ものみ}ける{衣被|きぬかづき}の、よりて{放|はな}ちて、もとのやうに{置|お}きたりけるとぞ。"
+  ],
+  "literal": [
+    "At the music in the Seishodō in the Gen'ō era, at the time when Genjō had been lost, when the Kikutei minister played Bokuba, he took his seat and first felt the frets, and one fell off.",
+    "Since he happened to have rice glue in his breast-fold, he attached it, and by the time the offerings to the gods were brought, it had dried well and there was no trouble.",
+    "What intention could there have been? One of the veiled women who were watching had come up, pulled it off, and put it back as it was, they say."
+  ],
+  "notes": [
+    {"quote": "玄応", "text": "The 1925 edition prints 玄応; the era name is normally written 元応 (1319–1321). The concert in the Seishodō hall ({清暑堂|せいしよだう}の{御遊|ぎよいう}) was part of the enthronement festival, and the best players at court took part. This one is usually linked to Emperor Go-Daigo's enthronement festival, which some sources date to late 1318, just before the era name changed."},
+    {"quote": "玄上は失せにしころ", "text": "Genjō and Bokuba were two of the most famous lutes ({琵琶|びは}) in the imperial collection, each with its own stories. Genjō had gone missing around this time."},
+    {"quote": "菊亭の大臣", "text": "Usually identified as Imadegawa Kanesue (1281–1339), founder of the Kikutei house, a minister and a well-known lute player."},
+    {"quote": "柱", "text": "{柱|ぢゆう}: the frets of a lute, small wooden blocks glued to the neck. The same character is read はしら 'pillar' elsewhere."},
+    {"quote": "続飯", "text": "{続飯|そくひ}: glue made from cooked rice, mashed into a paste."},
+    {"quote": "神供の参るほどに", "text": "{神供|じんぐ}: food offered to the gods during the ceremony. The text only uses it to measure time: long enough for the glue to dry."},
+    {"quote": "事故なかりけり", "text": "A false friend: {事故|ことゆゑ} is 'trouble, a hitch'. Modern {事故|じこ} is 'an accident'."},
+    {"quote": "いかなる意趣かありけむ", "text": "か … けむ: a guess about the past, 'what could the reason have been?' {意趣|いしゆ}: 'intention', and also 'a grudge'; modern {意趣返|いしゆがへ}し means 'revenge'. The text leaves it open."},
+    {"quote": "衣被", "text": "{衣被|きぬかづき}: a woman wearing a robe drawn over her head, the usual way for women of good family to go out in public. Her face was hidden."},
+    {"quote": "置きたりけるとぞ", "text": "とぞ: 'so they say', with the verb (いふ) left out. Kenkō did not see it; he heard it."}
+  ]
+}
