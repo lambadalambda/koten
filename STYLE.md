@@ -39,6 +39,10 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 - **The literal layer stays literal.** "Dig deeper" keeps the exact wording, so the main text can be free. Free is fine, wrong is not.
 - British spelling (practise, recognise).
 
+## Experiments
+
+- `concrete-images`: turn an image into a small everyday scene addressed to the reader ("Say someone gives you a beautiful jade cup, but the bottom is missing…"). This goes beyond the rules above, because it invents a scene. It lives in `variants` only, so it can be compared and dropped easily.
+
 ## Reference lines
 
 Approved examples. When in doubt, compare with these.
