@@ -21,3 +21,11 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 63: Kūkai holding the rite at the palace in 835: standard date, not confirmed from a source.
 - 70: date of the event hedged (Go-Daigo's enthronement festival, late 1318 in some sources).
 - 71: a short note mentions what is now called déjà vu. Keep or remove? (Notes normally stay with what Kenkō could know.)
+
+## 49–62
+- 58: retranslated to follow the edition's 世をいとなむ; a note mentions that many modern editions read 世をいとはむ.
+- 50: the retired emperor: the 1925 edition says Go-Uda; some modern commentaries say Fushimi (note gives both).
+- 49: Shinkai's sayings in Ichigon Hōdan (Kenkō quotes the book in section 98): not checked against a source.
+- 62: 牛の角文字 decoded as い (1925 edition); roudokus has ひ.
+- Readings with variants: 50 御桟敷 おん (roudokus みさじき), 60 能書 のうしよ (roudokus のうじょ), 62 御歌 おほんうた next to おん in the same sentence.
+- 60: "later commentators have suggested meanings" for しろうるり, no source named.
