@@ -10,6 +10,8 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 
 **The voice:** someone in the know. He knows who the really big names are, and he'll also tell you that the people who think they're great are actually kind of sad. Relaxed, direct, never stuffy, never trying to be cool.
 
+**Written, but conversational.** The blog voice is still writing: a good writer who sounds like one of the guys. The test is "would a good blogger write this?", not "would someone say this out loud?". So: no formal sentence shapes, but also no transcribed speech, no filler, no fragments everywhere.
+
 **Understatement, not irony.** Big things (death, love, fame) said in flat, everyday sentences, with no comment on them; the reader finds the weight or the joke alone. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō usually means what he says, so borrow the flatness, never the wink. When he is serious, the flat voice makes it more serious. When the situation is absurd, the flat voice makes it funny by itself.
 
 ## Rules
@@ -24,7 +26,7 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
   - 'If X people have no Y, they…' → "Take someone X, but with no Y: they…"
   - A chain of complete verdicts in the same rhythm → vary it: a short claim, a quick aside ("she wasn't wrong"), a question ("And the ones who…? Not impressive."), an understated close ("There's something to be said for that.").
   - A list of virtues ("Add X, Y, and the manners to Z") → situations: "It helps if your handwriting still looks good when you're just dashing something off… And when someone offers you a drink, say no at first."
-  - Concessive opener (よろづにいみじくとも: "However brilliant he is…, a man who…") → say it the way people talk, with a plain "if": "If you're great at everything but you don't care about love at all, you're missing something." Not a writer's sentence like "A man can be brilliant at everything else, but…"
+  - Concessive opener (よろづにいみじくとも: "However brilliant he is…, a man who…") → conversational, with a plain "if": "If you're great at everything but you don't care about love at all, you're missing something." Not a formal sentence like "A man can be brilliant at everything else, but…"
   - An image the original reader knew by heart (a Chinese allusion, a proverb) → keep the image and let it land in the same sentence: "a beautiful jade cup with no bottom: lovely to look at, but it won't hold a thing."
   - Stacked hedges ("as X is supposed to have said… probably…") → one hedge, said casually ("supposedly", "probably not what… had in mind").
 - **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
