@@ -36,3 +36,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 88: 秘蔵 ひさう (roudokus ひそう), not from the 1925 edition.
 - 98: a note says Kenkō's wording differs from the surviving Ichigon Hōdan text: believed correct, not checked.
 - 94: ending keeps the hearsay とぞ ("The proper way, they say, is…").
+
+## 123–134
+- 133: 東 changed to ひがし (roudokus); other sections use ひむがし (e.g. 44). Choose one standard for the whole book.
+- 133: "yang energy" became "the life-giving force of the sunrise"; a note explains yang.
+- 128: the retired emperor is "one suggestion: Kameyama" (several were living then).
+- 129: the Wei Dan story: versions differ on the building's name.
