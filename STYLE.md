@@ -6,6 +6,8 @@ The main translation should read like a natural blog post from last week. **The 
 
 The 1330 side is a guide, not a veto: avoid modern things (technology, brands, references) and slang that dates fast. Ordinary casual English is fine.
 
+**The voice:** someone in the know. He knows who the really big names are, and he'll also tell you that the people who think they're great are actually kind of sad. Relaxed, direct, never stuffy, never trying to be cool.
+
 ## Rules
 
 - **Say it as is.** "A priest at Ninnaji had never been to Iwashimizu." Not "There was a priest at…", not "Another story about…". No storyteller openings.
