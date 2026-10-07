@@ -1,5 +1,7 @@
 # Translation style
 
+Keep the original meaning and seriousness. Don't sound stuffy. Don't make up cool extras, and don't use slang that does not fit.
+
 The main translation should read as if it could be a blog post from last week or a manuscript from 1330. Test every sentence: would it surprise you in either? If yes, rewrite it.
 
 ## Rules
