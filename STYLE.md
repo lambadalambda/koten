@@ -21,6 +21,7 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
   - Long subject, then verdict (…人… かくいふ人…) → "You hear it all the time from…" and a plain verdict.
   - 'If X people have no Y, they…' → "Take someone X, but with no Y: they…"
   - A chain of complete verdicts in the same rhythm → vary it: a short claim, a quick aside ("she wasn't wrong"), a question ("And the ones who…? Not impressive."), an understated close ("There's something to be said for that.").
+  - A list of virtues ("Add X, Y, and the manners to Z") → situations: "It helps if your handwriting still looks good when you're just dashing something off… And when someone offers you a drink, say no at first."
   - Stacked hedges ("as X is supposed to have said… probably…") → one hedge, said casually ("supposedly", "probably not what… had in mind").
 - **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
 - **Concrete over abstract.** Where Kenkō names a category, a concrete example from his own world is fine if the category covers it: "every art" (諸道) → "music, games, anything".
