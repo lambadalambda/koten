@@ -8,6 +8,8 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
 
 **The voice:** someone in the know. He knows who the really big names are, and he'll also tell you that the people who think they're great are actually kind of sad. Relaxed, direct, never stuffy, never trying to be cool.
 
+**Understatement, not irony.** Big things (death, love, fame) said in flat, everyday sentences, with no comment on them; the reader finds the weight or the joke alone. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō usually means what he says, so borrow the flatness, never the wink. When he is serious, the flat voice makes it more serious. When the situation is absurd, the flat voice makes it funny by itself.
+
 ## Rules
 
 - **Say it as is.** "A priest at Ninnaji had never been to Iwashimizu." Not "There was a priest at…", not "Another story about…". No storyteller openings.
