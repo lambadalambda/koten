@@ -28,6 +28,7 @@ The 1330 side is a guide, not a veto: avoid modern things (technology, brands, r
   - A list of virtues ("Add X, Y, and the manners to Z") → situations: "It helps if your handwriting still looks good when you're just dashing something off… And when someone offers you a drink, say no at first."
   - Concessive opener (よろづにいみじくとも: "However brilliant he is…, a man who…") → conversational, with a plain "if": "If you're great at everything but you don't care about love at all, you're missing something." Not a formal sentence like "A man can be brilliant at everything else, but…"
   - An image the original reader knew by heart (a Chinese allusion, a proverb) → keep the image and let it land in the same sentence: "a beautiful jade cup with no bottom: lovely to look at, but it won't hold a thing."
+  - Advice formulas (…にはあらで、…あらまほし: "Better to…", "One should…") → direct advice with a plain "just": "Just stay home with the door shut…"
   - Stacked hedges ("as X is supposed to have said… probably…") → one hedge, said casually ("supposedly", "probably not what… had in mind").
 - **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
 - **Concrete over abstract.** Where Kenkō names a category, a concrete example from his own world is fine if the category covers it: "every art" (諸道) → "music, games, anything".
