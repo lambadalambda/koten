@@ -49,3 +49,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 102: Mitsutada "later became a monk"; 洞院右大臣 = Kinkata or Saneyasu (note gives both).
 - Identifications resting on roudokus only: Yasutsuna (101), Mitsutada (102).
 - 104: "whenever he passes that way" is an interpretation; 105: かぶし taken to describe the woman.
+
+## 111–122
+- Where the 1925 editor's glosses disagree with modern commentaries, notes now give both (114 ministers and the ox-driver, 115 Shukugawara, 118 the empress and her father, 122 source of 食は人の天).
+- 115: "Irooshi" follows the kana いろをし (Keene: "Iroshi").
+- 111: "worse than killing your own mother or father" as setup in the translation (parricide is among the five deadly sins; 1925 note agrees).
+- Readings with variants: 113 饗応 きやうおう (roudokus あるじ), 119 上ざま うへ (roudokus かみ), 118 御前 おまへ (roudokus ごぜん).
