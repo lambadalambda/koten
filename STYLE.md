@@ -1,54 +1,52 @@
 # Translation style
 
-**Why:** a translation that sounds faithful pushes the modern reader away and hides how the author actually thought. The goal is to show his mindset as a reader today would feel it. Exact wording is one click away, in the literal layer, the notes and many other sources, so this is not simplifying.
+**We are not rewriting Kenkō into who we are. We are reading him as who we are.**
 
-Keep the original meaning and seriousness. Don't sound stuffy. Don't make up cool extras, and don't use slang that does not fit.
+A translation that sounds faithful pushes the modern reader away and hides how the author actually thought. The main text shows his mindset the way a reader today would feel it. The exact wording is one click away, in the literal layer, the notes and many other sources, so this is not simplifying.
 
-The main translation should read like a natural blog post from last week. **The modern reader comes first:** if a sentence sounds like a translation, rewrite it, even if a more exact version exists. Precision lives in the literal layer and the notes.
+In one line: keep the meaning and the seriousness, don't sound stuffy, don't make up cool extras, and don't use slang that does not fit.
 
-The 1330 side is a guide, not a veto: avoid modern things (technology, brands, references) and slang that dates fast. Ordinary casual English is fine.
+## The voice
 
-**The voice:** someone in the know. He knows who the really big names are, and he'll also tell you that the people who think they're great are actually kind of sad. Relaxed, direct, never stuffy, never trying to be cool.
+- **Someone in the know.** He knows who the really big names are, and he'll also tell you that the people who think they're great are actually kind of sad. Relaxed, direct, never stuffy, never trying to be cool.
+- **Written, but conversational.** A good writer who sounds like one of the guys. The test is "would a good blogger write this?", not "would someone say this out loud?". No formal sentence shapes, but also no transcribed speech, no filler, no fragments everywhere.
+- **A blog talks to its readers.** Advice goes to the reader in short, direct steps ("Let the days go by, and don't wait for anything."), not in one long balanced sentence that describes a way of life.
+- **The voice moves with him.** Kenkō is lyrical about the moon, grumpy about language, devout at the temple, gossipy at the festival, harsh about old age. Same narrator, different moods. Serious sections (7, the end of 137) stay serious; they only get plainer.
+- **The modern reader comes first.** If a sentence sounds like a translation, rewrite it, even if a more exact version exists. The 1330 side is a guide, not a veto: it only rules out modern things and slang that dates fast.
 
-**Written, but conversational.** The blog voice is still writing: a good writer who sounds like one of the guys. The test is "would a good blogger write this?", not "would someone say this out loud?". So: no formal sentence shapes, but also no transcribed speech, no filler, no fragments everywhere.
+## Five core rules
 
-**A blog talks to its readers.** When Kenkō gives advice, say it to the reader: short, direct steps ("Let the days go by, and don't wait for anything."), not one long balanced sentence that describes a way of life.
+1. **Say what it means, in English shapes.** First understand what he is actually saying, then write that. Don't copy Japanese sentence structure or dictionary meanings of abstract words. In sections that argue something (Buddhism, poetry criticism), make the argument itself visible ("You can give up every other pleasure if you try. Not this one.").
+2. **Setup in the text, details in the notes.** If a joke or an image needs a fact, put the fact into the sentence in plain words ("the temple and the shrine at the bottom of the hill", "The sage of Kume could fly"). Names, titles, allusions and context go to the notes. No exotic terms the reader must look up (inkstone, sugoroku, sakaki, "holy man", "the tenth month"): use the plain thing (ink, board games, sacred evergreen, the priest, late autumn).
+3. **Understatement, not irony.** Big things (death, love, fame) in flat, everyday sentences, with no comment; the reader finds the weight or the joke. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō means what he says, so borrow the flatness, never the wink. **Never add jokes.** **End on the image, not the judgement:** when he closes with a general verdict, end on the concrete thing the reader already has in mind, if the meaning is the same ("No wonder he fell.").
+4. **No borrowed grandeur.** No grand titles ("the greatest masters" → "the best people in any field"), no "known as / renowned / reputed" (say what happened: "they were terrible, and everyone knew it"), no scholar voice ("That's how they ended up as the ones everyone learns from"). **Keep his lyricism, drop the translator's mysticism:** keep what is lyrical on purpose and still works (the moon at dawn in 137, "the world is wonderful because nothing in it lasts" in 7); drop solemnity that only comes from translation ("born into this world", "the evening of their lives"). Love in 137 should sound more like Leonard Cohen than Classical Japanese 101. A character who is pompous in the original (Shōkai in 236) stays pompous.
+5. **Free is fine, wrong is not.** The literal layer stays literal. Notes don't read Kenkō's mind: no guesses about what he felt, lacked or struggled with. Facts, grammar, allusions and what the text itself does are fine.
 
-**Keep his lyricism, drop the translator's mysticism.** When Kenkō is lyrical on purpose and it still works today (the moon at dawn in 137, "the world is wonderful because nothing in it lasts" in 7), keep it. But don't add a solemn or mystical tone that only comes from translation: "born into this world" (この世) suggests other worlds to a modern reader; "pleasures of the senses" and "the evening of their lives" are context and metaphor that belong in the notes. Love in 137 should sound more like Leonard Cohen than Classical Japanese 101.
+## Japanese patterns and their English shapes
 
-**Understatement, not irony.** Big things (death, love, fame) said in flat, everyday sentences, with no comment on them; the reader finds the weight or the joke alone. Think of Momus's "Bishonen": Japanese ideals in a dry British voice. But Kenkō usually means what he says, so borrow the flatness, never the wink. When he is serious, the flat voice makes it more serious. When the situation is absurd, the flat voice makes it funny by itself.
+| Pattern in the original | Translated literally | English shape |
+|---|---|---|
+| X はさらなり、Y も… | "X goes without saying, but even Y…" | "X, obviously. But even Y…" |
+| A list, then こそ… | "Doing A, B, C: that's what X is" | "If you really know X, you've done A. You've done B and C." Or a short close: "That's the fun of it." |
+| Long subject, then verdict (…人… かくいふ人…) | "People who… People who say that…" | "You hear it all the time from people who…" + plain verdict ("They never get good at anything.") |
+| Concessive opener (よろづにいみじくとも) | "However brilliant he is…, a man who…" | a plain "if": "If you're great at everything but you don't care about love at all, you're missing something." |
+| "If X people have no Y, they…" | | "Take someone X, but with no Y: they…" |
+| A chain of verdicts in the same rhythm | "Nobody is less enviable… A priest who… doesn't impress anyone." | vary it: short claim, aside ("she wasn't wrong"), question ("And the ones who…? Not impressive."), understated close |
+| A list of virtues | "Add X, Y, and the manners to Z" | situations: "It helps if your handwriting still looks good when you're just dashing something off" |
+| Advice formula (…にはあらで、…あらまほし) | "Better to…", "One should…" | direct steps: "Stay home with the door shut… Let the days go by." |
+| Abstract word (仮のもの, はかなき, 六塵) | "borrowed", "fleeting", "the senses" | what it means here: "it's not even theirs" |
+| An image the original reader knew by heart | "a jade cup with no bottom" | keep it and let it land: "lovely to look at, but it won't hold a thing" |
+| Stacked hedges | "as X is supposed to have said… probably…" | one casual hedge: "supposedly", "probably not what… had in mind" |
 
-## Rules
+## Small things
 
-- **Say it as is.** "A priest at Ninnaji had never been to Iwashimizu." Not "There was a priest at…", not "Another story about…". No storyteller openings.
-- **No grand titles.** Not "the greatest masters", but "the best people in any field". Not "distinguished people", but "important people". No "known as", "renowned", "reputed": say what happened ("they were terrible, and everyone knew it"). This is for the narrator's voice only: a character who is pompous in the original (Shōkai in 236) stays pompous.
-- **Don't copy Japanese sentence structure.** Kenkō often repeats a long subject (能をつかむとする人… かくいふ人…). In English, point back the way a blogger would: "You hear it all the time from people who want to learn something: '…until I'm good at it…' They never get good at anything." Keep the verdict as plain as the setup.
-- **Japanese patterns that show through, and their English shapes:**
-  - X はさらなり、Y も… ("X goes without saying, but even Y…") → "X, obviously. But even Y…"
-  - A list, then こそ … ("Doing A, doing B, doing C: that's what X is") → turn it around: "If you really know X, you've done A. You've done B and C." Or end with a short sentence: "…and lying awake all night. That's the fun of it."
-  - Long subject, then verdict (…人… かくいふ人…) → "You hear it all the time from…" and a plain verdict.
-  - 'If X people have no Y, they…' → "Take someone X, but with no Y: they…"
-  - A chain of complete verdicts in the same rhythm → vary it: a short claim, a quick aside ("she wasn't wrong"), a question ("And the ones who…? Not impressive."), an understated close ("There's something to be said for that.").
-  - A list of virtues ("Add X, Y, and the manners to Z") → situations: "It helps if your handwriting still looks good when you're just dashing something off… And when someone offers you a drink, say no at first."
-  - Concessive opener (よろづにいみじくとも: "However brilliant he is…, a man who…") → conversational, with a plain "if": "If you're great at everything but you don't care about love at all, you're missing something." Not a formal sentence like "A man can be brilliant at everything else, but…"
-  - An image the original reader knew by heart (a Chinese allusion, a proverb) → keep the image and let it land in the same sentence: "a beautiful jade cup with no bottom: lovely to look at, but it won't hold a thing."
-  - Advice formulas (…にはあらで、…あらまほし: "Better to…", "One should…") → direct advice with a plain "just": "Just stay home with the door shut…"
-  - Dictionary translations of abstract words (仮のもの "borrowed", はかなき "fleeting", 六塵 "the senses") → say what it means in this situation: "you know perfectly well someone just put it on their clothes, it's not even theirs".
-  - Stacked hedges ("as X is supposed to have said… probably…") → one hedge, said casually ("supposedly", "probably not what… had in mind").
-- **End on the image, not the judgement.** When Kenkō closes with a general verdict (さもあらむかし, "that's understandable"), end on the concrete thing the reader already has in mind, if the meaning is the same: "No wonder he fell." Let the build-up do the work, and put the image last.
-- **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
-- **Concrete over abstract.** Where Kenkō names a category, a concrete example from his own world is fine if the category covers it: "every art" (諸道) → "music, games, anything".
-- **No markers of either era.** No dated slang, no technology, no modern references. No archaic words ("thee", "verily") and no exotic terms the reader must look up (inkstone, sugoroku, "holy man", "the tenth month"). Use the plain thing: ink, board games, the priest, late autumn.
-- **Setup in the text, not in the notes.** If a joke needs a fact, put the fact into the sentence in plain words ("the temple and the shrine at the bottom of the hill"). Names that need explaining go to the notes.
-- **Dialogue sounds like people talking.** Contractions are fine. Not "Gentlemen, do you not notice…", but "Come on, don't any of you see how special this is?"
-- **Never add jokes.** Humour only where the original has it. Solemn passages stay solemn; they only get plainer.
-- **Notes don't read Kenkō's mind.** No guesses about what he felt, lacked or struggled with, unless the text says it. "He says the same thing twice, so he found it hard" is invented. Facts, grammar, allusions and what the text itself does are fine.
-- **The literal layer stays literal.** "Dig deeper" keeps the exact wording, so the main text can be free. Free is fine, wrong is not.
+- Dialogue sounds like people talking; contractions are fine.
+- Where Kenkō names a category, a concrete example from his own world is fine if the category covers it ("every art" → "music, games, anything").
 - British spelling (practise, recognise).
 
 ## Experiments
 
-- `concrete-images`: turn an image into a small everyday scene addressed to the reader ("Say someone gives you a beautiful jade cup, but the bottom is missing…"). This goes beyond the rules above, because it invents a scene. It lives in `variants` only, so it can be compared and dropped easily.
+- `concrete-images`: turn an image into a small everyday scene addressed to the reader ("Say someone gives you a beautiful jade cup, but the bottom is missing…"). This goes beyond the rules, because it invents a scene. It lives in `variants` only, so it can be compared and dropped easily.
 
 ## Reference lines
 
