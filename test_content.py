@@ -1,7 +1,7 @@
 from pathlib import Path
 import unittest
 
-from build import align_old, apply_variant, edition_text, load_feed, plain, render_essay, render_page
+from build import align_old, apply_variant, edition_text, load_feed, plain, render_essay, render_index, render_page
 from kenko_source import sections
 
 
@@ -23,7 +23,7 @@ class KenkoContentTests(unittest.TestCase):
         root = Path(__file__).parent
         raw = (root / 'sources' / 'tsurezuregusa-wikisource.txt').read_text('utf-8')
         edition, edition_old = sections(raw), sections(raw, modern=False)
-        files = sorted(root.glob('content/kenko/*.json'))
+        files = sorted(root.glob('content/kenko/[0-9]*.json'))
         self.assertTrue(files)
         for path in files:
             sec = load_feed(path)
@@ -36,6 +36,11 @@ class KenkoContentTests(unittest.TestCase):
                 render_essay(sec, prev=None, next=None, olds=olds)
                 for name in sec.get('variants', {}):
                     render_essay(apply_variant(sec, name), prev=None, next=None, olds=olds)
+
+
+    def test_book_intro_renders(self):
+        book = load_feed(Path(__file__).parent / 'content' / 'kenko' / 'book.json')
+        self.assertIn('Kenkō', render_index([], book))
 
 
 if __name__ == '__main__':

@@ -175,6 +175,11 @@ class EssayTests(unittest.TestCase):
         self.assertIn('Motoori Norinaga', html)
         self.assertIn('He disagrees.', html)
 
+    def test_index_shows_intro_paragraphs(self):
+        html = render_index([SECTION], {'title': 'T', 'intro': ['First {能|のう}.', 'Second.']})
+        self.assertIn('<h1>T</h1>', html)
+        self.assertIn('<p class="intro">First <ruby>能<rt>のう</rt></ruby>.</p><p class="intro">Second.</p>', html)
+
     def test_index_lists_sections_in_order(self):
         html = render_index([dict(SECTION, number=7), SECTION])
         self.assertLess(html.index('href="7.html"'), html.index('href="150.html"'))

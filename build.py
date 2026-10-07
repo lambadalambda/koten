@@ -175,13 +175,16 @@ def render_essay(sec, prev, next, olds=None):
     return page('%s · %s' % (section_name(sec['number']), sec['title']), body, css='../style.css')
 
 
-def render_index(secs):
+DEFAULT_BOOK = {'title': 'Tsurezuregusa · Essays in Idleness', 'intro': ['Yoshida Kenkō, c. 1330.']}
+
+
+def render_index(secs, book=DEFAULT_BOOK):
     items = ''.join('<li><a href="%d.html"><span class="num">%s</span> <span lang="ja">%s</span> %s</a></li>' % (
         s['number'], section_name(s['number']), inline(incipit(s['original'])), html.escape(s['title']))
         for s in secs)
-    body = ('<h1>Tsurezuregusa · Essays in Idleness</h1><p class="intro">Yoshida Kenkō, c. 1330.</p>'
-            '<ul class="contents">%s</ul>' % items)
-    return page('Tsurezuregusa · Essays in Idleness', body, css='../style.css')
+    intro = ''.join('<p class="intro">%s</p>' % inline(t) for t in book['intro'])
+    body = '<h1>%s</h1>%s<ul class="contents">%s</ul>' % (html.escape(book['title']), intro, items)
+    return page(book['title'], body, css='../style.css')
 
 
 def load_feed(path):
@@ -195,7 +198,7 @@ def main(variant=None):
     for path in sorted((ROOT / 'content').glob('*.json')):
         (out / (path.stem + '.html')).write_text(render_page(load_feed(path)), 'utf-8')
         print('wrote', out / (path.stem + '.html'))
-    secs = sorted((apply_variant(load_feed(p), variant) for p in (ROOT / 'content' / 'kenko').glob('*.json')),
+    secs = sorted((apply_variant(load_feed(p), variant) for p in (ROOT / 'content' / 'kenko').glob('[0-9]*.json')),
                   key=lambda s: s['number'])
     if secs:
         edition = sections((ROOT / 'sources' / 'tsurezuregusa-wikisource.txt').read_text('utf-8'), modern=False)
@@ -206,7 +209,9 @@ def main(variant=None):
             nxt = nums[i + 1] if i + 1 < len(nums) else None
             (out / 'kenko' / ('%d.html' % sec['number'])).write_text(render_essay(
                 sec, prev, nxt, align_old(sec['original'], edition_text(edition, sec['number']))), 'utf-8')
-        (out / 'kenko' / 'index.html').write_text(render_index(secs), 'utf-8')
+        book_file = ROOT / 'content' / 'kenko' / 'book.json'
+        book = load_feed(book_file) if book_file.exists() else DEFAULT_BOOK
+        (out / 'kenko' / 'index.html').write_text(render_index(secs, book), 'utf-8')
         print('wrote', len(secs), 'Kenkō sections to', out / 'kenko')
 
 
