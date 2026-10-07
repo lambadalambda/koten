@@ -1,0 +1,36 @@
+{
+  "number": 52,
+  "title": "The priest who skipped the shrine",
+  "translation": [
+    "A priest at Ninnaji had never worshipped at Iwashimizu, and he was getting old. It bothered him, so one day he made up his mind and set off alone, on foot. He worshipped at Gokurakuji and Kōra, decided that was all there was, and went home.",
+    "Afterwards he told a colleague: \"I've finally done what I meant to do for years. It was even more awe-inspiring than I'd heard. But you know, every single pilgrim was climbing up the mountain. I did wonder what was up there. But I'd come to worship the god, so I didn't go up the mountain.\"",
+    "Even in small things, it is good to have a guide."
+  ],
+  "original": [
+    "{仁和寺|にんなじ}に、ある{法師|ほふし}、{年|とし}よるまで{石清水|いはしみづ}を{拝|をが}まざりければ、{心憂|こころう}く{覚|おぼ}えて、ある{時|とき}{思|おも}ひたちて、ただ{一人|ひとり}かちより{詣|まう}でけり。",
+    "{極楽寺|ごくらくじ}、{高良|かうら}などを{拝|をが}みて、かばかりと{心得|こころえ}て{帰|かへ}りにけり。",
+    "さて{傍|かたへ}の{人|ひと}に{逢|あ}ひて、「{年|とし}ごろ{思|おも}ひつる{事|こと}{果|は}たし{侍|はべ}りぬ。",
+    "{聞|き}きしにも{過|す}ぎて{尊|たふと}くこそおはしけれ。",
+    "そも{参|まゐ}りたる{人|ひと}ごとに{山|やま}へのぼりしは、{何事|なにごと}かありけむ、ゆかしかりしかど、{神|かみ}へまゐるこそ{本意|ほい}なれと{思|おも}ひて、{山|やま}までは{見|み}ず。」とぞいひける。",
+    "すこしの{事|こと}にも{先達|せんだち}はあらまほしきことなり。"
+  ],
+  "literal": [
+    "At Ninnaji, a certain priest had not worshipped at Iwashimizu until he grew old, so he felt bad, and one time he made up his mind and went to worship, all alone, on foot.",
+    "He worshipped at Gokurakuji, Kōra and so on, understood 'this is all', and went home.",
+    "Then he met a colleague: \"I have accomplished what I had in mind for years.",
+    "It was more venerable even than I had heard.",
+    "By the way, every person who went there climbed the mountain: I wanted to know what was there, but I thought 'worshipping the god is my true purpose', and did not look as far as the mountain\", he said.",
+    "Even in small matters, a guide is something one would like to have."
+  ],
+  "notes": [
+    {"quote": "石清水", "text": "Iwashimizu Hachimangū, one of the great shrines, south-west of Kyoto. The main shrine stands on top of a hill, Otokoyama. Gokurakuji and Kōra are a temple and a shrine at the foot of the hill. So the priest visited the side buildings at the bottom and went home. The god was at the top, where everybody was climbing."},
+    {"quote": "かちより", "text": "'On foot'. より marks the means here: 'by walking'. Walking all the way shows his devotion, which makes the result sadder."},
+    {"quote": "詣でけり", "text": "けり: past, for a story that the writer heard and did not see himself. Compare き in section 11."},
+    {"quote": "かばかりと心得て", "text": "'Understanding that this was all'. The whole joke is in these four words."},
+    {"quote": "尊くこそおはしけれ", "text": "He praises what he saw, with こそ … けれ and the respectful verb おはす for the god. Very polite and very wrong."},
+    {"quote": "神へまゐるこそ本意なれ", "text": "The punchline. He did not climb the hill because he had come for the god, and the god was up the hill. こそ … なれ: the realis form of なり 'is'."},
+    {"quote": "ゆかしかりしかど", "text": "ゆかし: 'I want to see / to know'. He was curious, and he resisted. Curiosity would have saved him."},
+    {"quote": "とぞいひける", "text": "ぞ … ける: one more kind of {係|かか}り{結|むす}び. ぞ needs the attributive form, so けり becomes ける."},
+    {"quote": "先達はあらまほしきことなり", "text": "{先達|せんだち}: 'a guide, someone who has gone before'. まほし: 'would like (to have)'. The moral is very small for such a story, and that is part of the fun."}
+  ]
+}

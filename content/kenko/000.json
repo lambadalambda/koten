@@ -1,0 +1,20 @@
+{
+  "number": 0,
+  "title": "Idle hours",
+  "translation": [
+    "With nothing to do all day, I sit at my inkstone and write down whatever pointless things drift through my mind, in no particular order. It is strange how it almost drives me mad."
+  ],
+  "original": [
+    "つれづれなるままに、{日|ひ}ぐらし{硯|すずり}に{向|むか}ひて、{心|こころ}に{移|うつ}り{行|ゆ}くよしなしごとを、そこはかとなく{書|か}きつくれば、{怪|あや}しうこそ{物狂|ものぐる}ほしけれ。"
+  ],
+  "literal": [
+    "Having nothing to do, facing the inkstone all day long, as I write down, without any order, the trivial things that pass through my mind, it is strangely, madly (feeling)."
+  ],
+  "notes": [
+    {"quote": "つれづれなるままに", "text": "つれづれ: long empty hours with nothing to do, often with a feeling of tedium. The book takes its name from these first words: 徒然草 is read つれづれぐさ, and 徒然 is a kanji spelling of つれづれ."},
+    {"quote": "日ぐらし", "text": "'All day long', from {日|ひ} 'day' and {暮|く}らす 'to spend (time)'."},
+    {"quote": "よしなしごと", "text": "よし 'reason, point' + なし 'there is none' + こと 'things'. So the author calls his own book 'pointless stuff' in the first sentence. It is a humble opening, and it is also the 1330 version of 'random thoughts, nothing serious'."},
+    {"quote": "そこはかとなく", "text": "'Without any clear order', 'just as it comes'. The book really is like this: 243 sections, from death and Buddhism to court etiquette and a priest with a pot on his head (section 53)."},
+    {"quote": "怪しうこそ物狂ほしけれ", "text": "こそ … けれ: こそ gives emphasis, and the sentence must then end in the realis form ({已然形|いぜんけい}): {物狂|ものぐる}ほし becomes {物狂|ものぐる}ほしけれ. This pattern is {係|かか}り{結|むす}び. {怪|あや}しう is {怪|あや}しく with a sound change (ウ{音便|おんびん}). Scholars do not agree on who is 'mad' here: the writer, who feels strange, or the writing, which turns out strange. The translation keeps it open."}
+  ]
+}

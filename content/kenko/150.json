@@ -1,0 +1,31 @@
+{
+  "number": 150,
+  "title": "Learning in public",
+  "translation": [
+    "People who want to learn a skill always seem to say: \"I don't want anyone to know until I'm good at it. I'll practise quietly in private, and then I'll come out and really impress everybody.\" People who say this never learn a single thing.",
+    "Join the experts while you are still completely clumsy. Don't be ashamed when they mock you and laugh at you. Keep calm and keep practising. Even if you have no natural talent, as long as you don't get stuck and don't get sloppy, the years will carry you past the gifted people who don't practise. In the end you reach the level of a master. You gain authority, people respect you, and you make a name that nobody else has.",
+    "Even the greatest masters in the land were once known as hopeless, and had embarrassing flaws. But they kept the rules of their art, took them seriously, and never did just as they pleased. That is how they became the authorities of their time and teachers to everyone. It is the same in every art."
+  ],
+  "original": [
+    "{能|のう}をつかむとする{人|ひと}、「よくせざらむ{程|ほど}は、なまじひに{人|ひと}に{知|し}られじ、{内々|うちうち}よく{習|なら}ひ{得|え}てさし{出|い}でたらむこそ、いと{心|こころ}にくからめ。」と{常|つね}にいふめれど、かくいふ{人|ひと}、{一芸|いちげい}もならひ{得|う}ることなし。",
+    "いまだ{堅固|けんご}かたほなるより、{上手|じやうず}の{中|なか}にまじりて、{譏|そし}り{笑|わら}はるるにも{恥|は}ぢず、つれなくて{過|す}ぎてたしなむ{人|ひと}、{天性|てんせい}その{骨|こつ}なけれども、{道|みち}になづまず{妄|みだ}りにせずして、{年|とし}を{送|おく}れば、{堪能|かんのう}の{嗜|たしな}まざるよりは、{終|つひ}に{上手|じやうず}の{位|くらゐ}にいたり、{徳|とく}たけ{人|ひと}に{許|ゆる}されて、ならびなき{名|な}をうることなり。",
+    "{天下|てんか}の{物|もの}の{上手|じやうず}といへども、はじめは{不堪|ふかん}のきこえもあり、{無下|むげ}の{瑕瑾|かきん}もありき。",
+    "されどもその{人|ひと}、{道|みち}の{掟|おきて}{正|ただ}しく、これを{重|おも}くして{放埒|はうらつ}せざれば、{世|よ}の{博士|はかせ}にて、{万人|ばんにん}の{師|し}となること、{諸道|しよだう}かはるべからず。"
+  ],
+  "literal": [
+    "People who try to acquire a skill always seem to say, 'As long as I cannot do it well, I'd rather not, rashly, become known to people; to learn it well privately and then come forward would surely be very impressive', but people who say so do not learn even one art.",
+    "A person who, while still completely unskilled, mixes among the skilled, is not ashamed to be criticized and laughed at, and passes the time unbothered, practising: even if by nature he has no knack for it, if he does not stall on the way, does not act carelessly, and lets the years go by, he will finally reach the rank of a master, ahead of the talented person who does not practise, his authority will grow, he will be recognized by people, and he will win an unrivalled name.",
+    "Even the masters of the land at first had a reputation for being incompetent, and had terrible flaws too.",
+    "But because such a person keeps the rules of the way correctly, holds them important and does not act at will, he becomes an authority of the world and the teacher of all people: this cannot differ in any art."
+  ],
+  "notes": [
+    {"quote": "能をつかむとする人", "text": "{能|のう}: any skill or art. (Noh theatre was only taking shape in Kenkō's time.) The original says 'a person who…' all the way through; the translation uses 'you'."},
+    {"quote": "いと心にくからめ", "text": "{心|こころ}にくし: 'impressive, admirable', with the idea that others become curious about you. Modern {心憎|こころにく}い still means 'admirably clever'. The plan is to appear suddenly as an expert. こそ … からめ: the realis form of む closes the こそ."},
+    {"quote": "いふめれど", "text": "めり: 'it seems', 'apparently'. Kenkō has heard this excuse many times."},
+    {"quote": "かくいふ人、一芸もならひ得ることなし", "text": "The verdict comes immediately and without pity. For anyone who studies Japanese and has never said a sentence out loud to a Japanese speaker: this section is about you."},
+    {"quote": "堅固かたほなる", "text": "{堅固|けんご} here means 'completely, utterly' (not modern 'solid'). かたほ: 'incomplete, unskilled'."},
+    {"quote": "その骨なけれども", "text": "{骨|こつ}: 'knack, natural talent'. Modern コツ 'the knack (of doing something)' comes from this word."},
+    {"quote": "堪能の嗜まざるよりは", "text": "{堪能|かんのう}: a gifted person. Modern Japanese reads the same kanji たんのう, 'skilled, fluent'. Kenkō's point: practice beats talent that does not practise."},
+    {"quote": "放埒せざれば", "text": "{放埒|はうらつ}: 'doing as one likes'. The 1925 edition explains the image: a horse let out of its fence (埒)."}
+  ]
+}
