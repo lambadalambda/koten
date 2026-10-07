@@ -7,6 +7,7 @@ The main translation should read as if it could be a blog post from last week or
 ## Rules
 
 - **Say it as is.** "A priest at Ninnaji had never been to Iwashimizu." Not "There was a priest at…", not "Another story about…". No storyteller openings.
+- **No grand titles.** Not "the greatest masters", but "the best people in any field". Not "distinguished people", but "important people". This is for the narrator's voice only: a character who is pompous in the original (Shōkai in 236) stays pompous.
 - **No scholar voice.** Not "That is how they became the authorities of their time." Say "That's how they ended up as the ones everyone learns from."
 - **Concrete over abstract.** Where Kenkō names a category, a concrete example from his own world is fine if the category covers it: "every art" (諸道) → "music, games, anything".
 - **No markers of either era.** No slang, no technology, no modern references. No archaic words ("thee", "verily") and no exotic terms the reader must look up (inkstone, sugoroku, "holy man", "the tenth month"). Use the plain thing: ink, board games, the priest, late autumn.
