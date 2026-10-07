@@ -1,0 +1,24 @@
+{
+  "number": 76,
+  "title": "A priest at the door",
+  "translation": [
+    "When something happens at a house that's doing well in the world, a death or a celebration, crowds of people come to pay their respects. And there among them is a priest, one of those who are meant to live apart from the world, sending his name in and waiting at the door. Surely he could have stayed away.",
+    "Even if he has a good reason, a priest should keep his distance from people."
+  ],
+  "original": [
+    "{世|よ}のおぼえ{花|はな}やかなるあたりに、{嘆|なげ}きも{喜|よろこ}びもありて、{人|ひと}{多|おほ}く{往|ゆ}きとぶらふ{中|うち}に、{聖法師|ひじりほふし}の{交|まじ}りて、いひ{入|い}れ{佇|たたず}みたるこそ、さらずともと{見|み}ゆれ。",
+    "さるべきゆゑありとも、{法師|ほふし}は{人|ひと}にうとくてありなむ。"
+  ],
+  "literal": [
+    "At a house whose standing in the world is brilliant, when there is grief or joy and many people come and go to call, that a holy priest mixes among them, sends in word and stands waiting: it seems he need not do so.",
+    "Even if there is a proper reason, a priest had better be distant from people."
+  ],
+  "notes": [
+    {"quote": "世のおぼえ花やかなる", "text": "おぼえ: 'reputation, favour', especially favour at court. A family that is in favour, with many people who want to stay on good terms with it."},
+    {"quote": "嘆きも喜びもありて", "text": "Grief or joy: a death in the family, or a promotion, a birth, a wedding. Either way, everyone comes to call. とぶらふ covers both: to visit, to ask after someone, to offer condolences."},
+    {"quote": "聖法師", "text": "{聖|ひじり}: a priest who lives apart from the big temples, often as a hermit or a wandering monk. Of all priests, he has the least reason to be at a rich man's door."},
+    {"quote": "いひ入れ佇みたる", "text": "いひ{入|い}る: to send a message inside through a servant, here to announce himself. Then he stands and waits to be received, like everyone else."},
+    {"quote": "さらずともと見ゆれ", "text": "さらずとも: 'even without doing so', that is, he need not be there. こそ … {見|み}ゆれ: the realis form of {見|み}ゆ."},
+    {"quote": "うとくてありなむ", "text": "うとし: 'distant, not close'. ぬ + む: 'had better be, should surely be'. Kenkō gives the rule without explaining it; section 1 already said that a priest who throws his weight around is not impressive."}
+  ]
+}

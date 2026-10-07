@@ -1,0 +1,45 @@
+{
+  "number": 85,
+  "title": "Copying the wise",
+  "translation": [
+    "People aren't straight, so of course there's some falseness in them. Still, surely you meet an honest person now and then. Even if you aren't straight yourself, it's normal to see someone wise and wish you were like them.",
+    "Real fools see someone wise and hate them. \"He turns down small gains so he can get a big one later,\" they say. \"It's all an act to make a name for himself.\" That they sneer like this, because the wise man is so unlike them, tells you everything. A fool like that will never change. He couldn't turn down even a small gain, not even as an act.",
+    "So don't imitate a fool, not even for a moment. Run down the main street pretending to be mad, and you're mad. Kill someone pretending to be a murderer, and you're a murderer. A horse that runs like a champion is a champion. Copy Shun, the good emperor of the old Chinese books, and you're one of his followers. Even if you're only faking it, if you copy the wise, you're wise."
+  ],
+  "original": [
+    "{人|ひと}の{心|こころ}すなほならねば、{偽|いつは}りなきにしもあらず、されど{自|おのづか}ら{正直|しやうぢき}の{人|ひと}などかなからむ。",
+    "{己|おのれ}すなほならねど、{人|ひと}の{賢|けん}を{見|み}て{羨|うらや}むは{世|よ}の{常|つね}なり。",
+    "いたりて{愚|おろ}かなる{人|ひと}は、たまたま{賢|けん}なる{人|ひと}を{見|み}てこれを{憎|にく}む。",
+    "「{大|おほ}きなる{利|り}を{得|え}むが{為|ため}に{少|すこ}しきの{利|り}を{受|う}けず、{偽|いつは}り{飾|かざ}りて{名|な}を{立|た}てむとす。」と{謗|そし}る。",
+    "おのれが{心|こころ}に{違|たが}へるによりて、この{嘲|あざけ}りをなすにて{知|し}りぬ。",
+    "この{人|ひと}は{下愚|かぐ}の{性|しやう}うつるべからず、{偽|いつは}りて{小利|せうり}をも{辞|じ}すべからず。",
+    "{仮|かり}にも{愚|ぐ}をまなぶべからず。",
+    "{狂人|きやうじん}のまねとて{大路|おほぢ}を{走|はし}らば、{則|すなは}ち{狂人|きやうじん}なり。",
+    "{悪人|あくにん}のまねとて{人|ひと}を{殺|ころ}さば、{悪人|あくにん}なり。",
+    "{驥|き}を{学|まな}ぶは{驥|き}のたぐひ、{舜|しゆん}を{学|まな}ぶは{舜|しゆん}の{徒|と}なり。",
+    "{偽|いつは}りても{賢|けん}をまなばむを{賢|けん}といふべし。"
+  ],
+  "literal": [
+    "Because people's hearts are not straight, it is not that there is no falsehood; but why would there not be, now and then, an honest person?",
+    "Though one is not straight oneself, to see another's wisdom and envy it is the way of the world.",
+    "A person who is extremely foolish, when by chance he sees a wise person, hates him.",
+    "He slanders him: 'In order to get a big profit he does not accept a small profit; he pretends and puts on a show and tries to make a name.'",
+    "Because (the wise man) differs from his own heart, he makes this mockery: from that I know (what he is).",
+    "This person's nature of the lowest fool cannot change; he could not even refuse a small profit by pretending.",
+    "One should not imitate foolishness even for a moment.",
+    "If, as an imitation of a madman, one runs along the main avenue, one is then a madman.",
+    "If, as an imitation of a wicked man, one kills a person, one is a wicked man.",
+    "One who learns from a thoroughbred is of the thoroughbred's kind; one who learns from Shun is Shun's follower.",
+    "One who learns from the wise, even falsely, should be called wise."
+  ],
+  "notes": [
+    {"quote": "人の心すなほならねば", "text": "すなほ: 'straight, honest'. Modern {素直|すなお} usually means 'obedient, docile'."},
+    {"quote": "されど自ら正直の人などかなからむ", "text": "{自|おのづか}ら: 'now and then, by chance', not 'oneself'. などか … む: a rhetorical question, 'why would there not be…? (There would.)'."},
+    {"quote": "人の賢を見て羨む", "text": "{賢|けん}: the wise and good person of Confucian writing, someone with both judgement and virtue."},
+    {"quote": "偽り飾りて名を立てむとす", "text": "The fool's theory: the good man's honesty is a long game, and he gives up small profits only to win a reputation, and a bigger profit later."},
+    {"quote": "下愚の性うつるべからず", "text": "From the Analects of Confucius: 'Only the wisest and the most foolish do not change.' {下愚|かぐ}: 'the lowest fool'. Kenkō applies the line to the fool who sneers at the wise."},
+    {"quote": "仮にも愚をまなぶべからず", "text": "{仮|かり}にも: 'even for a moment, even in jest'. The argument turns here: imitation is not a disguise, it is the thing itself."},
+    {"quote": "驥を学ぶは驥のたぐひ、舜を学ぶは舜の徒なり", "text": "{驥|き}: a thoroughbred horse that can run a thousand leagues in a day. Shun: a legendary sage emperor of ancient China, a model of virtue in Confucian books. The pair is probably adapted from the Fayan of Yang Xiong (53 BC–AD 18), which says that a horse that strives to be a thoroughbred is of the thoroughbred's kind, and a person who strives to be Yan Hui (Confucius's best student) is his follower. 'A follower of Shun' ({舜|しゆん}の{徒|と}) itself is a phrase from Mencius."},
+    {"quote": "賢といふべし", "text": "べし: 'should (be called)'. The section ends where it is heading: what you copy is what you are."}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 83,
+  "title": "Stopping short of the top",
+  "translation": [
+    "The Chikurin'in Minister of the Left could easily have become Chancellor, the highest post at court. Nothing stood in his way. But he said, \"There's nothing special about that. I'll stop where I am,\" and became a monk instead. The Tōin Minister of the Left admired this, and he never wanted to be Chancellor either.",
+    "There's an old saying about the dragon that climbed too high and was sorry. The moon is full, then it wanes. Things flourish, then they fade. Anything that has gone as far as it can go is close to breaking."
+  ],
+  "original": [
+    "{竹林院|ちくりんゐん}{入道|にふだう}{左大臣殿|さだいじんどの}、{太政大臣|だいじやうだいじん}にあがり{給|たま}はむに、{何|なに}の{滞|とどこほ}りかおはせむなれども、「{珍|めづら}しげなし。{一|いち}の{上|かみ}にてやみなむ。」とて、{出家|しゆつけ}し{給|たま}ひにけり。",
+    "{洞院|とうゐん}{左大臣殿|さだいじんどの}、この{事|こと}を{甘心|かんしん}し{給|たま}ひて、{相国|しやうごく}の{望|のぞ}みおはせざりけり。",
+    "{亢龍|かうりよう}の{悔|く}いありとかやいふ{事|こと}{侍|はべ}るなり。",
+    "{満|み}ちては{欠|か}け、{物|もの}{盛|さか}りにしては{衰|おとろ}ふ。",
+    "{万|よろづ}の{事|こと}さきの{詰|つま}りたるは、{破|やぶ}れに{近|ちか}き{道|みち}なり。"
+  ],
+  "literal": [
+    "The Chikurin'in lay-priest Minister of the Left, when it came to rising to Grand Minister, what obstacle would there have been? But saying, 'It is nothing remarkable. I will stop as the first of the ministers', he took the tonsure.",
+    "The Tōin Minister of the Left, approving of this, had no wish for the post of chancellor.",
+    "There is something said, I believe, about 'the regret of the dragon that has risen too high'.",
+    "When full, it wanes; when things flourish, they decline.",
+    "In all things, what has come to the end of its way forward is on the road close to ruin."
+  ],
+  "notes": [
+    {"quote": "竹林院入道左大臣殿", "text": "Usually identified as Saionji Kinhira (1264–1315), from the most powerful noble family of the time. {入道|にふだう}: a noble who has become a monk but is still called by his old title. Chikurin'in is a house name used for him; nobles were often called after a residence."},
+    {"quote": "太政大臣", "text": "{太政大臣|だいじやうだいじん}: the Chancellor, the highest post in the government, above the Ministers of the Left and Right. Often it was more an honour than a job."},
+    {"quote": "何の滞りかおはせむなれども", "text": "か … む: a rhetorical question, 'what obstacle would there have been? (None.)'."},
+    {"quote": "一の上にてやみなむ", "text": "{一|いち}の{上|かみ}: 'the first of the ministers', usually the Minister of the Left, who led the daily business of the council. ぬ + む: 'I will just stop here'."},
+    {"quote": "洞院左大臣殿", "text": "Usually identified as Tōin Saneyasu (1269–1327). {甘心|かんしん}: 'to approve, to agree with'. {相国|しやうごく}: a Chinese-style name for the Chancellor."},
+    {"quote": "亢龍の悔い", "text": "From the Book of Changes (I Ching), the first hexagram: the dragon that has flown too high has cause for regret. It is the line about a position with nowhere left to go but down. とかや: 'something like, I believe', a soft way to quote."},
+    {"quote": "満ちては欠け", "text": "No subject is named, but the image is the moon, which starts to wane as soon as it is full. The translation names it."},
+    {"quote": "さきの詰りたるは", "text": "'Where the way ahead is blocked': something that has reached its end and cannot go further. Compare the unfinished things of section 82."}
+  ]
+}

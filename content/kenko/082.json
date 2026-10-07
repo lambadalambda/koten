@@ -1,0 +1,37 @@
+{
+  "number": 82,
+  "title": "Leave something unfinished",
+  "translation": [
+    "Someone said, \"The trouble with silk gauze book covers is that they wear out so fast.\" Ton'a answered, \"Silk gauze is at its best once the top and bottom have frayed, and a scroll with mother-of-pearl on the roller once some of the shell has fallen out.\" I thought much better of him after that.",
+    "People call it ugly when the volumes of a set don't match. But the priest Kōyū said, \"Insisting that everything has to come in a matching set is what people with no taste do. Odd pieces are better.\" I thought that was very good too.",
+    "In general, things that are complete in every way are bad. Something left unfinished, and just left as it is, is interesting, and it gives things room to go on. Someone once told me, \"Even when they build the palace, they always leave one part unfinished.\"",
+    "And in the books of the old sages, Buddhist and otherwise, you find missing chapters all the time."
+  ],
+  "original": [
+    "「{羅|うすもの}の{表紙|へうし}は、{疾|と}く{損|そん}ずるが{侘|わび}しき。」と{人|ひと}のいひしに、{頓阿|とんあ}が、「{羅|うすもの}は{上下|かみしも}はづれ、{螺鈿|らでん}の{軸|ぢく}は、{貝|かひ}{落|お}ちて{後|のち}こそいみじけれ。」と{申|まう}し{侍|はべ}りしこそ、{心|こころ}{勝|まさ}りて{覚|おぼ}えしか。",
+    "{一部|いちぶ}とある{草紙|さうし}などの、{同|おな}じ{様|やう}にもあらぬを、{醜|みにく}しといへど、{弘融僧都|こうゆうそうづ}が、「{物|もの}を{必|かなら}ず{一具|いちぐ}に{整|ととの}へむとするは{拙|つたな}き{者|もの}のする{事|こと}なり。{不具|ふぐ}なるこそよけれ。」といひしも、いみじく{覚|おぼ}えしなり。",
+    "{総|すべ}て{何|なに}も{皆|みな}{事|こと}{整|ととの}ほりたるはあしき{事|こと}なり。",
+    "{為|し}{残|のこ}したるを、さてうちおきたるは、{面白|おもしろ}く、{生|い}き{延|の}ぶる{事|わざ}なり。",
+    "「{内裏|だいり}{造|つく}らるるにも、{必|かなら}ず{造|つく}りはてぬ{所|ところ}を{残|のこ}す{事|こと}なり。」と、ある{人|ひと}{申|まう}し{侍|はべ}りしなり。",
+    "{先賢|せんけん}の{作|つく}れる{内外|ないげ}の{文|ふみ}にも、{章段|しやうだん}の{闕|か}けたる{事|こと}のみこそ{侍|はべ}れ。"
+  ],
+  "literal": [
+    "When someone said, 'Covers of silk gauze are sad because they are damaged quickly', that Ton'a said, 'Silk gauze, after it has frayed at top and bottom, and a roller of mother-of-pearl inlay, after the shell has fallen off, are splendid': that made me think better of him.",
+    "That the books of a set are not all the same is called ugly, but that Kōyū Sōzu said, 'Always trying to arrange things into a full set is what clumsy people do. Being incomplete is good': that too seemed splendid to me.",
+    "In general, in anything, everything being complete is a bad thing.",
+    "Leaving what is left undone just as it is: that is interesting, and a thing that lets (things) live on.",
+    "'Even when the palace is built, they always leave a place that is not finished', someone told me.",
+    "Even in the inner and outer writings that the wise men of old made, there are many cases where chapters and sections are missing."
+  ],
+  "notes": [
+    {"quote": "羅の表紙", "text": "{羅|うすもの}: a thin, open-woven silk. Scrolls and bound books often had covers of fine cloth, which frayed at the edges."},
+    {"quote": "頓阿", "text": "Ton'a (1289–1372), a poet-monk and a friend of Kenkō. The two were later counted, with two others, as the four leading poets of the Nijō school (see section 14)."},
+    {"quote": "螺鈿の軸", "text": "{螺鈿|らでん}: mother-of-pearl inlay. {軸|ぢく}: the wooden roller at the end of a hand scroll, with decorated ends that show when it is rolled up."},
+    {"quote": "心勝りて覚えしか", "text": "{心|こころ}{勝|まさ}り: 'thinking better of someone than before', the opposite of {心|こころ}おとり (sections 1 and 81). こそ … しか: しか is the realis form of き, the past for what the writer saw himself."},
+    {"quote": "弘融僧都", "text": "Kōyū, probably a priest at Ninnaji, the temple of section 52. Section 84 quotes him again. {僧都|そうづ}: a high rank in the Buddhist hierarchy, below {僧正|そうじやう}."},
+    {"quote": "一具に整へむ", "text": "{一具|いちぐ}: 'one complete set'. {不具|ふぐ}: 'incomplete, not matching'."},
+    {"quote": "生き延ぶる事なり", "text": "'A thing that lets (it) live on'. Commentators read this in different ways: something unfinished leaves room to grow, or it keeps a thing from reaching the peak that comes before decline (section 83 makes that argument). The translation keeps it open."},
+    {"quote": "必ず造りはてぬ所を残す事なり", "text": "The belief behind this: a thing that is complete can only decline. Kenkō reports it as something he was told."},
+    {"quote": "内外の文", "text": "{内外|ないげ}: Buddhist writings ({内典|ないてん}, 'inner books') and everything else, such as the Confucian classics ({外典|げてん}, 'outer books'). Many old texts have come down with chapters lost. Kenkō reads the gaps as part of the pattern."}
+  ]
+}

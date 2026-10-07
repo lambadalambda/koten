@@ -1,0 +1,30 @@
+{
+  "number": 81,
+  "title": "What your things say",
+  "translation": [
+    "When the pictures or the writing on a folding screen or a sliding door are done in a clumsy hand, it's not so much that they look ugly. It makes you think less of the owner of the house.",
+    "In general, the things people own can make you think less of them. I don't mean you have to own only the best. I mean things that have been made graceless and ugly so they won't get damaged, or loaded with pointless extras so they look unusual, all fussy and overdone.",
+    "Things should look a little old-fashioned, not showy, not expensive, and simply be good in themselves."
+  ],
+  "original": [
+    "{屏風|びやうぶ}{障子|しやうじ}などの{絵|ゑ}も{文字|もじ}も、かたくななる{筆様|ふでやう}して{書|か}きたるが、{見|み}にくきよりも、{宿|やど}の{主人|あるじ}の{拙|つたな}く{覚|おぼ}ゆるなり。",
+    "{大|おほ}かた{持|も}てる{調度|てうど}にても、{心|こころ}おとりせらるる{事|こと}はありぬべし。",
+    "さのみよき{物|もの}を{持|も}つべしとにもあらず、{損|そん}ぜざらむためとて、{品|しな}なく{見|み}にくきさまに{為|し}なし、{珍|めづら}しからむとて、{用|よう}なき{事|こと}どもしそへ、{煩|わづら}はしく{好|この}みなせるをいふなり。",
+    "{古|ふる}めかしきやうにて、いたくことごとしからず、{費|つひえ}もなくて、{物|もの}がらのよきがよきなり。"
+  ],
+  "literal": [
+    "Pictures and writing on folding screens, sliding panels and the like, written in a boorish brush style: rather than their being ugly to look at, the master of the house seems inept.",
+    "In general, even with the furnishings one owns, there are surely cases where one is thought less of.",
+    "It is not that one should own only such good things; I mean making things graceless and ugly so that they will not be damaged, adding useless things so that they will be unusual, and fussily having them made to one's taste.",
+    "Looking old-fashioned, not very showy, without expense, with good quality in the thing itself: that is good."
+  ],
+  "notes": [
+    {"quote": "屏風障子", "text": "{屏風|びやうぶ}: a folding screen. {障子|しやうじ}: in Kenkō's time, any sliding panel between rooms, often covered with heavy paper and painted or written on. Modern shōji, with thin translucent paper, are only one kind."},
+    {"quote": "かたくななる筆様", "text": "かたくな: 'clumsy, without taste' (compare section 79). {筆様|ふでやう}: the style of the brushwork, in pictures and calligraphy alike."},
+    {"quote": "宿の主人の拙く覚ゆるなり", "text": "The point: the owner chose this and hung it in his house, so it shows his taste, not only the painter's."},
+    {"quote": "心おとりせらるる", "text": "{心|こころ}おとり: 'thinking less of someone than before', the same word as in section 1. らる here is spontaneous: 'one can't help thinking less'."},
+    {"quote": "損ぜざらむためとて", "text": "'So that it will not be damaged': things made sturdy and ugly, with no care for how they look."},
+    {"quote": "ことごとしからず", "text": "ことごとし: 'showy, overdone'. {費|つひえ}: 'expense'."},
+    {"quote": "物がらのよきがよきなり", "text": "{物|もの}がら: 'the quality of the thing itself'. The sentence is built on よし twice: 'good quality is what is good'."}
+  ]
+}

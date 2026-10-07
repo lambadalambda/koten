@@ -1,0 +1,32 @@
+{
+  "number": 79,
+  "title": "Not an expert",
+  "translation": [
+    "With anything, it's best to look as if you're not too deep into it. People with real class don't go around sounding like experts, even about things they know. It's the one who has just turned up from the back of beyond who chips in with an answer on every subject, as if he knew all about it.",
+    "Sometimes he does know enough to make you feel small. But you can see he thinks he's wonderful, and that's ugly.",
+    "When it's something you really understand, say little. Wait until someone asks."
+  ],
+  "original": [
+    "{何事|なにごと}も{入|い}りたたぬさましたるぞよき。",
+    "よき{人|ひと}は{知|し}りたる{事|こと}とて、さのみ{知|し}りがほにやはいふ。",
+    "{片田舎|かたゐなか}よりさしいでたる{人|ひと}こそ、{万|よろづ}の{道|みち}に{心得|こころえ}たるよしのさしいらへはすれ。",
+    "されば{世|よ}に{恥|はづか}しき{方|かた}もあれど、{自|みづか}らもいみじと{思|おも}へる{気色|けしき}、かたくななり。",
+    "よく{弁|わきま}へたる{道|みち}には、{必|かなら}ず{口|くち}おもく、{問|と}はぬかぎりは、{言|い}はぬこそいみじけれ。"
+  ],
+  "literal": [
+    "In everything, having the air of not having gone in deep is good.",
+    "Does a person of quality, just because it is something he knows, speak so much with a knowing face?",
+    "It is the person who has come forward from the remote countryside who gives answers to the effect that he understands every field.",
+    "So there are some points about him that put the world to shame, but the look of thinking himself splendid is boorish.",
+    "In a field one understands well, one is always heavy of mouth, and not speaking unless asked: that is splendid."
+  ],
+  "notes": [
+    {"quote": "入りたたぬさましたるぞよき", "text": "{入|い}りたつ: 'to go deep into, to be closely involved'. ぞ … よき: ぞ needs the attributive form of よし."},
+    {"quote": "知りがほにやはいふ", "text": "{知|し}りがほ: 'a knowing face'. やは: a rhetorical question, 'does he…? (No.)'."},
+    {"quote": "片田舎よりさしいでたる人", "text": "The man from the provinces again, as in the festival scene of section 137. さしいらへ: 'an answer', with the sense of jumping in."},
+    {"quote": "世に恥しき方もあれど", "text": "{恥|はづか}し is a false friend here: not 'embarrassed' but 'so good that others feel ashamed beside him'. Kenkō grants that the man may really know things."},
+    {"quote": "かたくななり", "text": "かたくな: 'boorish, without taste'. The same word Kenkō uses for people who say there is nothing left to see in section 137."},
+    {"quote": "口おもく", "text": "'Heavy of mouth': slow to speak. Modern {口|くち}が{重|おも}い still means the same."},
+    {"quote": "言はぬこそいみじけれ", "text": "こそ … けれ: 'not speaking (unless asked): that is splendid'. The translation ends on the advice itself."}
+  ]
+}

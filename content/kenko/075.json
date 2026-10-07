@@ -1,0 +1,44 @@
+{
+  "number": 75,
+  "title": "Nothing to do",
+  "translation": [
+    "People who complain that they have nothing to do: what are they thinking? Nothing to distract you, just you on your own. That's the best there is.",
+    "Go along with the world, and your mind gets caught up in all the dust outside and loses its way. Spend your time with people, and everything you say depends on how it will sound to them, so none of it is really what you mean. You joke with people and argue over things. One moment you resent something, the next you're delighted, and it never settles. You keep weighing things up, what you'll gain and what you'll lose, and it never stops. You're confused, and drunk on top of the confusion, and dreaming inside the drunkenness. Everyone is like this: running around, busy, in a daze, forgetting.",
+    "Even if you don't know the true path yet, cut your ties. Keep yourself quiet, stay out of things, and let your mind rest. For a while, at least, you could call that happiness. The Mohe Zhiguan says it too: \"Put down your ties: making a living, dealing with people, your skills, your studies.\""
+  ],
+  "original": [
+    "つれづれわぶる{人|ひと}は、いかなる{心|こころ}ならむ。",
+    "{紛|まぎ}るる{方|かた}なく、{唯|ただ}{一人|ひとり}あるのみこそよけれ。",
+    "{世|よ}に{従|したが}へば、{心|こころ}{外|ほか}の{塵|ちり}にうばはれて{惑|まど}ひ{易|やす}く、{人|ひと}に{交|まじ}はれば、{言葉|ことば}よそのききに{随|したが}ひて、さながら{心|こころ}にあらず。",
+    "{人|ひと}に{戯|たはぶ}れ、{物|もの}に{争|あらそ}ひ、{一度|ひとたび}はうらみ、{一度|ひとたび}はよろこぶ。",
+    "そのこと{定|さだま}れることなし。",
+    "{分別|ふんべつ}{妄|みだ}りに{起|おこ}りて、{得失|とくしつ}やむ{時|とき}なし。",
+    "まどひの{上|うへ}に{酔|ゑ}へり、{酔|ゑひ}の{中|なか}に{夢|ゆめ}をなす。",
+    "{走|はし}りていそがはしく、ほれて{忘|わす}れたること、{人|ひと}{皆|みな}かくのごとし。",
+    "いまだ{誠|まこと}の{道|みち}を{知|し}らずとも、{縁|えん}を{離|はな}れて{身|み}を{閑|しづか}にし、{事|こと}に{与|あづか}らずして{心|こころ}を{安|やす}くせむこそ、{暫|しばら}く{楽|たの}しぶともいひつべけれ。",
+    "「{生活|しやうくわつ}、{人事|にんじ}、{技能|ぎのう}、{学問|がくもん}{等|とう}の{諸縁|しよえん}をやめよ。」とこそ、{摩訶止観|まかしくわん}にもはべれ。"
+  ],
+  "literal": [
+    "People who are distressed by idleness: what kind of mind do they have?",
+    "With nothing to distract one, simply being alone: that is what is good.",
+    "If one follows the world, the mind is seized by the dust outside and easily goes astray; if one mixes with people, one's words follow how others will hear them, and are not at all what is in one's mind.",
+    "One jokes with people, quarrels over things, at one time resents, at one time rejoices.",
+    "There is nothing settled about it.",
+    "Discrimination arises wildly, and gain and loss never cease.",
+    "On top of delusion one is drunk; within the drunkenness one makes dreams.",
+    "Running about, busy, dazed and forgetful: all people are like this.",
+    "Even if one does not yet know the true way, to leave one's ties, keep oneself quiet, not take part in affairs and set one's mind at ease: that one could surely call enjoying oneself, for a while.",
+    "'Stop all ties such as livelihood, human affairs, skills and learning': so it says in the Mohe Zhiguan too."
+  ],
+  "notes": [
+    {"quote": "つれづれわぶる人は", "text": "つれづれ: empty hours with nothing to do, the word the whole book is named after (see the preface, section 0). わぶ: 'to find hard, to be distressed by'. Kenkō turns the usual complaint around: what other people suffer from is what he wants."},
+    {"quote": "唯一人あるのみこそよけれ", "text": "こそ … けれ: the realis form of よし 'good' closes the こそ. Compare section 12, which wishes for a friend who thinks the way you do. Here, being alone wins."},
+    {"quote": "心外の塵", "text": "{塵|ちり} 'dust' is a Buddhist image for the objects of the senses, which cloud the mind the way dust clouds a mirror. The 1925 edition reads {外|ほか}: 'the mind (is seized by) the dust outside'."},
+    {"quote": "言葉よそのききに随ひて", "text": "よそのきき: 'how others hear it'. Your words follow the listener, not your own mind. さながら … あらず: 'not at all'."},
+    {"quote": "分別妄りに起りて", "text": "{分別|ふんべつ}: a Buddhist term for the mind's habit of sorting things into good and bad, mine and yours. Modern ふんべつ means 'good sense', almost the opposite."},
+    {"quote": "まどひの上に酔へり、酔の中に夢をなす", "text": "Delusion in three layers: confused, then drunk on the confusion, then dreaming inside the drunkenness. {酔|ゑ}へり: {酔|ゑ}ふ + り, 'is drunk'."},
+    {"quote": "縁を離れて", "text": "{縁|えん}: in Buddhism, the conditions and connections that tie you to the world: work, people, obligations."},
+    {"quote": "暫く楽しぶともいひつべけれ", "text": "{楽|たの}しぶ: an older form of {楽|たの}しむ. つ + べし: 'one could surely (call it)'. こそ … べけれ. Note the limits he sets: not enlightenment, just happiness 'for a while'."},
+    {"quote": "摩訶止観", "text": "The Mohe Zhiguan, a sixth-century Chinese work on meditation by Zhiyi (538–597), the founder of the Tiantai school, which became Tendai in Japan. Among the preparations for meditation, it lists four kinds of affairs to give up: livelihood, human affairs, skills and learning. Kenkō gives the list in Japanese. {生活|しやうくわつ} here is 'making a living', and {人事|にんじ} is 'dealing with people', not modern 'personnel'."}
+  ]
+}

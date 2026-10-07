@@ -1,0 +1,42 @@
+{
+  "number": 80,
+  "title": "Soldiers and priests",
+  "translation": [
+    "Everyone seems to love the one thing that has least to do with them. Priests take up fighting. Warriors from the east can't even draw a bow properly, but they act as if they know all about Buddhism, and they write linked verse and play music. People will look down on them more for this than they ever would for being bad at their own job.",
+    "And it isn't only priests. Plenty of nobles and courtiers, right up to the top, love the art of war. But you can fight a hundred battles and win all hundred, and you still haven't proved you're brave. When your luck holds and you crush the enemy, anyone looks like a hero. Bravery is something you prove only when your men are gone and your arrows are spent, and you still don't surrender, and you die without fuss. Only then is your name made. As long as you're alive, don't brag about fighting.",
+    "It's closer to how animals behave than to how people should. Unless you were born into a family of warriors, there's no point loving it."
+  ],
+  "original": [
+    "{人|ひと}ごとに、{我|わ}が{身|み}にうとき{事|こと}をのみぞ{好|この}める。",
+    "{法師|ほふし}は{兵|つはもの}の{道|みち}をたて、{夷|えびす}は{弓|ゆみ}ひく{術|すべ}{知|し}らず、{仏法|ぶつぽふ}{知|し}りたる{気色|きそく}し、{連歌|れんが}し、{管絃|くわんげん}を{嗜|たしな}みあへり。",
+    "されどおろかなる{己|おの}が{道|みち}より、なほ{人|ひと}に{思|おも}ひあなづられぬべし。",
+    "{法師|ほふし}のみにもあらず、{上達部|かんだちめ}、{殿上人|てんじやうびと}、{上|かみ}ざままで、おしなべて{武|ぶ}を{好|この}む{人|ひと}{多|おほ}かり。",
+    "{百|もも}たび{戦|たたか}ひて{百|もも}たび{勝|か}つとも、いまだ{武勇|ぶゆう}の{名|な}を{定|さだ}めがたし。",
+    "その{故|ゆゑ}は{運|うん}に{乗|じよう}じて{敵|あた}をくだく{時|とき}、{勇者|ゆうしや}にあらずといふ{人|ひと}なし。",
+    "{兵|つはもの}{尽|つ}き{矢|や}きはまりて、{遂|つひ}に{敵|てき}に{降|くだ}らず、{死|し}を{安|やす}くして{後|のち}、はじめて{名|な}を{顕|あら}はすべき{道|みち}なり。",
+    "{生|い}けらむほどは{武|ぶ}に{誇|ほこ}るべからず。",
+    "{人倫|じんりん}に{遠|とほ}く、{禽獣|きんじう}に{近|ちか}きふるまひ、その{家|いへ}にあらずば、{好|この}みて{益|やく}なきことなり。"
+  ],
+  "literal": [
+    "Every person likes only the things that are remote from himself.",
+    "Priests set up the way of the warrior, and the eastern barbarians, not knowing how to draw a bow, put on the air of knowing Buddhism, compose linked verse and take up music together.",
+    "But they will surely be despised by people even more than for their own way, in which they are poor.",
+    "Not only priests: court nobles, courtiers, up to the highest, there are many who generally love the martial.",
+    "Even if one fights a hundred times and wins a hundred times, it is still hard to establish a name for martial courage.",
+    "The reason is that when one rides one's luck and crushes the enemy, there is no one who says one is not a brave man.",
+    "It is a way in which, when soldiers are exhausted and arrows run out, one finally does not surrender to the enemy and calmly accepts death, and only after that can one's name be shown.",
+    "As long as one is alive, one should not boast of the martial.",
+    "Behaviour far from humanity and close to birds and beasts: unless one is of that house, it is a thing of no use to love."
+  ],
+  "notes": [
+    {"quote": "我が身にうとき事をのみぞ好める", "text": "うとし: 'distant, unfamiliar'. ぞ … める: る, the attributive form of the auxiliary り, after ぞ. {好|この}める: 'they like'."},
+    {"quote": "夷", "text": "{夷|えびす}: 'eastern barbarians', a contemptuous word that people in the capital used for the warriors of the east, the men of the shogunate in Kamakura. Here they neglect their own skill, archery, and dabble in the capital's culture."},
+    {"quote": "仏法知りたる気色し", "text": "The 1925 edition reads {気色|きそく}, an older reading of the word usually read けしき: 'the look of, the air of'."},
+    {"quote": "連歌", "text": "{連歌|れんが}: linked verse, composed by several poets in turn. It was very popular in Kenkō's time, at court and among warriors."},
+    {"quote": "上達部、殿上人", "text": "{上達部|かんだちめ}: the highest nobles, of the third rank and above. {殿上人|てんじやうびと}: courtiers allowed into the emperor's private hall. {上|かみ}ざま: 'those above', up to the very top."},
+    {"quote": "百たび戦ひて百たび勝つとも", "text": "The phrase probably echoes Sunzi's Art of War, which says that a hundred victories in a hundred battles is not the best of all. Kenkō uses it for a different point: winning proves nothing about courage."},
+    {"quote": "死を安くして後、はじめて名を顕はすべき道なり", "text": "{死|し}を{安|やす}くす: 'to make light of death, to die calmly'. The test of a warrior comes only at the end, so nobody who is still alive has passed it."},
+    {"quote": "生けらむほどは", "text": "{生|い}く (an old verb, 'to live') + り + む: 'as long as one is alive'."},
+    {"quote": "その家にあらずば", "text": "Fighting was a hereditary trade, like poetry or medicine. For a warrior family it is the job; for anyone else it is a hobby with nothing to gain."}
+  ]
+}

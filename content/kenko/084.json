@@ -1,0 +1,25 @@
+{
+  "number": 84,
+  "title": "The homesick monk",
+  "translation": [
+    "Faxian, the Chinese monk who went all the way to India for the scriptures, cried when he saw a fan from home, and when he was ill he longed for Chinese food. Someone heard this and said, \"A man like that, showing such weakness in a foreign country. How embarrassing.\"",
+    "But the priest Kōyū said, \"What a gentle, feeling man he was.\" That isn't what you'd expect a priest to say, and I admired him for it."
+  ],
+  "original": [
+    "{法顕|ほふげん}{三蔵|さんざう}の{天竺|てんぢく}に{渡|わた}りて、{故郷|ふるさと}の{扇|あふぎ}を{見|み}ては{悲|かな}しび、{病|やまひ}に{臥|ふ}しては{漢|かん}の{食|じき}を{願|ねが}ひ{給|たま}ひける{事|こと}を{聞|き}きて、「さばかりの{人|ひと}の、{無下|むげ}にこそ、{心|こころ}{弱|よわ}き{気色|けしき}を、{人|ひと}の{国|くに}にて{見|み}え{給|たま}ひけれ。」と{人|ひと}のいひしに、",
+    "{弘融僧都|こうゆうそうづ}、「{優|いう}に{情|なさけ}ありける{三蔵|さんざう}かな。」といひたりしこそ、{法師|ほふし}の{様|やう}にもあらず、{心|こころ}にくく{覚|おぼ}えしか。"
+  ],
+  "literal": [
+    "Hearing that Faxian Sanzang, having crossed to India, grieved when he saw a fan from his homeland, and, lying ill, wished for the food of Han, someone said, 'Such a great man showed a terribly faint-hearted manner in a foreign country', and",
+    "that Kōyū Sōzu said, 'What a gracious, feeling Sanzang he was': that seemed unlike a priest, and admirable to me."
+  ],
+  "notes": [
+    {"quote": "法顕三蔵", "text": "Faxian (c. 337–c. 422), a Chinese monk who travelled overland to India to find Buddhist texts, and came back by sea fifteen years later. {三蔵|さんざう}: 'the three baskets' of the Buddhist canon, used as a title for monks who brought and translated scriptures."},
+    {"quote": "故郷の扇を見ては悲しび", "text": "The fan story is in Faxian's own travel record: in Sri Lanka, at a temple, he saw a merchant offer a white silk fan from China, and he wept. The detail about the food is not in that record, and its source is unclear. {悲|かな}しぶ: an older form of {悲|かな}しむ."},
+    {"quote": "漢の食", "text": "{漢|かん}: China, after the Han dynasty. {食|じき}: food, with the Buddhist reading."},
+    {"quote": "無下にこそ、心弱き気色を、人の国にて見え給ひけれ", "text": "{無下|むげ}に: 'terribly'. {人|ひと}の{国|くに}: 'someone else's country', abroad. こそ … けれ. The critic still uses respectful language (給ふ) while he criticises."},
+    {"quote": "弘融僧都", "text": "Kōyū, the priest who praised odd sets of books in section 82."},
+    {"quote": "優に情ありける三蔵かな", "text": "{優|いう}: 'gentle, refined'. {情|なさけ}: 'feeling, sensitivity'. けり with かな: an exclamation, as if noticing it for the first time."},
+    {"quote": "法師の様にもあらず、心にくく覚えしか", "text": "A priest is supposed to be free of attachment, so a priest might be expected to agree with the critic. {心|こころ}にくし: 'admirable' (see section 150). こそ … しか: the realis form of き."}
+  ]
+}

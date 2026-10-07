@@ -1,0 +1,24 @@
+{
+  "number": 77,
+  "title": "Other people's news",
+  "translation": [
+    "Whenever there's some story going round that everyone is talking about, there are always people who have nothing to do with it but know every detail, tell it to everyone, and go around asking questions. I don't like it.",
+    "The worst are priests from some out-of-the-way place. They ask about other people's business as if it were their own, and they spread it so far that you wonder how on earth they found out so much."
+  ],
+  "original": [
+    "{世|よ}の{中|なか}に、そのころ{人|ひと}のもてあつかひぐさに{言|い}ひあへること、いろふべきにはあらぬ{人|ひと}の、{能|よ}く{案内|あない}{知|し}りて、{人|ひと}にもかたり{聞|き}かせ、{問|と}ひ{聞|き}きたるこそうけられね。",
+    "{殊|こと}にかたほとりなる{聖法師|ひじりほふし}などぞ、{世|よ}の{人|ひと}の{上|うへ}はわが{如|ごと}く{尋|たづ}ね{聞|き}き、{如何|いか}でかばかりは{知|し}りけむと{覚|おぼ}ゆるまでぞ{言|い}ひ{散|ち}らすめる。"
+  ],
+  "literal": [
+    "Things that people talk about together in the world at the time as a topic: that a person who has no business being involved knows the inside story well, tells it to others and asks and hears about it: that one cannot accept.",
+    "Especially holy priests of out-of-the-way places seem to inquire about the affairs of people of the world as if they were their own, and to spread it about to the point where one thinks, 'How could he have known so much?'"
+  ],
+  "notes": [
+    {"quote": "もてあつかひぐさ", "text": "'Something to handle': a topic that everyone picks up and passes around. ぐさ (くさ) is the same word as in {言種|ことぐさ}, 'a thing to say'."},
+    {"quote": "いろふべきにはあらぬ人", "text": "いろふ: 'to meddle, to be involved'. Someone with no business in the matter."},
+    {"quote": "能く案内知りて", "text": "{案内|あない}: 'the inside story, how things stand'. A false friend: modern あんない means 'guidance' or 'information desk'."},
+    {"quote": "うけられね", "text": "うく 'to accept' + らる 'can' + ず 'not', in the realis form ね that こそ needs: 'I cannot accept it'. The same phrase opens section 78."},
+    {"quote": "かたほとりなる聖法師", "text": "かたほとり: 'the edge, an out-of-the-way place'. Section 76 kept the priest away from rich houses; here he is far away and still knows everything. {聖|ひじり}: see section 76."},
+    {"quote": "如何でかばかりは知りけむ", "text": "けむ: a guess about the past, 'how could he have known?'. ぞ … める: めり 'it seems' takes the attributive form after ぞ."}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 78,
+  "title": "Inside jokes",
+  "translation": [
+    "People who pick up every new fad and spread it around and make a big thing of it: I don't like that either. Someone who still hasn't heard of a thing when everyone else is already tired of it has a certain class.",
+    "And when a newcomer joins a group, the people who know some catchphrase or name that only makes sense among themselves start trading half-sentences, catching each other's eye and laughing, and the newcomer has no idea what's going on. People who don't know how to behave always do this."
+  ],
+  "original": [
+    "{今様|いまやう}の{事|こと}どもの{珍|めづら}しきを、いひ{広|ひろ}めもてなすこそ、{又|また}うけられね。",
+    "{世|よ}に{事|こと}ふりたるまで{知|し}らぬ{人|ひと}は{心|こころ}にくし。",
+    "{今更|いまさら}の{人|ひと}などのある{時|とき}、ここもとに{言|い}ひつけたる{言種|ことぐさ}、{物|もの}の{名|な}など{心得|こころえ}たるどち、{片端|かたはし}{言|い}ひかはし、{目|め}{見合|みあ}はせ{笑|わら}ひなどして、{心|こころ}しらぬ{人|ひと}に{心得|こころえ}ず{思|おも}はすること、{世|よ}なれずよからぬ{人|ひと}の{必|かなら}ずあることなり。"
+  ],
+  "literal": [
+    "To spread about and make much of novel things of the present fashion: that, too, one cannot accept.",
+    "A person who does not know (a thing) until it has grown old in the world is admirable.",
+    "When there is a newcomer or the like, that those who understand the phrases and names of things that are habitually said here exchange fragments, look at each other and laugh and so on, and make the person who does not know feel puzzled: that is a thing that people who are not used to the world and are not good always do."
+  ],
+  "notes": [
+    {"quote": "今様", "text": "{今様|いまやう}: 'the present fashion', whatever is new now. Section 22 complains about it too."},
+    {"quote": "もてなすこそ、又うけられね", "text": "もてなす: 'to make much of, to treat as important'. A false friend: modern もてなす is 'to entertain guests'. こそ … うけられね: 'I can't accept that either', repeating the end of section 77."},
+    {"quote": "世に事ふりたるまで知らぬ人は心にくし", "text": "ふる: 'to grow old, to go stale'. {心|こころ}にくし: 'admirable, with a reserve that makes you curious' (see section 150). Not knowing the latest thing is a mark of good taste."},
+    {"quote": "今更の人", "text": "'A person new to the place': a newcomer to a household or a circle at court."},
+    {"quote": "ここもとに言ひつけたる言種", "text": "ここもと: 'here, among us'. {言種|ことぐさ}: a phrase people use all the time. A word or nickname that only the group knows."},
+    {"quote": "片端言ひかはし", "text": "{片端|かたはし}: 'one end, a fragment'. They say half a phrase, and the others know the rest."},
+    {"quote": "世なれずよからぬ人", "text": "{世|よ}なる: 'to be used to the world, to know how to behave'. The verdict is about manners, not about cruelty."}
+  ]
+}
