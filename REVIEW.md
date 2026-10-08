@@ -99,3 +99,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 228: date of the Senbon service: 3rd month (1925 edition) or 2nd month (roudokus); note gives both.
 - 225: 烏帽子 ゑぼし (175 has the edition's ゑばうし); historical kana not unanimous.
 - 230: "Must have been a fox that hadn't had enough practice, and got the change wrong."
+
+## 209–220
+- 219: the pitch names summarised per core rule 2; 黄鐘/盤渉 now わうしき/ばんしき (also in 220). 間々 あひだあひだ (roudokus まま).
+- 211: last sentence is a condition again ("If your mind is wide…"), not an instruction.
+- 220: 一調子 ひとてうし not confirmed (いちてうし possible); "ōshiki" kept as a name.
+- From memory only: Yoshiuji 1189–1255, Ryūben 1208–1283.
