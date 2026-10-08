@@ -62,3 +62,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 154: potted trees in picture scrolls around his time: from memory (Kasuga Gongen scrolls, c. 1309), not checked.
 - 158: 魚道 ぎよだう (edition) vs roudokus ぎょとう.
 - 148: a short Bashō reference kept to show how long the moxa custom lasted.
+
+## 135–147
+- 139: the edition prints まれなるおの; translated as もの (an obvious misprint; other texts have もの; a note says so).
+- 136: the doctor is Wake no Atsushige (modern commentators; the writer's Tanba claim was wrong); 故法皇: 1925 gloss Kazan (impossible), modern Go-Uda. Both from roudokus, not a printed commentary.
+- 145: Shigemi in Go-Uda's service: roudokus only.
+- 143: invented examples ("purple clouds, sweet smell") removed from the translation; the note explains typical signs.
