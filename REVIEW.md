@@ -75,3 +75,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 170: べし read as "surely" ("We all have people we'd look at like that"); who has time on their hands is ambiguous.
 - 169: the collection date "probably around 1232" not checked against a printed source.
 - 171: 遠国 をんごく (the edition has both ゑんごく and をんごく in different sections).
+
+## 173–184
+- 175 (the drinking rant): several fidelity fixes; ending now keeps the back view and the shins. "no cap on" is an inference from the visible topknot; 聞えぬ事ども "things that don't bear repeating" (1925 gloss: obscene talk; note gives both).
+- 177: "the sawdust we'd all thought so clever" (けり + 1925 gloss); 恥しかりき could also mean "Yoshida's remark put us to shame".
+- 179, 183: modern-commentary claims from roudokus only (Dōgen's trip c. 1309, Masafusa anecdote, 令/律 split).
+- 181: "children's rhyme" (roudokus わらべ歌).
