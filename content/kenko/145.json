@@ -1,0 +1,30 @@
+{
+  "number": 145,
+  "title": "A loose seat",
+  "translation": [
+    "Hata no Shigemi, a mounted escort at court, said of Shingan, a guard at the retired emperor's palace who had become a lay monk: \"That man has the look of someone who'll fall off his horse. He should be very careful.\" Nobody took it seriously. Then Shingan fell off his horse and died. A word from a man who knows his job, people thought, is like the word of a god.",
+    "So someone asked Shigemi, \"What was the look?\"",
+    "\"He had a very loose seat, and he liked wild, rearing horses. That's why I said it. When have I ever been wrong?\""
+  ],
+  "original": [
+    "{御随身|みずいじん}{秦|はた}{重躬|しげみ}、{北面|ほくめん}の{下野|しもつけ}{入道|にふだう}{信願|しんぐわん}を、「{落馬|らくば}の{相|さう}ある{人|ひと}なり。よくよく{慎|つつし}み{給|たま}へ。」といひけるを、いとまことしからず{思|おも}ひけるに、{信願|しんぐわん}{馬|うま}より{落|お}ちて{死|し}ににけり。",
+    "{長|ちやう}じぬる{一言|ひとこと}、{神|かみ}の{如|ごと}しと{人|ひと}おもへり。",
+    "さて、「いかなる{相|さう}ぞ。」と{人|ひと}の{問|と}ひければ、",
+    "「{極|きは}めて{桃尻|ももじり}にて、{沛艾|はいがい}の{馬|うま}を{好|この}みしかば、この{相|さう}をおほせ{侍|はべ}りき。いつかは{申|まう}し{誤|あやま}りたる。」とぞいひける。"
+  ],
+  "literal": [
+    "The imperial escort Hata no Shigemi said of the Northern Guard Shimotsuke lay monk Shingan, 'He is a person with the sign of falling from a horse. Let him be very careful', and (people) thought it not very believable, but Shingan fell from his horse and died.",
+    "People thought that the one word of a master was like a god's.",
+    "Then, when someone asked, 'What kind of sign was it?',",
+    "he said: 'He was extremely peach-bottomed, and he liked rearing horses, so I assigned him this sign. When have I ever said something wrong?'"
+  ],
+  "notes": [
+    {"quote": "御随身秦重躬", "text": "{随身|ずいじん}: mounted guards of the palace guard offices, assigned by the court to escort retired emperors, regents and ministers (compare the guards in section 1). Riding was their trade. The Hata family supplied many of them; Shigemi is usually said to have served Retired Emperor Go-Uda."},
+    {"quote": "北面の下野入道信願", "text": "{北面|ほくめん}: the warriors who guarded a retired emperor's palace, named after the north side of the palace where they were stationed. {下野|しもつけ}: a province in the east; he was probably named after a post he or his family had held there. {入道|にふだう}: he had taken vows as a lay monk."},
+    {"quote": "落馬の相", "text": "{相|さう}: a sign or look that shows someone's fate, the word used in face reading. Shigemi uses the language of fortune-tellers. His reason turns out to be pure horsemanship."},
+    {"quote": "長じぬる一言", "text": "{長|ちやう}ず: 'to excel, to be a master'. A word from someone who has mastered a skill. Kenkō comes back to this idea often: people who know their craft see what others miss (compare section 150)."},
+    {"quote": "桃尻", "text": "{桃尻|ももじり}: 'peach bottom'. A peach does not sit still on its round end, so a rider with a 'peach bottom' slides about in the saddle (the 1925 edition: 'a seat that does not settle')."},
+    {"quote": "沛艾の馬", "text": "{沛艾|はいがい}: of a horse, wild and given to rearing up (the 1925 edition: 'a strong horse leaping up')."},
+    {"quote": "いつかは申し誤りたる", "text": "かは: a rhetorical question, 'when have I ever…? (Never.)' The section ends on the expert's own words."}
+  ]
+}

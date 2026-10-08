@@ -1,0 +1,32 @@
+{
+  "number": 140,
+  "title": "Leave nothing behind",
+  "translation": [
+    "Wise people don't leave property behind when they die. If it's junk you've been hoarding, it looks shabby. If it's good stuff, people will think you couldn't let go of it, and that's sad. And if there's a lot of it, that's even worse. People start saying \"That's mine\", and after you're gone they fight over it. It's ugly.",
+    "If you want someone to have something after you die, give it to them while you're still alive. Keep what you need every day. Apart from that, it's better to own nothing at all."
+  ],
+  "original": [
+    "{身|み}{死|し}して{財|たから}{残|のこ}ることは、{智者|ちしや}のせざるところなり。",
+    "よからぬもの{蓄|たくは}へおきたるも{拙|つたな}く、よきものは、{心|こころ}をとめけむとはかなし。",
+    "こちたく{多|おほ}かる、まして{口惜|くちを}し。",
+    "{我|われ}こそ{得|え}めなどいふものどもありて、あとに{争|あらそ}ひたる、{様|さま}{悪|あ}し。",
+    "{後|のち}には{誰|たれ}にと{志|こころざ}すものあらば、{生|い}けらむ{中|うち}にぞ{譲|ゆづ}るべき。",
+    "{朝夕|あさゆふ}なくて{協|かな}はざらむ{物|もの}こそあらめ、その{外|ほか}は{何|なに}も{持|も}たでぞあらまほしき。"
+  ],
+  "literal": [
+    "That property remains when one dies is something the wise do not do.",
+    "Having stored up bad things is also clumsy, and with good things, (people think) 'he must have been attached to them', which is pitiful.",
+    "Being excessively many is even more regrettable.",
+    "That there are people who say things like 'I shall get it', and they fight afterwards, is ugly.",
+    "If there is something one intends for someone afterwards, one should hand it over while alive.",
+    "Things without which one cannot manage morning and evening may be kept, but apart from them, one would like to have nothing at all."
+  ],
+  "notes": [
+    {"quote": "智者のせざるところなり", "text": "{智者|ちしや}: 'a wise person', in Buddhist writing someone who sees things as they are. The section is a short sermon against attachment to possessions, turned into practical advice."},
+    {"quote": "心をとめけむとはかなし", "text": "けむ: a guess about the past, 'he must have (been attached)'. The thought is that of the people who sort through the things. はかなし here: 'pitiful, a shame' (the 1925 edition: 'a pity')."},
+    {"quote": "我こそ得め", "text": "こそ … め: 'I am the one who should get it'. The heirs' words, quoted in their own grammar."},
+    {"quote": "様悪し", "text": "{様|さま}{悪|あ}し: 'ugly, unseemly', read さまあし. The 1925 edition gives the reading あ for 悪."},
+    {"quote": "生けらむ中にぞ譲るべき", "text": "{生|い}けらむ{中|うち}: 'while one is alive'. ら here is the old perfect り ('to be in the state of'), attached to {生|い}く 'to live'. ぞ … べき: ぞ needs the attributive form, so べし becomes べき."},
+    {"quote": "朝夕なくて協はざらむ物こそあらめ", "text": "こそ … め followed by a comma: 'although', as in section 1. {協|かな}ふ: 'to manage, to get by', usually written {叶|かな}ふ. The things you need every day are fine; the rest should go."}
+  ]
+}

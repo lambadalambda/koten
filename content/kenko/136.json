@@ -1,0 +1,35 @@
+{
+  "number": 136,
+  "title": "The character for salt",
+  "translation": [
+    "Atsushige, a court doctor, was in attendance on the late retired emperor when his meal was brought in. \"Ask me about any of the dishes being served,\" he said, \"how the name is written and what it's good for, and I'll tell you from memory. Then check me against the Chinese herbal. I won't get a single one wrong.\"",
+    "Just then the late Arifusa, the Palace Minister, came in. \"Let me take the chance to learn something,\" he said. \"First question: the character for 'salt'. Which radical does it have?\"",
+    "\"The earth radical, sir.\" That's the radical of the quick everyday form. The proper character has no earth in it at all.",
+    "\"Well, that shows us how much you know,\" said Arifusa. \"That will do. I don't need to hear any more.\"",
+    "The whole room roared with laughter, and Atsushige took himself off."
+  ],
+  "original": [
+    "{医師|くすし}あつしげ、{故|こ}{法皇|ほふわう}の{御前|ごぜん}に{候|さぶら}ひて、{供御|ぐご}の{参|まゐ}りけるに、「{今|いま}{参|まゐ}り{侍|はべ}る{供御|ぐご}のいろいろを、{文字|もじ}も{功能|くのう}も{尋|たづ}ね{下|くだ}されて、そらに{申|まう}しはべらば、{本草|ほんざう}に{御覧|ごらん}じあはせられ{侍|はべ}れかし。{一|ひと}つも{申|まう}し{誤|あやま}り{侍|はべ}らじ。」と{申|まう}しける{時|とき}しも、",
+    "{六条|ろくでう}{故|こ}{内府|だいふ}まゐり{給|たま}ひて、「{有房|ありふさ}ついでに{物|もの}{習|なら}ひ{侍|はべ}らむ。」とて、「まづ、しほといふ{文字|もじ}は、いづれの{偏|へん}にか{侍|はべ}らむ。」と{問|と}はれたりけるに、",
+    "「{土偏|どへん}に{候|さうらふ}。」と{申|まう}したりければ、",
+    "「{才|ざえ}のほど{既|すで}に{現|あら}はれにたり。{今|いま}はさばかりにて{候|さうら}へ、ゆかしきところなし。」と{申|まう}されけるに、",
+    "とよみになりて、{罷|まか}り{出|い}でにけり。"
+  ],
+  "literal": [
+    "The doctor Atsushige was serving before the late cloistered emperor, and when the meal was brought in, he said: 'If you ask me about the various dishes now being served, both their characters and their effects, and I tell you from memory, please check them against the herbal. I shall not make a single mistake', and just at that time,",
+    "the late Palace Minister of Rokujō came in and said, 'I, Arifusa, would like to learn something on this occasion', and asked, 'First, the character called shio (salt): which radical does it have?', and",
+    "when (Atsushige) said, 'It is the earth radical',",
+    "(Arifusa) said, 'The extent of your learning has already shown itself. Let that be enough for now; there is nothing more I want to know', at which",
+    "there was an uproar of laughter, and (Atsushige) withdrew."
+  ],
+  "notes": [
+    {"quote": "医師あつしげ", "text": "{医師|くすし}: 'doctor', the old Japanese word, from {薬|くすり}. Modern commentators usually take him to be Wake no Atsushige (和気篤成), head of the court's medical office. The 1925 edition does not identify him."},
+    {"quote": "故法皇", "text": "{法皇|ほふわう}: a retired emperor who has become a monk. The 1925 edition's note says this was Kazan, but Kazan died more than two hundred years before Arifusa was born. Commentators today usually take him to be Go-Uda, who became a monk in 1307 and died in 1324."},
+    {"quote": "そらに申しはべらば、本草に御覧じあはせられ侍れかし", "text": "そらに: 'from memory', as in modern {空|そら}で{言|い}う. {本草|ほんざう}: Chinese pharmacology, and the herbals that list plants, minerals and foods with their medical effects. Atsushige offers to be tested on all of it."},
+    {"quote": "六条故内府", "text": "Minamoto no Arifusa of the Rokujō family (1251–1319), Palace Minister ({内大臣|ないだいじん}, {内府|だいふ} for short). He calls himself by name, 有房, the polite way to speak of yourself before a retired emperor."},
+    {"quote": "しほといふ文字は、いづれの偏にか侍らむ", "text": "{偏|へん}: the left-hand part of a kanji, which often shows what kind of thing it is. The proper character for 'salt' is 鹽, which is listed under the 'salt' component 鹵 and has no 'earth' in it. The everyday shortened form 塩 has {土|つち} 'earth' on the left, and that is what Atsushige answered (so the 1925 edition explains). 塩 is the standard form today."},
+    {"quote": "才のほど既に現はれにたり", "text": "{才|ざえ}: learning, especially Chinese learning, as in section 1. One question was enough: a man who claims to know the Chinese herbal by heart does not know how to write 'salt'."},
+    {"quote": "ゆかしきところなし", "text": "ゆかし: 'want to know' (see section 52). Arifusa ends the test before it begins."},
+    {"quote": "とよみになりて", "text": "とよみ: 'a roar, an uproar', from とよむ 'to resound'. Here, of laughter."}
+  ]
+}

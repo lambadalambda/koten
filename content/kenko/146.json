@@ -1,0 +1,33 @@
+{
+  "number": 146,
+  "title": "The face reader's answer",
+  "translation": [
+    "Myōun, the head priest of Mount Hiei, once went to see a man who read faces. \"Is there any danger that I'll die by a weapon?\" he asked.",
+    "\"Yes, sir, you have the look.\"",
+    "\"What look?\"",
+    "\"You're a man who should have nothing to fear from weapons. And yet the thought came to you, and you asked. That alone is the sign of the danger.\"",
+    "And sure enough, he was killed by an arrow."
+  ],
+  "original": [
+    "{明雲|めいうん}{座主|ざす}、{相者|さうじや}に{逢|あ}ひ{給|たま}ひて、「{己|おのれ}{若|も}し{兵仗|ひやうぢやう}の{難|なん}やある。」と{尋|たづ}ねたまひければ、",
+    "{相人|さうにん}、「{実|まこと}にその{相|さう}おはします。」と{申|まう}す。",
+    "「いかなる{相|さう}ぞ。」と{尋|たづ}ね{給|たま}ひければ、",
+    "「{傷害|しやうがい}の{恐|おそ}れおはしますまじき{御身|おんみ}にて、{仮|かり}にもかく{思|おぼ}しよりて{尋|たづ}ね{給|たま}ふ。これ{既|すで}にそのあやぶみの{兆|きざし}なり。」と{申|まう}しけり。",
+    "はたして{矢|や}にあたりてうせ{給|たま}ひにけり。"
+  ],
+  "literal": [
+    "The abbot Myōun met a physiognomist and asked, 'Is there perhaps a danger of weapons for me?', and",
+    "the physiognomist said, 'Truly, you have that sign.'",
+    "When he asked, 'What kind of sign is it?',",
+    "(the physiognomist) said: 'Being a person who should have no fear of injury, you even so much as thought of this and asked. This is already the omen of that danger.'",
+    "Sure enough, he was struck by an arrow and died."
+  ],
+  "notes": [
+    {"quote": "明雲座主", "text": "Myōun (1115–1184), twice head ({座主|ざす}) of the Tendai school at Enryakuji on Mount Hiei, the great monastery north-east of Kyoto. He was killed when Kiso Yoshinaka's troops attacked Retired Emperor Go-Shirakawa's Hōjūji palace at the end of 1183 by the Japanese calendar."},
+    {"quote": "相者", "text": "{相者|さうじや}, also {相人|さうにん}: a physiognomist, someone who tells fortunes from a person's face and body ({相|さう}, as in section 145). The two sections are a pair: in both, an expert reads a sign, and in both the sign turns out to be a plain observation."},
+    {"quote": "兵仗の難", "text": "{兵仗|ひやうぢやう}: weapons. {難|なん}: a disaster. The 1925 edition: the sign of dying by a weapon."},
+    {"quote": "傷害の恐れおはしますまじき御身にて", "text": "まじ: 'should not'. A high priest has no reason to fear weapons. おはします: the face reader speaks to him with high respect."},
+    {"quote": "これ既にそのあやぶみの兆なり", "text": "The answer is a clever turn: asking the question is itself the omen. The text does not say whether the face reader saw more than that."},
+    {"quote": "はたして", "text": "はたして: 'sure enough, as predicted'. Modern Japanese still has the word."}
+  ]
+}

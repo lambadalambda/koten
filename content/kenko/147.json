@@ -1,0 +1,19 @@
+{
+  "number": 147,
+  "title": "Moxa and the gods",
+  "translation": [
+    "People say that if you've had a lot of moxa treatment, with little cones of herb burned on your skin in many places, you're unclean and can't take part in shrine rites. Someone came up with that only recently. It isn't in the old court rulebooks, I'm told."
+  ],
+  "original": [
+    "{灸治|きうぢ}あまた{所|ところ}になりぬれば{神事|じんじ}に{穢|けが}れありといふこと、{近|ちか}く{人|ひと}のいひ{出|いだ}せるなり、{格式|きやくしき}{等|など}にも{見|み}えずとぞ。"
+  ],
+  "literal": [
+    "The saying that when moxa treatment has come to many places there is defilement for Shinto rites is something people have recently started saying; they say it does not appear even in the codes and procedures and the like."
+  ],
+  "notes": [
+    {"quote": "灸治", "text": "{灸治|きうぢ}: moxibustion, a Chinese treatment in which small cones of dried mugwort ({艾|もぐさ}) are burned on particular points of the skin. It leaves small burn marks."},
+    {"quote": "神事に穢れあり", "text": "{穢|けがれ}: ritual impurity. Contact with death, birth or blood made a person unclean, and an unclean person had to keep away from the gods' rites for a set time. The new idea was that burns from moxa counted too."},
+    {"quote": "近く人のいひ出せるなり", "text": "{近|ちか}く: 'recently'. The point is that the rule is new."},
+    {"quote": "格式等にも見えず", "text": "{格式|きやくしき}: the supplementary laws ({格|きやく}) and detailed regulations ({式|しき}) of the court (the 1925 edition: 'books of laws and rules'). The best known is the Engishiki (927), which lists in detail what makes a person unclean and for how long. とぞ: 'so I am told'. Kenkō reports what he has heard: moxa is not in those books."}
+  ]
+}
