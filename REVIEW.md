@@ -68,3 +68,10 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 136: the doctor is Wake no Atsushige (modern commentators; the writer's Tanba claim was wrong); 故法皇: 1925 gloss Kazan (impossible), modern Go-Uda. Both from roudokus, not a printed commentary.
 - 145: Shigemi in Go-Uda's service: roudokus only.
 - 143: invented examples ("purple clouds, sweet smell") removed from the translation; the note explains typical signs.
+
+## 161–172
+- 172: the faults of youth are again all one young person's (the writer had spread them over several, which changed the point).
+- 171: 清献公 = Zhao Bian (modern) vs the 1925 gloss 趙禹 (very probably wrong); both in the note.
+- 170: べし read as "surely" ("We all have people we'd look at like that"); who has time on their hands is ambiguous.
+- 169: the collection date "probably around 1232" not checked against a printed source.
+- 171: 遠国 をんごく (the edition has both ゑんごく and をんごく in different sections).
