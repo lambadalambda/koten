@@ -35,6 +35,7 @@ class IterationTests(unittest.TestCase):
     def test_three_kana_units_use_overrides(self):
         self.assertEqual(clean('かへす{{〲}}口惜しき'), 'かへすがへす口惜しき')
         self.assertEqual(clean('あさな{{〱}}'), 'あさなあさな')
+        self.assertEqual(clean('おどろ{{〱}}しく'), 'おどろおどろしく')
 
     def test_mark_after_non_kana_is_an_error(self):
         with self.assertRaises(ValueError):

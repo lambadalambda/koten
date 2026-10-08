@@ -37,7 +37,7 @@ SHINJITAI = str.maketrans(
 
 ITERATION = {'〲': '〴〵', '〱': '〳〵'}
 # Places where the general rules give the wrong result (checked against a second transcription).
-OVERRIDES = {'かへす〴〵': 'かへすがへす', 'あさな〳〵': 'あさなあさな', 'はつれ〳〵': 'はつれはつれ', 'ずゝ': 'ずず'}
+OVERRIDES = {'かへす〴〵': 'かへすがへす', 'あさな〳〵': 'あさなあさな', 'はつれ〳〵': 'はつれはつれ', 'おどろ〳〵': 'おどろおどろ', 'ずゝ': 'ずず'}
 TEMPLATE = re.compile(r'\{\{([^{}|]*)(?:\|([^{}|]*)\|([^{}|]*))?\}\}')
 
 
