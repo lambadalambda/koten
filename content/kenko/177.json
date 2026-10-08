@@ -1,0 +1,34 @@
+{
+  "number": 177,
+  "title": "Sawdust",
+  "translation": [
+    "At the prince's palace in Kamakura there was going to be a game of kickball, but it had rained and the ground still wasn't dry. While everyone was discussing what to do, a man called Sasaki sent over a whole cartload of sawdust. They spread it all over the court, and the mud was no longer a problem. Everyone was impressed. \"Fancy him having saved all that, just in case.\"",
+    "Someone was telling this story once, and Lord Yoshida said, \"Didn't they have any dry sand ready?\" I felt rather embarrassed. The sawdust we'd all thought so clever was a cheap, odd thing to use. Whoever is in charge of the grounds is supposed to keep dry sand ready. That's how it has always been done, apparently."
+  ],
+  "original": [
+    "{鎌倉|かまくら}の{中書王|ちゆうしよわう}にて{御|おん}{鞠|まり}ありけるに、{雨|あめ}ふりて{後|のち}{未|いま}だ{庭|には}の{乾|かわ}かざりければ、いかがせむと{沙汰|さた}ありけるに、",
+    "{佐々木|ささき}{隠岐入道|おきのにふだう}、{鋸|のこぎり}の{屑|くづ}を{車|くるま}に{積|つ}みておほく{奉|たてまつ}りたりければ、{一庭|ひとには}に{敷|し}かれて、{泥土|でいど}のわづらひ{無|な}かりけり。",
+    "「とりためけむ{用意|ようい}ありがたし。」と{人|ひと}{感|かん}じあへりけり。",
+    "この{事|こと}をある{者|もの}の{語|かた}り{出|い}でたりしに、{吉田中納言|よしだのちゆうなごん}の、「{乾|かわ}き{砂子|すなご}の{用意|ようい}やはなかりける。」とのたまひたりしかば、{恥|はづか}しかりき。",
+    "いみじと{思|おも}ひける{鋸|のこぎり}の{屑|くづ}、{賤|いや}しく{異様|ことやう}のことなり。",
+    "{庭|には}の{儀|ぎ}を{奉行|ぶぎやう}する{人|ひと}、{乾|かわ}き{砂子|すなご}をまうくるは、{故実|こじつ}なりとぞ。"
+  ],
+  "literal": [
+    "When there was a kickball game at the Prince of the Central Affairs Ministry's in Kamakura, after it had rained the garden had not yet dried, so there was discussion of what to do;",
+    "Sasaki, the lay monk of Oki, loaded sawdust on a cart and presented a great deal of it, so it was spread over the whole garden, and there was no trouble with mud.",
+    "'The forethought of having collected it is rare', people admired together.",
+    "When someone told this story, the Yoshida Middle Counsellor said, 'Was there no provision of dry sand?', and I was ashamed.",
+    "The sawdust that (we) had thought splendid was a lowly and odd thing.",
+    "That the person in charge of the garden ceremonies provides dry sand is established precedent, they say."
+  ],
+  "notes": [
+    {"quote": "鎌倉の中書王", "text": "{中書王|ちゆうしよわう}: Chinese-style title for a prince who headed the Ministry of Central Affairs. The 1925 edition identifies him as Prince Munetaka (1242–1274), a son of Emperor Go-Saga, who was sent to Kamakura as shogun."},
+    {"quote": "御鞠", "text": "{鞠|まり}: kemari, the court game of keeping a deerskin ball in the air with the feet, played on a special court. The edition reads {御|おん}."},
+    {"quote": "佐々木隠岐入道", "text": "A warrior of the Sasaki family and former governor of Oki. The 1925 edition names him Masayoshi. {入道|にふだう}: a man who has taken Buddhist vows but goes on living in the world."},
+    {"quote": "とりためけむ用意ありがたし", "text": "{用意|ようい}: 'forethought, care taken in advance', not just 'ready' as in modern Japanese. けむ: a guess about the past, 'he must have collected it'. ありがたし: 'rare', so 'admirable'."},
+    {"quote": "吉田中納言", "text": "The 1925 edition identifies him as Fujiwara no Fujifusa. Modern commentaries often leave him unidentified. The text only gives the house name and the rank."},
+    {"quote": "乾き砂子の用意やはなかりける", "text": "やは: a rhetorical question, 'was there no…?' The point is that dry sand was the proper thing, and everyone had missed it."},
+    {"quote": "恥しかりき", "text": "き: past tense for what the writer saw or felt himself. Kenkō was in the room when Yoshida spoke. The 1925 edition explains the embarrassment: he had not known the precedent either."},
+    {"quote": "故実なりとぞ", "text": "{故実|こじつ}: established precedent, the old correct way of doing things. Compare section 33, where an old woman remembers a window better than the experts."}
+  ]
+}

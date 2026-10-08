@@ -1,0 +1,30 @@
+{
+  "number": 181,
+  "title": "Fall, fall, powder snow",
+  "translation": [
+    "A man who knew about such things once told me: \"In the children's rhyme 'Fall, fall, powder snow, Tanba powder snow', it's called powder snow because it looks like rice that's been pounded and sifted into flour. The second part should be 'pile up, powder snow'. People get it wrong and sing 'Tanba', like the province. And the next line should be 'on the fences and in the forks of the trees'.\"",
+    "Maybe people have been saying it for a long time. One of the court ladies wrote in her diary that Emperor Toba, when he was a little boy, said it while the snow was falling."
+  ],
+  "original": [
+    "「{降|ふ}れ{降|ふ}れ{粉雪|こゆき}、たんばの{粉雪|こゆき}といふ{事|こと}、{米|よね}{搗|つ}き{篩|ふる}ひたるに{似|に}たれば{粉雪|こゆき}といふ。",
+    "たまれ{粉雪|こゆき}といふべきを、{誤|あやま}りて『たんばの』とは{言|い}ふなり。",
+    "{垣|かき}や{木|き}の{股|また}にとうたふべし。」と{或|ある}ものしり{申|まう}しき。",
+    "{昔|むかし}よりいひけることにや。",
+    "{鳥羽院|とばのゐん}をさなくおはしまして、{雪|ゆき}の{降|ふ}るにかく{仰|おほ}せられけるよし、{讃岐典侍|さぬきのすけ}が{日記|にき}に{書|か}きたり。"
+  ],
+  "literal": [
+    "'As for saying \"Fall, fall, powder snow, Tanba's powder snow\", it is called powder snow because it resembles rice that has been pounded and sifted.",
+    "It should be said \"pile up, powder snow\", but by mistake they say \"Tanba's\".",
+    "One should sing \"on the fences and in the forks of trees\"', a certain knowledgeable person said.",
+    "Is it something people have said since long ago?",
+    "That Retired Emperor Toba, when he was young, said this when the snow was falling is written in the diary of Sanuki no Suke."
+  ],
+  "notes": [
+    {"quote": "降れ降れ粉雪", "text": "{降|ふ}れ: the imperative, 'fall!'. The rhyme is something said or sung to the snow. {粉雪|こゆき}: 'powder snow', fine dry snow. Modern Japanese reads the same kanji こなゆき or こゆき."},
+    {"quote": "米搗き篩ひたる", "text": "Rice pounded in a mortar and then sifted: rice flour. That is the expert's explanation of the word 'powder'."},
+    {"quote": "たまれ粉雪といふべきを", "text": "The wordplay: たまれ 'pile up!' against たんば, which sounds like Tanba, a province west of Kyoto. The expert says たんば is a corruption of たまれ. The text does not say whether he was right."},
+    {"quote": "或ものしり申しき", "text": "ものしり: 'someone who knows things', still used today ({物知|ものし}り). き: Kenkō heard him say it."},
+    {"quote": "鳥羽院", "text": "Emperor Toba (1103–1156). He came to the throne in 1107 as a small child; {院|ゐん} is the title he had later, as a retired emperor. The edition reads とばのゐん."},
+    {"quote": "讃岐典侍が日記", "text": "The diary of a court lady known as Sanuki no Suke, who served Emperor Horikawa and, after his death in 1107, his young son Toba. The 1925 edition calls it the diary of a lady of Horikawa's court. Kenkō's 'since long ago' rests on it: the rhyme was already in use more than two hundred years before his time."}
+  ]
+}

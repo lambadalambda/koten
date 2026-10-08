@@ -1,0 +1,32 @@
+{
+  "number": 174,
+  "title": "Big hawks",
+  "translation": [
+    "They say a dog that's good at hunting quail with the small hawks gets worse at it once you've used it for pheasants with the big ones. Go after the big thing and you lose the small one. That's exactly how it works.",
+    "People spend their lives on all sorts of things, but nothing goes as deep as loving the Way. That's what really matters. Once you've heard the Way and set your heart on it, what wouldn't you let go? What else would you even bother with? A fool should have as much sense as a good dog."
+  ],
+  "original": [
+    "{小鷹|こたか}によき{犬|いぬ}、{大鷹|おほたか}に{使|つか}ひぬれば、{小鷹|こたか}に{悪|わる}くなるといふ。",
+    "{大|だい}に{就|つ}き{小|せう}を{捨|す}つる{理|ことわり}まことにしかなり。",
+    "{人事|じんじ}{多|おほ}かる{中|なか}に、{道|みち}を{楽|たの}しむより{気味|きみ}{深|ふか}きはなし。",
+    "これ{実|まこと}の{大事|だいじ}なり。",
+    "{一|ひと}たび{道|みち}を{聞|き}きて、これに{志|こころざ}さむ{人|ひと}、{孰|いづ}れの{業|わざ}かすたれざらむ、{何事|なにごと}をか{営|いとな}まむ。",
+    "{愚|おろ}かなる{人|ひと}といふとも、{賢|かしこ}き{犬|いぬ}の{心|こころ}に{劣|おと}らむや。"
+  ],
+  "literal": [
+    "A dog good for small hawks, once used for big hawks, becomes bad for small hawks, they say.",
+    "The principle of taking up the big and discarding the small is truly so.",
+    "Among the many human affairs, nothing has a deeper taste than delighting in the Way.",
+    "This is the true great matter.",
+    "A person who once hears the Way and sets his heart on it: what occupation would he not let lapse, what would he busy himself with?",
+    "Even if he is a foolish person, would he be inferior to the mind of a clever dog?"
+  ],
+  "notes": [
+    {"quote": "小鷹によき犬、大鷹に使ひぬれば", "text": "Falconry with dogs: the dog flushes the game and the hawk takes it. The 1925 edition explains: {小鷹|こたか} are small hawks used for small birds like snipe and quail, {大鷹|おほたか} big hawks used for pheasants. A dog trained for the big hunt loses its feel for the small one."},
+    {"quote": "大に就き小を捨つる理", "text": "{大|だい}に{就|つ}き{小|せう}を{捨|す}つ: 'take up the big, drop the small', in the style of a Chinese saying. {理|ことわり}: 'reason, principle'."},
+    {"quote": "人事多かる中に", "text": "A false friend: {人事|じんじ} here means 'human affairs, the things people do'. Modern {人事|じんじ} is 'personnel', the HR department. The edition gives the reading じんじ; section 175 uses the same kanji as ひとごと, 'someone else's business'."},
+    {"quote": "道を楽しむより気味深きはなし", "text": "{道|みち}: the Buddhist Way. {気味|きみ}: 'taste, flavour'. Modern {気味|きみ} has moved to 'feeling, tendency', as in {気味|きみ}が{悪|わる}い, 'creepy'."},
+    {"quote": "孰れの業かすたれざらむ、何事をか営まむ", "text": "Two rhetorical questions with か … む: 'what work would not lapse? what would he bother with?' Both mean: everything else falls away, and that is fine."},
+    {"quote": "賢き犬の心に劣らむや", "text": "や: one more rhetorical question, 'would he be worse than a dog? (No.)'. The section ends by going back to the dog from the first line."}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 179,
+  "title": "Which way the gate faced",
+  "translation": [
+    "The priest Dōgen, who had studied in China, brought back a complete set of the Buddhist scriptures. He housed them at a place called Yakeno, near Rokuhara, gave lectures there, above all on the Shurangama Sutra, and called the temple Nalanda, after the great monastery in India.",
+    "He once said: \"There's a story going round, said to come from Ōe no Masafusa, that the main gate at Nalanda faces north. But it isn't in the travel records of the Chinese monks who went to India, or anywhere else I know of. What did Masafusa base it on? I have my doubts. Now the Ximing temple in China faces north, of course.\""
+  ],
+  "original": [
+    "{入宋|につそう}の{沙門|しやもん}{道眼上人|だうげんしやうにん}、{一切経|いつさいきやう}を{持来|ぢらい}して、{六波羅|ろくはら}のあたり、{焼野|やけの}といふ{所|ところ}に{安置|あんち}して、{殊|こと}に{首楞厳経|しゆれうごんきやう}を{講|かう}じて、{那蘭陀寺|ならんだじ}と{号|がう}す。",
+    "その{聖|ひじり}の{申|まう}されしは、「{那蘭陀寺|ならんだじ}は{大門|だいもん}{北|きた}むきなりと、{江帥|かうそち}の{説|せつ}とていひ{伝|つた}へたれど、{西域|さいゐき}{伝|でん}、{法顕|ほふけん}{伝|でん}などにも{見|み}えず、{更|さら}に{所見|しよけん}なし。",
+    "{江帥|かうそち}はいかなる{才覚|さいかく}にてか{申|まう}されけむ、おぼつかなし。",
+    "{唐土|もろこし}の{西明寺|さいみやうじ}は{北向|きたむ}き{勿論|もちろん}なり。」と{申|まう}しき。"
+  ],
+  "literal": [
+    "The monk, Holy Man Dōgen, who had gone to Song China, brought back the complete scriptures, installed them at a place called Yakeno in the area of Rokuhara, lectured especially on the Shurangama Sutra, and named it Nalanda Temple.",
+    "What that holy man said: 'It has been handed down as the theory of the Governor Ōe that the main gate of Nalanda Temple faces north, but it does not appear in the Records of the Western Regions, Faxian's Record and the like, and there is no evidence at all.",
+    "On what knowledge the Governor Ōe said it, I cannot tell.",
+    "The Ximing Temple in China faces north, of course', he said."
+  ],
+  "notes": [
+    {"quote": "入宋の沙門道眼上人", "text": "{入宋|につそう}: 'having gone to Song China' (the Song dynasty, 960–1279). Modern commentaries date this Dōgen's trip to about 1309, under the Yuan, so here it simply means 'went to China'. {沙門|しやもん}: a monk. The 1925 edition says nothing is known about this Dōgen. He is not Dōgen the Zen master, whose name is written 道元."},
+    {"quote": "一切経", "text": "{一切経|いつさいきやう}: 'all the sutras', the complete Buddhist canon, thousands of scrolls. Bringing a set back from China was a major undertaking."},
+    {"quote": "六波羅", "text": "An area in eastern Kyoto, by the Kamo river. In Kenkō's time it was the seat of the Kamakura shogunate's officials in the capital."},
+    {"quote": "首楞厳経", "text": "The Shurangama Sutra ({首楞厳経|しゆれうごんきやう}), a Mahayana sutra much read in China. The 1925 edition gives another title for it that names the Nalanda monastery, which may explain the temple's name."},
+    {"quote": "那蘭陀寺", "text": "Nālandā, the great Buddhist monastery and centre of learning in north-eastern India, where Chinese pilgrims came to study."},
+    {"quote": "江帥", "text": "Ōe no Masafusa (1041–1111), a leading scholar of his day. He was called {江帥|かうそち} because he served as acting governor-general of Dazaifu ({大宰権帥|だざいのごんのそち}), as the edition notes: 江 for Ōe, 帥 for the post. The 1925 edition gives the reading かうそち."},
+    {"quote": "西域伝、法顕伝", "text": "The two classic accounts of Chinese monks who travelled to India: the Records of the Western Regions by Xuanzang (seventh century) and the record of Faxian (early fifth century), as the 1925 edition explains. Both describe Indian monasteries, so if the gate faced north, they would be the place to look."},
+    {"quote": "唐土の西明寺は北向き勿論なり", "text": "The Ximing temple ({西明寺|さいみやうじ}) was a famous monastery in Chang'an, the Tang capital. One modern commentary traces Masafusa's claim to an anecdote in which he named Nalanda and the Ximing temple, among others, as temples whose main gate faced north. Dōgen doubts the Nalanda part and accepts the Ximing part."},
+    {"quote": "と申しき", "text": "き: Kenkō heard Dōgen say this himself."}
+  ]
+}

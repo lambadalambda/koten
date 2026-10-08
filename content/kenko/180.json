@@ -1,0 +1,22 @@
+{
+  "number": 180,
+  "title": "The New Year bonfire",
+  "translation": [
+    "Sagichō is a bonfire. The mallets from the New Year ball games are carried out of the Buddhist hall in the palace grounds to the Shinsen'en garden, and burned there. When the crowd chants about \"the pond where the prayers came true\", it's the pond in that garden they mean."
+  ],
+  "original": [
+    "さぎちやうは、{正月|むつき}に{打|う}ちたる{毬杖|ぎぢやう}を、{真言院|しんごんゐん}より{神泉苑|しんぜんゑん}へ{出|いだ}して{焼|や}きあぐるなり。",
+    "{法成就|ほふじやうじゆ}の{池|いけ}にこそと{囃|はや}すは、{神泉苑|しんぜんゑん}の{池|いけ}をいふなり。"
+  ],
+  "literal": [
+    "Sagichō is taking the mallets that were hit with in the first month out from the Shingon-in to the Shinsen'en and burning them up.",
+    "That they chant 'at the pond of Hōjōju', that means the pond of the Shinsen'en."
+  ],
+  "notes": [
+    {"quote": "さぎちやう", "text": "Sagichō, later usually written 左義長: a fire festival in the middle of the first month. The 1925 edition describes it as a rite for driving away evil, held on the fifteenth day, with green bamboo burned in the east garden of the Seiryōden. New Year bonfires of this kind are still held across Japan, often under the name どんど{焼|や}き."},
+    {"quote": "正月に打ちたる毬杖", "text": "{毬杖|ぎぢやう}: a mallet for a New Year ball game, played by hitting a ball across the ground. The edition calls it a children's game. The edition reads {正月|むつき} here, the old native name of the first month."},
+    {"quote": "真言院", "text": "{真言院|しんごんゐん}: a hall inside the Greater Palace grounds for Shingon Buddhist rites, held there for the emperor's well-being."},
+    {"quote": "神泉苑", "text": "{神泉苑|しんぜんゑん}: an imperial garden with a large pond just south of the palace. A small part of it survives in Kyoto today."},
+    {"quote": "法成就の池", "text": "{法成就|ほふじやうじゆ}: 'the rite succeeded'. According to legend, Kūkai prayed for rain at the Shinsen'en pond, and the rain came. The 1925 edition says the words were part of the song sung at the bonfire. こそ with no verb after it: the rest of the line is left out."}
+  ]
+}

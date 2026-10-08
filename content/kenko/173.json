@@ -1,0 +1,29 @@
+{
+  "number": 173,
+  "title": "Komachi in old age",
+  "translation": [
+    "Nobody really knows much about Ono no Komachi. What became of her once she was old is described in a piece called Tamatsukuri. Some say Miyoshi no Kiyoyuki wrote it, but it's on the list of Kūkai's works, and Kūkai died in 835. Wasn't Komachi young and beautiful after that? I'm still not sure."
+  ],
+  "original": [
+    "{小野小町|をののこまち}がこと、{極|きは}めてさだかならず。",
+    "{衰|おとろ}へたるさまは、{玉造|たまつくり}といふ{文|ふみ}に{見|み}えたり。",
+    "この{文|ふみ}{清行|きよゆき}が{書|か}けりといふ{説|せつ}あれど、{高野大師|かうやだいし}の{御作|おんさく}の{目録|もくろく}に{入|い}れり。",
+    "{大師|だいし}は{承和|じようわ}のはじめにかくれ{給|たま}へり。",
+    "{小町|こまち}が{盛|さか}りなる{事|こと}、その{後|のち}のことにや、なほおぼつかなし。"
+  ],
+  "literal": [
+    "About Ono no Komachi, things are extremely uncertain.",
+    "Her state of decline appears in a text called Tamatsukuri.",
+    "There is a theory that Kiyoyuki wrote this text, but it is included in the catalogue of the Kōya Master's works.",
+    "The Master passed away at the beginning of the Jōwa era.",
+    "Komachi's prime: was it not after that? It is still unclear."
+  ],
+  "notes": [
+    {"quote": "小野小町", "text": "Ono no Komachi, a poet active in the middle of the ninth century, one of the six poets named in the preface of the Kokinshū (905). Very little is known about her life. Legends made her the great beauty of her age, and other legends had her end up old, poor and alone."},
+    {"quote": "玉造といふ文", "text": "The text meant is the {玉造小町子壮衰書|たまつくりこまちしさうすいしよ} (the 1925 edition writes the title without 子), a text in Chinese about a woman who was once rich and beautiful and ends up an old beggar. It was read as the story of Komachi's old age, which is what Kenkō has in mind here. Modern commentaries point out that the text never makes clear the woman is Komachi."},
+    {"quote": "清行", "text": "Miyoshi no Kiyoyuki (847–918), a scholar of Chinese learning. The edition gives the reading きよゆき."},
+    {"quote": "高野大師の御作の目録", "text": "{高野大師|かうやだいし}: Kūkai (774–835), also called Kōbō Daishi, who founded the Shingon monastery on Mount Kōya. The text was traditionally listed among his works. The edition reads {御作|おんさく}."},
+    {"quote": "承和のはじめにかくれ給へり", "text": "{承和|じようわ}: the era from 834 to 848. Kūkai died in 835. かくる, 'to hide', is a polite way to say that a great person died."},
+    {"quote": "その後のことにや", "text": "にや: 'is it perhaps…?', with あらむ left out. Kenkō's argument in one line: if Komachi was young after Kūkai's death, Kūkai could not have written about her old age. He leaves it as a doubt (おぼつかなし, 'unclear') and does not decide."}
+  ]
+}

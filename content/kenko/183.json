@@ -1,0 +1,26 @@
+{
+  "number": 183,
+  "title": "Animals that bite",
+  "translation": [
+    "A bull that gores people has its horns cut, and a horse that bites has its ears cut, as a warning. If the owner doesn't mark the animal and it hurts someone, that's the owner's fault. Don't keep a dog that bites. All of this is punishable. It's in the law."
+  ],
+  "original": [
+    "{人|ひと}{突|つ}く{牛|うし}をば{角|つの}を{切|き}り、{人|ひと}くふ{馬|うま}をば{耳|みみ}を{切|き}りてそのしるしとす。",
+    "しるしをつけずして{人|ひと}をやぶらせぬるは、{主|ぬし}の{科|とが}なり。",
+    "{人|ひと}くふ{犬|いぬ}をば{養|やしな}ひ{飼|か}ふべからず。",
+    "これみな{科|とが}あり、{律|りつ}の{禁|いましめ}なり。"
+  ],
+  "literal": [
+    "For an ox that gores people, its horns are cut, and for a horse that bites people, its ears are cut, and this is made the mark.",
+    "Letting it injure people without putting a mark on it is the owner's fault.",
+    "A dog that bites people must not be raised and kept.",
+    "These all carry a penalty; it is a prohibition of the penal code."
+  ],
+  "notes": [
+    {"quote": "人くふ馬", "text": "くふ: 'to eat', here 'to bite'. Modern Japanese still says {食|く}う for an animal biting, as in {犬|いぬ}に{食|く}われる."},
+    {"quote": "そのしるしとす", "text": "The cut horn or ear is a visible mark, so that people know to keep away from the animal."},
+    {"quote": "人をやぶらせぬるは", "text": "やぶる: 'to break, to injure'. The causative せ makes the owner the one responsible: he 'let it injure' people."},
+    {"quote": "主の科なり", "text": "{主|ぬし}: owner. {科|とが}: fault, offence, the thing you are punished for."},
+    {"quote": "律の禁なり", "text": "{律|りつ}: the penal code of the old legal system, the system of the seventh and eighth centuries modelled on Tang Chinese law. Modern commentaries trace the horn and ear marks to the administrative code ({令|りやう}) and the ban on biting dogs to the penal code. Tang law has similar rules on animals that gore, kick or bite."}
+  ]
+}

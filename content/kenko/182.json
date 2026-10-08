@@ -1,0 +1,28 @@
+{
+  "number": 182,
+  "title": "Dried salmon",
+  "translation": [
+    "Shijō Takachika once had dried salmon served at the emperor's table. Someone said, \"You can't serve His Majesty something as common as that.\" Takachika heard about it and said: \"If His Majesty didn't eat salmon, fair enough. But what's wrong with salmon dried plain? He eats plain dried sweetfish, doesn't he?\""
+  ],
+  "original": [
+    "{四条大納言|しでうのだいなごん}{隆親卿|たかちかのきやう}、{乾鮭|からざけ}といふものを{供御|ぐご}に{参|まゐ}らせられたりけるを、「かく{怪|あや}しきもの{参|まゐ}るやうあらじ。」と{人|ひと}の{申|まう}しけるを{聞|き}きて、",
+    "{大納言|だいなごん}、「{鮭|さけ}といふ{魚|うを}まゐらぬことにてあらむにこそあれ。",
+    "{鮭|さけ}の{素干|しらぼし}なでふことかあらむ。",
+    "{鮎|あゆ}の{素干|しらぼし}はまゐらぬかは。」と{申|まう}されけり。"
+  ],
+  "literal": [
+    "Lord Takachika, the Shijō Major Counsellor, had a thing called dried salmon served for the emperor's meal; hearing someone say, 'There can be no way that such a lowly thing is eaten (by the emperor)',",
+    "the Major Counsellor said, 'If salmon were a fish that is not eaten (by him), then it would be so.",
+    "What could be wrong with salmon dried plain?",
+    "Is sweetfish dried plain not eaten (by him)?'"
+  ],
+  "notes": [
+    {"quote": "四条大納言隆親卿", "text": "Fujiwara no Takachika of the Shijō house, a major counsellor in the thirteenth century. The 1925 edition notes that he was the son of Takahira."},
+    {"quote": "乾鮭", "text": "{乾鮭|からざけ}: salmon gutted and dried whole. Salmon came from the north and east, and dried salmon counted as plain, everyday food."},
+    {"quote": "供御", "text": "{供御|ぐご}: the emperor's meals."},
+    {"quote": "参らせられたりける", "text": "Two meanings of the same verb in one story. {参|まゐ}らす: 'to serve, to offer' (humble, towards the emperor). {参|まゐ}る without す: 'to eat' (respectful, of the emperor). The objection and Takachika's answer both turn on whether His Majesty 'eats' it."},
+    {"quote": "まゐらぬことにてあらむにこそあれ", "text": "む … にこそあれ: 'if it were…, then (you would have a point)'. He grants the objection only for a case that does not exist."},
+    {"quote": "素干", "text": "{素干|しらぼし}: dried without salt. Sweetfish ({鮎|あゆ}), a small river fish, was a delicacy, and served dried the same way."},
+    {"quote": "なでふことかあらむ", "text": "なでふ: 'what kind of', from なにといふ. かは in the next line: another rhetorical question. Two in a row, and the argument is over."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 176,
+  "title": "The Black Door",
+  "translation": [
+    "The Black Door room is where Emperor Kōkō, after he came to the throne, kept doing the humble little jobs he'd done for himself back when he was just an ordinary noble. He never forgot those days. Supposedly the smoke from his firewood blackened the doors, and that's where the name comes from."
+  ],
+  "original": [
+    "{黒戸|くろど}は、{小松|こまつ}の{御門|みかど}{位|くらゐ}に{即|つ}かせ{給|たま}ひて、{昔|むかし}{唯人|ただびと}に{坐|おはしま}しし{時|とき}、まさな{事|ごと}せさせ{給|たま}ひしを{忘|わす}れ{給|たま}はで{常|つね}に{営|いとな}ませ{給|たま}ひける{間|ま}なり。",
+    "{御薪|みかまぎ}に{煤|すす}けたれば{黒戸|くろど}といふとぞ。"
+  ],
+  "literal": [
+    "The Black Door is the room where the Komatsu emperor, after ascending the throne, not forgetting the unseemly things he had done in the past when he was an ordinary person, always did them.",
+    "Because it was sooted by the august firewood, it is called the Black Door, they say."
+  ],
+  "notes": [
+    {"quote": "黒戸", "text": "{黒戸|くろど}: a room in the palace. The 1925 edition places it north of the Seiryōden, the emperor's living quarters."},
+    {"quote": "小松の御門", "text": "Emperor Kōkō (830–887). He is called 'the Komatsu emperor' after the place of his tomb, as the edition notes. He came to the throne in 884, in his fifties, when the regent Fujiwara no Mototsune chose him to replace Emperor Yōzei."},
+    {"quote": "唯人に坐しし時", "text": "{唯人|ただびと}: an ordinary person, here a noble who is not emperor. The edition reads ただびと; section 1 has the older form ただうど. {坐|おはしま}しし: おはします 'to be' (very respectful) + し, the attributive of the past き."},
+    {"quote": "まさな事", "text": "まさなし: 'improper, not fitting (for one's rank)'. The text does not say what he did. Commentators usually take it as cooking, which fits the firewood and the soot. The translation keeps it general."},
+    {"quote": "御薪に煤けたれば", "text": "{御薪|みかまぎ}: the edition's reading. The respectful 御 is used even for the emperor's firewood. とぞ at the end: 'so they say'."}
+  ]
+}

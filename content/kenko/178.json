@@ -1,0 +1,25 @@
+{
+  "number": 178,
+  "title": "The wrong sword",
+  "translation": [
+    "Some retainers from one of the great houses had watched the sacred dances at the palace shrine, and they were telling people about it: \"And the holy sword was carried by so-and-so.\" One of the ladies who served in the palace heard this and said, very quietly, \"When His Majesty goes to another hall, it's the sword from his day room that they carry.\" Nicely done. She was one of the senior ladies, I'm told, and had been there for years."
+  ],
+  "original": [
+    "ある{所|ところ}の{侍|さぶらひ}ども、{内侍所|ないしどころ}の{御|み}{神楽|かぐら}を{見|み}て{人|ひと}に{語|かた}るとて、「{宝剣|ほうけん}をばその{人|ひと}ぞ{持|も}ち{給|たま}へる。」などいふを{聞|き}きて、",
+    "{内裏|だいり}なる{女房|にようばう}の{中|なか}に、「{別殿|べつでん}の{行幸|ぎやうかう}には、{昼御座|ひのござ}の{御剣|ぎよけん}にてこそあれ。」と{忍|しの}びやかにいひたりし、{心憎|こころにく}かりき。",
+    "その{人|ひと}、ふるき{典侍|ないしのすけ}なりけるとかや。"
+  ],
+  "literal": [
+    "Hearing the retainers of a certain house, who had seen the sacred dances of the Naishidokoro, say while telling others about it things like 'The sacred sword was carried by such-and-such a person',",
+    "one among the court ladies in the palace said quietly, 'For an imperial visit to a separate hall, it is the sword of the Daytime Seat': that was admirable.",
+    "That person was an old senior lady-in-waiting, it seems."
+  ],
+  "notes": [
+    {"quote": "侍", "text": "{侍|さぶらひ}: here a retainer serving a noble house, not yet the warrior class of later centuries. The word comes from さぶらふ, 'to serve'."},
+    {"quote": "内侍所の御神楽", "text": "The {内侍所|ないしどころ} was the hall in the palace where the sacred mirror, one of the three imperial regalia, was kept, in the care of the palace ladies. Sacred dances ({神楽|かぐら}) were performed there every year, and the emperor attended. The edition reads {御|み}."},
+    {"quote": "宝剣", "text": "{宝剣|ほうけん}: the sacred sword, another of the three regalia. The 1925 edition names it Ame no Murakumo, the sword also known as Kusanagi."},
+    {"quote": "昼御座の御剣", "text": "{昼御座|ひのござ}: the emperor's daytime seat in the Seiryōden, his living quarters. A sword was kept there for him. Her point: when the emperor goes to another hall, as for these dances, that everyday sword goes with him, not the sacred one. The retainers had the wrong sword."},
+    {"quote": "心憎かりき", "text": "{心憎|こころにく}し: 'impressive, admirably refined' (see section 150). き: Kenkō reports this as something he witnessed. Part of what impresses him is that she said it quietly."},
+    {"quote": "典侍", "text": "{典侍|ないしのすけ}: one of the senior ranks of palace ladies. ふるき: 'old, long-serving'. とかや: 'I hear', a soft hedge."}
+  ]
+}
