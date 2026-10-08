@@ -87,3 +87,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 205: the "Great Teacher" is Jie/Ryōgen (1925 edition) or Saichō (roudokus); translation neutral.
 - 206: two sources given for the closing saying (Qianjin fang / Yijian zhi); seat height follows the edition.
 - 202: 祭月 さいげつ (from roudokus); Ise vs Izumo: some think Kenkō mixed them up.
+
+## 185–196
+- 190: さばかりにこそ read as a jab at the woman ("And she can't be all that much either"), the majority reading.
+- 195: "Jizō" in the text replaced by "a statue of a Buddhist saint"; the note names Jizō.
+- 196: "the chancellor" is anachronistic for the story (Sadazane became chancellor in 1301); a note says so. The 1279 Iwashimizu theory and the Saikyūki claim: roudokus only.
+- 185: the edition's 舅 (father-in-law) is correct by adoption; Yasumori was Tokimune's brother-in-law by birth.
