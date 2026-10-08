@@ -1,0 +1,47 @@
+{
+  "number": 171,
+  "title": "What's right in front of you",
+  "translation": [
+    "In the shell-matching game, where you look for the other half of each clam shell, some players ignore the shells right in front of them. They look all around, even at the ones by other people's sleeves and under their knees, and while they're busy with that, someone else takes the ones in front of them. Good players don't seem to stretch for shells far away. They seem to cover only the ones near them, and they end up with the most.",
+    "Or put a stone on the corner of a go board and flick another one at it. If you keep your eyes on the target, you'll miss. Look carefully at your own hand, flick straight along the line of the mark right in front of you, and you'll hit it every time.",
+    "With anything, don't go looking out there. Just get things right where you are. A Chinese statesman put it this way: \"Do good, and don't ask where it will lead.\"",
+    "Running a country is probably the same. If you're careless at home, frivolous and self-indulgent, and let things slide, the far provinces will rise up, and only then will you start looking for a plan. It's like the medical book says: \"Sitting in a draught and sleeping on damp ground, then praying to the gods to cure you: that's foolish.\" Ease the troubles of the people right in front of you, look after them and govern them properly, and the good effect will spread far. Careless rulers never see that. The ancient king Yu marched against the Miao people, but calling his army home and ruling with kindness worked better."
+  ],
+  "original": [
+    "{貝|かひ}をおほふ{人|ひと}の、わが{前|まへ}なるをばおきて、よそを{見渡|みわた}して、{人|ひと}の{袖|そで}の{陰|かげ}、{膝|ひざ}の{下|した}まで{目|め}をくばる{間|ま}に、{前|まへ}なるをば{人|ひと}に{掩|おほ}はれぬ。",
+    "よく{掩|おほ}ふ{人|ひと}は、よそまでわりなく{取|と}るとは{見|み}えずして、{近|ちか}きばかりを{掩|おほ}ふやうなれど、{多|おほ}く{掩|おほ}ふなり。",
+    "{碁盤|ごばん}のすみに{石|いし}を{立|た}てて{弾|はじ}くに、むかひなる{石|いし}をまもりて{弾|はじ}くはあたらず。",
+    "わが{手|て}もとをよく{見|み}て、ここなるひじり{目|め}をすぐに{弾|はじ}けば、{立|た}てたる{石|いし}{必|かなら}ずあたる。",
+    "{万|よろづ}のこと{外|ほか}に{向|む}きて{求|もと}むべからず、ただここもとを{正|ただ}しくすべし。",
+    "{清献公|せいけんこう}がことばに、「{好事|かうじ}を{行|ぎやう}じて{前程|ぜんてい}を{問|と}ふことなかれ。」といへり。",
+    "{世|よ}を{保|たも}たむ{道|みち}もかくや{侍|はべ}らむ。",
+    "{内|うち}を{慎|つつし}まず、{軽|かろ}くほしきままにしてみだりなれば、{遠国|をんごく}{必|かなら}ずそむく{時|とき}、{始|はじ}めて{謀|はかりごと}をもとむ。",
+    "「{風|かぜ}に{当|あた}り{湿|しつ}に{臥|ふ}して、{病|やまひ}を{神霊|しんれい}に{訴|うつた}ふるは{愚|おろ}かなる{人|ひと}なり。」と{医書|いしよ}にいへるが{如|ごと}し。",
+    "{目|め}の{前|まへ}なる{人|ひと}の{愁|うれ}へをやめ、{恵|めぐ}みを{施|ほどこ}し、{道|みち}を{正|ただ}しくせば、その{化|くわ}{遠|とほ}く{流|なが}れむことを{知|し}らざるなり。",
+    "{禹|う}の{行|ゆ}きて{三|さん}{苗|べう}を{征|せい}せしも、{師|いくさ}をかへして{徳|とく}を{布|し}くには{如|し}かざりき。"
+  ],
+  "literal": [
+    "A person playing the shell-covering game, leaving aside the ones in front of him and looking around elsewhere, casting his eyes even to the shade of people's sleeves and under their knees: meanwhile, the ones in front of him are covered by others.",
+    "A person who covers well does not seem to take unreasonably even far away, and seems to cover only the near ones, but he covers many.",
+    "When you set a stone up at the corner of a go board and flick, flicking while watching the stone opposite does not hit.",
+    "If you look well at your own hand and flick straight along the marked point here, the stone that was set up is always hit.",
+    "In all things, one should not turn outward and seek; one should just make right what is here.",
+    "In the words of Qingxian Gong, it says: 'Do good things and do not ask about the road ahead.'",
+    "Might the way to keep the world in order also be like this?",
+    "If one is not careful within, is frivolous, does as one likes and is disorderly, then when the distant provinces inevitably rebel, only then does one look for a plan.",
+    "It is like what a medical book says: 'One who is exposed to the wind and lies in the damp, and then appeals to the gods about the illness, is a foolish person.'",
+    "They do not know that if one ends the grievances of the people before one's eyes, bestows kindness and makes the way right, its influence will flow far.",
+    "Yu's going and conquering the Three Miao, too, was not as good as turning back the army and spreading virtue."
+  ],
+  "notes": [
+    {"quote": "貝をおほふ", "text": "貝おほひ, the shell-matching game (the 1925 edition glosses it as 貝合せ). Clam shells were split into halves. As the game is usually described, one set of halves was laid out face down, and players looked for the half that matched each shell put out; only the two original halves fit together. How exactly it was played in Kenkō's day is not certain. おほふ: 'to cover', to put the matching half on top."},
+    {"quote": "碁盤のすみに石を立てて弾く", "text": "A game of flicking go stones: one stone is set up on the board, and you flick another to hit it. It may have been a casual pastime rather than a set game; the text gives no more detail."},
+    {"quote": "ひじり目", "text": "ひじり{目|め} ({聖目|ひじりめ}): the nine marked points on a go board, today called {星|ほし} 'stars', as the edition explains. You aim along the line of the mark in front of you, not at the target."},
+    {"quote": "清献公", "text": "Qingxian Gong: in modern commentaries, the posthumous title of Zhao Bian (趙抃, 1008–1084), a Song-dynasty official. The 1925 edition's gloss instead says 'Zhao Yu (趙禹) of the Song', and gives the saying as his motto: 行好事、莫問前程, 'do good things, don't ask about the road ahead'. {前程|ぜんてい}: the road ahead, what will come of it."},
+    {"quote": "遠国必ずそむく時", "text": "{遠国|をんごく}: the distant provinces. {必|かなら}ず: 'certainly', so the rebellion is not a risk but a fact."},
+    {"quote": "医書", "text": "The 1925 edition traces the quotation to the preface of a Chinese book on medicines (本草)."},
+    {"quote": "その化遠く流れむ", "text": "{化|くわ}: the good influence of a ruler, which changes people without force. A Confucian idea."},
+    {"quote": "禹の行きて三苗を征せしも", "text": "Yu, the legendary founder of the Xia dynasty in China. In the Book of Documents, he attacks the Miao, a people in the south, and they do not give in. He takes his army home and governs with virtue, and the Miao come over of their own accord. The 1925 edition gives the same account."},
+    {"quote": "世を保たむ道もかくや侍らむ", "text": "From a game to government: section 110 makes the same move, from a board-game master's advice to running a country."}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 161,
+  "title": "When the blossoms peak",
+  "translation": [
+    "When are the cherry blossoms at their best? Some say a hundred and fifty days after the winter solstice, others say a week after the spring equinox. Count seventy-five days from the first day of spring, in early February, and you'll rarely be far off."
+  ],
+  "original": [
+    "{花|はな}の{盛|さか}りは、{冬至|とうじ}より{百五十日|ひやくごじふにち}とも、{時正|じしやう}の{後|のち}{七日|なぬか}ともいへど、",
+    "{立春|りつしゆん}より{七十五日|しちじふごにち}、おほやう{違|たが}はず。"
+  ],
+  "literal": [
+    "The peak of the blossoms, though they say it is a hundred and fifty days from the winter solstice, or seven days after the equinox,",
+    "seventy-five days from the beginning of spring is, by and large, not wrong."
+  ],
+  "notes": [
+    {"quote": "時正", "text": "{時正|じしやう}: the equinox, when day and night are the same length. Here it is the spring equinox, the middle day of the Buddhist spring week of services (彼岸). The reading is the 1925 edition's."},
+    {"quote": "立春", "text": "{立春|りつしゆん}: 'the beginning of spring' in the old calendar, around 3 or 4 February. Japanese calendars still mark it today."},
+    {"quote": "冬至より百五十日", "text": "In today's calendar, the three rules give quite different dates: 150 days after the winter solstice is around 20 May, a week after the spring equinox is late March, and 75 days after the beginning of spring is around 20 April. Kenkō's rule is the one in the middle. He does not say which kind of cherry or which place he means."},
+    {"quote": "おほやう違はず", "text": "おほやう: 'roughly, on the whole'. {違|たが}ふ: 'to differ, to be off'. The whole section is one sentence: two rules that people quote, then the one that works."}
+  ]
+}

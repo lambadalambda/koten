@@ -1,0 +1,35 @@
+{
+  "number": 168,
+  "title": "The old expert",
+  "translation": [
+    "An old man who's really good at one thing, so that people say, \"Who will we ask once he's gone?\", is a credit to old people everywhere. He hasn't lived for nothing. Still, if he has kept every last bit of it polished, it doesn't look so good. It's as if he had spent his whole life on this one thing and nothing else. Better to say, \"Oh, I've forgotten all that by now.\"",
+    "Even if you know most of it, rattling it all off makes people think you can't be that good, and sooner or later you'll get something wrong. Say, \"I'm not really sure,\" and people will think you're the real master.",
+    "Worse is when someone talks with a knowing look about something they don't actually know, and it's someone older that you can't very well contradict. You just have to sit there and listen, thinking, \"That's not right.\""
+  ],
+  "original": [
+    "{年|とし}{老|お}いたる{人|ひと}の、{一事|いちじ}すぐれたる{才能|さいのう}ありて、「この{人|ひと}の{後|のち}には、{誰|たれ}にか{問|と}はむ。」などいはるるは、{老|おい}の{方人|かたうど}にて、{生|い}けるも{徒|いたづ}らならず。",
+    "さはあれど、それもすたれたる{所|ところ}のなきは、「{一生|いつしやう}この{事|こと}にて{暮|く}れにけり。」と{拙|つたな}く{見|み}ゆ。",
+    "「{今|いま}はわすれにけり。」といひてありなむ。",
+    "{大方|おほかた}は{知|し}りたりとも、すずろにいひ{散|ち}らすは、さばかりの{才|ざえ}にはあらぬにやと{聞|きこ}え、おのづから{誤|あやま}りもありぬべし。",
+    "「さだかにも{弁|わきま}へ{知|し}らず。」などいひたるは、なほ{実|まこと}に{道|みち}のあるじとも{覚|おぼ}えぬべし。",
+    "まして{知|し}らぬこと、したり{顔|がほ}に、おとなしくもどきぬべくもあらぬ{人|ひと}のいひ{聞|き}かするを、「さもあらず。」と{思|おも}ひながら{聞|き}き{居|ゐ}たる、いとわびし。"
+  ],
+  "literal": [
+    "An old person who has excellent talent in one thing, so that people say, 'After this person, whom shall we ask?', is a supporter of old age, and his living is not in vain.",
+    "Even so, if there is no part of it that has fallen into disuse, he looks clumsy, as if 'his whole life was spent on this one thing.'",
+    "It would be good to say, 'I have forgotten it now.'",
+    "Even if one knows most of it, scattering it about without restraint sounds as if one's learning is not all that much, and naturally there will be mistakes too.",
+    "If one says something like 'I do not know it clearly', one will surely be thought to be truly a master of the way.",
+    "Still more, listening while thinking 'It is not so' as a person whom one cannot properly contradict tells about something he does not know, with a knowing face: that is very miserable."
+  ],
+  "notes": [
+    {"quote": "老の方人", "text": "{方人|かたうど}: a supporter, someone on your side, as in a poetry contest, where each team had its supporters. The 1925 edition explains: someone who stands up for old people in general."},
+    {"quote": "生けるも徒らならず", "text": "{徒|いたづ}らならず: 'not in vain'. Compare the tears that turned out いたづら in section 236."},
+    {"quote": "それもすたれたる所のなきは", "text": "すたる: 'to fall out of use, to go rusty'. The 1925 edition explains: if his skill has no gap at all, if it is polished to perfection. That much polish shows that his whole life went into it."},
+    {"quote": "拙く見ゆ", "text": "{拙|つたな}し: 'clumsy, poor'. The same word is used for handwriting in section 1."},
+    {"quote": "すずろにいひ散らす", "text": "すずろ: 'without reason, for no purpose'. いひ{散|ち}らす: 'to scatter words about'. Section 79 makes a similar point: people of real class don't sound like experts, even about things they know."},
+    {"quote": "道のあるじ", "text": "{道|みち}のあるじ: 'master of the way', the real authority in an art."},
+    {"quote": "おとなしくもどきぬべくもあらぬ人", "text": "A difficult phrase. おとなし: 'mature, senior' (a false friend, see section 236). もどく: 'to criticise, to contradict'. Usually read as two things said about the speaker: he is older, and he is not someone you could contradict (ぬべくもあらぬ: 'could not possibly'). Some modern versions instead take the people listening as the ones who cannot contradict him."},
+    {"quote": "いとわびし", "text": "わびし: 'miserable, wretched'. The translation ends on the scene instead of the word."}
+  ]
+}

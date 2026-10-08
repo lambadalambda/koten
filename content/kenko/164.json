@@ -1,0 +1,27 @@
+{
+  "number": 164,
+  "title": "Small talk",
+  "translation": [
+    "When people get together, they can't stay quiet for a moment. Someone always has to say something. Listen to what they're saying, and most of it is pointless: the latest rumours, who did right and who did wrong. It does them and everyone else more harm than good. And while they're talking, not one of them notices that it's pointless."
+  ],
+  "original": [
+    "{世|よ}の{人|ひと}{相|あひ}{逢|あ}ふ{時|とき}、しばらくも{黙止|もくし}することなし、{必|かなら}ず{言葉|ことば}あり。",
+    "そのことを{聞|き}くに、おほくは{無益|むやく}の{談|だん}なり。",
+    "{世間|せけん}の{浮説|ふせつ}、{人|ひと}の{是非|ぜひ}、{自他|じた}のために{失|しつ}{多|おほ}く{得|とく}{少|すくな}し。",
+    "これをかたる{時|とき}、{互|たがひ}の{心|こころ}に、{無益|むやく}のことなりといふことを{知|し}らず。"
+  ],
+  "literal": [
+    "When people of the world meet one another, they never keep silent even for a while; there are always words.",
+    "When one listens to it, most of it is useless talk.",
+    "Groundless rumours of the world, the rights and wrongs of people: for oneself and others, much loss and little gain.",
+    "When they talk of these, in their hearts they do not know, any of them, that it is useless."
+  ],
+  "notes": [
+    {"quote": "黙止", "text": "{黙止|もくし}: keeping silent. A word in Chinese style, like much of this short section."},
+    {"quote": "無益の談", "text": "{無益|むやく}: 'useless'. Modern Japanese reads it むえき. The word comes back in the last sentence: the talk is useless, and nobody in it notices."},
+    {"quote": "浮説", "text": "{浮説|ふせつ}: 'floating talk', rumours with no source."},
+    {"quote": "人の是非", "text": "{是非|ぜひ}: 'right and wrong', here gossip about who did right and who did wrong. Modern ぜひ 'by all means' is the same word."},
+    {"quote": "失多く得少し", "text": "{失|しつ} 'loss' and {得|とく} 'gain', set against each other in Chinese style. {自他|じた}: 'self and others', the speakers and the people they talk about."},
+    {"quote": "互の心に", "text": "{互|たがひ}の{心|こころ}に: 'in each other's hearts', in the minds of everyone in the conversation."}
+  ]
+}

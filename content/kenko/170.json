@@ -1,0 +1,41 @@
+{
+  "number": 170,
+  "title": "Don't stay too long",
+  "translation": [
+    "Dropping in on someone for no real reason is not a good idea. Even if you do have a reason, go home as soon as it's done. Staying a long time is a real nuisance. When two people sit facing each other, there's a lot of talk, you get tired, you can't settle, everything else has to wait, and the time just goes. It does neither of you any good.",
+    "If you're the one being visited, though, don't let it show that you're fed up. If you'd rather not have company, it's better to just tell them why.",
+    "It's different, of course, with a friend who thinks the way you do, someone you'd love to sit with anyway. If they have time on their hands and say, \"Stay a little longer. Let's take it easy today,\" none of this applies. In old China, Ruan Ji met people he liked with a warm look and showed the others the whites of his eyes. We all have people we'd look at like that.",
+    "And it's lovely when someone comes over for no particular reason, has a relaxed chat and goes home. Same with a letter that says nothing more than \"It's been so long since I last wrote.\""
+  ],
+  "original": [
+    "さしたる{事|こと}なくて{人|ひと}の{許|がり}{行|ゆ}くは、よからぬ{事|こと}なり。",
+    "{用|よう}ありて{行|ゆ}きたりとも、その{事|こと}{果|は}てなば{疾|と}く{帰|かへ}るべし。",
+    "{久|ひさ}しく{居|ゐ}たる、いとむつかし。",
+    "{人|ひと}と{対|むか}ひたれば、{詞|ことば}{多|おほ}く、{身|み}もくたびれ、{心|こころ}も{静|しづ}かならず、{万|よろづ}の{事|こと}さはりて{時|とき}を{移|うつ}す、{互|たがひ}のため{益|やく}なし。",
+    "{厭|いと}はしげにいはむもわろし、{心|こころ}づきなき{事|こと}あらむをりは、なかなかその{由|よし}をもいひてむ。",
+    "おなじ{心|こころ}に{向|むか}はまほしく{思|おも}はむ{人|ひと}の、つれづれにて、「{今|いま}しばし、{今日|けふ}は{心|こころ}しづかに。」などいはむは、この{限|かぎ}りにはあらざるべし。",
+    "{阮籍|げんせき}が{青|あを}き{眼|まなこ}、{誰|たれ}もあるべきことなり。",
+    "その{事|こと}となきに、{人|ひと}の{来|きた}りて、のどかに{物語|ものがたり}して{帰|かへ}りぬる、いとよし。",
+    "また{文|ふみ}も、「{久|ひさ}しく{聞|きこ}えさせねば。」などばかり{言|い}ひおこせたる、いと{嬉|うれ}し。"
+  ],
+  "literal": [
+    "Going to someone's place without any particular business is not a good thing.",
+    "Even if one went with business, once the matter is finished one should go home quickly.",
+    "Staying long is very tiresome.",
+    "When one faces a person, words are many, the body gets tired, the mind is not calm, all things are held up and time passes: for both there is no benefit.",
+    "Speaking in an annoyed way is also bad; at a time when there is something disagreeable, one should rather say the reason.",
+    "When a person one would like to face, of the same heart, being at leisure, says something like 'A little longer; today, at ease', that surely does not fall within this limit.",
+    "Ruan Ji's blue eyes: it is something everyone should have.",
+    "When, without any particular matter, a person comes, talks at leisure and goes home: that is very good.",
+    "Also letters: when someone sends word saying only something like 'Since I have not written for a long time', it is very gladdening."
+  ],
+  "notes": [
+    {"quote": "人の許行く", "text": "{許|がり}: 'to the place of (someone)'. The reading is the edition's."},
+    {"quote": "いとむつかし", "text": "むつかし: 'annoying, tiresome', not modern むずかしい 'difficult'."},
+    {"quote": "厭はしげにいはむもわろし", "text": "Here the advice turns to the host. 心づきなし: 'not to one's liking' (the edition: something you don't feel like doing). なかなか: 'rather, instead' (the edition glosses it {却|かへ}つて), not modern 'quite'."},
+    {"quote": "この限りにはあらざるべし", "text": "'This surely does not fall within the limit': the rule does not apply. Modern この{限|かぎ}りではない is still the standard phrase in rules and contracts for 'this does not apply'."},
+    {"quote": "阮籍が青き眼", "text": "Ruan Ji (210–263), one of the Seven Sages of the Bamboo Grove. The Book of Jin, quoted in the 1925 edition, says he could show 'blue eyes' or the whites of his eyes. When Ji Xi came to offer condolences, Ruan Ji gave him the whites, and Ji Xi left. When Ji Xi's brother Ji Kang came with wine and a zither, Ruan Ji was delighted and met him with 'blue eyes'. 'Blue' here means the dark of the eye, looking at someone straight on."},
+    {"quote": "誰もあるべきことなり", "text": "べし can mean 'should' or 'surely': 'everyone should have this' or 'everyone surely has this', people they are glad to see. The translation takes the second, as some modern commentaries do."},
+    {"quote": "久しく聞えさせねば", "text": "{聞|きこ}えさす: a humble verb, 'to write to you, to send word'. The letter has no news and no request, only this."}
+  ]
+}

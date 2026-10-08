@@ -1,0 +1,27 @@
+{
+  "number": 163,
+  "title": "One dot",
+  "translation": [
+    "The court diviners once had an argument about one of their terms, taishō. Is the first character 太, with a dot, or 大, without one?",
+    "Morichika, a lay monk, told me: \"The Konoe regent's family has an old diary that someone wrote on the back of a divination report. The report is in the hand of Yoshihira himself, the old court diviner. And there it's written with the dot.\""
+  ],
+  "original": [
+    "{太衝|たいしよう}の{太|たい}の{字|じ}、{点|てん}{打|う}つ{打|う}たずといふこと、{陰陽|おんやう}のともがら{相論|さうろん}のことありけり。",
+    "もりちか{入道|にふだう}{申|まう}し{侍|はべ}りしは、「{吉平|よしひら}が{自筆|じひつ}の{占文|うらぶみ}の{裏|うら}に{書|か}かれたる{御記|ぎよき}、{近衛|このゑ}{関白|くわんぱく}{殿|どの}にあり。",
+    "{点|てん}うちたるを{書|か}きたり。」と{申|まう}しき。"
+  ],
+  "literal": [
+    "About whether the character 太 in taishō has a dot or not, there was a dispute among the yin-yang practitioners.",
+    "What the lay monk Morichika said: 'The (honoured) diary written on the back of a divination report in Yoshihira's own hand is at the Konoe regent's.",
+    "It is written with the dot,' he said."
+  ],
+  "notes": [
+    {"quote": "太衝", "text": "{太衝|たいしよう}: a term of yin-yang divination. The 1925 edition glosses it as a name for the ninth month. The reading is the edition's."},
+    {"quote": "陰陽のともがら", "text": "The {陰陽師|おんやうじ}, the court's experts in yin-yang divination: they kept the calendar, chose lucky days and read omens. ともがら: 'group, people of a kind'. {相論|さうろん}: a dispute."},
+    {"quote": "もりちか入道", "text": "{入道|にふだう}: a man who has taken Buddhist vows but still lives in the world. The 1925 edition says nothing is known about Morichika; some modern commentaries tentatively identify him as the courtier Fujiwara no Morichika. The name is written in kana."},
+    {"quote": "吉平", "text": "Abe no Yoshihira, a court diviner of the early eleventh century and the son of the famous diviner Abe no Seimei. In Kenkō's day his writing was about three hundred years old."},
+    {"quote": "自筆の占文の裏に書かれたる御記", "text": "Paper was valuable, and old documents were often reused: someone kept a diary on the back of one of Yoshihira's reports. {御記|ぎよき} shows respect for the diary's writer, who is not named. The weight of the evidence is in {自筆|じひつ}, 'in his own hand'."},
+    {"quote": "近衛関白殿", "text": "The Konoe were one of the families from which the regents ({関白|くわんぱく}) came. The text does not say which Konoe regent is meant."},
+    {"quote": "と申しき", "text": "き: past, for something the writer experienced himself. Kenkō heard this from Morichika in person. The section ends on the evidence, with no verdict."}
+  ]
+}

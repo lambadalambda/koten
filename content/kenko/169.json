@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "title": "Not such a new word",
+  "translation": [
+    "Someone once told me that \"the shiki of\" this or that, meaning the way things are, is a new expression: nobody said it until Emperor Go-Saga's reign. But Ukyō no Daibu, who had served the empress Kenreimon'in, wrote about going back to court after Go-Toba became emperor, and she put it like this: \"and the shiki of the world had not changed either.\""
+  ],
+  "original": [
+    "「{何事|なにごと}の{式|しき}といふ{事|こと}は、{後嵯峨|ごさが}の{御代|みよ}{迄|まで}はいはざりけるを、{近|ちか}き{程|ほど}よりいふ{詞|ことば}なり。」と、{人|ひと}の{申|まう}し{侍|はべ}りしに、",
+    "{建礼門院|けんれいもんゐん}の{右京大夫|うきやうのだいぶ}、{後鳥羽院|ごとばのゐん}の{御位|みくらゐ}の{後|のち}、また{内裏|だいり}{住|ずみ}したることをいふに、「{世|よ}の{式|しき}も{変|かは}りたる{事|こと}はなきにも。」と{書|か}きたり。"
+  ],
+  "literal": [
+    "'The expression \"the form (shiki) of such-and-such\" was not said until the reign of Go-Saga; it is a word said only from recent times,' someone said; but",
+    "the Ukyō no Daibu of Kenreimon'in, telling of how she lived in the palace again after Go-Toba's accession, wrote, 'though nothing had changed in the form of the world either.'"
+  ],
+  "notes": [
+    {"quote": "何事の式", "text": "{式|しき}: 'form, manner, the way things are'. {何事|なにごと}の{式|しき}: 'the shiki of such-and-such', any phrase of that shape."},
+    {"quote": "後嵯峨の御代", "text": "Emperor Go-Saga reigned 1242–1246 and ruled as retired emperor until his death in 1272. For Kenkō, that was recent."},
+    {"quote": "建礼門院の右京大夫", "text": "Kenreimon'in Ukyō no Daibu, a court lady and poet of the late twelfth century. She served Kenreimon'in, the daughter of Taira no Kiyomori and empress of Emperor Takakura. Her personal poetry collection, with long prose introductions, tells of her love for Taira no Sukemori, who died in the war that destroyed the Taira, and of her later return to court. She put it together late in life, probably around 1232, so still before Go-Saga's reign. The 1925 edition notes that Kenkō quotes that collection, and names her father as Fujiwara no Koreyuki."},
+    {"quote": "後鳥羽院の御位の後", "text": "Go-Toba came to the throne in 1183, as a small child, in the middle of that war. The return to court she describes came some years after that. {御位|みくらゐ}: the reading is the edition's."},
+    {"quote": "内裏住", "text": "{内裏|だいり}{住|ずみ}: living and serving in the palace as a lady-in-waiting."},
+    {"quote": "なきにも", "text": "The quotation stops in the middle of her sentence: 'though… had not changed either'. Kenkō quotes only as much as he needs, and the section ends on the evidence, like section 163."}
+  ]
+}

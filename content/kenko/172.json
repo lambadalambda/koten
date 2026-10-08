@@ -1,0 +1,41 @@
+{
+  "number": 172,
+  "title": "Young and old",
+  "translation": [
+    "Young people's blood runs hot. Everything stirs them up, and they want everything. They take risks and break easily, like a jewel set rolling. They spend a fortune on beautiful things, then throw it all away and go about shabby in a monk's robe. They're full of fight and pick quarrels with anyone. They feel ashamed, they envy, and what they want changes from one day to the next. They give themselves to lust and to love. They throw themselves into some bold, clean-cut gesture and ruin a life that could have lasted a hundred years. They'd love to be one of those stories about people who gave their lives, and never think about staying in one piece and living long. They follow their hearts into love affairs and become a story people tell for years. It's the young who wreck their lives.",
+    "In old people the spirit has faded. They take things lightly and loosely, and nothing much moves them. Their minds are calm without trying, so they don't do anything pointless. They look after themselves, they don't worry, and they try not to be a bother to anyone. Old people are wiser than the young, just as the young are better-looking than the old."
+  ],
+  "original": [
+    "{若|わか}き{時|とき}は{血気|けつき}{内|うち}にあまり、{心|こころ}{物|もの}に{動|うご}きて、{情欲|じやうよく}おほし。",
+    "{身|み}をあやぶめて{砕|くだ}け{易|やす}きこと、{珠|たま}を{走|はし}らしむるに{似|に}たり。",
+    "{美麗|びれい}を{好|この}みて{宝|たから}を{費|つひや}し、これを{捨|す}てて{苔|こけ}の{袂|たもと}にやつれ、{勇|いさ}める{心|こころ}{盛|さか}りにして{物|もの}と{争|あらそ}ひ、{心|こころ}に{恥|は}ぢ{羨|うらや}み、{好|この}む{所|ところ}{日々|ひび}に{定|さだ}まらず、",
+    "{色|いろ}に{耽|ふけ}り{情|なさけ}にめで、{行|おこな}ひを{潔|いさぎよ}くして{百年|ももとせ}の{身|み}を{誤|あやま}り、{命|いのち}を{失|うしな}へたるためし{願|ねが}はしくして、{身|み}の{全|まつた}く{久|ひさ}しからむことをば{思|おも}はず。",
+    "すけるかたに{心|こころ}ひきて、ながき{世語|よがた}りともなる。",
+    "{身|み}をあやまつことは、{若|わか}き{時|とき}のしわざなり。",
+    "{老|お}いぬる{人|ひと}は{精神|せいしん}{衰|おとろ}へ、{淡|あは}くおろそかにして、{感|かん}じ{動|うご}くところなし。",
+    "{心|こころ}おのづから{静|しづ}かなれば、{無益|むやく}のわざをなさず、{身|み}を{助|たす}けて{愁|うれ}へなく、{人|ひと}の{煩|わづら}ひなからむことを{思|おも}ふ。",
+    "{老|お}いて{智|ち}の{若|わか}き{時|とき}にまされること、{若|わか}くして{貌|かたち}の{老|お}いたるにまされるが{如|ごと}し。"
+  ],
+  "literal": [
+    "When young, blood and energy overflow inside, the heart is moved by things, and desires are many.",
+    "Endangering oneself and breaking easily is like setting a jewel rolling.",
+    "Loving beauty, they waste their wealth, then cast it off and grow shabby in moss sleeves; their brave heart at its height, they fight with others; in their heart they feel shame and envy; what they like is not settled from day to day;",
+    "they indulge in lust and delight in love; making their conduct pure, they ruin a body (meant for) a hundred years, wish (to be) an example of those who lost their lives, and do not think of keeping the body whole and long-lived.",
+    "Drawn in their heart to what they love, they become a long-told story in the world.",
+    "Ruining oneself is the doing of youth.",
+    "In people who have grown old, the spirit has declined; they are plain and casual, and nothing moves them.",
+    "Since the mind is calm of itself, they do not do useless things; they look after themselves, have no worries, and think of not troubling others.",
+    "That in old age wisdom surpasses that of youth is like how in youth looks surpass those of old age."
+  ],
+  "notes": [
+    {"quote": "血気内にあまり", "text": "{血気|けつき}: blood and vital energy. In the Analects, Confucius says a gentleman guards against three things: in youth, when blood and energy are not yet settled, against lust; in his prime, when they are strong, against fighting; in old age, when they have declined, against greed. Kenkō's young people do the first two."},
+    {"quote": "情欲", "text": "{情欲|じやうよく}: desires. The 1925 edition explains it with two lists: the seven emotions (joy, anger, sorrow, pleasure, love, hate, desire) and the six desires of the senses and the mind."},
+    {"quote": "珠を走らしむる", "text": "'Like making a jewel run': a round jewel set rolling can go anywhere and smash."},
+    {"quote": "苔の袂", "text": "'Moss sleeves': the dark robe of a monk or recluse. The edition quotes a poem by the monk Henjō, written when the court came out of mourning after he had become a monk: 'everyone has changed into flower-coloured clothes; my moss sleeves, at least you could dry'."},
+    {"quote": "行ひを潔くして百年の身を誤り", "text": "{潔|いさぎよ}し: 'pure, clean', and so also 'decisive, without hesitation'. Modern commentaries read it here as acting boldly, without a thought for the cost. {百年|ももとせ}: 'a hundred years', a full life. The reading is the edition's."},
+    {"quote": "ためし願はしくして", "text": "ためし: an example, a story people tell. {願|ねが}はし: 'something to wish for'."},
+    {"quote": "ながき世語り", "text": "{世語|よがた}り: talk of the world, gossip. ながき: long-lasting. The love affair becomes a story that people tell for a long time."},
+    {"quote": "淡くおろそかにして", "text": "{淡|あは}し: 'pale, light, not intense'. おろそか: 'loose, casual'. In this paragraph, neither word is a criticism."},
+    {"quote": "若くして貌の老いたるにまされるが如し", "text": "{貌|かたち}: looks (the edition's reading). The last line gives each age its advantage, and says it flatly."}
+  ]
+}

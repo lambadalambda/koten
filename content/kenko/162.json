@@ -1,0 +1,33 @@
+{
+  "number": 162,
+  "title": "The priest and the geese",
+  "translation": [
+    "Back when Lord Mototoshi was head of the city police, there was a servant monk at Henjōji, one of the men who do the practical work around a temple. He took to feeding the birds on the temple pond every day. Then he scattered the feed all the way into one of the halls and left a single door open. When more birds than he could count had gone in, he went in after them, shut the door, and started catching them and killing them.",
+    "It sounded terrible. A boy cutting grass nearby heard it and told people, and the men of the village came running and went in. Big geese were flapping about everywhere in a panic, and there among them was the priest, pinning them down and wringing their necks. The men grabbed him, and the village handed him over to the police. He went to prison with the birds he had killed hung round his neck."
+  ],
+  "original": [
+    "{遍昭寺|へんぜうじ}の{承仕|じようじ}{法師|ほふし}、{池|いけ}の{鳥|とり}を{日|ひ}ごろ{飼|か}ひつけて、{堂|だう}の{内|うち}まで{餌|ゑ}をまきて、{戸|と}ひとつをあけたれば、{数|かず}も{知|し}らず{入|い}りこもりける{後|のち}、おのれも{入|い}りて、{立|た}て{篭|こ}めて{捕|とら}へつつ{殺|ころ}しけるよそほひ、おどろおどろしく{聞|きこ}えけるを、",
+    "{草|くさ}{刈|か}る{童|わらは}{聞|き}きて{人|ひと}に{告|つ}げければ、{村|むら}の{男|をとこ}ども、おこりて{入|い}りて{見|み}るに、{大鴈|おほがん}どもふためきあへる{中|なか}に、{法師|ほふし}まじりて、うち{伏|ふ}せねぢ{殺|ころ}しければ、",
+    "この{法師|ほふし}を{捕|とら}へて、{所|ところ}より{使庁|しちやう}へ{出|いだ}したりけり。",
+    "{殺|ころ}すところの{鳥|とり}を{頚|くび}にかけさせて、{禁獄|きんごく}せられけり。",
+    "{基俊|もととし}{大納言|だいなごん}{別当|べつたう}の{時|とき}になむ{侍|はべ}りける。"
+  ],
+  "literal": [
+    "A servant monk of Henjōji had for days been feeding the birds of the pond, scattered feed even into the hall, and opened one door; after countless (birds) had gone in, he went in himself, shut them in, and the sound of his catching and killing them was heard as something alarming;",
+    "a boy cutting grass heard it and told people, so the men of the village rose up, went in and looked: among the big geese flapping about together, the priest was mixed in, pinning them down and wringing their necks, so",
+    "they seized this priest, and the locality handed him over to the police office.",
+    "He was made to hang the birds he had killed around his neck, and was imprisoned.",
+    "It was at the time when Mototoshi the Major Counsellor was the chief (of the police)."
+  ],
+  "notes": [
+    {"quote": "遍昭寺", "text": "Henjōji (today written 遍照寺), a temple at Hirosawa in Saga, west of Kyoto, by the Hirosawa pond. The 1925 edition glosses it the same way."},
+    {"quote": "承仕法師", "text": "{承仕|じようじ}: a low-ranking monk who did the practical work of a temple, such as getting the halls ready for services. The reading is the 1925 edition's."},
+    {"quote": "捕へつつ殺しける", "text": "For a monk, killing any living thing breaks the first Buddhist precept. Here he does it inside a temple hall, to birds he has been feeding every day. The text tells it with no comment at all."},
+    {"quote": "おどろおどろしく", "text": "おどろおどろし: 'alarming, eerie'. Modern おどろおどろしい still means 'creepy'."},
+    {"quote": "ふためきあへる", "text": "ふためく: 'to flap about in a panic'. あふ: 'all together'."},
+    {"quote": "所より使庁へ出したりけり", "text": "{使庁|しちやう}: the office of the 検非違使, the police and court of the capital. 所より: 'from the place', so the local people handed him over. The reading is the edition's."},
+    {"quote": "殺すところの鳥を頚にかけさせて", "text": "The dead birds round his neck show everyone what he did. The story ends on this picture; the last sentence only gives the date."},
+    {"quote": "基俊大納言別当", "text": "Mototoshi, a Major Counsellor ({大納言|だいなごん}) who was head ({別当|べつたう}) of the police office. Modern commentaries identify him as Horikawa Mototoshi (1261–1319); the 1925 edition gives no name. The translation moves this dating sentence to the start."},
+    {"quote": "なむ侍りける", "text": "なむ … ける: one more kind of {係|かか}り{結|むす}び. なむ needs the attributive form, so けり becomes ける. The polite {侍|はべ}り speaks to the reader."}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 166,
+  "title": "A Buddha made of snow",
+  "translation": [
+    "Look at what people keep themselves busy with. It's like making a Buddha out of snow on a spring day, ordering gold, silver and jewels to decorate it, and starting work on a temple to put it in. Will it last until the temple is ready, so you can set it up inside?",
+    "You think your life is solid. Meanwhile it's melting from underneath, like the snow, and you're still making plans and waiting for them to be finished."
+  ],
+  "original": [
+    "{人間|にんげん}の{営|いとな}みあへる{業|わざ}を{見|み}るに、{春|はる}の{日|ひ}に{雪仏|ゆきぼとけ}を{造|つく}りて、その{為|ため}に{金銀|きんぎん}{珠玉|しゆぎよく}の{飾|かざ}りを{営|いとな}み、{堂塔|だうたふ}を{建|た}てむとするに{似|に}たり。",
+    "その{構|かま}へを{待|ま}ちてよく{安置|あんち}してむや。",
+    "{人|ひと}の{命|いのち}ありと{見|み}る{程|ほど}も、{下|した}より{消|き}ゆる{事|こと}、{雪|ゆき}の{如|ごと}くなるうちに、いとなみ{待|ま}つこと{甚|はなは}だ{多|おほ}し。"
+  ],
+  "literal": [
+    "Looking at the work people busy themselves with, it is like making a snow Buddha on a spring day, preparing decorations of gold, silver and jewels for it, and trying to build a hall and pagoda.",
+    "Will one wait for the building and properly enshrine it?",
+    "Even while one sees that a person's life is there, it melts away from below like snow, and meanwhile the things one prepares and waits for are very many."
+  ],
+  "notes": [
+    {"quote": "雪仏", "text": "{雪仏|ゆきぼとけ}: a Buddha made of snow. It is a spring day, so the snow is already melting."},
+    {"quote": "堂塔", "text": "{堂塔|だうたふ}: the halls and pagodas of a temple. Building a hall for a Buddha image was a large, expensive project that could take years."},
+    {"quote": "その構へを待ちて", "text": "{構|かま}へ: the building work (the 1925 edition glosses it 'construction')."},
+    {"quote": "安置してむや", "text": "{安置|あんち}: to set up a Buddha image in its hall. てむや: 'will it surely…?', a rhetorical question. It will not."},
+    {"quote": "下より消ゆる事", "text": "Snow in spring melts from below, where you cannot see it, and looks solid until it gives way. The reading した for 下 is the edition's."},
+    {"quote": "いとなみ待つこと", "text": "いとなむ is the same word as {営|いとな}み at the start of the section: 'to busy oneself, to work on something'. The edition glosses いとなみ{待|ま}つ as 'to plan something and wait for it to be finished'. So the section ends where it began, with the busy work."}
+  ]
+}

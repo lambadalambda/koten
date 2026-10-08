@@ -1,0 +1,23 @@
+{
+  "number": 165,
+  "title": "Out of place",
+  "translation": [
+    "Someone from the eastern provinces trying to fit in with the people of the capital. Someone from the capital who goes east and makes a career there. A monk who has left his own temple. Anyone who lives among people who aren't their own kind is embarrassing to watch."
+  ],
+  "original": [
+    "{東|あづま}の{人|ひと}の、{都|みやこ}の{人|ひと}に{交|まじ}はり、{都|みやこ}の{人|ひと}の、{東|あづま}に{行|ゆ}きて{身|み}をたて、",
+    "また{本寺|ほんじ}{本山|ほんざん}をはなれぬる{顕密|けんみつ}の{僧|そう}、すべてわが{俗|ぞく}にあらずして、{人|ひと}にまじはれる、{見|み}ぐるし。"
+  ],
+  "literal": [
+    "People of the east mixing with people of the capital, people of the capital going to the east and establishing themselves,",
+    "and also exoteric and esoteric monks who have left their head temple: in general, (people) who mix with others not of their own ways are unsightly."
+  ],
+  "notes": [
+    {"quote": "東の人", "text": "{東|あづま}: the eastern provinces, the Kantō, where the warrior government sat in Kamakura in Kenkō's day. The 1925 edition notes that people in the capital then saw easterners as the typical country people."},
+    {"quote": "身をたて", "text": "{身|み}をたつ: 'to establish oneself', to make a career."},
+    {"quote": "本寺本山", "text": "{本寺|ほんじ}{本山|ほんざん}: the head temple of a school, with branch temples under it. The two words mean the same thing."},
+    {"quote": "顕密の僧", "text": "{顕密|けんみつ}: exoteric and esoteric Buddhism. The 1925 edition explains: Tendai, Kegon and other schools on one side, Shingon on the other. Together that is every established school, so the translation just says 'a monk'."},
+    {"quote": "わが俗にあらずして", "text": "{俗|ぞく}: customs, way of life. The 1925 edition: 'one's own original customs and habits'."},
+    {"quote": "見ぐるし", "text": "見ぐるし: 'painful to look at'. Modern {見苦|みぐる}しい is the same word. The whole section is one sentence, and this is its only verdict."}
+  ]
+}
