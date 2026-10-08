@@ -93,3 +93,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 195: "Jizō" in the text replaced by "a statue of a Buddhist saint"; the note names Jizō.
 - 196: "the chancellor" is anachronistic for the story (Sadazane became chancellor in 1301); a note says so. The 1279 Iwashimizu theory and the Saikyūki claim: roudokus only.
 - 185: the edition's 舅 (father-in-law) is correct by adoption; Yasumori was Tokimune's brother-in-law by birth.
+
+## 221–232
+- 226: who wrote the Heike: Shōbutsu asked the warriors and had Yukinaga write it in (the writer had the subject wrong; fixed).
+- 228: date of the Senbon service: 3rd month (1925 edition) or 2nd month (roudokus); note gives both.
+- 225: 烏帽子 ゑぼし (175 has the edition's ゑばうし); historical kana not unanimous.
+- 230: "Must have been a fox that hadn't had enough practice, and got the change wrong."
