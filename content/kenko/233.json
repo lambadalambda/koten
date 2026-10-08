@@ -1,0 +1,28 @@
+{
+  "number": 233,
+  "title": "How to stay out of trouble",
+  "translation": [
+    "If you want to stay out of trouble, here's how. Be sincere about everything. Be polite to everyone, whoever they are. And don't talk much.",
+    "That's good in anyone, men and women, young and old. But when someone young and good-looking speaks nicely, it stays with you. You can't help liking them.",
+    "Every kind of trouble starts the same way: you act too much at home, you play the expert, you look as if you own the place, and you treat other people as if they don't count."
+  ],
+  "original": [
+    "{万|よろづ}の{科|とが}あらじと{思|おも}はば、{何事|なにごと}にも{誠|まこと}ありて、{人|ひと}を{分|わ}かず{恭|うやうや}しく、{言葉|ことば}すくなからむには{如|し}かじ。",
+    "{男女|なんによ}{老少|らうせう}みなさる{人|ひと}こそよけれども、{殊|こと}に{若|わか}くかたちよき{人|ひと}の、{言|こと}うるはしきは、{忘|わす}れがたく{思|おも}ひつかるるものなり。",
+    "よろづのとがは、{馴|な}れたるさまに{上手|じやうず}めき、{所|ところ}{得|え}たるけしきして、{人|ひと}をないがしろにするにあり。"
+  ],
+  "literal": [
+    "If you think you would like to have no faults at all, nothing beats being sincere in everything, respectful to people without distinction, and having few words.",
+    "Men and women, old and young, all such people are good, but especially when a young and good-looking person's speech is graceful, one comes to think of them unforgettably and is drawn to them.",
+    "All faults lie in acting familiar, playing the expert, looking as if one has found one's place, and slighting people."
+  ],
+  "notes": [
+    {"quote": "万の科あらじと思はば", "text": "{科|とが}: 'fault, blame', something others can hold against you (the 1925 edition: 過失, 'mistake'). The edition gives the reading とが; later in the section the same word is written in kana."},
+    {"quote": "人を分かず", "text": "'Without sorting people': treating high and low alike (the 1925 edition: 'without making distinctions between people')."},
+    {"quote": "言葉すくなからむには如かじ", "text": "には{如|し}かじ: 'nothing will be better than'. Talking little is a favourite point of Kenkō's; the good companion of section 1 also 'doesn't go on too long'."},
+    {"quote": "さる人こそよけれども", "text": "こそ … けれども: こそ takes the realis form よけれ, and ども turns it into 'but'. 'Such people are good, all of them, but…'"},
+    {"quote": "思ひつかるる", "text": "{思|おも}ひつく: 'to become attached to, to take a liking to'. る is spontaneous: it happens by itself (the 1925 edition: 'they leave an impression')."},
+    {"quote": "上手めき", "text": "めく: 'to look like, to act like'. {上手|じやうず}めく: 'to put on the air of an expert' (the 1925 edition: 'showing off one's skill, acting skilled')."},
+    {"quote": "所得たるけしきして", "text": "{所|ところ}{得|う}: 'to find one's place', and so 'to be in one's element, to look smug'. Compare {所得顔|ところえがほ} in section 235. ないがしろ, 'slighting', is still a modern word."}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 235,
+  "title": "The empty house",
+  "translation": [
+    "Nobody wanders into a house where someone lives. In an empty house it's different. People passing by walk right in. With no people there to stop them, foxes and owls move in and make themselves at home, and strange things like tree spirits start to show up.",
+    "Or take a mirror. It has no colour or shape of its own, so everything shows up in it. If it had colour and shape, nothing would. Empty space holds things well.",
+    "Thoughts come drifting into our minds whenever they like, one after another. Maybe that's because there's no real mind there at all. If the mind had someone living in it, all those things wouldn't get in."
+  ],
+  "original": [
+    "{主|ぬし}ある{家|いへ}には、すずろなる{人|ひと}、{心|こころ}の{儘|まま}に{入|い}り{来|く}る{事|こと}なし。",
+    "{主|あるじ}なき{所|ところ}には{道行人|みちゆきびと}みだりに{立|た}ち{入|い}り、{狐|きつね}{梟|ふくろふ}やうの{者|もの}も、{人|ひと}{気|げ}にせかれねば、{所|ところ}{得|え}{顔|がほ}に{入|い}り{住|す}み、{木精|こだま}などいふけしからぬ{形|かたち}もあらはるるものなり。",
+    "また{鏡|かがみ}には、{色|いろ}{形|かたち}なき{故|ゆゑ}に、よろづの{影|かげ}きたりてうつる。",
+    "{鏡|かがみ}に{色|いろ}{形|かたち}あらましかば、うつらざらまし。",
+    "{虚空|こくう}よくものを{容|い}る。",
+    "われらが{心|こころ}に、{念々|ねんねん}のほしきままにきたり{浮|うか}ぶも、{心|こころ}といふものの{無|な}きにやあらむ。",
+    "{心|こころ}にぬしあらましかば、{胸|むね}のうちに{若干|そこばく}のことは{入|い}りきたらざらまし。"
+  ],
+  "literal": [
+    "Into a house that has an owner, idle people do not come in as they please.",
+    "Into a place without an owner, passers-by recklessly go in, and creatures like foxes and owls, since they are not held back by the presence of people, move in and live there with a look of being in their element, and weird shapes called tree spirits and the like also appear.",
+    "Also, in a mirror, because it has no colour or shape, all images come and are reflected.",
+    "If a mirror had colour and shape, they would not be reflected.",
+    "Empty space holds things well.",
+    "That in our minds thoughts come and float up one after another as they please: perhaps it is because the thing called mind is absent.",
+    "If the mind had an owner, so many things would not come into the breast."
+  ],
+  "notes": [
+    {"quote": "主ある家には", "text": "The edition reads the same kanji two ways: {主|ぬし} here, {主|あるじ} in the next sentence. Both mean 'owner, master'; the last sentence comes back to ぬし."},
+    {"quote": "すずろなる人", "text": "すずろ: 'aimless, without reason'. People with no business there (the 1925 edition: 'people with no errand, random people')."},
+    {"quote": "人気にせかれねば", "text": "{人|ひと}{気|げ}: 'the feel of people being around'. せく: 'to dam up, to hold back', as one holds back water. In an empty house nothing holds the animals back."},
+    {"quote": "木精", "text": "{木精|こだま}: a spirit living in an old tree. The same word also means an echo, as if the trees were answering. けしからぬ here means 'strange, uncanny' (the 1925 edition: used for 'odd' by long habit), not modern 'outrageous'."},
+    {"quote": "鏡に色形あらましかば、うつらざらまし", "text": "ましかば … まし: 'if it had…, it would…', a condition that is contrary to fact. The last sentence of the section uses the same pattern."},
+    {"quote": "虚空よくものを容る", "text": "{虚空|こくう}: empty space, a Buddhist word for what has no form and so can hold everything."},
+    {"quote": "念々", "text": "{念々|ねんねん}: thoughts, one after the other, moment by moment (the 1925 edition: 'all kinds of thoughts')."},
+    {"quote": "若干", "text": "{若干|そこばく}: 'so many, a great number'. A false friend: modern {若干|じやつかん} means 'a few, a little'."},
+    {"quote": "心にぬしあらましかば", "text": "The two images pull in different directions. Being empty is what makes the mirror work, but the empty house lets in foxes. The last sentence goes with the house: a mind with someone in it would not be overrun."}
+  ]
+}

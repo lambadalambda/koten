@@ -1,0 +1,29 @@
+{
+  "number": 237,
+  "title": "Lengthwise or crosswise",
+  "translation": [
+    "When you put something on a willow tray, does it go lengthwise or crosswise? It probably depends on what it is.",
+    "The Sanjō minister once said: \"Scrolls go lengthwise. Pass a paper cord through the gaps between the sticks and tie them on. Put the ink lengthwise too. That way the brush won't roll off.\"",
+    "But the calligraphers of the Kadenokōji family never put anything lengthwise, not even once. Every time I saw them, they set things crosswise."
+  ],
+  "original": [
+    "やない{筥|ばこ}にすうるものは、{縦|たて}ざま{横|よこ}ざま、{物|もの}によるべきにや。",
+    "「{巻物|まきもの}などは{縦|たて}ざまにおきて、{木|き}のあはひより、{紙捻|かみひね}りを{通|とほ}して{結|ゆ}ひつく。",
+    "{硯|すずり}も{縦|たて}ざまにおきたる、{筆|ふで}ころばずよし。」と{三条右大臣殿|さんでうのうだいじんどの}おほせられき。",
+    "{勘解由小路|かでのこうぢ}の{家|いへ}の{能書|のうしよ}の{人々|ひとびと}は、{仮|かり}にも{縦|たて}ざまにおかるることなし、{必|かなら}ず{横|よこ}ざまにすゑられ{侍|はべ}りき。"
+  ],
+  "literal": [
+    "As for things set on a willow box, lengthwise or crosswise: perhaps it should depend on the thing?",
+    "'Scrolls and the like are placed lengthwise, and one passes a twisted-paper cord through from the gaps in the wood and ties them on.",
+    "The inkstone too, placed lengthwise, is good, as the brush does not roll,' the Sanjō Minister of the Right said.",
+    "The skilled calligraphers of the Kadenokōji house never, even casually, placed things lengthwise; they always set them crosswise."
+  ],
+  "notes": [
+    {"quote": "やない筥", "text": "{柳筥|やないばこ}: a box or tray made of thin, three-sided willow sticks laid side by side and tied together. The 1925 edition adds that later it became a small stand on legs. It was used at court to present scrolls, ink and other objects. The gaps between the sticks are what the cord goes through."},
+    {"quote": "紙捻り", "text": "{紙捻|かみひね}り: a cord made of twisted paper, today's こより (the 1925 edition's gloss)."},
+    {"quote": "硯", "text": "{硯|すずり}: the stone on which ink is ground with water. The brush rests on it, so it matters which way the stone lies. The translation just says 'the ink'."},
+    {"quote": "三条右大臣殿", "text": "The 1925 edition does not know who this is, and later commentators are not certain either. おほせられき: き is the past of what the writer experienced himself, so Kenkō probably heard him say it."},
+    {"quote": "勘解由小路の家", "text": "The descendants of Fujiwara no Yukinari (Kōzei), the great calligrapher (see section 25), who kept calligraphy as their family art. The family is also called Sesonji (the 1925 edition's gloss). すゑられ{侍|はべ}りき: again き, what Kenkō saw himself."},
+    {"quote": "必ず横ざまにすゑられ侍りき", "text": "The section ends with two authorities who disagree, and Kenkō does not choose between them."}
+  ]
+}

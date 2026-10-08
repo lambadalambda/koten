@@ -1,0 +1,20 @@
+{
+  "number": 239,
+  "title": "Two nights for the moon",
+  "translation": [
+    "The full moon in mid-autumn and the moon on the thirteenth night of late autumn both fall on days of Ro, one of the star groups along the moon's path. Ro is clear and bright, so these count as good nights for looking at the moon."
+  ],
+  "original": [
+    "{八月|はづき}{十五日|じふごにち}、{九月|ながつき}{十三日|じふさんにち}は{婁宿|ろうしゆく}なり。",
+    "この{宿|しゆく}、{清明|せいめい}なる{故|ゆゑ}に、{月|つき}をもてあそぶに{良夜|りやうや}とす。"
+  ],
+  "literal": [
+    "The fifteenth of the eighth month and the thirteenth of the ninth month are (days of) the Ro mansion.",
+    "Because this mansion is clear and bright, they are considered good nights for enjoying the moon."
+  ],
+  "notes": [
+    {"quote": "八月十五日、九月十三日", "text": "The two great moon-viewing nights. The fifteenth of the eighth month is the full moon of mid-autumn, a custom from China. Moon viewing on the thirteenth of the ninth month, a little before full, was a Japanese addition. The edition gives the old month names: {葉月|はづき} and {長月|ながつき}."},
+    {"quote": "婁宿", "text": "{婁宿|ろうしゆく}: one of the twenty-eight 'mansions' of Chinese astronomy, the star groups along the moon's path (the 1925 edition: the sky is divided into twenty-eight parts, this is one in the west, and every day is assigned to one of them). Ro lies in what Western astronomy calls Aries. Some modern commentaries point out that in the usual system that assigns a mansion to each day, the thirteenth of the ninth month is a Ro day, but in the eighth month it is the eighteenth, not the fifteenth."},
+    {"quote": "清明なる故に", "text": "{清明|せいめい}: 'clear and bright'. The whole section is one piece of calendar lore, given without comment."}
+  ]
+}

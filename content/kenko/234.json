@@ -1,0 +1,38 @@
+{
+  "number": 234,
+  "title": "Just tell them",
+  "translation": [
+    "When someone asks you a question, he probably knows a bit about it already. Maybe that's why some people feel a plain answer would be silly, and give one that only leaves him confused. That's not good. He may know, and still ask to make sure. And some people really don't know. Why wouldn't they? Just tell them clearly. It sounds more grown-up.",
+    "Same with news. Someone hasn't heard yet, and you write to him as if he knew as much as you do: \"Well, that business with So-and-so. Shocking.\" Now he has to write back and ask what happened. Annoying. Even when everybody's talking about something, a person can miss it. What's the harm in telling it so they can follow?",
+    "It's people who haven't been around much who do this."
+  ],
+  "original": [
+    "{人|ひと}の{物|もの}を{問|と}ひたるに、{知|し}らずしもあらじ。",
+    "{有|あ}りのままにいはむはをこがましとにや、{心|こころ}まどはすやうに{返|かへ}り{事|ごと}したる、よからぬ{事|こと}なり。",
+    "{知|し}りたる{事|こと}も、{猶|なほ}さだかにと{思|おも}ひてや{問|と}ふらむ。",
+    "{又|また}まことに{知|し}らぬ{人|ひと}もなどか{無|な}からむ。",
+    "うららかに{言|い}ひ{聞|き}かせたらむは、おとなしく{聞|きこ}えなまし。",
+    "{人|ひと}はいまだ{聞|き}き{及|およ}ばぬことを、わが{知|し}りたる{儘|まま}に、「さてもその{人|ひと}の{事|こと}の{浅|あさ}ましき。」などばかり{言|い}ひやりたれば、いかなる{事|こと}のあるにかと{推|お}し{返|かへ}し{問|と}ひにやるこそ、こころづきなけれ。",
+    "{世|よ}にふりぬる{事|こと}をも、おのづから{聞|き}きもらす{事|こと}もあれば、{覚束|おぼつか}なからぬやうに{告|つ}げやりたらむ、{悪|あ}しかるべきことかは。",
+    "かやうの{事|こと}は、ものなれぬ{人|ひと}のあることなり。"
+  ],
+  "literal": [
+    "When a person asks about something, it is surely not that he does not know at all.",
+    "Is it that answering as things are would be foolish? Giving a reply that confuses the mind is a bad thing.",
+    "Perhaps he asks even about things he knows, thinking to make them still more certain.",
+    "Also, why should there not be people who truly do not know?",
+    "If one told them clearly, it would sound sensible.",
+    "When, about something another has not yet heard, one sends word just as one knows it, only saying things like 'Well, that business of that person, how shocking', so that he has to send back asking what has happened: that is unpleasant.",
+    "Since even things that have become old news in the world one may happen to miss hearing, would it be bad to send word so that it is not unclear?",
+    "Such things are what inexperienced people do."
+  ],
+  "notes": [
+    {"quote": "知らずしもあらじ", "text": "しも stresses the negative: 'it is not that he does not know at all'. The 1925 edition reads it this way: the person asking probably knows something. That is the excuse for the vague answer that follows."},
+    {"quote": "をこがましとにや", "text": "をこがまし: 'foolish, ridiculous' (the 1925 edition: 'silly'). Modern おこがましい has moved on to 'presumptuous'. とにや: 'is it because (they think)…?', with the verb left out."},
+    {"quote": "おとなしく聞えなまし", "text": "おとなし: 'mature, sensible', not modern 'quiet' (compare section 236; the 1925 edition: 'moderate'). なまし: 'it would…', a guess about a case that has not happened."},
+    {"quote": "浅ましき", "text": "あさまし: 'shocking, startling', good or bad. Modern あさましい narrowed to 'shameful, mean'. Ending on the attributive form, with no noun after it, makes it an exclamation."},
+    {"quote": "言ひやりたれば", "text": "やる: 'to send'. Both people are writing: the news goes out in a note, and the question comes back the same way."},
+    {"quote": "こころづきなけれ", "text": "{心|こころ}{付|づ}きなし: 'unpleasant, irritating', literally 'it doesn't attach to the heart'. こそ … けれ."},
+    {"quote": "ものなれぬ人", "text": "{物|もの}{馴|な}る: 'to be used to things, to know how the world works'. ものなれぬ: 'inexperienced'."}
+  ]
+}

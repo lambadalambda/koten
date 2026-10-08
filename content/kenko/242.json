@@ -1,0 +1,40 @@
+{
+  "number": 242,
+  "title": "Three things we want",
+  "translation": [
+    "We are always being pushed around by what we like and what we don't. It all comes down to pain and pleasure. Pleasure means the things we like and love, and we never stop chasing them.",
+    "The first thing we want is a name for ourselves. That comes in two kinds: being praised for how we live, and being praised for what we can do. The second is sex, and the third is good food. No other wish comes close to these three. They all come from seeing the world upside down, and they bring endless trouble. Best not to want them at all."
+  ],
+  "original": [
+    "とこしなへに、{違順|ゐじゆん}につかはるる{事|こと}は、{偏|ひとへ}に{苦楽|くらく}の{為|ため}なり。",
+    "{楽|らく}といふは{好|この}み{愛|あい}する{事|こと}なり。",
+    "これを{求|もと}むる{事|こと}{止|や}む{時|とき}{無|な}し。",
+    "{楽欲|げうよく}するところ、{一|いち}には{名|な}なり。",
+    "{名|な}に{二種|にしゆ}あり。",
+    "{行跡|かうせき}と{才芸|さいげい}とのほまれなり。",
+    "{二|に}には{色欲|しきよく}、{三|さん}には{味|あぢは}ひなり。",
+    "{万|よろづ}の{願|ねが}ひ、この{三|みつ}には{如|し}かず。",
+    "これ{顛倒|てんだう}の{相|さう}より{起|おこ}りて、{若干|そこばく}の{煩|わづら}ひあり。",
+    "{求|もと}めざらむには{如|し}かじ。"
+  ],
+  "literal": [
+    "That we are always used by the adverse and the agreeable is entirely for the sake of pain and pleasure.",
+    "Pleasure means liking and loving.",
+    "There is no time when the seeking of it stops.",
+    "What we desire: first is fame.",
+    "There are two kinds of fame.",
+    "It is praise for conduct and for talents and arts.",
+    "Second is lust, third is taste.",
+    "All wishes do not equal these three.",
+    "These arise from the aspect of inverted views and bring so many troubles.",
+    "Nothing will be better than not seeking them."
+  ],
+  "notes": [
+    {"quote": "違順につかはるる", "text": "{違順|ゐじゆん}: a Buddhist pair, things that go against our wishes and things that go along with them. つかはる: 'to be used, to be ordered about', as a servant is. We serve our likes and dislikes."},
+    {"quote": "楽欲", "text": "{楽欲|げうよく}: 'to desire, to crave', a Buddhist word, with the old Buddhist reading that the edition gives."},
+    {"quote": "行跡と才芸とのほまれ", "text": "{行跡|かうせき}: 'conduct, how one lives'. {才芸|さいげい}: learning and skills. Kenkō has already taken both apart in section 38: a good name for virtue or for learning is worth nothing either."},
+    {"quote": "三には味ひなり", "text": "{味|あぢは}ひ: 'taste', and so the pleasure of eating and drinking."},
+    {"quote": "顛倒の相", "text": "{顛倒|てんだう}: 'upside down'. The 1925 edition explains: the mistaken views that take the impermanent for permanent, pain for pleasure, what has no self for a self, and the impure for pure. All three wishes grow from seeing things the wrong way round."},
+    {"quote": "求めざらむには如かじ", "text": "には{如|し}かじ: 'nothing will be better than', the same close as section 240, about love."}
+  ]
+}
