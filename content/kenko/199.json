@@ -1,0 +1,20 @@
+{
+  "number": 199,
+  "title": "Two scales",
+  "translation": [
+    "Court music has two kinds of scale, ryo and ritsu. Gyōsen, a senior priest at Yokawa on Mount Hiei, once told me: \"China is a ryo country. It has no ritsu notes. Japan is ritsu only, with no ryo notes.\""
+  ],
+  "original": [
+    "{横川|よがは}の{行宣|ぎやうせん}{法印|ほふいん}が{申|まう}しはべりしは、「{唐土|もろこし}は{呂|りよ}の{国|くに}なり、{律|りつ}の{音|こゑ}なし。{和国|わこく}は{単律|たんりつ}の{国|くに}にて{呂|りよ}の{音|こゑ}なし。」と{申|まう}しき。"
+  ],
+  "literal": [
+    "What Gyōsen, the Hōin of Yokawa, said was: 'China is a country of ryo; it has no ritsu notes. Japan is a country of ritsu alone and has no ryo notes', he said."
+  ],
+  "notes": [
+    {"quote": "横川", "text": "{横川|よがは}: one of the three main areas of the great Tendai monastery on Mount Hiei, north-east of Kyoto. The 1925 edition glosses it simply as the Yokawa valley on Mount Hiei."},
+    {"quote": "行宣法印", "text": "{法印|ほふいん}: the highest rank for Buddhist priests. The edition gives no further information about Gyōsen."},
+    {"quote": "呂の国なり、律の音なし", "text": "{呂|りよ} and {律|りつ}: the two families of scales in court music (gagaku), which came to Japan from China. The text gives no reasons, and Kenkō adds no comment."},
+    {"quote": "律の音なし", "text": "{音|こゑ}: the edition's reading. Here 'notes, tones', not 'voice'."},
+    {"quote": "申しはべりしは", "text": "{申|まう}しはべりしは … と{申|まう}しき: 'what he said was … he said'. The verb comes twice, which is common in reported speech. き: the past for something the writer experienced himself. Kenkō heard this from Gyōsen in person."}
+  ]
+}

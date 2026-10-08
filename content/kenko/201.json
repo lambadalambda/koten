@@ -1,0 +1,18 @@
+{
+  "number": 201,
+  "title": "Dismount, then turn back",
+  "translation": [
+    "Of the two markers called \"Dismount\" and \"Commoners turn back\", \"Dismount\" is the outer one and \"Commoners turn back\" the inner one."
+  ],
+  "original": [
+    "{退凡|たいぼん}{下乗|げじよう}の{卒塔婆|そとば}、{外|そと}なるは{下乗|げじよう}、{内|うち}なるは{退凡|たいぼん}なり。"
+  ],
+  "literal": [
+    "Of the stupas of Taibon and Gejō, the outer one is Gejō, the inner one is Taibon."
+  ],
+  "notes": [
+    {"quote": "退凡下乗", "text": "{下乗|げじよう}: 'get down from your carriage'. {退凡|たいぼん}: 'ordinary people withdraw'. The names come from Vulture Peak in India, where the Buddha preached. The Chinese monk Xuanzang (seventh century) writes in the record of his travels that King Bimbisāra built a road up the hill with two small stupas: at the first the king got down and went on foot, at the second he sent the ordinary people back. So the order follows the climb: first the dismounting, then only the king's party goes on. Modern commentaries place these two markers on Vulture Peak itself."},
+    {"quote": "卒塔婆", "text": "{卒塔婆|そとば}: a stupa, and in Japan also the wooden grave posts in the same shape (see section 30). The 1925 edition says they served as signposts: ordinary people could not go past them, and even nobles had to get off their carriage or horse. Its gloss speaks of three stupas, though the text and Xuanzang name only two. The translation calls them simply 'markers'."},
+    {"quote": "外なるは", "text": "なる here is にある 'which is at': '(the one) which is outside'."}
+  ]
+}

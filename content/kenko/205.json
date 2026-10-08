@@ -1,0 +1,29 @@
+{
+  "number": 205,
+  "title": "Sworn oaths",
+  "translation": [
+    "On Mount Hiei they have a written oath called the \"Great Teacher invocation\". The first person to write one was the priest Jie.",
+    "The law has nothing to say about oaths like that. In the great reigns of the past, no government business was ever settled by a sworn oath. The habit has only spread recently.",
+    "One more thing from the law: water and fire can't be made impure. What holds them can."
+  ],
+  "original": [
+    "{比叡山|ひえいざん}に、{大師|だいし}{勧請|くわんじやう}の{起請文|きしやうもん}といふ{事|こと}は、{慈恵|じゑ}{僧正|そうじやう}{書|か}きはじめ{給|たま}ひけるなり。",
+    "{起請文|きしやうもん}といふ{事|こと}、{法曹|はふさう}にはその{沙汰|さた}なし。",
+    "{古|いにしへ}の{聖代|せいだい}、すべて{起請文|きしやうもん}につきて{行|おこな}はるる{政|まつりごと}はなきを、{近代|きんだい}このこと{流布|るふ}したるなり。",
+    "また{法令|はふりやう}には、{水火|すいくわ}に{穢|けが}れをたてず、{入物|いれもの}にはけがれあるべし。"
+  ],
+  "literal": [
+    "On Mount Hiei, the thing called the written oath invoking the Great Teacher: it was the Sōjō Jie who began writing it.",
+    "As for the thing called a written oath, in law there is no provision for it.",
+    "In the sage reigns of old, there was no government at all carried out on the basis of written oaths, but in recent times this has spread.",
+    "Also, in the law, impurity is not set on water and fire, but in their containers there may be impurity."
+  ],
+  "notes": [
+    {"quote": "起請文", "text": "{起請文|きしやうもん}: a written oath that names gods and buddhas as witnesses and calls down their punishment on the writer if he breaks it. In Kenkō's time such oaths were very common, in lawsuits, agreements and promises of all kinds."},
+    {"quote": "大師勧請", "text": "{勧請|くわんじやう}: to invite a god or buddha to be present. The 1925 edition takes {大師|だいし} 'great teacher' as Jie Daishi himself, the writer, and explains the phrase as his oath inviting the spirits of gods and buddhas. Modern commentaries (for example roudokus.com) take the great teacher as Saichō (Dengyō Daishi), the founder of Mount Hiei, invited as witness to the oath."},
+    {"quote": "慈恵僧正", "text": "Ryōgen (912–985), from Asai in Ōmi, as the 1925 edition notes. He became head of the Tendai school and rebuilt Mount Hiei; his posthumous title was Jie Daishi. {僧正|そうじやう}: a high rank for priests, here simply 'the priest'."},
+    {"quote": "法曹にはその沙汰なし", "text": "{法曹|はふさう}: the law and its experts. {沙汰|さた}: here 'provision, treatment'. The law does not deal with oaths at all."},
+    {"quote": "古の聖代", "text": "{聖代|せいだい}: the reigns of wise rulers in the past, the ideal against which Kenkō often measures his own time. The text names no reigns."},
+    {"quote": "水火に穢れをたてず", "text": "{穢|けが}れ: ritual impurity, for example from contact with death or blood, which stopped people from taking part in rites for a set time. The rule here: water and fire themselves do not become impure, but the vessels that hold them can. {入物|いれもの}: the edition's reading. This last sentence is a separate point, also from the law."}
+  ]
+}

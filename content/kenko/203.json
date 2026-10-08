@@ -1,0 +1,32 @@
+{
+  "number": 203,
+  "title": "The quiver on the door",
+  "translation": [
+    "There used to be a ritual of hanging a quiver on the house of someone the emperor had punished. Nobody knows anymore how it was done.",
+    "When the emperor was ill, or when there was trouble in the country, a quiver was hung at the Gojō Tenjin shrine. The god at Kurama called the Quiver God is another one where a quiver was hung.",
+    "Once a police officer had hung his quiver on a house, nobody went in or out. When that custom died out, they started sealing the house instead."
+  ],
+  "original": [
+    "{勅勘|ちよくかん}の{所|ところ}に{靫|ゆぎ}かくる{作法|さほふ}、{今|いま}は{絶|た}えて{知|し}れる{人|ひと}なし。",
+    "{主上|しゆしやう}の{御悩|ごなう}、{大|おほ}かた{世|よ}の{中|なか}のさわがしき{時|とき}は、{五条|ごでう}の{天神|てんじん}に{靫|ゆぎ}をかけらる。",
+    "{鞍馬|くらま}に{靫|ゆぎ}の{明神|みやうじん}といふも、{靫|ゆぎ}かけられたりける{神|かみ}なり。",
+    "{看督長|かどのをさ}の{負|お}ひたる{靫|ゆぎ}を、その{家|いへ}にかけられぬれば、{人|ひと}{出|い}で{入|い}らず。",
+    "この{事|こと}{絶|た}えて{後|のち}、{今|いま}の{世|よ}には、{封|ふう}をつくることになりにけり。"
+  ],
+  "literal": [
+    "The procedure of hanging a quiver at the place of (someone under) imperial censure: now it has died out and there is no one who knows it.",
+    "At the illness of the emperor, and generally at times when the world is in turmoil, a quiver is hung at the Gojō Tenjin.",
+    "The one at Kurama called the Quiver Myōjin, too, is a god at which a quiver was hung.",
+    "When the quiver carried by a kadonoosa has been hung on that house, people do not go out or in.",
+    "After this practice died out, in the present age it has become (the custom) to make a seal."
+  ],
+  "notes": [
+    {"quote": "勅勘の所", "text": "{勅勘|ちよくかん}: punishment or disgrace ordered by the emperor. {所|ところ} here is the punished person's house. The house was closed off, and the quiver showed it."},
+    {"quote": "靫", "text": "{靫|ゆぎ}: a quiver, a container for arrows carried on the back (the 1925 edition glosses it simply as 'a container for arrows')."},
+    {"quote": "五条の天神", "text": "The Gojō Tenjin shrine, which still exists in Kyoto. The 1925 edition places it south of Gojō, west of Nishinotōin, and names its god as Sukunahikona. This Tenjin is not Sugawara no Michizane. The text does not say what the quiver at the shrine was for."},
+    {"quote": "鞍馬に靫の明神", "text": "{明神|みやうじん}: a title for a god. The Quiver God at Kurama, north of Kyoto, is usually identified with today's Yuki Shrine (由岐神社) there."},
+    {"quote": "看督長", "text": "{看督長|かどのをさ}: an officer of the capital police (検非違使), the ones who made arrests, as the 1925 edition notes. His quiver on the house meant the house was under police order."},
+    {"quote": "封をつくる", "text": "{封|ふう}: a seal, probably a paper seal on the gate. The custom in Kenkō's day, as the last sentence says."},
+    {"quote": "今は絶えて知れる人なし", "text": "{絶|た}えて: 'completely'. This section and the next are both about old procedures that nobody remembers anymore."}
+  ]
+}

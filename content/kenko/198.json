@@ -1,0 +1,21 @@
+{
+  "number": 198,
+  "title": "Titles in name only",
+  "translation": [
+    "The \"nominal vice-governor\", a title with no duties and no pay, wasn't the only one of its kind. There were nominal provincial clerks too. You'll find them in the Seiji Yōryaku."
+  ],
+  "original": [
+    "{揚名介|やうめいのすけ}に{限|かぎ}らず、{揚名|やうめい}{目|さくわん}といふものあり。",
+    "{政事要略|せいじえうりやく}にあり。"
+  ],
+  "literal": [
+    "Not limited to the nominal vice-governor, there is also a thing called the nominal clerk.",
+    "It is in the Seiji Yōryaku."
+  ],
+  "notes": [
+    {"quote": "揚名介", "text": "{揚名介|やうめいのすけ}: a vice-governor of a province in name only. The 1925 edition glosses it as 'a vice-governor with the title but no duties and no salary'. The word is famous from the 'Yūgao' chapter of the Tale of Genji, where it describes the owner of a house, and later readers of Genji argued about what it meant."},
+    {"quote": "揚名目", "text": "{目|さくわん}: the fourth and lowest of the four ranks of a provincial office: governor ({守|かみ}), vice-governor ({介|すけ}), secretary ({掾|じよう}) and clerk. The edition gives the reading さくわん (modern さかん). 'Clerk' in the translation is only an approximation."},
+    {"quote": "政事要略", "text": "The Seiji Yōryaku, a large collection of laws and administrative precedents. The 1925 edition says it was compiled by Koremune no Tadasuke ({允亮|ただすけ}) in the reign of Emperor Ichijō (around 1000). Only part of it survives."},
+    {"quote": "政事要略にあり", "text": "This section and the ones around it are short notes on old words, offices and customs, each with its source. Compare sections 197 and 199–205."}
+  ]
+}

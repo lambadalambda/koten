@@ -1,0 +1,32 @@
+{
+  "number": 208,
+  "title": "How to tie a scroll",
+  "translation": [
+    "When people tie the cord on a sutra scroll, they usually cross it over in an X, from the top and from the bottom, and then pull the end of the loop out sideways between the two strands.",
+    "Kōshun, a senior priest of the Kegon-in, used to untie scrolls done like that and have them tied again. \"That's a modern habit,\" he said. \"It looks awful. Done properly, you just wind the cord round and round, and tuck the end of the loop in from top to bottom.\"",
+    "He was from the old days, the kind of man who knew things like that."
+  ],
+  "original": [
+    "{経文|きやうもん}などの{紐|ひも}を{結|ゆ}ふに、{上下|うへした}より{襷|たすき}にちがへて、{二|ふた}すぢの{中|なか}より、わなの{頭|かしら}を{横|よこ}ざまにひき{出|いだ}すことは、{常|つね}のことなり。",
+    "さやうにしたるをば、{華厳院|けごんゐん}の{弘舜|こうしゆん}{僧正|そうじやう}{解|と}きて{直|なほ}させけり。",
+    "「これはこの{頃|ころ}やうのことなり。いと{見|み}にくし。",
+    "うるはしくは、ただくるくると{捲|ま}きて{上|うへ}より{下|した}へ、わなの{先|さき}を{挿|さしはさ}むべし。」と{申|まう}されけり。",
+    "ふるき{人|ひと}にて、かやうのこと{知|し}れる{人|ひと}になむ{侍|はべ}りける。"
+  ],
+  "literal": [
+    "When tying the cord of a sutra scroll or the like, crossing it like a sleeve cord from top and bottom and pulling the head of the loop out sideways from between the two strands is the usual thing.",
+    "Ones done in that way, the Sōjō Kōshun of the Kegon-in untied and had redone.",
+    "'This is the style of these days. It is very ugly to look at.",
+    "Properly, you should simply wind it round and round and insert the tip of the loop from top to bottom', he said.",
+    "He was a man of the old days, and a person who knew such things."
+  ],
+  "notes": [
+    {"quote": "経文などの紐", "text": "Sutras were copied on scrolls, and a cord attached to the outer end was wound round the rolled scroll and tied, as the 1925 edition notes."},
+    {"quote": "襷にちがへて", "text": "{襷|たすき}: a cord tied crosswise over the back to hold up the sleeves while working. ちがふ: 'to cross'. The edition glosses it as 'crossing like a tasuki', so the cord makes an X."},
+    {"quote": "わなの頭", "text": "わな: a loop, the bent end of the cord (edition). Modern わな means 'a trap, a snare', which is a loop of the same kind."},
+    {"quote": "弘舜僧正", "text": "{僧正|そうじやう}: a high rank for priests. The 1925 edition says nothing is known about Kōshun. Which Kegon-in is meant is also not clear."},
+    {"quote": "この頃やう", "text": "'The style of these days', as the edition glosses it. Compare {今様|いまやう} in section 22, where Kenkō himself complains about new ways of speaking."},
+    {"quote": "うるはしくは", "text": "うるはし: 'correct, formal, proper'. Not yet modern うるわしい 'lovely'. The edition glosses it as 'done perfectly'."},
+    {"quote": "知れる人になむ侍りける", "text": "なむ … ける: なむ needs the attributive form, so けり becomes ける. {侍|はべ}り: polite 'to be', addressed to the reader."}
+  ]
+}

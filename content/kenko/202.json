@@ -1,0 +1,36 @@
+{
+  "number": 202,
+  "title": "The month without gods",
+  "translation": [
+    "The tenth month of the year is called kannazuki, \"the month without gods\". But nothing written says that you should hold back on rites for the gods because of it, and there's no old text behind the idea either. Maybe the month got its name because the shrines hold no festivals then.",
+    "There's also a theory that in this month all the gods gather at the Grand Shrine of Ise. Nothing backs that up. If it were true, Ise would make it a special festival month, and it doesn't.",
+    "Emperors have often visited shrines in the tenth month. Most of those visits, though, have bad luck attached to them."
+  ],
+  "original": [
+    "{十月|じふぐわつ}をかみなづきといひて、{神事|じんじ}に{憚|はばか}るべき{由|よし}は、{記|しる}したるものなし。",
+    "{本文|ほんもん}も{見|み}えず。",
+    "ただし、{当月|たうげつ}{諸社|しよしや}の{祭|まつり}なきゆゑに、この{名|な}あるか。",
+    "この{月|つき}{万|よろづ}の{神|かみ}たち、{太神宮|だいじんぐう}へ{集|あつま}り{給|たま}ふなどいふ{説|せつ}あれども、その{本説|ほんせつ}なし。",
+    "さる{事|こと}ならば、{伊勢|いせ}には{殊|こと}に{祭月|さいげつ}とすべきに、その{例|ためし}もなし。",
+    "{十月|じふぐわつ}、{諸社|しよしや}の{行幸|ぎやうかう}、その{例|ためし}も{多|おほ}し。",
+    "{但|ただ}し{多|おほ}くは{不吉|ふきつ}の{例|ためし}なり。"
+  ],
+  "literal": [
+    "That the tenth month is called kaminazuki and that one should therefore refrain in rites for the gods: there is nothing that records this.",
+    "No authoritative text can be found either.",
+    "However, is it that it has this name because in this month there are no festivals at the various shrines?",
+    "There is a theory that in this month all the gods gather at the Grand Shrine, but there is no source for it.",
+    "If that were so, Ise should make it a festival month especially, but there is no such precedent either.",
+    "In the tenth month, imperial visits to the various shrines: there are many precedents of that too.",
+    "However, most of them are unlucky precedents."
+  ],
+  "notes": [
+    {"quote": "かみなづき", "text": "かみなづき, modern かんなづき: the old name of the tenth month of the lunar calendar, usually written {神無月|かんなづき} 'the month without gods'. That spelling is what the section argues about. The 1925 edition mentions other explanations: 'the month without thunder', or 'the month of the new-rice offering'. Many modern scholars take な as an old particle meaning 'of', so the name would be 'the month of the gods'."},
+    {"quote": "神事に憚るべき由は", "text": "{神事|じんじ}: Shinto rites. {憚|はばか}る: 'to hold back, to avoid'. The idea he rejects: if the gods are away, rites for them in this month are pointless or should be avoided."},
+    {"quote": "本文も見えず", "text": "{本文|ほんもん}: the edition's reading. An authoritative old text, often a Chinese classic, on which a claim can be based. {本説|ほんせつ} a little later means much the same: a source."},
+    {"quote": "太神宮へ集り給ふ", "text": "{太神宮|だいじんぐう}: the Grand Shrine of Ise, the shrine of the sun goddess Amaterasu. The version best known today says the gods all meet at Izumo Shrine, where the month is called かみありづき, 'the month with gods'. The text has Ise. Some modern commentators think Kenkō mixed up the two."},
+    {"quote": "伊勢には殊に祭月とすべきに", "text": "His argument against the theory: if all the gods came to Ise in this month, Ise would celebrate it. It does not. {祭月|さいげつ}: 'festival month'. The edition gives no reading; さいげつ follows modern commentaries."},
+    {"quote": "諸社の行幸", "text": "{行幸|ぎやうかう}: a journey of the emperor. Emperors made formal visits to the great shrines, and many of them took place in the tenth month. So the month cannot have been one to avoid."},
+    {"quote": "多くは不吉の例なり", "text": "{不吉|ふきつ}: 'unlucky'. The text does not say what was unlucky about them: the visits may have been made because of some misfortune, or followed by one. Commentators read it both ways."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 197,
+  "title": "A fixed number",
+  "translation": [
+    "People know the word jōgaku, \"fixed number\", from temple monks: certain temples have a fixed number of official monks. But it isn't only used for monks. The Engishiki also has \"jōgaku palace women\". It's the general word for any public post with a set number of people."
+  ],
+  "original": [
+    "{諸寺|しよじ}の{僧|そう}のみにもあらず、{定額|ぢやうがく}の{女嬬|によじゆ}といふこと、{延喜式|えんぎしき}に{見|み}えたり。",
+    "すべて{数|かず}さだまりたる{公人|くにん}の{通号|つうがう}にこそ。"
+  ],
+  "literal": [
+    "It is not only (said of) the monks of the various temples: the expression 'fixed-number nyoju' appears in the Engishiki.",
+    "It is surely the common name for public servants whose number is fixed."
+  ],
+  "notes": [
+    {"quote": "諸寺の僧のみにもあらず", "text": "The sentence starts in the middle of a thought: the word it is about, {定額|ぢやうがく}, only comes in the next phrase. Readers knew it from {定額僧|ぢやうがくそう}, the monks appointed in a fixed number to officially recognised temples. The translation puts that fact first."},
+    {"quote": "定額の女嬬", "text": "{女嬬|によじゆ}: low-ranking women serving in the palace. The 1925 edition glosses the phrase as 'a fixed number of low-ranking women officials'."},
+    {"quote": "延喜式", "text": "The Engishiki, a large collection of detailed rules for government offices and court rites, begun in the Engi era and completed in 927. The 1925 edition describes it as a book of yearly ceremonies, compiled by Fujiwara no Tokihira and Fujiwara no Tadahira."},
+    {"quote": "公人", "text": "{公人|くにん}: anyone in public service, from officials down to palace staff. {通号|つうがう}: a general name that covers many cases."},
+    {"quote": "通号にこそ", "text": "こそ with no verb after it: the rest ('it is') is left out. Compare section 180."}
+  ]
+}

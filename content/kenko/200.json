@@ -1,0 +1,21 @@
+{
+  "number": 200,
+  "title": "Two kinds of bamboo",
+  "translation": [
+    "Kuretake bamboo has narrow leaves. Kawatake has broad ones. In the palace garden, the clump by the stream is kawatake, and the one planted over towards the Jijūden hall is kuretake."
+  ],
+  "original": [
+    "{呉竹|くれたけ}は{葉|は}ほそく、{河竹|かはたけ}は{葉|は}ひろし。",
+    "{御溝|みかは}にちかきは{河竹|かはたけ}、{仁寿殿|じじうでん}の{方|かた}に{寄|よ}りて{植|う}ゑられたるは{呉竹|くれたけ}なり。"
+  ],
+  "literal": [
+    "Kuretake has narrow leaves; kawatake has broad leaves.",
+    "The one near the palace stream is kawatake; the one planted close to the side of the Jijūden is kuretake."
+  ],
+  "notes": [
+    {"quote": "呉竹", "text": "{呉竹|くれたけ}: 'Wu bamboo', named after Wu (呉), an old Chinese kingdom, because it was thought to have come from China. {河竹|かはたけ}: 'river bamboo'. Which modern species they were is not certain."},
+    {"quote": "御溝", "text": "{御溝|みかは}: the edition's reading, short for {御溝水|みかはみづ}, the stream that ran through the palace gardens past the emperor's living quarters, the Seiryōden."},
+    {"quote": "仁寿殿", "text": "The Jijūden, a palace hall just east of the Seiryōden, as the 1925 edition notes. The edition reads じじうでん. The two clumps of bamboo grew in the garden between the two buildings, each in its own low enclosure."},
+    {"quote": "植ゑられたるは", "text": "{植|う}う 'to plant' is a ワ-row verb in classical Japanese, so its forms are written with ゑ: {植|う}ゑ. Modern Japanese writes {植|う}え."}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 204,
+  "title": "The frame",
+  "translation": [
+    "When a criminal is caned, he's tied to a frame first. What the frame looked like, and the right way to tie him to it, nobody knows anymore, I'm told."
+  ],
+  "original": [
+    "{犯人|はんにん}を{笞|しもと}にて{打|う}つ{時|とき}は、{拷器|がうき}によせて{結|ゆ}ひつくるなり。",
+    "{拷器|がうき}のやうも、よする{作法|さほふ}も{今|いま}はわきまへ{知|し}れる{人|ひと}なしとぞ。"
+  ],
+  "literal": [
+    "When one beats a criminal with a cane, one brings him to the torture frame and ties him to it.",
+    "Both the form of the frame and the procedure of bringing (him to it): now there is no one who understands and knows them, they say."
+  ],
+  "notes": [
+    {"quote": "笞", "text": "{笞|しもと}: a cane, a thin stick. Beating with it was the lightest of the five punishments in the old legal codes, below beating with a heavier stick, forced labour, exile and death."},
+    {"quote": "拷器", "text": "{拷器|がうき}: a frame or stand to tie the prisoner to. 拷 is the same character as in modern {拷問|ごうもん} 'torture'."},
+    {"quote": "よせて結ひつくる", "text": "よす: 'to bring close'. {結|ゆ}ひつく: 'to tie onto'. The procedure had two steps, and the next sentence says both are forgotten."},
+    {"quote": "知れる人なしとぞ", "text": "とぞ with nothing after it: 'so they say'. Kenkō got this from someone else. The same complaint as in section 203: an old procedure that nobody knows anymore."}
+  ]
+}

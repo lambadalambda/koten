@@ -1,0 +1,38 @@
+{
+  "number": 207,
+  "title": "The snakes at Kameyama",
+  "translation": [
+    "When they were levelling the ground to build the Kameyama palace, they came upon a mound with big snakes coiled together in it, more than anyone could count. People said the snakes were the god of the place and reported it. The question came back from the throne: what should be done?",
+    "Everyone said: \"If they've been on this land since ancient times, you can't just dig them out and throw them away.\"",
+    "Only this minister disagreed. \"These are creatures living on the emperor's land. How could they put a curse on anyone for building him a palace? Gods and spirits don't do wrong. There's nothing to be afraid of. Just dig them all out and throw them away.\"",
+    "So they broke up the mound and threw the snakes into the Ōi River. No curse came of it at all."
+  ],
+  "original": [
+    "{亀山殿|かめやまどの}{建|た}てられむとて、{地|ち}を{引|ひ}かれけるに、{大|おほ}きなる{蛇|くちなは}{数|かず}もしらず{凝|こ}り{集|あつま}りたる{塚|つか}ありけり。",
+    "この{所|ところ}の{神|かみ}なりといひて、{事|こと}の{由|よし}{申|まう}しければ、「いかがあるべき。」と{勅問|ちよくもん}ありけるに、",
+    "「ふるくよりこの{地|ち}を{占|し}めたるものならば、さうなく{掘|ほ}り{捨|す}てられがたし。」とみな{人|ひと}{申|まう}されけるに、",
+    "この{大臣|おとど}{一人|ひとり}、「{王土|わうど}に{居|を}らむ{虫|むし}、{皇居|くわうきよ}を{建|た}てられむに、{何|なに}の{祟|たた}りをかなすべき。",
+    "{鬼神|きじん}は{邪|よこしま}なし。{咎|とが}むべからず。{唯|ただ}{皆|みな}{掘|ほ}りすつべし。」と{申|まう}されたりければ、{塚|つか}をくづして、{蛇|くちなは}をば{大井川|おほゐがは}に{流|なが}してけり。",
+    "{更|さら}にたたりなかりけり。"
+  ],
+  "literal": [
+    "When, intending to build the Kameyama palace, they were levelling the ground, there was a mound where big snakes, without number, were coiled and gathered together.",
+    "Saying they were the god of this place, they reported the circumstances, and when there was an imperial question, 'What should be done?',",
+    "everyone said, 'If they are things that have occupied this land from long ago, they can hardly be dug out and thrown away without a second thought';",
+    "this minister alone said, 'Creatures that live on the sovereign's land: when the sovereign's residence is being built, what curse could they bring?",
+    "Gods and spirits are not wicked. There is no need to fear them. Just dig them all out and throw them away.' Since he said so, they broke up the mound and threw the snakes into the Ōi River.",
+    "There was no curse at all."
+  ],
+  "notes": [
+    {"quote": "亀山殿", "text": "The Kameyama palace at Saga, west of Kyoto, built in the thirteenth century for Retired Emperor Go-Saga (the 1925 edition calls it a retired emperor's residence). The temple Tenryūji was later built on its site."},
+    {"quote": "地を引かれけるに", "text": "{地|ち}を{引|ひ}く: to level the ground before building."},
+    {"quote": "蛇", "text": "{蛇|くちなは}: an old word for 'snake', literally 'rotten rope'. Snakes were often taken as the god or the messenger of a place."},
+    {"quote": "勅問", "text": "{勅問|ちよくもん}: a question from the emperor. The text does not say who asked; commentaries take it to be Go-Saga, who had already retired. The translation keeps it as 'the throne'."},
+    {"quote": "さうなく", "text": "さうなく ({左右|さう}なく): 'without hesitation, without a second thought'."},
+    {"quote": "この大臣一人", "text": "'This minister': the man of the previous section, Tokudaiji Sanemoto, the father who sent the ox home. Read together, the two sections show the same man ignoring two omens, and nothing happens either time."},
+    {"quote": "王土に居らむ虫", "text": "{王土|わうど}: 'the sovereign's land'. The idea that all land belongs to the ruler goes back to a line in the Chinese Book of Songs: 'under all of heaven, there is no land that is not the king's'. {虫|むし}: any small creature, snakes included."},
+    {"quote": "鬼神は邪なし", "text": "{鬼神|きじん}: gods and spirits, not 'demons' here. Real gods do not act unjustly, so they would not punish a just act."},
+    {"quote": "大井川", "text": "The Ōi River, the river at Arashiyama near the palace site, the name of today's Katsura River where it passes Arashiyama."},
+    {"quote": "更にたたりなかりけり", "text": "{更|さら}に … なし: 'not at all'. The section ends on this flat sentence, like the previous one."}
+  ]
+}

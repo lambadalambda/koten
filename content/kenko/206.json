@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "title": "The ox on the judge's seat",
+  "translation": [
+    "When Lord Tokudaiji, later a minister, was head of the capital police, the police council was once meeting at the middle gate. An ox belonging to one of the officers, Akikane, got loose, wandered into the office, climbed up onto the raised seat of the head of police, and lay down there, chewing the cud.",
+    "Everyone said it was a serious omen and the ox should be sent to a diviner. Lord Tokudaiji's father heard about it. \"An ox has no sense. It has legs, so it'll climb up anywhere. There's no reason to take a poor junior officer's skinny ox, the one he needs to get to work.\" He sent the ox back to its owner and had the mat it had lain on replaced.",
+    "Nothing bad happened at all, they say. As the saying goes: see something strange, don't treat it as strange, and the strangeness falls apart on its own."
+  ],
+  "original": [
+    "{徳大寺|とくだいじ}{右大臣殿|うだいじんどの}{検非違使|けびゐし}の{別当|べつたう}のとき、{中門|ちゆうもん}にて{使庁|しちやう}の{評定|ひやうぢやう}{行|おこな}はれけるほどに、{官人|くわんにん}{章兼|あきかね}が{牛|うし}はなれて、{庁|ちやう}のうちへ{入|い}りて、{大理|だいり}の{座|ざ}の{浜床|はまゆか}の{上|うへ}にのぼりて、にれうち{噛|か}みて{臥|ふ}したりけり。",
+    "{重|おも}き{怪異|けい}なりとて、{牛|うし}を{陰陽師|おんやうじ}のもとへ{遣|つかは}すべきよし、おのおの{申|まう}しけるを、",
+    "{父|ちち}の{相国|しやうこく}{聞|き}きたまひて、「{牛|うし}に{分別|ふんべつ}なし、{足|あし}あらばいづくへかのぼらざらむ。",
+    "{尫弱|わうじやく}の{官人|くわんにん}、たまたま{出仕|しゆつし}の{微牛|びぎう}をとらるべきやうなし。」とて、{牛|うし}をば{主|ぬし}にかへして、{臥|ふ}したりける{畳|たたみ}をばかへられにけり。",
+    "あへて{凶事|きやうじ}なかりけるとなむ。",
+    "{怪|あや}しみを{見|み}て{怪|あや}しまざる{時|とき}は、{怪|あや}しみかへりてやぶるといへり。"
+  ],
+  "literal": [
+    "When the Tokudaiji Minister of the Right was Superintendent of the Police, while a council of the police office was being held at the middle gate, the ox of the official Akikane got loose, went into the office, climbed onto the dais of the Superintendent's seat, chewed the cud and lay down.",
+    "Saying it was a grave omen, each of them said that the ox should be sent to a yin-yang master;",
+    "his father the Chancellor heard this and said: 'An ox has no judgement; if it has legs, where would it not climb?",
+    "There is no reason to take from a poor official the humble ox he happens to have for coming to work', and he returned the ox to its owner and had the mat it had lain on changed.",
+    "There was no misfortune at all, they say.",
+    "It is said: when you see a strange thing and do not treat it as strange, the strangeness on the contrary breaks down."
+  ],
+  "notes": [
+    {"quote": "徳大寺右大臣殿", "text": "Tokudaiji Kintaka (1253–1305). He is named by the title he had later, Minister of the Right; the 1925 edition notes that he finally became chief minister. The translation says 'later a minister' to keep the order of events clear."},
+    {"quote": "検非違使の別当", "text": "{検非違使|けびゐし}: the capital police, which also judged cases. {別当|べつたう}: its head. {使庁|しちやう} and {庁|ちやう}: its office. {大理|だいり}: the Chinese-style name for the head, as the edition notes."},
+    {"quote": "浜床", "text": "{浜床|はまゆか}: a raised seat. The 1925 edition describes four low stands, each about ninety centimetres square and thirty centimetres high, put together, with a mat on top and curtains hanging round: the seat of a high-ranking person. The ox lay down on it."},
+    {"quote": "にれうち噛みて", "text": "にれ: chewing the cud, as the edition notes. うち adds little meaning; it makes the action sound quick or casual."},
+    {"quote": "章兼", "text": "Akikane, a junior officer of the police office. The edition does not identify him further; modern commentaries take him to be Nakahara no Akikane."},
+    {"quote": "重き怪異なりとて", "text": "{怪異|けい}: the edition's reading. An omen, something strange that might mean disaster. {陰陽師|おんやうじ}: experts in divination and the calendar, who would read the omen and say what rites were needed. Sending the ox to them meant the officer lost it."},
+    {"quote": "父の相国", "text": "Tokudaiji Sanemoto (1201–1273), Kintaka's father, who had been chief minister. {相国|しやうこく}: the Chinese-style name for that office. He is also the minister of the next section."},
+    {"quote": "尫弱の官人", "text": "{尫弱|わうじやく}: weak, poor. {微牛|びぎう}: 'a humble ox'. Officials rode to work in ox carriages, so taking the ox would cost the man his transport."},
+    {"quote": "臥したりける畳をばかへられにけり", "text": "The only measure he takes: a new mat. The section reports it without comment."},
+    {"quote": "怪しみを見て怪しまざる時は、怪しみかへりてやぶる", "text": "The 1925 edition traces the saying to the Qianjin fang, a Chinese medical book of the seventh century: 見怪不怪、其怪自壊, 'see the strange and do not treat it as strange, and the strangeness destroys itself'. Modern commentaries (for example roudokus.com) give the Yijian zhi, a Song-dynasty story collection by Hong Mai, as the source instead. かへりて: 'on the contrary', here 'by itself'."}
+  ]
+}
