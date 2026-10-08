@@ -1,0 +1,42 @@
+{
+  "number": 191,
+  "title": "Things look better at night",
+  "translation": [
+    "Some people say things lose their shine after dark. That's a real pity. The sparkle, the decorations, the colours of everything look their best at night, and only then. By day you can dress plainly, in something modest. At night, bright, showy clothes look wonderful.",
+    "People too. In the lamplight the good-looking ones look even better. And a voice you hear in the dark, speaking with care, is lovely. Scents and music are at their best at night as well.",
+    "On a night when nothing special is going on, someone arrives late, beautifully turned out: lovely. When young people take an interest in each other, they notice everything at any hour. So it's exactly when you'd expect to relax that you should take care with how you look, everyday clothes or not. I love it when a fine young man washes his hair once it's dark, and a woman slips out late at night, picks up a mirror and does her face before she comes back in."
+  ],
+  "original": [
+    "{夜|よ}に{入|い}りて{物|もの}のはえ{無|な}しといふ{人|ひと}、いと{口惜|くちを}し。",
+    "{万|よろづ}の{物|もの}のきら、{飾|かざ}り、{色|いろ}ふしも、{夜|よる}のみこそめでたけれ。",
+    "{昼|ひる}は{事|こと}そぎ、およすげたる{姿|すがた}にてもありなむ。",
+    "{夜|よる}はきららかに{花|はな}やかなる{装束|さうぞく}いとよし。",
+    "{人|ひと}のけしきも、{夜|よる}の{火影|ほかげ}ぞよきはよく、{物|もの}いひたる{声|こゑ}も、{暗|くら}くて{聞|き}きたる、{用意|ようい}ある、{心憎|こころにく}し。",
+    "{匂|にほ}ひも{物|もの}の{音|ね}も、ただ{夜|よる}ぞひときはめでたき。",
+    "さして{異|こと}なる{事|こと}なき{夜|よ}、うち{更|ふ}けて{参|まゐ}れる{人|ひと}の、{清|きよ}げなる{様|さま}したる、いとよし。",
+    "{若|わか}きどち{心|こころ}とどめて{見|み}る{人|ひと}は、{時|とき}をも{分|わ}かぬものなれば、{殊|こと}にうちとけぬべき{折節|をりふし}ぞ、{褻|け}{晴|は}れなく{引|ひ}きつくろはまほしき。",
+    "よき{男|をのこ}の、{日|ひ}くれてゆするし、{女|をんな}も{夜|よ}{更|ふ}くる{程|ほど}に、すべりつつ、{鏡|かがみ}とりて{顔|かほ}などつくろひ{出|い}づるこそをかしけれ。"
+  ],
+  "literal": [
+    "People who say that things have no lustre once night has come are very regrettable.",
+    "The glitter, decoration and colouring of all things too are splendid only at night.",
+    "In the daytime one may well be in a simplified, sober appearance.",
+    "At night, glittering, showy clothes are very good.",
+    "People's looks too: in the lamplight at night, the good ones are (even) better, and the voice of someone speaking, heard in the dark, (and) considerate, is admirable.",
+    "Scents and the sound of music too are especially splendid only at night.",
+    "On a night with nothing particularly special, that a person who has come late looks neat and clean is very good.",
+    "People who, among the young, watch each other attentively do not distinguish times, so it is precisely at a time when one would be likely to relax that one would like to dress up, without (distinguishing) everyday and formal.",
+    "That a fine man, when the day has darkened, washes his hair, and a woman too, as the night grows late, slips away, takes a mirror, does her face and the like and comes out: that is charming."
+  ],
+  "notes": [
+    {"quote": "物のはえ無し", "text": "はえ: 'lustre, shine', as the 1925 edition explains. The same word lives on in modern {映|は}える, 'to look good, to stand out'."},
+    {"quote": "夜のみこそめでたけれ", "text": "こそ … けれ again, with のみ: 'it is only at night that they are splendid'. The exact opposite of what those people say."},
+    {"quote": "およすげたる", "text": "およすぐ usually means 'to grow up, to be mature'. The 1925 edition marks the word as unusual and explains it here as 'grown-up, sober, not catching the eye'."},
+    {"quote": "夜の火影ぞよきはよく", "text": "{火影|ほかげ}: lamplight. よきはよく: 'the good ones are good', which the 1925 edition explains as 'good-looking people look even better'."},
+    {"quote": "物の音", "text": "{物|もの}の{音|ね}: 'the sound of instruments', music. Not 'the sound of things'."},
+    {"quote": "うち更けて参れる人", "text": "{参|まゐ}る: to go to a place of higher rank, typically to wait on someone at court or in a great house. The scene is probably a palace or a noble household in the evening."},
+    {"quote": "褻晴れなく", "text": "{褻|け} is everyday life, {晴|はれ} is the formal, special occasion. 'Without ke or hare': make an effort whatever the occasion. The 1925 edition explains it as 'no difference between everyday clothes and best clothes'. Modern {晴|は}れ{着|ぎ}, 'one's best clothes', comes from the same idea."},
+    {"quote": "ゆするし", "text": "ゆする: washing and combing the hair, traditionally with water in which rice had been rinsed. The 1925 edition explains it so."},
+    {"quote": "すべりつつ", "text": "すべる: here 'to slip away, to withdraw' from where everyone is, as the 1925 edition explains. She goes out to fix her face and then comes back."}
+  ]
+}

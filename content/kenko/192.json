@@ -1,0 +1,18 @@
+{
+  "number": 192,
+  "title": "Visiting at night",
+  "translation": [
+    "Temples and shrines too: go on a day when nobody else goes, and go at night."
+  ],
+  "original": [
+    "{神仏|かみほとけ}にも、{人|ひと}の{詣|まう}でぬ{日|ひ}、{夜|よる}まゐりたる、よし。"
+  ],
+  "literal": [
+    "To the gods and buddhas too, going on a day when people do not visit, at night, is good."
+  ],
+  "notes": [
+    {"quote": "神仏にも", "text": "{神仏|かみほとけ}: 'gods and buddhas', so shrines and temples. In Kenkō's time the two were closely mixed, and many shrines had temples attached. も 'too' links this one sentence to section 191: like people, holy places are better at night."},
+    {"quote": "人の詣でぬ日", "text": "{詣|まう}づ: to visit a shrine or temple. On festival days and the days sacred to a particular god or buddha, the crowds came. Kenkō prefers the other days."},
+    {"quote": "夜まゐりたる、よし", "text": "The whole section is one sentence, and the verdict is a single plain word: よし, 'good'."}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": 186,
+  "title": "The horseman's secret",
+  "translation": [
+    "A horseman called Yoshida once told me this:",
+    "\"Every horse is stubborn. You'll never beat one on strength. Remember that. Before you ride a horse, take a good look at it first and find out where it's strong and where it's weak. Then check the bit, the saddle and the rest of the tack for anything that might fail. If something bothers you, don't gallop that horse. A man who never forgets to do all this is what I call a horseman. That's the secret.\""
+  ],
+  "original": [
+    "{吉田|よしだ}と{申|まう}す{馬乗|むまのり}の{申|まう}し{侍|はべ}りしは、「{馬|うま}{毎|ごと}にこはきものなり。",
+    "{人|ひと}の{力|ちから}{争|あらそ}ふべからずと{知|し}るべし。",
+    "{乗|の}るべき{馬|うま}をばまづよく{見|み}て、{強|つよ}き{所|ところ}{弱|よわ}き{所|ところ}を{知|し}るべし。",
+    "{次|つぎ}に{轡|くつわ}{鞍|くら}の{具|ぐ}に{危|あやふ}きことやあると{見|み}て、{心|こころ}にかかる{事|こと}あらば、その{馬|うま}を{馳|は}すべからず。",
+    "この{用意|ようい}を{忘|わす}れざるを{馬乗|むまのり}とは{申|まう}すなり、これ{秘蔵|ひざう}のことなり。」と{申|まう}しき。"
+  ],
+  "literal": [
+    "What a horseman called Yoshida said was: 'Every horse is a stubborn thing.",
+    "One should know that a person's strength cannot compete with it.",
+    "Look well first at the horse you are going to ride, and know its strong points and weak points.",
+    "Next, look whether there is anything dangerous in the bit, the saddle and the gear, and if anything weighs on your mind, do not gallop that horse.",
+    "One who does not forget these precautions is what I call a horseman; this is a secret matter', he said."
+  ],
+  "notes": [
+    {"quote": "吉田と申す馬乗", "text": "Nothing else is known about this Yoshida, as modern commentaries note. Kenkō is often called Yoshida Kenkō today, but that name came later, and there is no known link between him and the rider."},
+    {"quote": "申し侍りしは", "text": "き (here し and しき): the past of things the writer saw or heard himself. Kenkō heard this in person. Compare けり in section 185, which tells a story as hearsay."},
+    {"quote": "馬毎にこはきものなり", "text": "こはし: 'stiff, hard to manage, stubborn'. {毎|ごと}に: 'every one'."},
+    {"quote": "人の力争ふべからず", "text": "べからず: 'cannot' or 'must not'. Here both: you cannot win a contest of strength with a horse, so don't try."},
+    {"quote": "轡鞍の具", "text": "{轡|くつわ}: the bit in the horse's mouth, with the reins attached. {具|ぐ}: the rest of the gear."},
+    {"quote": "秘蔵のこと", "text": "{秘蔵|ひざう}: a secret teaching, passed from master to pupil. Arts in Kenkō's time were often taught this way. The 'secret' here is plain caution. The 1925 edition gives the reading ひざう; this page keeps it."}
+  ]
+}

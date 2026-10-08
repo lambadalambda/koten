@@ -1,0 +1,35 @@
+{
+  "number": 189,
+  "title": "Plans",
+  "translation": [
+    "You mean to get something done today, but something else urgent comes up first, and that takes the whole day. The person you were waiting for can't come, and someone you weren't expecting turns up. What you were counting on falls through, and the one thing you never thought of works out. What looked like a lot of trouble goes smoothly, and what should have been easy is a real struggle. The days never go the way you planned.",
+    "A year is the same. So is a whole life.",
+    "So every plan goes wrong, you think. But then now and again one doesn't, and that makes it even harder to be sure of anything. The only thing you can be sure of is that nothing is sure. That one never lets you down."
+  ],
+  "original": [
+    "{今日|けふ}はその{事|こと}をなさむと{思|おも}へど、あらぬ{急|いそ}ぎまづ{出|い}で{来|き}て{紛|まぎ}れ{暮|くら}し、{待|ま}つ{人|ひと}は{障|さは}りありて、{頼|たの}めぬ{人|ひと}はきたり、{頼|たの}みたる{方|かた}のことはたがひて、{思|おも}ひよらぬ{道|みち}ばかりはかなひぬ。",
+    "{煩|わづら}はしかりつる{事|こと}はことなくて、{安|やす}かるべき{事|こと}はいと{心苦|こころぐる}し。",
+    "{日々|ひび}に{過|す}ぎゆくさま、かねて{思|おも}ひつるに{似|に}ず。",
+    "{一|ひと}{年|とせ}のこともかくの{如|ごと}し。",
+    "{一生|いつしやう}の{間|あひだ}もまたしかなり。",
+    "かねてのあらまし、{皆|みな}{違|たが}ひゆくかと{思|おも}ふに、おのづから{違|たが}はぬ{事|こと}もあれば、いよいよものは{定|さだ}めがたし。",
+    "{不定|ふぢやう}と{心得|こころえ}ぬるのみ、{誠|まこと}にて{違|たが}はず。"
+  ],
+  "literal": [
+    "Though one thinks 'Today I will do that thing', some other urgent business comes up first and one spends the day distracted; the person one waits for has some hindrance, the person who gave no promise comes, the matters one relied on go wrong, and only the ways one never thought of succeed.",
+    "Things that seemed troublesome go without incident, and things that should be easy are very hard.",
+    "The way the days pass is not like what one thought beforehand.",
+    "The matters of one year are like this.",
+    "The span of one life is also so.",
+    "When one thinks that all one's plans go wrong, there are by chance also things that do not go wrong, so things are all the harder to determine.",
+    "Only understanding that (everything) is uncertain is true and does not go wrong."
+  ],
+  "notes": [
+    {"quote": "あらぬ急ぎ", "text": "あらぬ: 'other, unrelated'. {急|いそ}ぎ: 'urgent business', a noun here."},
+    {"quote": "頼めぬ人はきたり", "text": "The 1925 edition explains {頼|たの}めぬ{人|ひと} as 'someone one did not count on'. Strictly, {頼|たの}む in this form means 'to make someone rely on you', so it is 'someone who never said they would come'. In practice it is the same person: the visitor nobody expected."},
+    {"quote": "安かるべき事はいと心苦し", "text": "{心苦|こころぐる}し: here 'hard, painful'. Modern {心苦|こころぐる}しい usually means 'feeling bad about troubling someone'."},
+    {"quote": "かねてのあらまし", "text": "あらまし: 'plans, what one expects'. The same word as あらます in section 188. Modern あらまし means 'an outline'."},
+    {"quote": "おのづから違はぬ事もあれば", "text": "おのづから: here 'by chance, now and then', not modern 'naturally, by itself'."},
+    {"quote": "不定と心得ぬるのみ", "text": "{不定|ふぢやう}: 'not fixed, uncertain', a Buddhist word: nothing, not even the time of death, is settled in advance. The section ends on a paradox: the one certain thing is uncertainty."}
+  ]
+}

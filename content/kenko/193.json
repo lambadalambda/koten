@@ -1,0 +1,31 @@
+{
+  "number": 193,
+  "title": "Sizing people up",
+  "translation": [
+    "When a dull person sizes someone up and thinks he knows how clever they are, he'll be wrong every time.",
+    "Take a man who's no good at anything except go, where he's quick and sharp. He sees a wise man who's hopeless at go and decides that man can't be as smart as he is. Or a craftsman sees that other people don't know his trade and thinks he's better than they are. Both are badly mistaken.",
+    "A priest who knows the scriptures and a monk who spends his life in meditation each size up the other and decide the other one isn't up to much. They're both wrong.",
+    "If something isn't your field, don't argue about it, and don't pass judgement on it."
+  ],
+  "original": [
+    "くらき{人|ひと}の、{人|ひと}をはかりて、その{智|ち}を{知|し}れりと{思|おも}はむ、{更|さら}に{当|あた}るべからず。",
+    "{拙|つたな}き{人|ひと}の、{碁|ご}うつことばかりに{敏|さと}くたくみなるは、{賢|かしこ}き{人|ひと}のこの{芸|げい}におろかなるを{見|み}て、おのれが{智|ち}に{及|およ}ばずと{定|さだ}めて、",
+    "{万|よろづ}の{道|みち}のたくみ、わが{道|みち}を{人|ひと}の{知|し}らざるを{見|み}て、おのれ{勝|すぐ}れたりと{思|おも}はむこと、{大|おほ}きなるあやまりなるべし。",
+    "{文字|もんじ}の{法師|ほふし}、{暗証|あんじよう}の{禅師|ぜんじ}、{互|たがひ}にはかりて、おのれに{如|し}かずと{思|おも}へる、{共|とも}にあたらず。",
+    "{己|おのれ}が{境界|きやうがい}にあらざるものをば、{争|あらそ}ふべからず、{是非|ぜひ}すべからず。"
+  ],
+  "literal": [
+    "That an unenlightened person, gauging others, should think he knows their intelligence is not at all likely to be right.",
+    "That an unskilled person who is quick and clever only at playing go, seeing a wise person who is poor at this art, decides that he does not reach his own intelligence,",
+    "and that craftsmen of all trades, seeing that others do not know their trade, think they are superior: this is surely a great mistake.",
+    "That the priest of letters and the meditation master of silent realisation gauge each other and think the other is not equal to himself: neither is right.",
+    "As for things that are not in one's own sphere, one should not dispute them and should not judge them right or wrong."
+  ],
+  "notes": [
+    {"quote": "くらき人の、人をはかりて", "text": "くらし: 'dark', and so 'dull, unenlightened'. The 1925 edition explains it as a foolish person. はかる: 'to measure, to guess at'."},
+    {"quote": "更に当るべからず", "text": "{更|さら}に + a negative: 'not at all'. べからず here: 'cannot (be)'."},
+    {"quote": "碁うつことばかりに敏くたくみなる", "text": "Go was played by nobles and priests alike. {敏|さと}く: 'quick'. The same kanji is read と in section 188; the 1925 edition gives さと here."},
+    {"quote": "文字の法師、暗証の禅師", "text": "The 1925 edition explains: a priest who studies doctrine but knows nothing of actual meditation, and a meditation monk who has not studied doctrine enough. {暗証|あんじよう}: 'realisation in the dark', meditation without study. The Nihon Kokugo Daijiten connects the pairing with the Mohe zhiguan of the Chinese Tiantai master Zhiyi (sixth century), which criticises both the meditator who does not study and the scholar who only recites texts. The reading あんじよう is the edition's."},
+    {"quote": "己が境界にあらざるもの", "text": "{境界|きやうがい}: 'one's own sphere', here one's field. A Buddhist word, not modern {境界|きようかい} 'boundary'. {是非|ぜひ}す: to judge right or wrong."}
+  ]
+}

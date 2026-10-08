@@ -1,0 +1,23 @@
+{
+  "number": 187,
+  "title": "Professionals and gifted amateurs",
+  "translation": [
+    "In any field, a professional will always beat a gifted amateur, even if the professional isn't very good. The difference is this: the professional keeps at it, stays careful and never takes anything lightly, and the amateur just does whatever he likes.",
+    "That isn't only true of arts and skills. In how you behave and how you go about things in general, being slow but careful is what pays. Being clever and doing as you please is what costs you."
+  ],
+  "original": [
+    "{万|よろづ}の{道|みち}の{人|ひと}、たとひ{不堪|ふかん}なりといへども、{堪能|かんのう}の{非家|ひか}の{人|ひと}にならぶ{時|とき}、{必|かなら}ずまさることは、たゆみなく{慎|つつし}みて{軽々|かろがろ}しくせぬと、{偏|ひとへ}に{自由|じいう}なるとの{等|ひと}しからぬなり。",
+    "{芸能|げいのう}{所作|しよさ}のみにあらず、{大方|おほかた}の{振舞|ふるまひ}、{心|こころ}づかひも、{愚|おろ}かにして{謹|つつし}めるは{得|とく}の{本|もと}なり、{巧|たく}みにしてほしきままなるは{失|しつ}の{本|もと}なり。"
+  ],
+  "literal": [
+    "A person of any profession, even if unskilled, when he stands beside a skilled person from outside the profession, is always superior; (the reason) is that being careful without slackening and not acting lightly, and simply doing as one pleases, are not equal.",
+    "Not only in arts and skills: in conduct in general and in the use of the mind too, being dull and careful is the root of gain, and being clever and self-indulgent is the root of loss."
+  ],
+  "notes": [
+    {"quote": "不堪なりといへども", "text": "{不堪|ふかん}: unskilled. {堪能|かんのう}: skilled. The same pair of words as in section 150, which makes a similar point: practice beats talent."},
+    {"quote": "非家の人", "text": "{非家|ひか}: 'not of the house'. Many arts were the business of particular families who handed them down, so 'the house' means the profession. The 1925 edition explains it as 'someone outside the field'."},
+    {"quote": "ならぶ時", "text": "'When they stand side by side': the 1925 edition explains this as competing against each other."},
+    {"quote": "偏に自由なるとの等しからぬなり", "text": "A false friend: {自由|じいう} here means 'doing as one likes, self-indulgent', and it is a criticism. The sense of 'freedom' came much later. The shape of the sentence: A と B との{等|ひと}しからぬなり, 'it is that A and B are not equal'."},
+    {"quote": "得の本なり", "text": "{得|とく}: gain, profit; {失|しつ}: loss. The two clauses mirror each other exactly, like a proverb."}
+  ]
+}

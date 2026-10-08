@@ -1,0 +1,48 @@
+{
+  "number": 190,
+  "title": "A man shouldn't have a wife",
+  "translation": [
+    "A wife is something a man shouldn't have. When I hear that someone \"has always lived on his own\", I'm impressed. When I hear he's \"married into so-and-so's family\", or \"taken some woman into his house and lives with her\", I think a lot less of him. If she's nothing special, you can't help suspecting, rather meanly, that he has talked himself into believing she's wonderful. If she's lovely, you picture him doting on her and worshipping her like his own personal Buddha. And she can't be all that much either.",
+    "Worse still if she runs his household well. That's really disappointing. Then children come along, and he fusses over them and loves them, which is depressing. And when he dies, she becomes a nun and grows old, which is a sorry thing, even after he's gone.",
+    "Whatever the woman is like, if you're together morning and night, you'll find her tiresome and get to hate her. It's no good for her either: she's left stuck halfway. Better to live apart and visit now and then. That kind of relationship can last for years. If you just drop in and stay over, it will always feel new."
+  ],
+  "original": [
+    "{妻|め}といふものこそ、{男|をのこ}の{持|も}つまじきものなれ。",
+    "「いつも{独|ひと}り{住|ず}みにて。」など{聞|き}くこそ{心憎|こころにく}けれ。",
+    "「たれがしが{婿|むこ}になりぬ。」とも、{又|また}、「いかなる{女|をんな}をとりすゑて{相|あひ}{住|す}む。」など{聞|き}きつれば、{無下|むげ}に{心劣|こころおと}りせらるるわざなり。",
+    "「{異|こと}なることなき{女|をんな}を、よしと{思|おも}ひ{定|さだ}めてこそ、{添|そ}ひ{居|ゐ}たらめ。」と、{賤|いや}しくもおし{測|はか}られ、",
+    "よき{女|をんな}ならば、「この{男|をのこ}こそらうたくして、あが{仏|ほとけ}と{守|まも}りゐたらめ。たとへば、さばかりにこそ。」と{覚|おぼ}えぬべし。",
+    "まして{家|いへ}の{内|うち}を{行|おこな}ひをさめたる{女|をんな}、いと{口惜|くちを}し。",
+    "{子|こ}など{出|い}できて、かしづき{愛|あい}したる、{心憂|こころう}し。",
+    "{男|をのこ}なくなりて{後|のち}、{尼|あま}になりて{年|とし}よりたる{有様|ありさま}、{亡|な}きあとまで{浅|あさ}まし。",
+    "いかなる{女|をんな}なりとも、{明暮|あけくれ}そひ{見|み}むには、いと{心|こころ}づきなく{憎|にく}かりなむ。",
+    "{女|をんな}のためも、{半空|なかぞら}にこそならめ。",
+    "よそながら{時々|ときどき}{通|かよ}ひ{住|す}まむこそ、{年月|としつき}へても{絶|た}えぬなからひともならめ。",
+    "あからさまに{来|き}て、{泊|とま}り{居|ゐ}などせむは、めづらしかりぬべし。"
+  ],
+  "literal": [
+    "A wife is a thing a man should not have.",
+    "Hearing things like 'He always lives alone' is admirable.",
+    "When one hears things like 'He has become so-and-so's son-in-law' or 'He has taken some woman, installed her and lives with her', one cannot help thinking very much less of him.",
+    "One meanly suspects, 'He must have decided that a woman with nothing special is good, and so lives with her',",
+    "and if she is a fine woman, one would surely think, 'This man must cherish her and guard her as his own Buddha. To put it so, it must be about like that.'",
+    "Still more, a woman who manages the inside of the house is very regrettable.",
+    "That children come and he raises them with care and loves them is wretched.",
+    "The state of (the wife) growing old as a nun after the man has died is shameful even after his death.",
+    "Whatever the woman, if one is with her and sees her morning and evening, she will surely become very disagreeable and hateful.",
+    "For the woman too, it will surely be neither here nor there.",
+    "To live apart and visit from time to time: that will surely become a relationship that does not end even as the years pass.",
+    "To come briefly and stay overnight and the like would surely feel fresh."
+  ],
+  "notes": [
+    {"quote": "妻といふものこそ", "text": "{妻|め}: 'wife', the reading the 1925 edition gives. まじ: a strong 'should not'. こそ … なれ makes it emphatic. Kenkō himself was a priest who had left the world."},
+    {"quote": "心憎けれ", "text": "{心憎|こころにく}し: 'admirable, intriguing', as in section 150. Not modern 'hateful'."},
+    {"quote": "婿になりぬ", "text": "{婿|むこ}: a son-in-law. A man who married often lived with or was supported by the wife's family, so 'becoming so-and-so's son-in-law' is how a marriage was announced."},
+    {"quote": "とりすゑて", "text": "'Taking her and setting her down' in one's own house, as the 1925 edition explains. The arrangement Kenkō recommends at the end, a husband who visits, is closer to the older custom at court, where wives often stayed in their own family's house."},
+    {"quote": "あが仏と守りゐたらめ", "text": "あが{仏|ほとけ}: 'my Buddha', a term of endearment, something like 'my treasure'. The 1925 edition explains it as 'one's own main image of worship'. らうたし: 'sweet, dear', and so 'to cherish'."},
+    {"quote": "たとへば、さばかりにこそ", "text": "Short for さばかりにこそあらめ, 'it must be about that much'. こそ ends the sentence without its closing verb. Modern commentaries mostly read it as a jab at the woman: even a 'fine woman' is only so fine. It can also be read as 'it must be something like that', about the man's doting."},
+    {"quote": "尼になりて", "text": "Widows often became nuns to pray for their dead husbands. Even this respectable ending is called {浅|あさ}まし, 'a sorry sight'."},
+    {"quote": "半空", "text": "{半空|なかぞら}: 'halfway up in the sky', and so 'neither here nor there', as the 1925 edition explains."},
+    {"quote": "あからさまに来て", "text": "A false friend: あからさま here means 'briefly, for a moment', not modern 'blatant'. めづらし: 'fresh, delightful'."}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 196,
+  "title": "Clearing the way at the shrine",
+  "translation": [
+    "The portable shrine of Tōdaiji was being carried home from Tōji, and the nobles of the Minamoto clan came to escort it. Koga, the same man as in the last story, was a commander of the palace guard, and his men were calling out to clear the road ahead. Tsuchimikado, the chancellor, said to him, \"Should we really be clearing the way in front of a shrine?\"",
+    "Koga only answered, \"What guards do is the business of the families that command them.\"",
+    "Later he said, \"The chancellor has read the Hokuzanshō. What he doesn't know is what the Saikyūki says. A god has evil demons and evil spirits in its following, and they are to be feared, so there's every reason to clear the way at a shrine.\""
+  ],
+  "original": [
+    "{東大寺|とうだいじ}の{神輿|しんよ}、{東寺|とうじ}の{若宮|わかみや}より{帰座|きざ}のとき、{源氏|げんじ}の{公卿|くぎやう}{参|まゐ}られけるに、この{殿|との}{大将|たいしやう}にて、{先|さき}を{追|お}はれけるを、",
+    "{土御門|つちみかど}{相国|しやうこく}、「{社頭|しやとう}にて{警蹕|けいひつ}いかがはべるべからむ。」と{申|まう}されければ、",
+    "「{随身|ずいじん}のふるまひは、{兵仗|ひやうぢやう}の{家|いへ}が{知|し}る{事|こと}に{候|さうらふ}。」とばかり{答|こた}へ{給|たま}ひけり。",
+    "さて{後|のち}に{仰|おほ}せられけるは、「この{相国|しやうこく}、{北山抄|ほくざんせう}を{見|み}て、{西宮|せいきう}の{説|せつ}をこそ{知|し}られざりけれ。",
+    "{眷属|けんぞく}の{悪鬼|あくき}{悪神|あくじん}を{恐|おそ}るるゆゑに、{神社|じんじや}にて{殊|こと}に{先|さき}を{追|お}ふべき{理|ことわり}あり。」とぞ{仰|おほ}せられける。"
+  ],
+  "literal": [
+    "When the sacred palanquin of Tōdaiji returned to its seat from the Wakamiya of Tōji, and the Minamoto nobles attended it, this lord, being a general, had (his men) clear the way ahead, and",
+    "when the Tsuchimikado chancellor said, 'How would it be to call for clearing the way at the shrine?',",
+    "he answered only, 'The conduct of escort guards is a matter that the houses of armed guards know.'",
+    "Then later he said, 'This chancellor has read the Hokuzanshō, but did not know the view of the Saikyūki.",
+    "Because one fears the evil demons and evil gods of the (god's) retinue, there is a reason to clear the way especially at a shrine', he said."
+  ],
+  "notes": [
+    {"quote": "東大寺の神輿", "text": "{神輿|しんよ}: a portable shrine, a palanquin that carries a god. The 1925 edition identifies this one as belonging to Tamukeyama Hachiman, the shrine that guards Tōdaiji in Nara. Great temples sometimes had their god carried into the capital in protest, to put pressure on the court, and modern commentaries connect this scene with such a protest. One modern commentary suggests that Kenkō mixed it up with a protest by Iwashimizu in 1279. {帰座|きざ}: the god's return to its own seat."},
+    {"quote": "東寺の若宮", "text": "The 1925 edition identifies the Wakamiya ('young shrine') with Iwashimizu Hachiman on Otokoyama (see section 52). Modern commentaries generally take it as the Hachiman shrine at Tōji itself, the temple in the south of Kyoto, where the god was kept during its stay. The text only says Tōji, and the translation follows it."},
+    {"quote": "源氏の公卿参られけるに", "text": "Hachiman was the guardian god of the Minamoto clan, so the Minamoto nobles turned out for him. Both men in this story were from Minamoto families."},
+    {"quote": "この殿大将にて", "text": "この{殿|との}: 'this lord', the Koga minister of section 195. {大将|たいしやう}: a commander of the palace guard, a high post that came with armed escorts. The 1925 edition gives the reading たいしやう."},
+    {"quote": "先を追はれける", "text": "{先|さき}を{追|お}ふ: to have escorts walk ahead and call out to clear the road, as was done for high nobles. {警蹕|けいひつ} in the next sentence is the formal word for the same thing."},
+    {"quote": "土御門相国", "text": "The 1925 edition identifies him as Tsuchimikado Sadazane (1241–1306). {相国|しやうこく} is the Chinese-style title for the chancellor ({太政大臣|だいじやうだいじん}), the highest office at court. Sadazane only became chancellor in 1301, so the title is the one he held later, not at the time of the story. His question is polite: いかが…べからむ, 'how would it be…?'"},
+    {"quote": "兵仗の家が知る事に候", "text": "{兵仗|ひやうぢやう}: armed escort, and 'the houses of {兵仗|ひやうぢやう}' are the families entitled to such guards. {随身|ずいじん}: the escort guards themselves (compare {舎人|とねり} in section 1). The polite {候|さうらふ} keeps the answer formal, but it is a short one: in effect, 'this is not your business'."},
+    {"quote": "北山抄", "text": "Two manuals of court ceremony. The Hokuzanshō is by Fujiwara no Kintō (966–1041), and the Saikyūki ({西宮|せいきう}, 'the West Palace record') is by Minamoto no Takaakira (914–983), as the 1925 edition notes. The Hokuzanshō does say that there is no clearing of the way at the shrine itself, which fits Sadazane's question. Modern commentaries note that no passage on this has been found in the surviving Saikyūki."},
+    {"quote": "西宮の説をこそ知られざりけれ", "text": "こそ … けれ: the realis form of けり closes the こそ. 'It was the Saikyūki's view that he did not know.' The respectful られ keeps the criticism polite."},
+    {"quote": "眷属の悪鬼悪神", "text": "{眷属|けんぞく}: the followers of a god or buddha. A great god travels with a crowd of lesser spirits, some of them dangerous, so the shouting keeps them off."}
+  ]
+}

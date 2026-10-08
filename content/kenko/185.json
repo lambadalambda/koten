@@ -1,0 +1,28 @@
+{
+  "number": 185,
+  "title": "Reading the horse",
+  "translation": [
+    "There was no better rider than Adachi Yasumori. When they led a horse out for him and it hopped over the threshold of the stable with all four feet together, he'd say, \"This one is too eager,\" and have the saddle moved to another horse. If a horse stretched its legs and knocked a hoof on the threshold, he'd say, \"This one is dull. It'll make a mistake,\" and he wouldn't ride it.",
+    "You have to really know horses to be that afraid of them."
+  ],
+  "original": [
+    "{城|じやうの}{陸奥守|むつのかみ}{泰盛|やすもり}は{双|さう}なき{馬乗|むまのり}なりけり。",
+    "{馬|うま}を{引|ひ}き{出|い}でさせけるに、{足|あし}をそろへて{閾|しきみ}をゆらりと{超|こ}ゆるを{見|み}ては、「これは{勇|いさ}める{馬|うま}なり。」とて{鞍|くら}を{置|お}きかへさせけり。",
+    "また{足|あし}を{伸|の}べて{閾|しきみ}に{蹴|け}あてぬれば、「これは{鈍|にぶ}くして{過|あやま}ちあるべし。」とて{乗|の}らざりけり。",
+    "{道|みち}を{知|し}らざらむ{人|ひと}、かばかり{恐|おそ}れなむや。"
+  ],
+  "literal": [
+    "Yasumori of the Castle, governor of Mutsu, was an unrivalled horseman.",
+    "When he had a horse led out, if he saw it put its feet together and lightly clear the threshold, he said, 'This is a spirited horse', and had the saddle moved.",
+    "Again, if it stretched its legs and kicked against the threshold, he said, 'This one is dull and will make mistakes', and did not ride it.",
+    "Would a person who did not know the way be this afraid?"
+  ],
+  "notes": [
+    {"quote": "城陸奥守泰盛", "text": "Adachi Yasumori (1231–1285), son of Adachi Yoshikage and one of the most powerful vassals of the shogunate in Kamakura. He was killed with much of his family in the Shimotsuki incident of 1285. {城|じやうの}: he held the office of {城介|じやうのすけ}, in charge of Akita Castle in Dewa in the far north, and was also governor of Mutsu. The 1925 edition calls him the father-in-law of the regent Hōjō Tokimune. Strictly, Tokimune's wife was Yasumori's younger half-sister, whom he had adopted as his daughter, so he was Tokimune's brother-in-law by birth and father-in-law by adoption. The edition writes the reading じやうの on 城 alone: 'of the Castle'."},
+    {"quote": "双なき馬乗", "text": "{双|さう}なし: 'without a pair', unrivalled. The edition reads {馬乗|むまのり} in the next section, and this page uses the same reading here. むま is a common medieval spelling of うま."},
+    {"quote": "閾", "text": "{閾|しきみ}: the wooden beam across the bottom of a doorway, here at the stable door. The modern word is {敷居|しきい}."},
+    {"quote": "勇める馬", "text": "{勇|いさ}む: 'to be eager, keyed up'. A horse that springs over the beam with its feet together is full of energy, and so harder to control."},
+    {"quote": "鞍を置きかへさせけり", "text": "'Had the saddle put on another horse', as the 1925 edition explains. させ: he had his grooms do it."},
+    {"quote": "かばかり恐れなむや", "text": "や: a rhetorical question, 'would he be this afraid? (No.)'. なむ = ぬ + む, 'surely would'. The next section makes the same point in a horseman's own words."}
+  ]
+}
