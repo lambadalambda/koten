@@ -81,3 +81,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 177: "the sawdust we'd all thought so clever" (けり + 1925 gloss); 恥しかりき could also mean "Yoshida's remark put us to shame".
 - 179, 183: modern-commentary claims from roudokus only (Dōgen's trip c. 1309, Masafusa anecdote, 令/律 split).
 - 181: "children's rhyme" (roudokus わらべ歌).
+
+## 197–208
+- 198: the compiler's name was taken from a Wikisource transcriber mark ("Masasuke"); corrected to the usual Koremune no Tadasuke.
+- 205: the "Great Teacher" is Jie/Ryōgen (1925 edition) or Saichō (roudokus); translation neutral.
+- 206: two sources given for the closing saying (Qianjin fang / Yijian zhi); seat height follows the edition.
+- 202: 祭月 さいげつ (from roudokus); Ise vs Izumo: some think Kenkō mixed them up.
