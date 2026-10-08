@@ -110,3 +110,9 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 東 (east): standardised on ひがし where the 1925 edition gives no reading (its own あづま/ひんがし readings are kept).
 - 御前: おまへ and ごぜん each used four times, depending on context ("in front of" vs a title). Worth one look.
 - Readings from the 1925 edition are kept even when unusual; other editions' variants are listed per batch above.
+
+## 233–243
+- 238: 行成 made consistent with 025 (ぎやうぜい, "Yukinari"; note: also called Kōzei). Horikawa Grand Counsellor: Moronobu (1925) or the Minamoto Horikawa line, often Tomochika (roudokus, with a date problem); open.
+- 239: 婁宿 is a lunar mansion ("one of the star groups along the moon's path").
+- 243 (last section): "he told everyone, and he had great fun with it" for 興じき.
+- 238: the 僧都 is still "one of his priests" in the text; the note gives his rank.
