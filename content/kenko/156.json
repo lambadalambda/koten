@@ -1,0 +1,29 @@
+{
+  "number": 156,
+  "title": "Borrowing a house for the banquet",
+  "translation": [
+    "When someone becomes a minister, he gives a grand banquet, and the usual thing is to ask to borrow a suitable house for it. Yorinaga, the Minister of the Left, held his at the Higashi Sanjō mansion. The emperor was living there at the time, but Yorinaga asked for it, so the emperor moved out to somewhere else.",
+    "Even if there's no special connection, they say the custom is to borrow somewhere like the residence of a retired empress."
+  ],
+  "original": [
+    "{大臣|だいじん}の{大饗|だいきやう}は、さるべき{所|ところ}をまをし{受|う}けて{行|おこな}ふ、{常|つね}のことなり。",
+    "{宇治|うぢ}{左大臣|さだいじん}{殿|どの}は、{東三条殿|ひがしさんでうどの}にて{行|おこな}はる。",
+    "{内裏|だいり}にてありけるを{申|まう}されけるによりて、{他所|よそ}へ{行幸|ぎやうかう}ありけり。",
+    "させる{事|こと}のよせなけれども、{女院|によゐん}の{御所|ごしよ}など{借|か}り{申|まう}す{故実|こじつ}なりとぞ。"
+  ],
+  "literal": [
+    "For a minister's grand banquet, to ask for and receive a suitable place and hold it there is the usual thing.",
+    "The Uji Minister of the Left held it at the Higashi Sanjō palace.",
+    "It was the imperial residence, but because he asked for it, the emperor made an imperial progress to another place.",
+    "Even when there is no particular connection, it is the old custom to borrow the residence of a retired empress or the like, they say."
+  ],
+  "notes": [
+    {"quote": "大臣の大饗", "text": "{大饗|だいきやう}: a grand banquet. A new minister gave one for the court nobles after his appointment, with a fixed ceremony. The 1925 edition gives the reading だいきやう (written with a small ゃ)."},
+    {"quote": "まをし受けて", "text": "まをす is the older form of まうす ({申|まう}す), 'to say, to ask' (humble). The edition writes まをし here and {申|まう}され a little later."},
+    {"quote": "宇治左大臣殿", "text": "Fujiwara no Yorinaga (1120–1156), Minister of the Left ({左大臣|さだいじん}), called 'of Uji' after his family's estate there. He was one of the most learned men of his time and an expert on court precedent. He died of a wound in the Hōgen Rebellion of 1156."},
+    {"quote": "東三条殿", "text": "Higashi Sanjō, a great mansion of the Fujiwara regents' family in the capital. It was often used as an emperor's residence, as it was at the time of this banquet."},
+    {"quote": "行幸ありけり", "text": "{行幸|ぎやうかう}: the emperor going somewhere, an 'imperial progress'. Here the emperor moved out so that a minister could hold his party in the house."},
+    {"quote": "女院の御所", "text": "{女院|によゐん}: an empress, empress dowager or imperial princess who had been given a title like a retired emperor's. Her residence counted as a suitable place to borrow."},
+    {"quote": "故実なりとぞ", "text": "{故実|こじつ}: established precedent, the old way things are done at court (compare section 33). とぞ: 'so they say', with the verb left out."}
+  ]
+}

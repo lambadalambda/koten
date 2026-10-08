@@ -1,0 +1,28 @@
+{
+  "number": 152,
+  "title": "It's just his age",
+  "translation": [
+    "Jōnen, a priest from Saidaiji, once came to the palace. He was bent at the waist, his eyebrows were white, and he looked every inch the holy old man. The Saionji minister was deeply impressed. \"What a holy look he has!\" he said, full of reverence. Suketomo saw this and said, \"It's just his age, sir.\"",
+    "A few days later, Suketomo had a shaggy dog led over to the minister's house. It was horribly old, all skin and bone, with its fur coming out in patches. It came with a message: \"This one has a very holy look too, sir.\""
+  ],
+  "original": [
+    "{西大寺|にしのおほでら}{静然|じやうねん}{上人|しやうにん}、{腰|こし}かがまり{眉|まゆ}{白|しろ}く、{誠|まこと}に{徳|とく}たけたる{有様|ありさま}にて、{内裏|だいり}へ{参|まゐ}られたりけるを、{西園寺|さいをんじ}{内大臣|ないだいじん}{殿|どの}、「あな{尊|たふ}との{気色|けしき}や。」とて{信仰|しんがう}の{気色|きそく}ありければ、",
+    "{資朝卿|すけともきやう}これを{見|み}て、「{年|とし}のよりたるに{候|さうらふ}。」と{申|まう}されけり。",
+    "{後日|ごにち}に、{尨犬|むくいぬ}の{浅|あさ}ましく{老|お}いさらぼひて{毛|け}はげたるをひかせて、「この{気色|けしき}{尊|たふと}く{見|み}えて{候|さうらふ}。」とて{内府|だいふ}へ{参|まゐ}らせられたりけるとぞ。"
+  ],
+  "literal": [
+    "Holy Man Jōnen of Saidaiji, bent at the waist, with white eyebrows, looking truly like a man of great virtue, came to the palace, and the Saionji Inner Minister said, 'Ah, what a venerable look!', and showed signs of reverence;",
+    "Lord Suketomo saw this and said, 'It is that he has grown old.'",
+    "Some days later, he had a shaggy dog, wretchedly old and worn out, with its fur falling out, led along, and, saying 'This one's look appears venerable', had it presented to the Inner Minister: so they say."
+  ],
+  "notes": [
+    {"quote": "西大寺静然上人", "text": "Saidaiji, the 'Great Western Temple', is in Nara; the 1925 edition reads it in native Japanese, にしのおほでら. The 1925 edition says nothing is known about Jōnen; some modern commentaries identify him as an elder of Saidaiji who died in 1331. {上人|しやうにん}: a title for a respected priest, the same as for Shōkai in section 236."},
+    {"quote": "徳たけたる", "text": "{徳|とく}たく: 'to be high in virtue'. The same phrase is in section 150, about the beginner who becomes a master."},
+    {"quote": "西園寺内大臣殿", "text": "The Inner Minister ({内大臣|ないだいじん}, later in the section {内府|だいふ}) of the Saionji family. The 1925 edition and modern commentaries identify him as Saionji Sanehira (1290–1326), who became Inner Minister in 1324. The Saionji were among the most powerful families at court."},
+    {"quote": "資朝卿", "text": "Hino Suketomo (1290–1332), a close adviser of Emperor Go-Daigo. He took part in a plot against the Kamakura shogunate, was exiled to the island of Sado in 1325, and was executed there in 1332. Sections 152 to 154 are three stories about him."},
+    {"quote": "信仰の気色ありければ", "text": "The same kanji twice: あな{尊|たふ}との{気色|けしき}や, 'what a holy look', and {信仰|しんがう}の{気色|きそく}, 'a sign of reverence'. The 1925 edition gives the reading きそく only for the second one. {尊|たふ}と: the edition writes the と of たふと as a separate kana after the kanji."},
+    {"quote": "年のよりたるに候", "text": "'It is (just) that he has grown old.' に{候|さうらふ} is a polite form of にあり, 'it is'. Suketomo speaks politely to a man far above him in rank, and says no more than that."},
+    {"quote": "尨犬の浅ましく老いさらぼひて", "text": "{尨犬|むくいぬ}: a shaggy dog. {老|お}いさらぼふ: 'to grow old and worn out, all bones'. あさまし: here 'shocking, wretched'."},
+    {"quote": "参らせられたりけるとぞ", "text": "とぞ at the end, with the verb ('they say') left out: 'so the story goes'. The section ends on the dog and its message, with no comment."}
+  ]
+}

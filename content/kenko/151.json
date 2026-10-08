@@ -1,0 +1,36 @@
+{
+  "number": 151,
+  "title": "Give it up at fifty",
+  "translation": [
+    "Someone once said: if you're not good at something by the time you're fifty, give it up. There's no future left to practise for. Nobody is going to laugh at an old man, but when he joins in with everyone else, it's pointless and awkward to watch. Give up nearly everything and have time on your hands. That looks right, and it's how it should be.",
+    "Spending your whole life busy with the business of the world is as stupid as it gets. If you're curious about something, go ahead and learn about it. But once you've got the idea and it's not a mystery any more, stop. Best of all is not wanting anything in the first place."
+  ],
+  "original": [
+    "ある{人|ひと}の{曰|いは}く、{年|とし}{五十|いそぢ}になるまで{上手|じやうず}に{至|いた}らざらむ{芸|げい}をば{捨|す}つべきなり。",
+    "{励|はげ}み{習|なら}ふべき{行末|ゆくすゑ}もなし。",
+    "{老人|おいびと}のことをば{人|ひと}もえ{笑|わら}はず、{衆|しゆ}に{交|まじ}はりたるも、あひなく{見苦|みぐる}し。",
+    "{大方|おほかた}{万|よろづ}のしわざは{止|や}めて、{暇|いとま}あるこそ{目安|めやす}くあらまほしけれ。",
+    "{世俗|せぞく}の{事|こと}にたづさはりて、{生涯|しやうがい}を{暮|くら}すは{下愚|かぐ}の{人|ひと}なり。",
+    "ゆかしく{覚|おぼ}えむことは{学|まな}び{聞|き}くとも、その{趣|おもむき}を{知|し}りなば、{覚束|おぼつか}なからずして{止|や}むべし。",
+    "もとより{望|のぞ}む{事|こと}なくしてやまむは、{第一|だいいち}のことなり。"
+  ],
+  "literal": [
+    "Someone said: an art in which one has not become skilled by the age of fifty should be given up.",
+    "There is no future in which to strive and practise.",
+    "People cannot laugh at what an old man does, but his mixing with the crowd is also pointless and unsightly.",
+    "To stop most things altogether and have leisure: that is what is pleasant to see and desirable.",
+    "Someone who is involved in worldly affairs and spends his whole life on them is a person of the lowest foolishness.",
+    "Things one feels curious about, one may study and ask about, but once one knows their general sense, one should stop when they are no longer unclear.",
+    "To stop without wanting anything from the start: that is the first thing."
+  ],
+  "notes": [
+    {"quote": "ある人の曰く", "text": "{曰|いは}く: 'says', a form used to introduce quotations, especially from Chinese classics ({子|し}{曰|いは}く, 'the Master said', in the Analects). The 1925 edition has no closing mark, so it is not clear where the quotation ends. Some modern commentaries end it after the first sentence (… {捨|す}つべきなり); others let it run to the end of the section. The translation leaves it open, as the edition does."},
+    {"quote": "年五十になるまで上手に至らざらむ芸をば捨つべきなり", "text": "The section right before, 150, says the opposite for beginners: keep at it in public, however bad you are. Here the deadline is fifty. {五十|いそぢ}: 'fifty', the native reading, like {四十|よそぢ} in section 148."},
+    {"quote": "人もえ笑はず", "text": "え … ず: 'cannot'. People cannot laugh at an old man, out of respect for his age. The 'but' is in the next words: he still looks out of place."},
+    {"quote": "あひなく見苦し", "text": "あひなし: 'pointless, out of place'. {見苦|みぐる}し: 'unpleasant to look at'; modern {見苦|みぐる}しい means the same."},
+    {"quote": "目安くあらまほしけれ", "text": "{目安|めやす}し: 'easy on the eye, decent'. まほし: 'desirable'. こそ … けれ again: こそ needs the realis form, so まほし becomes まほしけれ."},
+    {"quote": "下愚の人", "text": "{下愚|かぐ}: 'the lowest kind of fool', a term from the Analects of Confucius, which says that only the wisest and the most foolish never change."},
+    {"quote": "覚束なからずして止むべし", "text": "{覚束|おぼつか}なし: 'unclear, uncertain'. Modern おぼつかない means 'unsteady, doubtful'. Learn until it is no longer unclear, and stop there."},
+    {"quote": "第一のこと", "text": "{第一|だいいち}: 'number one, the best'. After all the advice about giving things up, the last step is not to want anything to begin with."}
+  ]
+}

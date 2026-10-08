@@ -1,0 +1,39 @@
+{
+  "number": 160,
+  "title": "Hang, not hammer",
+  "translation": [
+    "The bishop of Seikanji once said: \"People talk about 'hammering up' a name plaque over a gate. That's not right, is it? Lord Kadenokōji, who had taken vows, said you 'hang' a plaque. And 'hammering up' a stand to watch a procession isn't right either. You hammer up an awning, fine, that's normal. A stand is something you build.\" He had more of the same, about the words for a fire ritual, and about which sound to use in the name of a rite.",
+    "So many of the things we say every day are like that."
+  ],
+  "original": [
+    "「{門|もん}に{額|がく}かくるを、「うつ」といふはよからぬにや。",
+    "{勘解由小路|かでのこうぢ}{二品|にほん}{禅門|ぜんもん}は、「{額|がく}かくる」とのたまひき。",
+    "{見物|けんぶつ}の「{桟敷|さじき}うつ」もよからぬにや。",
+    "「{平張|ひらばり}うつ」などは{常|つね}の{事|こと}なり。",
+    "{桟敷|さじき}{構|かま}ふるなどいふべし。",
+    "「{護摩|ごま}たく」といふもわろし。",
+    "「{修|しう}する」「{護摩|ごま}する」などいふなり。",
+    "「{行法|ぎやうぼふ}」も、「{法|ほふ}」の{字|じ}を{清|す}みていふ、わろし、{濁|にご}りていふ。」と{清閑寺|せいがんじ}{僧正|そうじやう}{仰|おほ}せられき。",
+    "{常|つね}にいふ{事|こと}にかかることのみ{多|おほ}し。"
+  ],
+  "literal": [
+    "'Hanging a plaque on a gate: is saying \"strike\" not good?",
+    "The Kadenokōji lay monk of the second rank said \"hang a plaque\".",
+    "For watching (a procession), is \"strike a stand\" also not good?",
+    "\"Strike an awning\" and the like is the usual thing.",
+    "One should say \"set up a stand\" or the like.",
+    "Saying \"burn the goma\" is also bad.",
+    "One says \"perform it\" or \"do the goma\".",
+    "\"Gyōbō\" too: to say the character \"hō\" clear is bad; one says it voiced', the Seikanji bishop said.",
+    "In what we usually say, there are many such things."
+  ],
+  "notes": [
+    {"quote": "門に額かくるを、「うつ」といふはよからぬにや", "text": "{額|がく}: a framed name board over a gate, often written by a famous calligrapher. うつ, 'to strike', was also used for putting things up; the bishop thinks it is the wrong verb for a plaque. にや: 'is it not…?', a soft way to correct people."},
+    {"quote": "勘解由小路二品禅門", "text": "A lay monk ({禅門|ぜんもん}) of the second rank ({二品|にほん}), called after Kadenokōji, a street in Kyoto; noble families were often named after the street where they lived. He was of the Sesonji family of calligraphers, who wrote plaques like these. The 1925 edition identifies him as Sesonji Yukitada ({行忠|ゆきただ}); modern commentaries usually name an older member of the family, Fujiwara no Tsunetada (経尹; some read the name Tsunemasa)."},
+    {"quote": "「平張うつ」などは常の事なり", "text": "{平張|ひらばり}: a flat cloth awning on poles. For that, 'strike' is the normal verb. A viewing stand ({桟敷|さじき}, see section 137) is a building, so you 'set it up' ({構|かま}ふ)."},
+    {"quote": "「護摩たく」といふもわろし", "text": "{護摩|ごま}: a fire ritual of esoteric Buddhism, in which offerings are burned in a sacred fire. The bishop wants it called a rite you perform ({修|しう}する, the edition's reading), not just a fire you burn."},
+    {"quote": "「法」の字を清みていふ、わろし、濁りていふ", "text": "{清|す}む and {濁|にご}る: to say a sound unvoiced (ほ) or voiced (ぼ). {行法|ぎやうぼふ}, a Buddhist rite, should be gyōbō, not gyōhō. The 1925 edition's reading, ぎやうぼふ, follows the bishop."},
+    {"quote": "清閑寺僧正", "text": "{僧正|そうじやう}: the highest rank among Buddhist priests; the translation says 'bishop'. Seikanji is a temple in the eastern hills of Kyoto. The 1925 edition and modern commentaries identify him as Dōga, a priest who was also a poet and who knew Kenkō."},
+    {"quote": "常にいふ事にかかることのみ多し", "text": "Kenkō's own comment closes the section. Sections 159 and 160 are about correct words, like section 22. The translation keeps the plaque and the stand, which still work in English, and sums up the rest."}
+  ]
+}

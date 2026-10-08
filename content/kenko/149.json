@@ -1,0 +1,19 @@
+{
+  "number": 149,
+  "title": "Don't sniff the antler",
+  "translation": [
+    "Don't hold young deer antler up to your nose and sniff it. They say there are tiny insects in it that crawl in through your nose and eat your brain."
+  ],
+  "original": [
+    "{鹿茸|ろくじよう}を{鼻|はな}にあてて{嗅|か}ぐべからず、ちひさき{虫|むし}ありて、{鼻|はな}より{入|い}りて{脳|なう}をはむといへり。"
+  ],
+  "literal": [
+    "One must not put deer velvet to one's nose and smell it: they say there are small insects, which go in through the nose and eat the brain."
+  ],
+  "notes": [
+    {"quote": "鹿茸", "text": "{鹿茸|ろくじよう}: the young antler of a deer, still soft and covered in 'velvet'. It was a costly medicine in Chinese tradition. The 1925 edition gives the reading ろくじよう (written with a small ょ in the edition)."},
+    {"quote": "嗅ぐべからず", "text": "べからず: 'must not', the negative of べし. The same form is still used on signs today, as in {入|はい}るべからず 'keep out'."},
+    {"quote": "脳をはむ", "text": "はむ: 'to eat', written {食|は}む. The word survives in modern Japanese in {草|くさ}を{食|は}む, 'to graze'."},
+    {"quote": "といへり", "text": "'They say.' いへり is いふ + り, 'it has been said'. Kenkō passes the warning on without saying whether he believes it."}
+  ]
+}

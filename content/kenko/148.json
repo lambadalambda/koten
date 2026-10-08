@@ -1,0 +1,20 @@
+{
+  "number": 148,
+  "title": "Past forty",
+  "translation": [
+    "Once you're past forty, have a little cone of herbs burned on your skin, at the spot just below the knee. If you don't, the blood rushes to your head. Don't skip it."
+  ],
+  "original": [
+    "{四十|よそぢ}{以後|いご}の{人|ひと}、{身|み}に{灸|きう}を{加|くは}へて{三里|さんり}を{焼|や}かざれば{上気|じやうき}のことあり、{必|かなら}ず{灸|きう}すべし。"
+  ],
+  "literal": [
+    "A person after forty, if he does not apply moxa to his body and burn the sanri point, will have a rush of blood to the head; he should surely use moxa."
+  ],
+  "notes": [
+    {"quote": "四十以後の人", "text": "{四十|よそぢ}: 'forty (years)', the native Japanese reading, as in {五十|いそぢ} 'fifty'. Forty was counted as the start of old age, and there were celebrations for it. In section 7, Kenkō says it is best to die before forty."},
+    {"quote": "灸", "text": "{灸|きう} (modern きゅう), moxibustion: a small cone of dried mugwort ('moxa') is burned on the skin at set points of the body. The translation says 'a little cone of herbs'. It came from China and is still practised in Japan."},
+    {"quote": "三里", "text": "{三里|さんり}: a point on the outer side of the shin, a little below the knee. The 1925 edition glosses it as the hollow below the knee on the outer side. It was the standard spot for moxa against tired legs and for general health. The custom lasted: more than 350 years later, Bashō burns moxa on his {三里|さんり} before he sets out on The Narrow Road to the Deep North (1689)."},
+    {"quote": "上気のことあり", "text": "{上気|じやうき}: 'rising energy', blood or heat going to the head: a hot face, dizziness. The idea was that moxa on the leg pulls it back down."},
+    {"quote": "必ず灸すべし", "text": "べし: 'should', here a firm piece of advice. The section is just a health tip, with no comment, like the one that follows."}
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 157,
+  "title": "The mind follows the hand",
+  "translation": [
+    "Pick up a brush and you find yourself writing something. Pick up an instrument and you want to play it. Pick up a cup and you think of a drink. Pick up the dice and you want to play for money. The mind always follows what you touch. So never play at anything bad, not even casually.",
+    "Glance at a single line of scripture, and before you know it you're reading the lines around it too. You might suddenly see something you've been getting wrong for years. If you hadn't opened the book just then, would you ever have known? That's what contact does.",
+    "Even if you don't feel anything at all, sit in front of the Buddha, take your beads and a sutra in your hands, and some good gets done by itself, even while you're slacking. Sit down on the meditation seat, even with your mind all over the place, and you'll be meditating before you notice. The outward thing and the truth behind it were never two separate things. If the outside doesn't go against the path, the inside will ripen. Don't insist that it isn't real faith. Respect it."
+  ],
+  "original": [
+    "{筆|ふで}をとれば{物|もの}{書|か}かれ、{楽器|がくき}をとれば{音|ね}をたてむと{思|おも}ふ。",
+    "{杯|さかづき}をとれば{酒|さけ}を{思|おも}ひ、{賽|さい}をとれば{攤|だ}うたむ{事|こと}を{思|おも}ふ。",
+    "{心|こころ}は{必|かなら}ず{事|こと}に{触|ふ}れて{来|きた}る。",
+    "{仮|かり}にも{不善|ふぜん}のたはぶれをなすべからず。",
+    "あからさまに{聖教|しやうげう}の{一句|いつく}を{見|み}れば、{何|なに}となく{前後|ぜんご}の{文|ふみ}も{見|み}ゆ。",
+    "{卒爾|そつじ}にして{多年|たねん}の{非|ひ}を{改|あらた}むる{事|こと}もあり。",
+    "{仮|かり}に{今|いま}この{文|ふみ}をひろげざらましかば、この{事|こと}を{知|し}らむや。",
+    "これすなはち{触|ふ}るる{所|ところ}の{益|やく}なり。",
+    "{心|こころ}{更|さら}に{起|おこ}らずとも、{仏前|ぶつぜん}にありて{数珠|ずず}を{取|と}り{経|きやう}を{取|と}らば、{怠|おこた}るうちにも{善業|ぜんごふ}おのづから{修|しゆ}せられ、{散乱|さんらん}の{心|こころ}ながらも{縄床|じようしやう}に{坐|ざ}せば、おぼえずして{禅定|ぜんぢやう}なるべし。",
+    "{事理|じり}もとより{二|ふた}つならず、{外相|げさう}{若|も}し{背|そむ}かざれば、{内証|ないしよう}かならず{熟|じゆく}す。",
+    "{強|し}ひて{不信|ふしん}といふべからず。",
+    "{仰|あふ}ぎてこれを{尊|たふと}むべし。"
+  ],
+  "literal": [
+    "If you take up a brush, you find yourself writing something; if you take up an instrument, you think of making a sound.",
+    "If you take up a cup, you think of sake; if you take up dice, you think of playing da.",
+    "The mind always comes in response to touching things.",
+    "Even casually, you must not engage in bad amusements.",
+    "If you look briefly at one phrase of the holy teachings, somehow you also see the text before and after it.",
+    "Suddenly, you may also correct a wrong of many years.",
+    "If you had not now opened this text, would you know this?",
+    "This is exactly the benefit of what you touch.",
+    "Even if the heart does not rise at all, if you are before the Buddha and take up beads and take up a sutra, even while being lazy, good deeds are done of themselves; and if you sit on the rope seat even with a scattered mind, unawares you will be in meditation.",
+    "Phenomena and principle are from the start not two; if the outward form does not go against (the way), the inner realisation will surely ripen.",
+    "You must not insist on calling it lack of faith.",
+    "Look up to it and respect it."
+  ],
+  "notes": [
+    {"quote": "物書かれ", "text": "{書|か}かれ: the る/らる of spontaneity, 'it happens of itself'. You do not decide to write; you just find yourself writing."},
+    {"quote": "攤うたむ", "text": "{攤|だ}: a dice game played for money; the 1925 edition explains it as a Chinese word for gambling. The exact rules are not known. うつ, 'to strike', is the verb for playing it, as in modern ばくちを{打|う}つ, 'to gamble'."},
+    {"quote": "心は必ず事に触れて来る", "text": "The thesis of the section: the mind does not come first and the action after. The action comes first, and the mind follows."},
+    {"quote": "聖教", "text": "{聖教|しやうげう}: the Buddhist scriptures and commentaries."},
+    {"quote": "卒爾にして", "text": "{卒爾|そつじ}: 'suddenly, without warning'. Modern Japanese keeps it in the formal apology {卒爾|そつじ}ながら, 'excuse me for asking so suddenly'."},
+    {"quote": "ひろげざらましかば、この事を知らむや", "text": "ましかば … む: 'if it had been…, would…?', a condition contrary to fact. や makes it a rhetorical question: you would not have known."},
+    {"quote": "触るる所の益なり", "text": "{益|やく}: 'benefit', especially the benefit of the Buddha's teaching. The same reading survives in modern ご{利益|りやく}, the blessing you get from a god or a Buddha."},
+    {"quote": "縄床に坐せば", "text": "{縄床|じようしやう}: a chair with a seat woven of rope, used for meditation. The 1925 edition gives the reading じようしやう (with small kana). {禅定|ぜんぢやう}: the calm, focused state of meditation."},
+    {"quote": "事理もとより二つならず", "text": "{事|じ} and {理|り}: in Buddhist terms, things as they appear and the truth behind them. {外相|げさう} and {内証|ないしよう}: the outward form and the inner realisation. The argument: they are one, so the outward form is not empty."}
+  ]
+}

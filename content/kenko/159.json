@@ -1,0 +1,23 @@
+{
+  "number": 159,
+  "title": "Mina, not nina",
+  "translation": [
+    "Someone of very high rank once told me, \"The mina knot is called that because the thread, tied over and over on itself, looks like a mina, a little spiral shell.\"",
+    "So people who say \"nina\" have it wrong."
+  ],
+  "original": [
+    "「みなむすびといふは、{糸|いと}をむすびかさねたるが、{蜷|みな}といふ{貝|かひ}に{似|に}たればいふ。」と{或|ある}やんごとなき{人|ひと}、{仰|おほ}せられき。",
+    "「にな」といふは{誤|あやま}りなり。"
+  ],
+  "literal": [
+    "'What is called the mina knot is so called because thread tied over and over resembles the shellfish called mina', a certain distinguished person said.",
+    "Saying 'nina' is a mistake."
+  ],
+  "notes": [
+    {"quote": "みなむすび", "text": "A decorative knot of cord or braid, tied in repeated loops. The 1925 edition says it was used on formal court trousers and on priests' robes. The exact form in Kenkō's time is not certain."},
+    {"quote": "蜷といふ貝", "text": "{蜷|みな}: a small freshwater snail with a long, pointed, spiral shell. Modern Japanese calls it にな, as in カワニナ, the river snail. So the form Kenkō calls a mistake is the one that survived."},
+    {"quote": "やんごとなき人", "text": "やんごとなし: 'of very high rank', as in section 1. The source is named only by rank."},
+    {"quote": "仰せられき", "text": "き: the past for something the writer heard himself. Kenkō was told this in person."},
+    {"quote": "「にな」といふは誤りなり", "text": "A short point about correct usage. The next section is a whole list of them; compare also section 22."}
+  ]
+}

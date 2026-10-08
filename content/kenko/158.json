@@ -1,0 +1,27 @@
+{
+  "number": 158,
+  "title": "The last drop in the cup",
+  "translation": [
+    "Someone very important once asked me, \"When people pour away the last drop in their cup, what do you think that's about?\"",
+    "\"It's called gyōtō, 'the settled part',\" I said, \"so I suppose it's to throw out whatever has settled at the bottom.\"",
+    "\"No, no. It's gyodō, 'the fish path'. You leave a little stream in the cup to rinse the place where your mouth touched.\""
+  ],
+  "original": [
+    "「{杯|さかづき}の{底|そこ}を{捨|す}つることはいかが{心得|こころえ}たる。」とある{人|ひと}の{尋|たづ}ねさせ{給|たま}ひしに、",
+    "「{凝当|ぎようたう}と{申|まう}し{侍|はべ}れば、{底|そこ}に{凝|こ}りたるを{捨|す}つるにや{候|さうらふ}らむ。」と{申|まう}し{侍|はべ}りしかば、",
+    "「さにはあらず、{魚道|ぎよだう}なり。{流|なが}れを{残|のこ}して{口|くち}のつきたる{所|ところ}をすすぐなり。」とぞ{仰|おほ}せられし。"
+  ],
+  "literal": [
+    "When a certain person asked, 'How do you understand throwing away the bottom of the cup?',",
+    "I said, 'Since it is called gyōtō (congealed-hit), perhaps it is to throw away what has congealed at the bottom',",
+    "and he said, 'It is not so; it is gyodō (fish path). You leave a stream and rinse the place where the mouth touched.'"
+  ],
+  "notes": [
+    {"quote": "杯の底を捨つる", "text": "At a drinking party, the same cup was passed from person to person. Before passing it on, you poured away the last bit left at the bottom."},
+    {"quote": "尋ねさせ給ひしに", "text": "させ{給|たま}ふ: a double honorific, used only for people of very high rank. The text does not say who it was. しに: き, the past for something the writer saw or heard himself."},
+    {"quote": "凝当", "text": "Kenkō's answer goes by the written form, {凝当|ぎようたう}: {凝|こ}る, 'to congeal, to settle'. The 1925 edition gives the readings ぎようたう and ぎよだう (with small kana). The two words sound almost the same. The 1925 edition's gloss says Kenkō simply had it wrong because of the sound; modern commentaries are less sure what the custom's name really meant."},
+    {"quote": "にや候らむ", "text": "にや + {候|さうらふ}らむ: 'it is perhaps…, I suppose'. Kenkō answers humbly ({申|まう}し{侍|はべ}り) and with a hedge."},
+    {"quote": "魚道", "text": "{魚道|ぎよだう}: 'fish path'. As the speaker explains it, you leave a thin stream ({流|なが}れ) of sake in the cup, like a path for fish, and let it wash over the place where your lips touched before you pour it out."},
+    {"quote": "とぞ仰せられし", "text": "The section ends with the other person's explanation and no comment from Kenkō."}
+  ]
+}
