@@ -24,3 +24,11 @@
 - Open: Kenkō 6, Shōtoku's tomb. ここをきれ、かしこを断て is now "Cut it here. Cut it off there." Clear enough, but not fully satisfying. Revisit if a better English pair comes up.
 - Christian reader / Ecclesiastes (aside, not planned): for a Christian reader "this world" carries the この世/後の世 contrast without a note ("in the world but not of the world", contemptus mundi). Ecclesiastes is close to Kenkō in places: "vanity of vanities", "a time to be born, and a time to die", the man who builds and cannot keep it (sections 7, 10, end of 137 as memento mori). But the frame imports a creator, sin and salvation: 後の世 is the next rebirth or the Pure Land, not heaven, and for Kenkō impermanence is what makes things beautiful, not a fallen world. Same vocabulary, wrong attitude. Older English translations may lean this way because King James English was the default "serious" register. Possible experiment via `variants` (e.g. a King James version of section 7), not the main voice.
 - Borges, "Pierre Menard, Author of the Quixote": Kenkō 14 makes the same observation with the opposite judgement. Poets use the same words and famous places (同じことば歌枕), but the old poems are "not the same thing at all". Same words, different time, different poem. It also describes the project: the Japanese text is fixed (and tested), everything around it is new. Not for the notes, which stay with what Kenkō could have known.
+
+## 2026-10-08/09: the rest of the book overnight
+
+- Sections 37–243 (202 sections) written in 17 batches of about 12. For each batch: a writer agent (STYLE.md + approved reference sections), then an independent checker agent with permission to fix, then a batch check (text identical to the edition, note quotes, rendering) and a separate commit.
+- Checkers compared with roudokus.com and, from the 11th batch on, with the 1925 editor's own glosses in the raw source, which turned out to be a useful second authority. Where they disagree, notes give both.
+- Typical checker fixes: invented setup or examples in translations, mind-reading in notes, facts stated from memory (removed or hedged), wrong subjects in ambiguous sentences, grand titles, exotic terms.
+- Cleaner bug found by a writer: おどろ〳〵 is a 3-kana unit (added to OVERRIDES).
+- Open points for the human reviewer are collected in REVIEW.md, by batch.

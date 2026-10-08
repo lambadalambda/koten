@@ -1,5 +1,7 @@
 # Review notes
 
+**Where to start:** 175 (the drinking rant), 243 (the last section), 238 (Kenkō's boasts), 107 (the harsh passage about women), 14 and 22 (as models for the poetry and court-language sections), then the per-batch lists below.
+
 Open questions from the overnight batches (written by writer agents, checked by independent checker agents). Everything here is already in the content; these are the points where a human should decide.
 
 ## 37–48
