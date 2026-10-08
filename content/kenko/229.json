@@ -1,0 +1,21 @@
+{
+  "number": 229,
+  "title": "A blunt knife",
+  "translation": [
+    "A good craftsman, they say, works with a knife that's a little blunt. The sculptor Myōkan's knife never cut very well."
+  ],
+  "original": [
+    "よき{細工|さいく}は、{少|すこ}し{鈍|にぶ}き{刀|かたな}をつかふといふ。",
+    "{妙観|めうくわん}が{刀|かたな}はいたく{立|た}たず。"
+  ],
+  "literal": [
+    "A good craftsman, it is said, uses a slightly dull blade.",
+    "Myōkan's blade did not bite much."
+  ],
+  "notes": [
+    {"quote": "よき細工", "text": "{細工|さいく}: here a craftsman, someone who makes fine things by hand. Modern {細工|さいく} is the work itself, 'craftwork'."},
+    {"quote": "刀", "text": "{刀|かたな}: any single-edged blade, here a carving knife, not a sword."},
+    {"quote": "妙観", "text": "The 1925 edition identifies Myōkan as a priest of Katsuoji in Settsu province, who carved the temple's statue of Kannon."},
+    {"quote": "いたく立たず", "text": "{立|た}つ: of a blade, 'to cut in, to bite'. いたく … ず: 'not very'. The text gives no reason why a blunt knife is better. It states the saying and gives one example."}
+  ]
+}

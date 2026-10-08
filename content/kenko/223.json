@@ -1,0 +1,20 @@
+{
+  "number": 223,
+  "title": "Lord Crane",
+  "translation": [
+    "Lord Crane was called Master Crane as a boy. People who say he got the name because he kept cranes have it wrong."
+  ],
+  "original": [
+    "{田鶴|たづ}の{大殿|おほいどの}は、{童名|わらはな}たづ{君|ぎみ}なり。",
+    "「{鶴|つる}を{飼|か}ひ{給|たま}ひける{故|ゆゑ}に。」と{申|まう}すは{僻事|ひがごと}なり。"
+  ],
+  "literal": [
+    "The Tazu no Ōidono's childhood name was Tazu-gimi.",
+    "Saying 'It is because he kept cranes' is a mistake."
+  ],
+  "notes": [
+    {"quote": "田鶴の大殿", "text": "The 1925 edition identifies him as Kujō Motoie, a son of the regent Kujō Yoshitsune. {田鶴|たづ}: an old word for 'crane', used mostly in poetry. {大殿|おほいどの}: a respectful title for a senior noble, often a minister or the father of a regent."},
+    {"quote": "童名", "text": "{童名|わらはな}: the name a boy of good family used before his coming-of-age ceremony, when he received an adult name. {君|ぎみ}: 'young lord'."},
+    {"quote": "僻事", "text": "{僻事|ひがごと}: 'a mistake, something wrong'. Kenkō corrects a popular explanation, briefly and without discussion."}
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 226,
+  "title": "Who wrote the Heike",
+  "translation": [
+    "In Retired Emperor Go-Toba's time, there was a man called Yukinaga, a former governor of Shinano, who had a name for his learning. He was called in to take his turn in a debate on Chinese ballads before the emperor, and in the ballad about the seven virtues of war he forgot two of them. After that, people called him Young Master Five Virtues. He took it so hard that he gave up scholarship and became a monk.",
+    "The priest Jien liked to keep anyone with a talent around, even the lowest servants, and looked after them. So he took Yukinaga in and supported him.",
+    "Yukinaga wrote the Tale of the Heike and taught it to a blind man called Shōbutsu, who recited it. He wrote about the monks of Mount Hiei in especially glowing terms. He knew all about Yoshitsune and wrote that part in detail. About Yoshitsune's brother Noriyori he probably didn't know much, because he left a lot out. For the warriors, the bows and the horses, Shōbutsu, who came from the east, asked warriors himself and had Yukinaga write it in.",
+    "The blind lute players today copy the voice Shōbutsu was born with."
+  ],
+  "original": [
+    "{後鳥羽院|ごとばのゐん}の{御時|おほんとき}、{信濃前司|しなののぜんじ}{行長|ゆきなが}{稽古|けいこ}の{誉|ほまれ}ありけるが、",
+    "{楽府|がふ}の{御|み}{論議|ろんぎ}の{番|ばん}に{召|め}されて、{七徳|しちとく}の{舞|まひ}を{二|ふた}つ{忘|わす}れたりければ、{五徳|ごとく}の{冠者|くわじや}と{異名|いみやう}をつきにけるを、",
+    "{心憂|こころう}き{事|こと}にして、{学問|がくもん}をすてて{遁世|とんせい}したりけるを、",
+    "{慈鎮|じちん}{和尚|くわしやう}、{一芸|いちげい}ある{者|もの}をば、{下部|しもべ}までも{召|め}しおきて、{不便|ふびん}にせさせ{給|たま}ひければ、この{信濃|しなの}{入道|にふだう}を{扶持|ふち}し{給|たま}ひけり。",
+    "この{行長|ゆきなが}{入道|にふだう}{平家物語|へいけものがたり}を{作|つく}りて、{生仏|しやうぶつ}といひける{盲目|まうもく}に{教|をし}へて{語|かた}らせけり。",
+    "さて{山門|さんもん}のことを{殊|こと}にゆゆしく{書|か}けり。",
+    "{九郎判官|くらうはうぐわん}の{事|こと}は{委|くは}しく{知|し}りて{書|か}き{載|の}せたり。",
+    "{蒲冠者|かばのくわじや}の{事|こと}は{能|よ}く{知|し}らざりけるにや、{多|おほ}くの{事|こと}どもを{記|しる}しもらせり。",
+    "{武士|ぶし}の{事|こと}{弓馬|きゆうば}のわざは、{生仏|しやうぶつ}{東国|とうごく}のものにて、{武士|ぶし}に{問|と}ひ{聞|き}きて{書|か}かせけり。",
+    "かの{生仏|しやうぶつ}がうまれつきの{声|こゑ}を、{今|いま}の{琵琶法師|びははふし}は{学|まな}びたるなり。"
+  ],
+  "literal": [
+    "In the time of Retired Emperor Go-Toba, Yukinaga, former governor of Shinano, had a reputation for learning, but",
+    "when he was summoned to take his turn in a debate on the New Ballads before the emperor, he forgot two of (the virtues in) the Dance of the Seven Virtues, and was given the nickname 'the Five Virtues youth';",
+    "he took this to heart, gave up learning and withdrew from the world; and",
+    "since the priest Jichin kept in his service even lowly people with a single talent and took care of them, he supported this Shinano lay monk.",
+    "This lay monk Yukinaga wrote the Heike Monogatari and taught it to a blind man called Shōbutsu, to recite.",
+    "And he wrote about the Mountain Gate with special splendour.",
+    "He knew the affairs of Kurō Hōgan in detail and wrote them down.",
+    "About Kaba no Kanja, perhaps he did not know much: he left out many things.",
+    "As for warriors and the arts of bow and horse, Shōbutsu, being from the eastern provinces, asked warriors, and he had (it) written.",
+    "That Shōbutsu's natural voice is what the lute priests of today imitate."
+  ],
+  "notes": [
+    {"quote": "信濃前司行長", "text": "{前司|ぜんじ}: a former provincial governor, as the edition explains. Who this Yukinaga was is not certain; the 1925 edition says nothing is known about him. This passage is one of the oldest statements about who wrote the Tale of the Heike, and scholars still argue about how far to trust it."},
+    {"quote": "楽府の御論議", "text": "{楽府|がふ}: the 1925 edition just calls it a form of Chinese poem. Commentators take it here as Bai Juyi's 'New Ballads', a set of fifty Chinese poems. The first is 'The Dance of the Seven Virtues', about a war dance of the Tang emperor Taizong. The seven virtues of war (stopping violence, putting away weapons, and five more) come from an old Chinese history, the Zuo zhuan. {論議|ろんぎ}: a formal debate on a text, held before the emperor, with each scholar taking his turn ({番|ばん})."},
+    {"quote": "五徳の冠者", "text": "{冠者|くわじや}: a young man who has come of age but holds no office. The nickname counts the virtues he could remember."},
+    {"quote": "慈鎮和尚", "text": "Jien (1155–1225); Jichin is the name he was given after his death. He was head of the Tendai school on Mount Hiei several times, a major poet and the author of a history of Japan, the Gukanshō. He was also a brother of the regent Kujō Kanezane."},
+    {"quote": "不便にせさせ給ひければ", "text": "A false friend: {不便|ふびん} is 'pitiable', and ふびんにす is 'to take pity on, to look after'. Modern {不便|ふべん} 'inconvenient' is written with the same kanji."},
+    {"quote": "平家物語", "text": "The Tale of the Heike tells the war between the Taira (Heike) and Minamoto families, 1180–1185, and the fall of the Taira. It was performed by blind reciters to the lute ({琵琶|びは}), long before it was read as a book."},
+    {"quote": "山門", "text": "{山門|さんもん}, 'the mountain gate': the Tendai temple Enryakuji on Mount Hiei. Commentators connect the glowing treatment with Jien, who led it."},
+    {"quote": "九郎判官", "text": "Minamoto no Yoshitsune (1159–1189), the brilliant young general of the war and the hero of many later stories. {九郎|くらう}: 'ninth son'; {判官|はうぐわん}: his rank in the police office. {蒲冠者|かばのくわじや}: his half-brother Minamoto no Noriyori, who led the other Minamoto army; Kaba is the place where he grew up."},
+    {"quote": "書かせけり", "text": "The sentence does not say who asked and who wrote. The usual reading: Shōbutsu, being from the warrior country in the east, asked warriors about fighting and had (せ, causative) Yukinaga write it into the tale."},
+    {"quote": "今の琵琶法師", "text": "{琵琶法師|びははふし}: blind men with shaved heads who recited the Heike to the lute (see section 232). The style of chanting is still performed today."}
+  ]
+}

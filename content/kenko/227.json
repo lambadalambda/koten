@@ -1,0 +1,32 @@
+{
+  "number": 227,
+  "title": "Hymns set to music",
+  "translation": [
+    "The Six Hours hymns, which are sung six times a day and night, were put together by Anraku, a disciple of Hōnen. He collected passages from the sutras and used them for his daily prayers. Later Zenkanbō, a priest at Uzumasa, fixed the melody and wrote it down, and turned them into a proper chant. That was the start of the 'single-call' chanting of Amida's name. It began in Go-Saga's reign.",
+    "Zenkanbō did the same for another set of hymns, the Hōjisan."
+  ],
+  "original": [
+    "{六時礼讃|ろくじらいさん}は、{法然|ほふねん}{上人|しやうにん}の{弟子|でし}{安楽|あんらく}といひける{僧|そう}、{経文|きやうもん}を{集|あつ}めて{作|つく}りて{勤|つと}めにしけり。",
+    "その{後|のち}{太秦|うづまさ}の{善観房|ぜんくわんばう}といふ{僧|そう}、ふしはかせを{定|さだ}めて{声明|しやうみやう}になせり。",
+    "{一念|いちねん}の{念仏|ねんぶつ}の{最初|さいしよ}なり。",
+    "{後嵯峨院|ごさがのゐん}の{御代|みよ}より{始|はじ}まれり。",
+    "{法事讃|ほふじさん}も{同|おな}じく{善観房|ぜんくわんばう}はじめたるなり。"
+  ],
+  "literal": [
+    "The Rokuji Raisan: a monk called Anraku, a disciple of the holy man Hōnen, collected sutra passages, made it, and used it as his religious service.",
+    "Later a monk called Zenkanbō of Uzumasa fixed its melody marks and made it into shōmyō chant.",
+    "It is the first of the one-call nenbutsu.",
+    "It began from the reign of Go-Saga.",
+    "The Hōjisan, too, was likewise begun by Zenkanbō."
+  ],
+  "notes": [
+    {"quote": "六時礼讃", "text": "{六時礼讃|ろくじらいさん}: Pure Land hymns praising the Buddha Amida, sung at six fixed times of the day and night, as the edition explains. The hymns themselves are usually traced to the Chinese Pure Land master Shandao (613–681); Kenkō says Anraku put them together from sutra texts."},
+    {"quote": "法然上人の弟子安楽", "text": "Hōnen (1133–1212) founded the Pure Land school in Japan. His disciple Anraku was known for his beautiful chanting of these hymns. He was executed in 1207, when the court cracked down on Hōnen's followers."},
+    {"quote": "ふしはかせ", "text": "ふしはかせ: the marks written beside a text to show the melody, a kind of musical notation. Once the melody was written down, the chant could be taught and sung the same way everywhere."},
+    {"quote": "声明", "text": "{声明|しやうみやう}: Buddhist chant, singing sutra texts in a fixed melody. The edition explains it as an Indian art of chanting scripture in a beautiful voice."},
+    {"quote": "太秦の善観房", "text": "Uzumasa, west of the capital. The 1925 edition says nothing is known about Zenkanbō."},
+    {"quote": "一念の念仏の最初なり", "text": "{一念|いちねん}: 'one thought' or 'one call'. The edition glosses it as calling Amida's name aloud. What Kenkō means by 'the first of the one-call nenbutsu' is not clear, and commentators explain it in different ways. The translation keeps the word and does not guess."},
+    {"quote": "後嵯峨院の御代", "text": "Go-Saga reigned 1242–1246 and then ruled as retired emperor until 1272."},
+    {"quote": "法事讃", "text": "{法事讃|ほふじさん}: another Pure Land hymn text, also by Shandao. The edition just calls it the name of a chanted text."}
+  ]
+}

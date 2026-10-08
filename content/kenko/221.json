@@ -1,0 +1,29 @@
+{
+  "number": 221,
+  "title": "Festival costumes",
+  "translation": [
+    "\"Back in the late 1270s and the 1280s, the police runners in the Kamo Festival procession wore decorations you could actually enjoy. They'd make a horse out of four or five rolls of some odd dark-blue cloth, with lamp wicks for the mane and tail, and fix it onto a robe with a spider's web drawn on it. Then they'd walk along explaining which poem it was meant to show. You saw that kind of thing all the time, and it felt as if they did it with some wit.\" The old police officials are still telling this today.",
+    "These days the decorations get more extravagant every year. They hang every kind of heavy thing on themselves, need someone on each side to hold up their sleeves, don't even carry their own halberd, and stagger along gasping for breath. It's an ugly sight."
+  ],
+  "original": [
+    "{建治|けんぢ}{弘安|こうあん}のころは、{祭|まつり}の{日|ひ}の{放免|ほうべん}のつけものに、{異様|いやう}なる{紺|こん}の{布|ぬの}{四五|しご}{端|たん}にて、{馬|うま}をつくりて、{尾髪|をがみ}には{灯心|とうしん}をして、{蜘蛛|くも}の{網|い}かきたる{水干|すゐかん}に{附|つ}けて、{歌|うた}の{心|こころ}などいひて{渡|わた}りしこと、",
+    "{常|つね}に{見|み}{及|およ}び{侍|はべ}りしなども、{興|きよう}ありてしたる{心地|ここち}にてこそ{侍|はべ}りしか。」と、{老|お}いたる{道志|だうし}どもの、{今日|けふ}もかたりはべるなり。",
+    "この{頃|ごろ}は、つけもの{年|とし}をおくりて、{過差|くわさ}ことの{外|ほか}になりて、{万|よろづ}の{重|おも}きものを{多|おほ}くつけて、{左右|さう}の{袖|そで}を{人|ひと}にもたせて、みづからは{鋒|ほこ}をだに{持|も}たず、{息|いき}づき{苦|くる}しむ{有様|ありさま}いと{見|み}ぐるし。"
+  ],
+  "literal": [
+    "In the Kenji and Kōan years, as decorations for the police runners on the festival day, they made a horse out of four or five bolts of strange dark-blue cloth, made the tail and mane of lamp wicks, attached it to a hunting robe with a spider's web drawn on it, and paraded explaining the meaning of a poem:",
+    "that I always used to see such things, and that it felt as if they did it with real wit, the old police officials are telling even today.",
+    "These days the decorations, year after year, have become extravagant beyond measure; they attach many heavy things of every kind, have people hold their left and right sleeves, do not even carry their halberd themselves, and gasp in distress: a very ugly sight."
+  ],
+  "notes": [
+    {"quote": "建治弘安のころ", "text": "Two era names: Kenji (1275–1278) and Kōan (1278–1288), some forty or fifty years before Kenkō wrote this."},
+    {"quote": "祭の日", "text": "'The festival' on its own means the Kamo Festival, the great procession of the capital (see section 137)."},
+    {"quote": "放免", "text": "{放免|ほうべん}: released convicts whom the capital's police office (the {検非違使|けびゐし}) used as runners and informers. The 1925 edition simply calls them low servants of the police office; it gives the reading ほうべん (usually spelled はうめん). In the festival procession they marched with the police and were allowed showy decorations (つけもの) on their clothes."},
+    {"quote": "蜘蛛の網かきたる水干", "text": "{網|い}: the edition's reading. くものい is the old word for a spider's web. {水干|すゐかん}: a kind of hunting robe of silk stiffened by soaking and drying it, as the edition explains."},
+    {"quote": "歌の心などいひて", "text": "The costume illustrated a poem, and the runner explained which one. The text does not say which poem the horse and the spider's web went with."},
+    {"quote": "侍りしか。」と", "text": "こそ … しか: こそ needs the realis form, so the past き becomes しか. き marks what the speaker saw himself. The edition closes the quotation here but prints no opening bracket: the old men's words start with the first word of the section."},
+    {"quote": "道志", "text": "{道志|だうし}: an official of the police office, trained in law. The edition says it was the fourth grade of the office."},
+    {"quote": "過差", "text": "{過差|くわさ}: extravagance, luxury beyond one's station. The edition gives the reading くゎさ."},
+    {"quote": "鋒をだに持たず", "text": "{鋒|ほこ}: a halberd, which the runners carried in the procession. だに: 'not even'. Weighed down by their own decorations, they have someone else carry it."}
+  ]
+}

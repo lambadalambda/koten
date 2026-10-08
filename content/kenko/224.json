@@ -1,0 +1,34 @@
+{
+  "number": 224,
+  "title": "A garden too big",
+  "translation": [
+    "The diviner Arimune, who had become a monk, came up from Kamakura to visit me. He had barely stepped inside when he said: \"All this garden, and none of it put to any use. That's shocking. It shouldn't be like this. People who know what they're doing plant things. Leave one narrow path and turn the rest into a vegetable patch.\"",
+    "He was right. Leaving even a little land unused does no good. Plant things you can eat, and herbs for medicine."
+  ],
+  "original": [
+    "{陰陽師|おんやうじ}{有宗|ありむね}{入道|にふだう}、{鎌倉|かまくら}より{上|のぼ}りて、{尋|たづ}ねまうできたりしが、まづさし{入|い}りて、",
+    "「この{庭|には}の{徒|いたづ}らに{広|ひろ}き{事|こと}、{浅|あさ}ましく、あるべからぬことなり。",
+    "{道|みち}を{知|し}るものは、{植|う}うる{事|こと}をつとむ。",
+    "{細道|ほそみち}ひとつ{残|のこ}して、みな{畠|はたけ}に{作|つく}りたまへ。」と{諫|いさ}め{侍|はべ}りき。",
+    "{誠|まこと}にすこしの{地|ち}をも{徒|いたづ}らに{置|お}かむことは{益|やく}なきことなり。",
+    "{食|く}ふ{物|もの}、{薬種|やくしゆ}などうゑおくべし。"
+  ],
+  "literal": [
+    "The yin-yang master Arimune, a lay monk, came up from Kamakura and visited me; as soon as he came in,",
+    "'That this garden is uselessly large is shocking; it should not be.",
+    "Those who know the way work at planting.",
+    "Leave one narrow path and make it all into a vegetable field,' he admonished me.",
+    "Truly, to leave even a little land idle is of no use.",
+    "One should plant things to eat, medicinal herbs and the like."
+  ],
+  "notes": [
+    {"quote": "陰陽師", "text": "{陰陽師|おんやうじ}: a court specialist in yin and yang: calendars, divination, lucky and unlucky directions and days."},
+    {"quote": "有宗入道", "text": "The 1925 edition identifies him as Abe no Arimune, son of Arishige, a head of the court's Bureau of Yin and Yang. (The edition's note prints 安位, probably for 安倍, Abe.) {入道|にふだう}: a man who has taken Buddhist vows but is not a temple priest."},
+    {"quote": "鎌倉より上りて", "text": "{上|のぼ}る: 'to go up' to the capital. Kamakura was the seat of the shogunate, which also employed diviners."},
+    {"quote": "徒らに広き", "text": "{徒|いたづ}らに: 'uselessly, to no purpose'. The same word as in section 236 ('in vain')."},
+    {"quote": "道を知るものは", "text": "{道|みち}: 'the way'. It can mean the right way of living, or the knowledge of his own art. The translation keeps it general."},
+    {"quote": "諫め侍りき", "text": "{諫|いさ}む: 'to admonish, to warn', usually said of advice to someone one should respect. き: Kenkō was there; it was his own garden."},
+    {"quote": "益なきことなり", "text": "{益|やく}: 'use, benefit', the edition's reading."},
+    {"quote": "薬種", "text": "{薬種|やくしゆ}: plants and materials for making medicine."}
+  ]
+}

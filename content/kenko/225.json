@@ -1,0 +1,40 @@
+{
+  "number": 225,
+  "title": "The man's dance",
+  "translation": [
+    "According to the court musician Ō no Hisasuke, the lay monk Michinori picked out the most interesting moves from the dances, taught them to a woman called Iso no Zenji, and had her dance them. She wore a white robe with a short sword at her belt and a man's tall black cap, so they called it the man's dance. Her daughter, Shizuka, took over the art. That was how shirabyōshi dancing began. The songs tell the stories behind the buddhas and the gods.",
+    "Later, Minamoto no Mitsuyuki wrote a lot of new pieces. Retired Emperor Go-Toba wrote some too, and had them taught to the dancer Kamegiku, they say."
+  ],
+  "original": [
+    "{多久資|おほのひさすけ}が{申|まう}しけるは、{通憲|みちのり}{入道|にふだう}、{舞|まひ}の{手|て}のうちに{興|きよう}ある{事|こと}どもを{選|えら}びて、{磯|いそ}の{禅師|ぜんじ}といひける{女|をんな}に{教|をし}へて、{舞|ま}はせけり。",
+    "{白|しろ}き{水干|すゐかん}に{鞘巻|さうまき}をささせ、{烏帽子|ゑぼし}をひき{入|い}れたりければ、{男舞|をとこまひ}とぞいひける。",
+    "{禅師|ぜんじ}がむすめ{静|しづか}といひける、この{芸|げい}をつげり。",
+    "これ{白拍子|しらびやうし}の{根源|こんげん}なり。",
+    "{仏神|ぶつしん}の{本縁|ほんえん}をうたふ。",
+    "その{後|のち}{源光行|みなもとのみつゆき}、おほくの{事|こと}をつくれり。",
+    "{後鳥羽院|ごとばのゐん}の{御作|ぎよさく}もあり。",
+    "{亀菊|かめぎく}に{教|をし}へさせ{給|たま}ひけるとぞ。"
+  ],
+  "literal": [
+    "What Ō no Hisasuke said: the lay monk Michinori chose interesting ones among the moves of the dances, taught them to a woman called Iso no Zenji, and had her dance them.",
+    "Because he had her wear a sheathed dagger with a white robe and put on a court cap, they called it the man's dance.",
+    "Zenji's daughter, called Shizuka, inherited this art.",
+    "This is the origin of shirabyōshi.",
+    "They sing the origins of buddhas and gods.",
+    "Later Minamoto no Mitsuyuki composed many pieces.",
+    "There are also compositions by Retired Emperor Go-Toba.",
+    "He had them taught to Kamegiku, they say."
+  ],
+  "notes": [
+    {"quote": "多久資", "text": "Ō no Hisasuke, of the Ō family ({多|おほ}), a family of court musicians and dancers, as the 1925 edition notes. The edition reads the whole name おほのひさすけ."},
+    {"quote": "通憲入道", "text": "Fujiwara no Michinori (1106–1160), better known by his monk's name Shinzei: a scholar and one of the most powerful men at court under Go-Shirakawa. He was killed in the Heiji disturbance of 1159–1160, as the edition notes."},
+    {"quote": "磯の禅師", "text": "A dancer. The edition says she came from Koiso in Sanuki province. {禅師|ぜんじ} is normally a title for a priest; here it is part of her name."},
+    {"quote": "鞘巻", "text": "{鞘巻|さうまき}: a short sword without a hand guard, as the edition explains. The 1925 edition prints the reading きうまき, evidently a misprint; this page reads さうまき, a sound-change form of さやまき 'sheath-wrapped'."},
+    {"quote": "烏帽子をひき入れたりければ", "text": "{烏帽子|ゑぼし}: the tall black cap of a grown man. ひき{入|い}る: 'to put on', as the edition glosses it. Robe, sword and cap together made the dancer look like a man."},
+    {"quote": "静", "text": "Shizuka, later famous as the lover of Minamoto no Yoshitsune, the general of section 226."},
+    {"quote": "白拍子", "text": "{白拍子|しらびやうし}: women who sang and danced in men's clothes, very popular at court and among warriors from the late twelfth century. The name means something like 'plain rhythm'."},
+    {"quote": "仏神の本縁", "text": "{本縁|ほんえん}: 'origin, how something came to be', as the edition glosses it. The songs told the legends of temples, shrines and their gods."},
+    {"quote": "源光行", "text": "Minamoto no Mitsuyuki (1163–1244), a poet and scholar (the edition calls him a poet, son of Mitsusue), best known today for his work on the text of the Tale of Genji."},
+    {"quote": "亀菊に教へさせ給ひけるとぞ", "text": "Kamegiku was a dancer in the capital, a favourite of Go-Toba. 教へさせ給ひ can be read as 'had (someone) teach her' or as a very respectful 'taught her' himself; the translation keeps the first. とぞ: 'so they say'."}
+  ]
+}

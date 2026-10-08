@@ -1,0 +1,46 @@
+{
+  "number": 232,
+  "title": "Better to know nothing",
+  "translation": [
+    "As a rule, people should know nothing and be good at nothing.",
+    "Someone's son, a nice-looking young man, was talking with a guest in front of his father and quoted a line from the Chinese histories. It sounded clever. But with his father sitting there, I thought, he could have done without it.",
+    "Another time, at someone's house, we wanted to hear one of the blind priests recite a story to the lute, and sent for a lute. One of its frets had come off. \"Make a new one and stick it on,\" someone said. One of the men there, who seemed decent enough, asked: \"Is there an old ladle handle?\" I looked at him, and he had grown his nails long. A lute player, then. For a blind priest's lute, none of that mattered. He seemed to want us to see he knew the craft, and it was painful to watch. As someone of rank put it: \"Ladle handles are made of what they call bent-wood. It's no good for that.\"",
+    "With young people, the smallest thing makes them look good, or bad."
+  ],
+  "original": [
+    "すべて{人|ひと}は{無智|むち}{無能|むのう}なるべきものなり。",
+    "ある{人|ひと}の{子|こ}の、{見|み}ざまなど{悪|あ}しからぬが、{父|ちち}の{前|まへ}にて{人|ひと}と{物|もの}いふとて、{史書|ししよ}の{文|もん}をひきたりし、",
+    "{賢|さか}しくは{聞|きこ}えしかども、{尊者|そんじや}の{前|まへ}にては、{然|さ}らずともと{覚|おぼ}えしなり。",
+    "またある{人|ひと}の{許|もと}にて、{琵琶法師|びははふし}の{物語|ものがたり}をきかむとて、{琵琶|びは}を{召|め}しよせたるに、{柱|ぢう}のひとつ{落|お}ちたりしかば、「{作|つく}りてつけよ。」といふに、",
+    "ある{男|をとこ}の{中|うち}に、あしからずと{見|み}ゆるが、「ふるき{柄杓|ひさく}の{柄|え}ありや。」などいふを{見|み}れば、{爪|つめ}をおふしたり。",
+    "{琵琶|びは}など{弾|ひ}くにこそ。",
+    "めくら{法師|ほふし}の{琵琶|びは}、その{沙汰|さた}にもおよばぬことなり。",
+    "{道|みち}に{心|こころ}えたるよしにやと、かたはらいたかりき。",
+    "「ひさくの{柄|え}は、ひもの{木|き}とかやいひて、よからぬものに。」とぞ、{或人|あるひと}{仰|おほ}せられし。",
+    "わかき{人|ひと}は、{少|すこ}しの{事|こと}もよく{見|み}え、わろく{見|み}ゆるなり。"
+  ],
+  "literal": [
+    "In general, people should be without knowledge and without ability.",
+    "A certain person's son, not bad in appearance and so on, while talking with someone in front of his father, quoted a passage from the histories;",
+    "it sounded clever, but I felt that in front of a person to be respected, he need not have.",
+    "Also, at a certain person's house, wanting to hear a lute priest's tale, they sent for a lute, and one of its frets had fallen off, so when someone said 'Make one and attach it',",
+    "among the men, one who looked not bad said, 'Is there the handle of an old ladle?', and when I looked, he had let his nails grow.",
+    "He must play the lute or the like.",
+    "A blind priest's lute did not call for such attention.",
+    "I wondered if he meant to show he understood the art, and it was painful to watch.",
+    "'A ladle handle is what they call bent-wood or some such, and it is no good,' someone (of rank) said.",
+    "With young people, even small things make them look good, and make them look bad."
+  ],
+  "notes": [
+    {"quote": "無智無能なるべきものなり", "text": "べし: 'should'. Both stories that follow are about showing knowledge at the wrong moment. Section 98 has a similar line: the wise should become fools, the able should become people without ability."},
+    {"quote": "史書の文", "text": "{史書|ししよ}: the Chinese histories, such as the Records of the Grand Historian, part of a young noble's education. {文|もん}: a passage, a quotation."},
+    {"quote": "尊者の前にては", "text": "{尊者|そんじや}: a person to be respected, here his father. {然|さ}らずとも: 'even without doing so', that is, 'he need not have'."},
+    {"quote": "琵琶法師の物語", "text": "A blind priest reciting a war tale, most likely the Tale of the Heike, to the lute (see section 226)."},
+    {"quote": "柱", "text": "{柱|ぢう}: a fret on the neck of the lute, as the edition explains; its reading is ぢう. Section 70 has the same word, spelled ぢゆう there. A fret falls off in that section too."},
+    {"quote": "爪をおふしたり", "text": "おふす: 'to let grow'. Kenkō concludes from his nails that he plays the lute himself. Commentators explain that some lute techniques were played with the nails instead of the plectrum."},
+    {"quote": "めくら法師", "text": "めくら: 'blind'. In Kenkō's time an ordinary word; in modern Japanese it is offensive."},
+    {"quote": "かたはらいたかりき", "text": "かたはらいたし: 'painful to watch, embarrassing (for someone else)'. き: Kenkō was there."},
+    {"quote": "ひもの木", "text": "ひもの: thin cypress board bent into shape, as the edition explains. So the man's idea was not even a good one. {仰|おほ}せられし: someone of high rank, heard by Kenkō himself."},
+    {"quote": "わかき人は", "text": "The section ends on a general verdict about young people, after two stories."}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 222,
+  "title": "What helps the dead",
+  "translation": [
+    "Jōganbō, the priest from Takedani, once went to see the empress Higashi Nijō-in. She asked him: \"When we hold services for the dead, what does them the most good?\" He answered: \"The Mantra of Light, and the Treasure Casket spell.\"",
+    "Afterwards his disciples asked him: \"Why did you say that? Why didn't you tell her that nothing beats chanting Amida's name?\"",
+    "\"It's our own school,\" he said, \"so of course I wanted to. But I've never seen a sutra that says clearly that chanting the name for the dead does them great good. If she had asked me, 'Where does it say that?', what would I have told her? So I went with what the scriptures clearly back up, and named the mantra and the spell.\""
+  ],
+  "original": [
+    "{竹谷|たけだに}の{乗願房|じようぐわんばう}、{東二条院|とうにでうのゐん}へ{参|まゐ}られたりけるに、「{亡者|まうじや}の{追善|ついぜん}には{何事|なにごと}か{勝利|しようり}{多|おほ}き。」と{尋|たづ}ねさせ{給|たま}ひければ、「{光明真言|くわうみやうしんごん}、{宝篋印陀羅尼|ほうけふいんだらに}。」と{申|まう}されたりけるを、",
+    "{弟子|でし}ども、「いかにかくは{申|まう}し{給|たま}ひけるぞ。",
+    "{念仏|ねんぶつ}に{勝|まさ}ること{候|さうらふ}まじとは、など{申|まう}し{給|たま}はぬぞ。」と{申|まう}しければ、",
+    "「わが{宗|しゆう}なれば、さこそ{申|まう}さまほしかりつれども、まさしく{称名|しやうみやう}を{追福|ついふく}に{修|しゆ}して{巨益|こやく}あるべしと{説|と}ける{経文|きやうもん}を{見|み}{及|およ}ばねば、",
+    "{何|なに}に{見|み}えたるぞと、{重|かさ}ねて{問|と}はせ{給|たま}はば、いかが{申|まう}さむとおもひて、{本経|ほんぎやう}のたしかなるにつきて、この{真言|しんごん}、{陀羅尼|だらに}をば{申|まう}しつるなり。」とぞ{申|まう}されける。"
+  ],
+  "literal": [
+    "When Jōganbō of Takedani visited the Higashi Nijō-in, she asked, 'For memorial services for the dead, what has the greatest merit?', and he answered, 'The Mantra of Light, the Hōkyōin dhāraṇī'; at this,",
+    "his disciples said, 'Why did you answer like that?",
+    "Why did you not say that there is nothing better than the nenbutsu?', and he said,",
+    "'Since it is my own school, I did want to say so, but since I have never come across a sutra passage that clearly teaches that calling the Name, practised for the dead, brings great benefit,",
+    "I thought, if she asked again \"Where is that written?\", what could I say? So I went by what has a sure basis in scripture and named this mantra and dhāraṇī,' he said."
+  ],
+  "notes": [
+    {"quote": "竹谷の乗願房", "text": "The 1925 edition explains Takedani as a place at Daigo, south-east of Kyoto, and Jōganbō as a Pure Land priest who lived there. {房|ばう} at the end of a name marks a priest. Commentators usually take him to be a disciple of Hōnen, the founder of the Pure Land school."},
+    {"quote": "東二条院", "text": "Saionji Kimiko (1232–1304), the empress of Emperor Go-Fukakusa, as the edition notes. {尋|たづ}ねさせ{給|たま}ひ and {問|と}はせ{給|たま}は use double honorifics, the level of respect for an empress."},
+    {"quote": "勝利", "text": "A false friend: {勝利|しようり} here is Buddhist 'merit, benefit', what a rite does for the soul. Modern {勝利|しようり} is 'victory'. {追善|ついぜん} and {追福|ついふく}: rites done by the living to send merit to the dead."},
+    {"quote": "光明真言、宝篋印陀羅尼", "text": "Two spells of the Shingon (esoteric) school, as the edition notes: formulas in Sanskrit sounds, recited for the dead. The Mantra of Light ({光明真言|くわうみやうしんごん}) and the Hōkyōin ('Treasure Casket Seal') dhāraṇī. Neither is a Pure Land practice."},
+    {"quote": "念仏に勝ること候まじ", "text": "{念仏|ねんぶつ}: chanting 'Namu Amida Butsu', calling on the Buddha Amida. For the Pure Land school it is the one practice that matters. {称名|しやうみやう}, 'calling the name', in his answer is the same thing. まじ: 'surely not'. The disciples speak politely, with {候|さうらふ}."},
+    {"quote": "さこそ申さまほしかりつれども", "text": "まほし: 'want to'. こそ … ども: 'I did want to, but…'. He admits the wish and then explains why he did not follow it."},
+    {"quote": "本経のたしかなるにつきて", "text": "{本経|ほんぎやう}: the sutra that is the source of a practice. He answers only with what he can back up from a text."},
+    {"quote": "とぞ申されける", "text": "The section ends with his answer. Kenkō adds no comment."}
+  ]
+}

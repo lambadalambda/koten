@@ -1,0 +1,30 @@
+{
+  "number": 230,
+  "title": "The fox behind the blind",
+  "translation": [
+    "Something haunted the Gojō palace. Lord Tō, the senior counsellor, told me about it. Some courtiers were playing go in the Black Door room when someone lifted the blind and looked in. \"Who's that?\" They turned round, and there was a fox, kneeling like a person, peeking in. \"It's a fox!\" they shouted, and it panicked and ran.",
+    "Must have been a fox that hadn't had enough practice, and got the change wrong."
+  ],
+  "original": [
+    "{五条|ごでう}の{内裏|だいり}には{妖物|ばけもの}ありけり。",
+    "{藤|とうの}{大納言|だいなごん}{殿|どの}{語|かた}られ{侍|はべ}りしは、{殿上人|てんじやうびと}ども、{黒戸|くろど}にて{碁|ご}をうちけるに、{御簾|みす}をかかげて{見|み}る{者|もの}あり。",
+    "「{誰|た}そ。」と{見向|みむ}きたれば、{狐|きつね}、{人|ひと}のやうについゐてさしのぞきたるを、「あれ{狐|きつね}よ。」ととよまれて、まどひ{逃|に}げにけり。",
+    "{未練|みれん}の{狐|きつね}{化|ば}け{損|そん}じけるにこそ。"
+  ],
+  "literal": [
+    "In the Gojō palace there was a shape-changer.",
+    "What the Tō Dainagon told me: while the courtiers were playing go in the Black Door room, there was someone who lifted the blind and looked in.",
+    "When they turned to look, 'Who's that?', a fox, kneeling like a person, was peering in; shouted at, 'That's a fox!', it fled in confusion.",
+    "It must have been an unpractised fox that failed at its transformation."
+  ],
+  "notes": [
+    {"quote": "五条の内裏", "text": "A palace on Gojō, the Fifth Avenue, used as the emperor's residence. Emperors often lived in such residences in the city instead of the old main palace."},
+    {"quote": "妖物", "text": "{妖物|ばけもの}: the edition's reading. ばけもの comes from {化|ば}く 'to change shape', the same verb as in the last sentence."},
+    {"quote": "藤大納言殿", "text": "The 1925 edition suggests Fujiwara no Tameyo (Nijō Tameyo, 1250–1338), head of the Nijō school of poetry and Kenkō's teacher. {大納言|だいなごん}: 'senior counsellor', a high court rank. {藤|とうの}: 'of the Fujiwara'. 侍りし: Kenkō heard it from him."},
+    {"quote": "黒戸", "text": "The Black Door room in the palace, north of the emperor's hall, as the edition explains (see section 176). {殿上人|てんじやうびと}: courtiers allowed into the emperor's hall."},
+    {"quote": "ついゐて", "text": "ついゐる: 'to kneel, to sit down properly'."},
+    {"quote": "ととよまれて", "text": "とよむ: 'to make a loud noise'. The passive: the fox was shouted at."},
+    {"quote": "未練の狐", "text": "A false friend: {未練|みれん} here is 'not yet trained, unpractised'. Modern {未練|みれん} is 'lingering attachment'. Foxes were believed to be able to take human shape."},
+    {"quote": "化け損じけるにこそ", "text": "にこそ: 'it must be that…', with あらめ left out. {化|ば}け{損|そん}ず: 'to fail at changing shape'."}
+  ]
+}
