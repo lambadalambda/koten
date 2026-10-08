@@ -105,3 +105,8 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 211: last sentence is a condition again ("If your mind is wide…"), not an instruction.
 - 220: 一調子 ひとてうし not confirmed (いちてうし possible); "ōshiki" kept as a name.
 - From memory only: Yoshiuji 1189–1255, Ryūben 1208–1283.
+
+## Consistency across the book
+- 東 (east): standardised on ひがし where the 1925 edition gives no reading (its own あづま/ひんがし readings are kept).
+- 御前: おまへ and ごぜん each used four times, depending on context ("in front of" vs a title). Worth one look.
+- Readings from the 1925 edition are kept even when unusual; other editions' variants are listed per batch above.
