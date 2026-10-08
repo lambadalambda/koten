@@ -1,0 +1,50 @@
+{
+  "number": 220,
+  "title": "The note of a bell",
+  "translation": [
+    "The talk once turned to how everything out in the provinces is coarse and clumsy, except the dance music at Tennōji, which is as good as anything in the capital. One of the Tennōji musicians told me:",
+    "\"Our music here is better than anywhere else, because we check our pitch carefully against the standard, so the instruments sound beautifully together. The standard is one from Prince Shōtoku's time, and we still use it: the bell in front of the hall of the six daily services. Its note is exactly the pitch called ōshiki. The pitch goes up and down with the cold and the heat, so we take it in spring, in the week between the service for the Buddha's death and the service for the prince's. That's a secret. With that one note, we tune all the others.\"",
+    "All bells should really sound ōshiki. It's the note of impermanence, the sound of the bell at the Hall of Impermanence in the monastery where the Buddha taught. They wanted the bell at Saionji cast in ōshiki and recast it again and again, but it never came out right, so they found one in a distant province and brought it in. The bell at Hōkongōin sounds ōshiki too."
+  ],
+  "original": [
+    "「{何事|なにごと}も、{辺土|へんど}は{卑|いや}しく{頑|かたくな}なれども、{天王寺|てんわうじ}の{舞楽|ぶがく}のみ、{都|みやこ}に{恥|は}ぢず。」といへば、",
+    "{天王寺|てんわうじ}の{伶人|れいじん}の{申|まう}し{侍|はべ}りしは、「{当寺|たうじ}の{楽|がく}は、よく{図|づ}をしらべ{合|あは}せて、{物|もの}の{音|ね}のめでたく{整|ととの}ほり{侍|はべ}ること、{外|ほか}よりも{勝|すぐ}れたり。",
+    "ゆゑは{太子|たいし}の{御時|おほんとき}の{図|づ}、{今|いま}にはべる{博士|はかせ}とす。",
+    "いはゆる{六時堂|ろくじだう}の{前|まへ}の{鐘|かね}なり。",
+    "そのこゑ{黄鐘調|わうしきでう}の{最中|もなか}なり。",
+    "{寒暑|かんしよ}に{従|したが}ひて{上|あが}り{下|さが}りあるべきゆゑに、{二月|きさらぎ}{涅槃会|ねはんゑ}より{聖霊会|しやうりやうゑ}までの{中間|ちゆうげん}を{指南|しなん}とす。",
+    "{秘蔵|ひざう}のことなり。",
+    "この{一調子|ひとてうし}をもちて、いづれの{声|こゑ}をもととのへ{侍|はべ}るなり。」と{申|まう}しき。",
+    "およそ{鐘|かね}のこゑは{黄鐘調|わうしきでう}なるべし。",
+    "これ{無常|むじやう}の{調子|てうし}、{祇園精舎|ぎをんしやうじや}の{無常院|むじやうゐん}の{声|こゑ}なり。",
+    "{西園寺|さいをんじ}の{鐘|かね}、{黄鐘調|わうしきでう}に{鋳|い}らるべしとて、あまたたび{鋳替|いか}へられけれども、かなはざりけるを、{遠国|をんごく}よりたづね{出|いだ}されけり。",
+    "{法金剛院|ほふこんがうゐん}の{鐘|かね}の{声|こゑ}、また{黄鐘調|わうしきでう}なり。"
+  ],
+  "literal": [
+    "When (it) was said, 'In everything, the remote provinces are vulgar and boorish, but only the bugaku of Tennōji is not put to shame by the capital',",
+    "what a musician of Tennōji said was: 'The music of this temple, by carefully checking and matching (it) to the pitch standard, the sounds of the instruments being splendidly in tune, surpasses other places.",
+    "The reason is that we take the standard of the Prince's time, which still exists today, as our reference.",
+    "It is the so-called bell in front of the Rokuji Hall.",
+    "Its sound is the very middle of ōshiki.",
+    "Since it must go up and down according to cold and heat, we take as our guide the time between the Nirvana service of the second month and the Shōryō service.",
+    "It is a secret matter.",
+    "With this one pitch, we tune every sound', he said.",
+    "In general, the sound of a bell should be ōshiki.",
+    "This is the pitch of impermanence, the sound of the Hall of Impermanence of the Jetavana monastery.",
+    "The bell of Saionji, saying it should be cast in ōshiki, was recast many times, but it did not come right, so (one) was sought out from a distant province.",
+    "The sound of the bell of Hōkongōin is also ōshiki."
+  ],
+  "notes": [
+    {"quote": "といへば", "text": "The text does not say who made the remark. It may be Kenkō himself, or just what people said; the translation leaves it open."},
+    {"quote": "天王寺の舞楽", "text": "Shitennōji in Osaka, traditionally founded by Prince Shōtoku (the 1925 edition's identification). Its musicians kept their own tradition of {舞楽|ぶがく}, court music with dance, which is still performed there today."},
+    {"quote": "伶人", "text": "{伶人|れいじん}: a professional musician of court or temple music."},
+    {"quote": "よく図をしらべ合せて", "text": "{図|づ}: here probably the pitch standard that the instruments are tuned to. Commentators explain the word in slightly different ways."},
+    {"quote": "博士", "text": "{博士|はかせ}: a false friend. Here it is a reference mark for pitch (the 1925 edition: musical notation marks), not a doctor or a scholar."},
+    {"quote": "六時堂", "text": "The hall where services were held at six fixed times of the day and night (the 1925 edition lists them, from dawn to the hours before the next dawn)."},
+    {"quote": "黄鐘調", "text": "{黄鐘調|わうしきでう}: the mode built on ōshiki, one of the twelve pitches of court music, close to Western A. The characters mean 'yellow bell'. {最中|もなか}: 'the very middle' (the edition's reading)."},
+    {"quote": "二月涅槃会より聖霊会までの中間", "text": "The Nirvana service, for the Buddha's death, falls on the fifteenth of the second month. The Shōryō service, for Prince Shōtoku's death, falls on the twenty-second (the 1925 edition's date). The second month of the old calendar is mid-spring, around March."},
+    {"quote": "祇園精舎の無常院", "text": "Jetavana, the monastery in India where the Buddha often stayed and taught. According to Chinese accounts, it had a Hall of Impermanence in one corner (the 1925 edition: the north-west), where dying monks were taken, and its bells rang out the impermanence of all things. The Tale of the Heike opens with the same bells: {祇園精舎|ぎをんしやうじや}の{鐘|かね}の{声|こゑ}、{諸行無常|しよぎやうむじやう}の{響|ひび}きあり."},
+    {"quote": "西園寺の鐘", "text": "Saionji, the temple that Saionji Kintsune built north-west of Kyoto, at Kinugasa (the 1925 edition's identification). Its site later became the Kitayama villa of Ashikaga Yoshimitsu, today's Kinkakuji. {遠国|をんごく}: the edition's reading."},
+    {"quote": "法金剛院", "text": "A temple at Uzumasa in western Kyoto (the 1925 edition's identification). Some other texts read {浄金剛院|じやうこんがうゐん}, a temple that Emperor Go-Saga built at his Kameyama palace in Saga."}
+  ]
+}

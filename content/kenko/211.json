@@ -1,0 +1,63 @@
+{
+  "number": 211,
+  "title": "Don't count on anything",
+  "translation": [
+    "Don't count on anything. Fools count on things completely, and then they end up bitter and angry.",
+    "Power? Don't count on it. The strong fall first. Money? It can be gone in a moment. Learning? Confucius never found a ruler who would use him. Virtue? Yan Hui, the best of his students, died young. Your lord's favour? He can have you executed before you know it. Your servants? They can turn on you and run off. People's goodwill? It always changes. Promises? They're hardly ever kept.",
+    "Don't count on yourself, and don't count on other people. Then when things go well, you're glad, and when they don't, you don't hold a grudge. If there's room on both sides, nothing gets in your way. If there's space ahead and behind, nothing blocks you. Where it's tight, you get crushed.",
+    "A mind that's small and tense runs into things, fights them and breaks. A mind that's easy and soft doesn't lose a single hair.",
+    "A person is the spirit of heaven and earth, and heaven and earth have no edges. Why should human nature be any different? If your mind is wide and has no walls, joy and anger can't get at it, and nothing out there troubles you."
+  ],
+  "original": [
+    "{万|よろづ}の{事|こと}は{頼|たの}むべからず。",
+    "{愚|おろ}かなる{人|ひと}は、{深|ふか}くものを{頼|たの}むゆゑに、うらみ{怒|いか}ることあり。",
+    "{勢|いきほ}ひありとて{頼|たの}むべからず、こはき{者|もの}まづ{滅|ほろ}ぶ。",
+    "{財|たから}{多|おほ}しとて{頼|たの}むべからず、{時|とき}の{間|ま}に{失|うしな}ひやすし。",
+    "{才|ざえ}ありとて{頼|たの}むべからず、{孔子|こうし}も{時|とき}に{遇|あ}はず。",
+    "{徳|とく}ありとてたのむべからず、{顔回|がんくわい}も{不幸|ふかう}なりき。",
+    "{君|きみ}の{寵|ちよう}をも{頼|たの}むべからず、{誅|ちう}をうくる{事|こと}{速|すみや}かなり。",
+    "{奴|やつこ}したがへりとて{頼|たの}むべからず、そむき{走|はし}ることあり。",
+    "{人|ひと}の{志|こころざし}をも{頼|たの}むべからず、かならず{変|へん}ず。",
+    "{約|やく}をも{頼|たの}むべからず、{信|まこと}あることすくなし。",
+    "{身|み}をも{人|ひと}をも{頼|たの}まざれば、{是|ぜ}なる{時|とき}はよろこび、{非|ひ}なる{時|とき}はうらみず、",
+    "{左右|さう}{広|ひろ}ければさはらず、{前後|ぜんご}{遠|とほ}ければふさがらず、せばき{時|とき}はひしげくだく。",
+    "{心|こころ}を{用|もち}ゐること{少|すこ}しきにしてきびしき{時|とき}は、{物|もの}に{逆|さか}ひ{争|あらそ}ひてやぶる。",
+    "{寛|ゆる}くして{柔|やはら}かなるときは、{一毛|いちもう}も{損|そん}ぜず。",
+    "{人|ひと}は{天地|てんち}の{霊|れい}なり。",
+    "{天地|てんち}はかぎるところなし。",
+    "{人|ひと}の{性|しやう}{何|なん}ぞ{異|こと}ならむ。",
+    "{寛大|くわんだい}にして{窮|きはま}らざるときは、{喜怒|きど}これにさはらずして、{物|もの}のためにわづらはず。"
+  ],
+  "literal": [
+    "In all things, one should not rely (on them).",
+    "Foolish people, because they rely deeply on things, come to resent and be angry.",
+    "Do not rely (on it) because you have power: the strong perish first.",
+    "Do not rely (on it) because you have much wealth: it is easily lost in a moment.",
+    "Do not rely (on it) because you have learning: even Confucius did not meet with his time.",
+    "Do not rely (on it) because you have virtue: even Yan Hui was unfortunate.",
+    "Do not rely even on your lord's favour: execution comes quickly.",
+    "Do not rely (on them) because your servants obey you: they turn against you and run away.",
+    "Do not rely even on people's goodwill: it always changes.",
+    "Do not rely even on promises: there is little faithfulness in them.",
+    "If you rely neither on yourself nor on others, when things are right you rejoice, and when they are wrong you do not resent;",
+    "when left and right are wide, nothing gets in the way; when front and back are far, nothing blocks; when it is narrow, you are crushed and broken.",
+    "When the use of your mind is small and tight, you go against things, fight them and break.",
+    "When it is loose and soft, not one hair is harmed.",
+    "A person is the spirit of heaven and earth.",
+    "Heaven and earth have no limits.",
+    "Why would human nature be different?",
+    "When (the mind) is wide and not confined, joy and anger do not get in its way, and it is not troubled by things."
+  ],
+  "notes": [
+    {"quote": "万の事は頼むべからず", "text": "{頼|たの}む: 'to rely on, to put your trust in'. Not modern 'to ask a favour'. べからず: 'must not'. The phrase comes back nine times in the next sentences."},
+    {"quote": "孔子も時に遇はず", "text": "'Even Confucius did not meet his time': no ruler would give him office. The 1925 edition quotes the Shiji: Confucius tried more than seventy rulers and found none who would use him."},
+    {"quote": "顔回も不幸なりき", "text": "Yan Hui was Confucius's favourite student, praised as the most virtuous of them all. In the Analects, Confucius says he 'unfortunately died young' (不幸短命死). Kenkō's {不幸|ふかう} is that word."},
+    {"quote": "誅をうくる", "text": "{誅|ちう}: execution as punishment. A lord's favourite could be put to death as fast as he had risen."},
+    {"quote": "奴", "text": "{奴|やつこ}: a servant or bondsman. Modern やつ 'guy' comes from this word."},
+    {"quote": "左右広ければさはらず", "text": "The image is of space: with room on both sides, ahead and behind, you can move without hitting anything. ひしげくだく: 'to be crushed and broken' (the 1925 edition: {圧|お}し{砕|くだ}く)."},
+    {"quote": "一毛も損ぜず", "text": "'Not one hair is harmed': nothing is lost at all."},
+    {"quote": "人は天地の霊なり", "text": "An echo of the Chinese classic the Book of Documents: 'man is the most spiritual of all things' (惟人萬物之靈). Modern Japanese still says {万物|ばんぶつ}の{霊長|れいちやう} for humans. The argument: heaven and earth have no limits, so a human mind, made of the same spirit, should not have them either."},
+    {"quote": "人の性", "text": "{性|しやう}: 'inborn nature'. The 1925 edition gives the reading しやう, as in Buddhist texts."},
+    {"quote": "寛大にして窮らざる", "text": "{寛大|くわんだい}: here 'wide, roomy', the space image again. Modern {寛大|かんだい} means 'generous, lenient'."}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": 212,
+  "title": "The autumn moon",
+  "translation": [
+    "The autumn moon is beautiful beyond anything. Some people say the moon is always like that and can't see the difference. That's just sad."
+  ],
+  "original": [
+    "{秋|あき}の{月|つき}は{限|かぎ}りなくめでたきものなり。",
+    "いつとても{月|つき}はかくこそあれとて、{思|おも}ひ{分|わ}かざらむ{人|ひと}は、{無下|むげ}に{心|こころ}うかるべきことなり。"
+  ],
+  "literal": [
+    "The autumn moon is a limitlessly splendid thing.",
+    "A person who, saying 'At any time the moon is like this', does not tell (it) apart, is surely terribly pitiful."
+  ],
+  "notes": [
+    {"quote": "秋の月", "text": "In Japanese poetry, the moon belongs to autumn. The full moon of mid-autumn was the moon of the year, and people sat up to watch it. For the moon in other seasons and moods, see section 137."},
+    {"quote": "思ひ分かざらむ人", "text": "{思|おも}ひ{分|わ}く: 'to tell apart, to see the difference'. ざら is the negative ず, and む makes it general: 'whoever cannot tell'."},
+    {"quote": "無下に心うかるべきことなり", "text": "{無下|むげ}に: 'utterly'. {心|こころ}うし: 'wretched, sad to see'. べき adds 'surely'. The verdict is on the person, not on the moon."}
+  ]
+}

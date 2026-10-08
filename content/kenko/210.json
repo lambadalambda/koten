@@ -1,0 +1,31 @@
+{
+  "number": 210,
+  "title": "The calling bird",
+  "translation": [
+    "All anyone says about the calling bird is that it belongs to spring. Nobody writes down clearly what kind of bird it is.",
+    "One of the books of the Shingon school describes a rite for calling back the souls of the dead, to be done when the calling bird cries. That bird is the nue, a bird that cries at night.",
+    "And in a long poem in the Man'yōshū, the nue comes up a few lines after the words \"the long spring day when the mist rises\". So the nue, too, sounds like it fits the calling bird."
+  ],
+  "original": [
+    "{喚子鳥|よぶこどり}は{春|はる}のものなりと{許|ばか}りいひて、いかなる{鳥|とり}ともさだかに{記|しる}せる{物|もの}なし。",
+    "ある{真言書|しんごんしよ}の{中|うち}に、{喚子鳥|よぶこどり}なくとき{招魂|せうこん}の{法|ほふ}をば{行|おこな}ふ{次第|しだい}あり。",
+    "これは{鵺|ぬえ}なり。",
+    "{万葉集|まんえふしふ}の{長歌|ながうた}に、「{霞|かすみ}たつ{永|なが}き{春日|はるび}の。」など{続|つづ}けたり。",
+    "{鵺鳥|ぬえどり}も{喚子鳥|よぶこどり}の{事様|ことざま}に{通|かよ}ひて{聞|きこ}ゆ。"
+  ],
+  "literal": [
+    "People only say that the yobukodori is a thing of spring, and there is nothing that records clearly what kind of bird it is.",
+    "In a certain Shingon book, there is a procedure in which the rite of summoning souls is performed when the yobukodori cries.",
+    "This is the nue.",
+    "In a long poem of the Man'yōshū, it continues (with the nue after) 'the long spring day when mist rises' and so on.",
+    "The nue bird, too, sounds as if it matches the nature of the yobukodori."
+  ],
+  "notes": [
+    {"quote": "喚子鳥", "text": "{喚子鳥|よぶこどり}, 'the bird that calls its young': a spring topic in poetry since the Man'yōshū. Nobody knew which bird it was. It became one of the 'three birds' of the secret Kokinshū teachings that poetry schools passed on to their students. The 1925 edition thinks it was probably the cuckoo (kakkō)."},
+    {"quote": "春のものなり", "text": "'Is a thing of spring': in poetry, every bird, flower and kind of weather belonged to a season. That was all the poets agreed on about this bird."},
+    {"quote": "真言書", "text": "A book of the Shingon school of esoteric Buddhism. {招魂|せうこん}の{法|ほふ}: a secret rite to call back the soul of a dead person (the 1925 edition's gloss). The text does not say which book."},
+    {"quote": "これは鵺なり", "text": "Kenkō's identification: the bird in the Shingon book is the {鵺|ぬえ}. The 1925 edition calls the nue a kind of owl. Today it is usually identified with the White's thrush (トラツグミ), a bird with a thin, eerie whistle at night. The same name is also given to the monster that Minamoto no Yorimasa shoots in the Tale of the Heike."},
+    {"quote": "霞たつ永き春日の", "text": "From a long poem in the first book of the Man'yōshū (the 1925 edition points to it). A few lines after 'the long spring day when the mist rises', the poem has ぬえこ{鳥|どり}うら{泣|な}け{居|を}れば, 'as I weep inside like the nue bird'. Kenkō's argument: the oldest anthology puts the nue in spring, which fits the calling bird."},
+    {"quote": "事様に通ひて聞ゆ", "text": "{事様|ことざま}: 'the way it is, its nature'. {聞|きこ}ゆ here is 'seems', not 'is heard'. Kenkō ends with a cautious 'sounds like', not with a firm answer."}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 214,
+  "title": "Lotus, not love",
+  "translation": [
+    "There's a piece of court music called Sōfuren. The title sounds like \"longing for my husband\", but that isn't where the name comes from. The same sounds were originally written with other characters, meaning \"the minister's lotus\". It's the music from the time when Wang Jian, a minister in China, planted lotuses at his house and loved them. That's why a minister's residence is called \"the lotus house\".",
+    "Kaikotsu, another piece, is the same. It's really the name of the Uighurs, a strong foreign people. After they submitted to China, they came and played the music of their own country."
+  ],
+  "original": [
+    "{想夫恋|さうふれん}といふ{楽|がく}は、{女|をんな}、{男|をとこ}を{恋|こ}ふる{故|ゆゑ}の{名|な}にはあらず。",
+    "もとは{相府蓮|さうふれん}、{文字|もじ}のかよへるなり。",
+    "{晋|しん}の{王倹|わうけん}、{大臣|おとど}として、{家|いへ}に{蓮|はちす}を{植|う}ゑて{愛|あい}せしときの{楽|がく}なり。",
+    "これより{大臣|おとど}を{蓮府|れんぷ}といふ。",
+    "{廻忽|くわいこつ}も{廻鶻|くわいこつ}なり。",
+    "{廻鶻国|くわいこつこく}とて{夷|えびす}の{強|こは}き{国|くに}あり、その{夷|えびす}、{漢|かん}に{伏|ふく}して{後|のち}にきたりて、おのれが{国|くに}の{楽|がく}を{奏|そう}せしなり。"
+  ],
+  "literal": [
+    "The music called Sōfuren is not a name (that comes) from a woman longing for a man.",
+    "Originally it is Sōfuren ('lotus of the minister's office'); the characters have been interchanged.",
+    "It is the music of the time when Wang Jian of Jin, as a minister, planted lotuses at his house and loved them.",
+    "From this, a minister is called 'lotus office'.",
+    "Kaikotsu, too, is Kaikotsu (the Uighurs).",
+    "There is a strong barbarian country called the Uighur country; those barbarians, after submitting to Han, came and played the music of their own country."
+  ],
+  "notes": [
+    {"quote": "想夫恋", "text": "A piece of court music (gagaku) that came from China. Written 想夫恋, the title reads 'thinking of a husband, longing'. That is how people understood it: in the Tale of the Heike, the lady Kogō plays it on the koto, and the man sent to find her recognises her by it. The 1925 edition adds that the Chinese poet Bai Juyi's collection writes the title 相夫憐; modern commentaries give Bai Juyi's spelling as 想夫憐."},
+    {"quote": "文字のかよへるなり", "text": "'The characters have crossed over': 相府蓮 ('lotus of the minister's office') and 想夫恋 ('longing for a husband') are both read さうふれん. Someone wrote the more romantic characters for the same sounds."},
+    {"quote": "晋の王倹", "text": "Wang Jian (452–489) was in fact a minister of the Southern Qi dynasty, not of the Jin; commentaries point out the slip. The lotus story probably goes back to Chinese accounts of his government office, which people compared to a lotus pond."},
+    {"quote": "大臣", "text": "The 1925 edition reads {大臣|おとど}, the old Japanese word for a minister, rather than だいじん."},
+    {"quote": "蓮府", "text": "{蓮府|れんぷ}: 'lotus office', an elegant name for a minister's residence (the 1925 edition's gloss)."},
+    {"quote": "廻忽も廻鶻なり", "text": "{廻忽|くわいこつ} is another piece of court music; 廻鶻 is the Chinese name of the Uighurs. Both are read くわいこつ. Again the sound is right and the characters hide the meaning."},
+    {"quote": "漢に伏して", "text": "{漢|かん} here probably means China in general. The Uighur kingdom on the steppe dealt with the Tang dynasty in the eighth and ninth centuries, long after the Han. {夷|えびす}: 'barbarians', any people outside the Chinese world. The 1925 edition calls the Uighurs a people of Outer Mongolia."}
+  ]
+}

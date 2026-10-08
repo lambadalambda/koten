@@ -1,0 +1,30 @@
+{
+  "number": 209,
+  "title": "Any field will do",
+  "translation": [
+    "A man was in a dispute with someone over a rice field, and he lost the case. Out of spite, he sent his men off: \"Go and cut the rice on that field and bring it back.\" On the way there, they started cutting every field they passed. Someone said, \"That's not the field your master was fighting over. What are you doing?\"",
+    "The reapers said, \"We've got no right to cut that one either. We're out to do something wrong anyway, so why not cut them all?\"",
+    "It's a funny kind of logic."
+  ],
+  "original": [
+    "{人|ひと}の{田|た}を{論|ろん}ずるもの、{訟|うた}へにまけて{嫉|ねた}さに、その{田|た}を{刈|か}りて{取|と}れとて、{人|ひと}をつかはしけるに、",
+    "まづ{道|みち}すがらの{田|た}をさへ{刈|か}りもて{行|ゆ}くを、「これは{論|ろん}じ{給|たま}ふ{所|ところ}にあらず。いかにかくは。」といひければ、",
+    "{刈|か}るものども、「その{所|ところ}とても{刈|か}るべき{理|ことわり}なけれども、{僻事|ひがごと}せむとてまかるものなれば、いづくをか{刈|か}らざらむ。」とぞいひける。",
+    "ことわりいとをかしかりけり。"
+  ],
+  "literal": [
+    "A man who was disputing someone's field lost the lawsuit and, from spite, sent people, saying 'Cut the rice of that field and take it'; and",
+    "when they went along cutting first even the fields along the road, (someone) said, 'This is not the place (your master) is disputing. Why do you do this?', and",
+    "the reapers said, 'Even that place, there is no reason why we should cut it, but since we are going out to do wrong, where would we not cut?'",
+    "The reasoning was very amusing."
+  ],
+  "notes": [
+    {"quote": "人の田を論ずるもの", "text": "{論|ろん}ず here is 'to dispute (in law)', not 'to discuss'. Quarrels over land rights went to court, and they were common in Kenkō's time."},
+    {"quote": "嫉さに", "text": "ねたし: 'galling, spiteful'. ねたさ is the noun, and に gives the reason: 'out of spite'."},
+    {"quote": "刈りもて行く", "text": "もて{行|ゆ}く after a verb: 'go on doing it, more and more'. They cut their way along the road, field after field."},
+    {"quote": "論じ給ふ所", "text": "{給|たま}ふ is respectful: the speaker talks politely about the reapers' master, 'the field that your lord is disputing'. The translation shows this with 'your master'."},
+    {"quote": "僻事", "text": "{僻事|ひがごと}: 'a wrong thing, a crooked act'. The word is still in dictionaries today."},
+    {"quote": "いづくをか刈らざらむ", "text": "か … む as a rhetorical question: 'where would we not cut? (Anywhere.)' ざら is the negative ず."},
+    {"quote": "ことわりいとをかしかりけり", "text": "ことわり: 'reasoning, logic'. The reapers said they had no ことわり ({理|ことわり}) to cut the field; Kenkō picks up their own word and finds their ことわり very funny. をかし here is 'amusing'."}
+  ]
+}

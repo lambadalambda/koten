@@ -1,0 +1,33 @@
+{
+  "number": 218,
+  "title": "Foxes bite",
+  "translation": [
+    "Foxes bite people. At the Horikawa mansion, a servant was asleep, and a fox bit him on the foot.",
+    "At Ninnaji, one night, three foxes jumped on a low-ranking priest who was walking past the main hall, and bit him. He drew his blade to fight them off and stabbed two of them. One he killed. The other two got away. The priest was bitten all over, but nothing came of it."
+  ],
+  "original": [
+    "{狐|きつね}は{人|ひと}に{食|く}ひつく{者|もの}なり。",
+    "{堀河殿|ほりかはどの}にて、{舎人|とねり}が{寝|ね}たる{足|あし}を、{狐|きつね}にくはる。",
+    "{仁和寺|にんなじ}にて、{夜|よる}、{本寺|ほんじ}の{前|まへ}を{通|とほ}る{下法師|しもほふし}に、{狐|きつね}{三|みつ}つ{飛|と}びかかりて{食|く}ひつきければ、{刀|かたな}を{抜|ぬ}きてこれを{拒|ふせ}ぐ{間|あひだ}、{狐|きつね}{二疋|にひき}を{突|つ}く。",
+    "{一|ひと}つはつき{殺|ころ}しぬ。",
+    "{二|ふたつ}は{遁|に}げぬ。",
+    "{法師|ほふし}はあまた{所|ところ}くはれながら、ことゆゑなかりけり。"
+  ],
+  "literal": [
+    "Foxes are creatures that bite people.",
+    "At the Horikawa mansion, a servant's sleeping foot was bitten by a fox.",
+    "At Ninnaji, at night, three foxes leapt at a low priest passing in front of the main temple and bit him, so he drew his blade, and while fending them off, stabbed two foxes.",
+    "One he stabbed to death.",
+    "Two ran away.",
+    "The priest, though bitten in many places, came to no harm."
+  ],
+  "notes": [
+    {"quote": "狐は人に食ひつく者なり", "text": "A flat statement of fact, with two cases as evidence. In stories of the time, foxes were also creatures that bewitch people; here they only bite."},
+    {"quote": "堀河殿", "text": "A mansion in Kyoto. The 1925 edition says it was the house of the chancellor Koga (Horikawa) Mototomo, of the late thirteenth century. Modern commentaries take it as the house of the Horikawa family, whom Kenkō is said to have served before he became a priest; where it stood is not known."},
+    {"quote": "舎人", "text": "{舎人|とねり}: a servant or attendant (compare section 1). The 1925 edition says an ox-driver from the stables."},
+    {"quote": "仁和寺", "text": "Ninnaji, the great temple in north-west Kyoto (see section 52). {本寺|ほんじ}: its main hall. {下法師|しもほふし}: a priest of low rank (the 1925 edition's gloss)."},
+    {"quote": "刀を抜きて", "text": "{刀|かたな}: a blade, probably a short sword or a large knife."},
+    {"quote": "二は遁げぬ", "text": "Three foxes: two were stabbed, one of them died, so two got away, one of them wounded."},
+    {"quote": "ことゆゑなかりけり", "text": "ことゆゑ: 'trouble, something wrong'. Modern {事故|じこ} 'accident' is written with the same characters. Kenkō closes on the outcome, not on a moral."}
+  ]
+}

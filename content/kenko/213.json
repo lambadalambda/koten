@@ -1,0 +1,31 @@
+{
+  "number": 213,
+  "title": "Coals for the brazier",
+  "translation": [
+    "When you put live coals in the brazier in front of the emperor, you don't use tongs. You tip them straight in from the clay dish. That means you have to stack the charcoal carefully, or it will roll off.",
+    "Once, when the retired emperor went to the Iwashimizu shrine, one of his attendants was wearing the white robes for the visit, and he was putting the charcoal in by hand. An expert on court customs said, \"On a day when you're wearing white, it's perfectly all right to use tongs.\""
+  ],
+  "original": [
+    "{御前|ごぜん}の{火炉|くわろ}に{火|ひ}おくときは、{火箸|ひばし}して{挟|はさ}む{事|こと}なし。",
+    "{土器|かはらけ}より{直|ただ}ちにうつすべし。",
+    "されば{転|ころ}び{落|お}ちぬやうに{心得|こころえ}て、{炭|すみ}を{積|つ}むべきなり。",
+    "{八幡|やはた}の{御幸|ごかう}に、{供奉|ぐぶ}の{人|ひと}{浄衣|じやうえ}を{著|き}て、{手|て}にて{炭|すみ}をさされければ、",
+    "ある{有職|いうそく}の{人|ひと}、「{白|しろ}き{物|もの}を{著|き}たる{日|ひ}は、{火箸|ひばし}を{用|もち}ゐる、{苦|くる}しからず。」と{申|まう}されけり。"
+  ],
+  "literal": [
+    "When putting fire in the brazier in the (emperor's) presence, one does not pick it up with tongs.",
+    "One should transfer it directly from the earthenware dish.",
+    "So one should stack the charcoal taking care that it does not roll and fall.",
+    "At the retired emperor's visit to Yawata, a person in attendance, wearing white ritual robes, was putting in the charcoal by hand, and",
+    "a certain person versed in court precedent said, 'On a day when one wears white, using tongs is no problem.'"
+  ],
+  "notes": [
+    {"quote": "御前の火炉", "text": "{御前|ごぜん}: 'in the presence' of the emperor, or of a retired emperor. {火炉|くわろ}: a brazier, a container of live charcoal for warmth (the 1925 edition: {火鉢|ひばち})."},
+    {"quote": "火箸して挟む事なし", "text": "The rule itself: no tongs in front of the emperor. The text does not give the reason, only the practical result: the coals must be arranged so they don't roll off."},
+    {"quote": "土器", "text": "{土器|かはらけ}: unglazed clay ware, here a dish used to carry the coals."},
+    {"quote": "八幡の御幸", "text": "{八幡|やはた}: the Iwashimizu Hachiman shrine on Otokoyama, south-west of Kyoto (see section 52). {御幸|ごかう} is the word for a journey of a retired emperor; the reigning emperor's is {行幸|ぎやうかう}."},
+    {"quote": "浄衣", "text": "{浄衣|じやうえ}: plain white robes worn for Shinto rites and shrine visits. The text gives no reason for the exception. Commentaries suggest that the charcoal would leave black marks on the white cloth."},
+    {"quote": "苦しからず", "text": "'It is not painful': 'no harm in it, perfectly acceptable'. A set phrase for giving permission."},
+    {"quote": "有職の人", "text": "{有職|いうそく}: knowledge of court customs and precedent (see sections 1 and 33). The expert's answer turns a strict rule into a sensible exception."}
+  ]
+}

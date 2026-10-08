@@ -1,0 +1,42 @@
+{
+  "number": 215,
+  "title": "A dish with a bit of miso",
+  "translation": [
+    "When Hōjō Nobutoki was an old man, he told this story about Tokiyori, who ran the government in Kamakura in those days.",
+    "\"One evening Tokiyori sent for me. I said I'd be right there, but I couldn't find anything proper to wear, and while I was fussing about it, a second messenger came. 'Is it that you've got nothing to wear? It's night, nobody cares what you look like. Just come.' So I went in a limp old outfit, the way I was at home.",
+    "He came out with a jug of sake and some clay cups. 'I didn't feel like drinking this on my own, so I called you. There's nothing to go with it, and everyone must be asleep by now. Go and look everywhere for something that'll do.'",
+    "So I took a light and searched every corner, and on a shelf in the kitchen I found a little clay dish with a bit of miso stuck to it. 'I found this,' I said. 'That'll do nicely,' he said, and we had cup after cup, and he was in a very good mood.",
+    "That's how things were in those days.\""
+  ],
+  "original": [
+    "{平|たひらの}{宣時|のぶとき}{朝臣|あそん}、{老|お}いの{後|のち}{昔語|むかしがたり}に、「{最明寺|さいみやうじ}{入道|にふだう}、ある{宵|よひ}の{間|ま}によばるる{事|こと}ありしに、『やがて。』と{申|まう}しながら、{直垂|ひたたれ}のなくて、とかくせし{程|ほど}に、",
+    "また{使|つかひ}きたりて、『{直垂|ひたたれ}などのさふらはぬにや。{夜|よる}なれば{異様|ことやう}なりとも{疾|と}く。』とありしかば、",
+    "なえたる{直垂|ひたたれ}、うちうちの{儘|まま}にて{罷|まか}りたりしに、",
+    "{銚子|てうし}にかはらけ{取|と}りそへてもて{出|い}でて、『この{酒|さけ}をひとりたうべむがさうざうしければ{申|まう}しつるなり。",
+    "{肴|さかな}こそなけれ、{人|ひと}はしづまりぬらむ。さりぬべき{物|もの}やあると、いづくまでも{求|もと}め{給|たま}へ。』とありしかば、",
+    "{紙燭|しそく}さしてくまぐまを{求|もと}めしほどに、{台所|だいどころ}の{棚|たな}に、{小土器|こがはらけ}に{味噌|みそ}の{少|すこ}しつきたるを{見出|みい}でて、『これぞ{求|もと}め{得|え}て{候|さうらふ}。』と{申|まう}ししかば、",
+    "『{事|こと}{足|た}りなむ。』とて、{心|こころ}よく{数献|すこん}に{及|およ}びて{興|きよう}に{入|い}られはべりき。",
+    "その{世|よ}にはかくこそ{侍|はべ}りしか。」と{申|まう}されき。"
+  ],
+  "literal": [
+    "Taira no Nobutoki, in old age, telling of old times, (said): 'Once, in the evening, I was summoned by the lay priest of Saimyōji, and while saying \"At once\", I had no hitatare, and as I was fussing this way and that,",
+    "a messenger came again: \"Is it that you have no hitatare or such? Since it is night, even if (your dress) is odd, (come) quickly\", he said, and so",
+    "I went in a limp hitatare, just as I was at home, and",
+    "he brought out a sake jug with clay cups added, (saying) \"Since drinking this sake alone is dull, I sent for you.",
+    "There is no food to go with it; the people (of the house) have probably gone to sleep. Look anywhere you can for whether there is something suitable\", he said, and so",
+    "I lit a paper torch and searched every corner, and on a shelf in the kitchen I found a small clay dish with a little miso stuck to it, and said, \"This is what I have found\", and",
+    "he said, \"That will surely do\", and cheerfully went on to several rounds and was in high spirits.",
+    "In that age, it was like this', he said."
+  ],
+  "notes": [
+    {"quote": "平宣時朝臣", "text": "Hōjō (Ōsaragi) Nobutoki (1238–1323), of a branch of the Hōjō family, which claimed descent from the Taira; hence the 平. He later became co-signer, the second post in the Kamakura government. The 1925 edition identifies him as the son of Tomonao. {朝臣|あそん}: an old court title added after the name."},
+    {"quote": "最明寺入道", "text": "Hōjō Tokiyori (1227–1263), regent of the Kamakura shogunate and the real ruler of eastern Japan. He took Buddhist vows and lived at a temple called Saimyōji, so he is named after it. {入道|にふだう}: a layman who has taken vows. His mother is the nun of section 184."},
+    {"quote": "やがて", "text": "'At once, right away'. A false friend: modern やがて means 'before long, eventually'."},
+    {"quote": "直垂", "text": "{直垂|ひたたれ}: the jacket-and-trousers outfit that warriors wore when they appeared before their lord. なえたる: 'gone limp', soft from wear (the 1925 edition: the starch has gone out of the cloth)."},
+    {"quote": "異様なりとも", "text": "{異様|ことやう}: 'odd, not as it should be'. The 1925 edition explains it as shabby clothing."},
+    {"quote": "たうべむがさうざうしければ", "text": "たうぶ: 'to eat, to drink' (the 1925 edition glosses it as たべん; modern {食|た}べる probably comes from it). さうざうし: 'dull, lonely, missing something'."},
+    {"quote": "紙燭", "text": "{紙燭|しそく}: a small hand light, a pine stick with an oiled tip and paper wrapped round the handle (the 1925 edition: paper coated with oil)."},
+    {"quote": "数献に及びて", "text": "{献|こん}: a round of drinks. {数献|すこん}: several rounds. The most powerful man in Kamakura and his guest, drinking with a scrap of miso for a snack."},
+    {"quote": "その世にはかくこそ侍りしか", "text": "こそ … しか: the realis form of き, the past of things one has seen oneself. Nobutoki tells it as his own memory. The last verb, {申|まう}されき, also has き: Kenkō seems to have heard the story from Nobutoki himself."}
+  ]
+}
