@@ -55,3 +55,10 @@ Open questions from the overnight batches (written by writer agents, checked by 
 - 115: "Irooshi" follows the kana いろをし (Keene: "Iroshi").
 - 111: "worse than killing your own mother or father" as setup in the translation (parricide is among the five deadly sins; 1925 note agrees).
 - Readings with variants: 113 饗応 きやうおう (roudokus あるじ), 119 上ざま うへ (roudokus かみ), 118 御前 おまへ (roudokus ごぜん).
+
+## 148–160
+- 155: 十月 rendered "early winter" (Kenkō is going through the seasons). STYLE.md's example says "the tenth month → late autumn": your call.
+- 160: 僧正 now "bishop"; Kadenokōji = Sesonji Yukitada (1925 edition) or 経尹 (roudokus; reading uncertain).
+- 154: potted trees in picture scrolls around his time: from memory (Kasuga Gongen scrolls, c. 1309), not checked.
+- 158: 魚道 ぎよだう (edition) vs roudokus ぎょとう.
+- 148: a short Bashō reference kept to show how long the moxa custom lasted.
