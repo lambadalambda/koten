@@ -2,6 +2,8 @@
 
 Japanese classics for English speakers who are curious about Japanese. Each page has a clean, readable English translation first, and a "dig deeper" layer with the original text (furigana, historical kana), a literal translation and notes.
 
+**[Read online](https://lambadalambda.github.io/koten/kenko/)** · [Source repository](https://github.com/lambadalambda/koten)
+
 - `content/kenko/`: Tsurezuregusa by Yoshida Kenkō, one file per section. Text from the 1925 edition (校註日本文學大系), via Wikisource, in `sources/`.
 - `content/nikuki-mono.json`: an experiment, Sei Shōnagon's にくきもの as a social-media thread.
 
@@ -10,7 +12,11 @@ python3 build.py              # writes site/ from content/
 python3 -m unittest -v        # renderer, source cleaner, and content checks
 ```
 
-Open `site/kenko/index.html` in a browser. No JavaScript, no dependencies.
+Open `site/index.html` or `site/kenko/index.html` in a browser. No JavaScript, no dependencies.
+
+## Publishing
+
+GitHub Pages is built and deployed by `.github/workflows/pages.yml` on every push to `main`, or manually from the Actions tab. The workflow runs the tests before building and publishes only `site/`; generated HTML stays out of Git. In the repository's **Settings → Pages**, the source must be **GitHub Actions**.
 
 ## Writing content
 

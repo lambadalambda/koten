@@ -212,6 +212,8 @@ def main(variant=None):
         book_file = ROOT / 'content' / 'kenko' / 'book.json'
         book = load_feed(book_file) if book_file.exists() else DEFAULT_BOOK
         (out / 'kenko' / 'index.html').write_text(render_index(secs, book), 'utf-8')
+        home = '<h1>%s</h1><p><a href="kenko/index.html">Read the book →</a></p>' % html.escape(book['title'])
+        (out / 'index.html').write_text(page(book['title'], home), 'utf-8')
         print('wrote', len(secs), 'Kenkō sections to', out / 'kenko')
 
 

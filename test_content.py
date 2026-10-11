@@ -1,6 +1,12 @@
+from contextlib import redirect_stdout
+from io import StringIO
 from pathlib import Path
+import shutil
+from tempfile import TemporaryDirectory
 import unittest
+from unittest.mock import patch
 
+import build
 from build import align_old, apply_variant, edition_text, load_feed, plain, render_essay, render_index, render_page
 from kenko_source import sections
 
@@ -41,6 +47,29 @@ class KenkoContentTests(unittest.TestCase):
     def test_book_intro_renders(self):
         book = load_feed(Path(__file__).parent / 'content' / 'kenko' / 'book.json')
         self.assertIn('Kenkō', render_index([], book))
+
+
+class BuildTests(unittest.TestCase):
+    def test_build_has_a_root_entry_point(self):
+        source = Path(__file__).parent
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            for name in ('content', 'sources'):
+                shutil.copytree(source / name, root / name)
+            shutil.copy(source / 'style.css', root / 'style.css')
+            with patch.object(build, 'ROOT', root), redirect_stdout(StringIO()):
+                build.main()
+            site = root / 'site'
+            home = (site / 'index.html').read_text('utf-8')
+            self.assertIn('Tsurezuregusa', home)
+            self.assertIn('href="kenko/index.html"', home)
+            self.assertIn('href="style.css"', home)
+            self.assertTrue((site / 'style.css').is_file())
+            contents = (site / 'kenko' / 'index.html').read_text('utf-8')
+            self.assertIn('href="../style.css"', contents)
+            self.assertIn('href="0.html"', contents)
+            for number in range(244):
+                self.assertTrue((site / 'kenko' / f'{number}.html').is_file())
 
 
 if __name__ == '__main__':

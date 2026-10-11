@@ -32,3 +32,9 @@
 - Typical checker fixes: invented setup or examples in translations, mind-reading in notes, facts stated from memory (removed or hedged), wrong subjects in ambiguous sentences, grand titles, exotic terms.
 - Cleaner bug found by a writer: おどろ〳〵 is a 3-kana unit (added to OVERRIDES).
 - Open points for the human reviewer are collected in REVIEW.md, by batch.
+
+## 2026-10-11: public GitHub and Pages publishing
+
+- Prepare the source repository at `lambadalambda/koten` and a GitHub Pages workflow that tests, builds and deploys `site/` on pushes to `main`. Generated pages remain ignored; publishing needs no third-party Python packages.
+- Add a root reading entry point with relative links so the site works under GitHub Pages' `/koten/` project path. A temporary-directory build test covers the homepage, stylesheet and all 244 section pages (red first: the homepage was missing).
+- Deployment configuration will be verified through the actual GitHub Actions run rather than a local unit test of the YAML.
